@@ -1,0 +1,35 @@
+/* Table header */
+.mantine-Table-table thead tr th {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--mantine-color-dimmed);
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--mantine-color-default-border) !important;
+}
+
+/* Table cells */
+.mantine-Table-table tbody tr td {
+  padding: 0.55rem 0.75rem;
+  font-size: 0.875rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.mantine-Table-table tbody tr:not(:last-child) td {
+  border-bottom: 1px solid var(--mantine-color-default-border) !important;
+}
+
+/* Footer */
+.mantine-Table-table tfoot tr td {
+  border-top: 1px solid var(--mantine-color-default-border) !important;
+}
+
+/* Best score highlight */
+[data-mantine-color-scheme="light"] .best-score {
+  background: var(--mantine-color-blue-0);
+  border-radius: var(--mantine-radius-sm);
+}
+
+[data-mantine-color-scheme="dark"] .best-score {
+  text-shadow: 0 0 8px var(--mantine-color-blue-4);
+}

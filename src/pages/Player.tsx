@@ -9,12 +9,14 @@ import {
   Anchor,
   Group,
   Card,
+  useMantineColorScheme,
 } from "@mantine/core";
 import { LineChart } from "@mantine/charts";
 import "@mantine/charts/styles.css";
 import { IconMedal } from "@tabler/icons-react";
 import { useParams, Link } from "react-router-dom";
 import { NationFlag } from "../components/NationFlag";
+import { RoundedTableContainer } from "../components/RoundedTable";
 
 const medalColor: Record<number, string> = { 1: "#FFD700", 2: "#C0C0C0", 3: "#CD7F32" };
 
@@ -45,16 +47,21 @@ type PlayerData = {
 
 export function Player() {
   const { id } = useParams();
+  const { colorScheme } = useMantineColorScheme();
   const [player, setPlayer] = useState<PlayerData | null>(null);
+  const [compNames, setCompNames] = useState<Record<string, string>>({});
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/players.json`)
-      .then((r) => r.json())
-      .then((players: PlayerData[]) => {
-        setPlayer(players.find((p) => p.id === id) ?? null);
-        setLoading(false);
-      });
+    const base = import.meta.env.BASE_URL;
+    Promise.all([
+      fetch(`${base}data/players.json`).then((r) => r.json()),
+      fetch(`${base}data/competitions.json`).then((r) => r.json()),
+    ]).then(([players, comps]: [PlayerData[], { id: string; shortName?: string }[]]) => {
+      setPlayer(players.find((p) => p.id === id) ?? null);
+      setCompNames(Object.fromEntries(comps.filter((c) => c.shortName).map((c) => [c.id, c.shortName!])));
+      setLoading(false);
+    });
   }, [id]);
 
   if (loading) return <Loader />;
@@ -148,7 +155,21 @@ export function Player() {
         </Card>
         <Card shadow="xs" padding="sm" radius="md" withBorder>
           <Text size="xs" c="dimmed">Best Rank</Text>
-          <Text fw={700} size="xl">{player.stats.bestRank ?? "-"}</Text>
+          {(() => {
+            const r = player.stats.bestRank;
+            const dark = colorScheme === "dark";
+            const medalStyle: Record<number, { color: string; textShadow?: string }> = {
+              1: { color: dark ? "#FFD700" : "#B8860B", textShadow: dark ? "0 0 10px #FFD700" : undefined },
+              2: { color: dark ? "#C0C0C0" : "#708090", textShadow: dark ? "0 0 10px #C0C0C0" : undefined },
+              3: { color: dark ? "#CD7F32" : "#8B4513", textShadow: dark ? "0 0 10px #CD7F32" : undefined },
+            };
+            const style = r != null ? medalStyle[r] : undefined;
+            return (
+              <Text fw={700} size="xl" style={style}>
+                {r ?? "-"}
+              </Text>
+            );
+          })()}
         </Card>
         <Card shadow="xs" padding="sm" radius="md" withBorder>
           <Text size="xs" c="dimmed">Avg Rank</Text>
@@ -165,12 +186,13 @@ export function Player() {
       {[...byComp.entries()].reverse().map(([compId, comp]) => (
         <Card key={compId} shadow="xs" padding="md" radius="md" withBorder>
           <Anchor component={Link} to={`/competitions/${compId}`} fw={500}>
-            {comp.name}
+            <Text fw={500} visibleFrom="sm">{comp.name}</Text>
+            <Text fw={500} hiddenFrom="sm">{compNames[compId] ?? comp.name}</Text>
           </Anchor>
           <Text size="xs" c="dimmed" mb="sm">{comp.date}</Text>
 
-          <Table.ScrollContainer minWidth={400}>
-            <Table striped highlightOnHover>
+          <RoundedTableContainer minWidth={400}>
+            <Table highlightOnHover>
               <Table.Thead>
                 <Table.Tr>
                   <Table.Th>Category</Table.Th>
@@ -183,16 +205,19 @@ export function Player() {
                 {comp.results.map((r, i) => (
                   <Table.Tr key={i}>
                     <Table.Td>
-                      {r.categoryName}
-                      {r.ageGroup && (
-                        <Badge variant="light" size="xs" ml="xs">{r.ageGroup}</Badge>
-                      )}
+                      <Group gap={4} wrap="nowrap">
+                        <Text visibleFrom="sm" size="sm">{r.categoryName}</Text>
+                        <Text hiddenFrom="sm" size="sm">{r.categoryId.toUpperCase()}</Text>
+                        {r.ageGroup && (
+                          <Badge variant="light" size="xs">{r.ageGroup}</Badge>
+                        )}
+                      </Group>
                     </Table.Td>
-                    <Table.Td>
+                    <Table.Td style={{ verticalAlign: "middle" }}>
                       {r.rank != null && medalColor[r.rank] ? (
-                        <IconMedal size={18} color={medalColor[r.rank]} />
+                        <IconMedal size={26} color={medalColor[r.rank]} style={{ display: "block" }} />
                       ) : (
-                        r.rank ?? "-"
+                        <span style={{ display: "inline-block", width: 26, textAlign: "center" }}>{r.rank ?? "-"}</span>
                       )}
                     </Table.Td>
                     <Table.Td ta="right" fw={600}>
@@ -209,7 +234,7 @@ export function Player() {
                 ))}
               </Table.Tbody>
             </Table>
-          </Table.ScrollContainer>
+          </RoundedTableContainer>
         </Card>
       ))}
     </Stack>

@@ -13,6 +13,7 @@ import {
 import { IconMedal } from "@tabler/icons-react";
 import { useParams, Link } from "react-router-dom";
 import { NationFlag } from "../components/NationFlag";
+import { RoundedTableContainer } from "../components/RoundedTable";
 
 const medalColor: Record<number, string> = { 1: "#FFD700", 2: "#C0C0C0", 3: "#CD7F32" };
 
@@ -20,8 +21,12 @@ function RankCell({ rank }: { rank: number | null }) {
   if (rank == null) return <Table.Td>-</Table.Td>;
   const color = medalColor[rank];
   return (
-    <Table.Td>
-      {color ? <IconMedal size={18} color={color} /> : rank}
+    <Table.Td style={{ verticalAlign: "middle" }}>
+      {color ? (
+        <IconMedal size={26} color={color} style={{ display: "block" }} />
+      ) : (
+        <span style={{ display: "inline-block", width: 26, textAlign: "center" }}>{rank}</span>
+      )}
     </Table.Td>
   );
 }
@@ -101,8 +106,8 @@ function JudgeTable({ cat }: { cat: Category }) {
             {label}
           </Text>
         )}
-        <Table.ScrollContainer minWidth={600}>
-          <Table striped highlightOnHover withTableBorder>
+        <RoundedTableContainer minWidth={600}>
+          <Table highlightOnHover>
             <Table.Thead>
               <Table.Tr>
                 <Table.Th>Rank</Table.Th>
@@ -146,6 +151,7 @@ function JudgeTable({ cat }: { cat: Category }) {
                             ta="right"
                             fw={isBest ? 700 : undefined}
                             c={isBest ? "blue" : undefined}
+                            className={isBest ? "best-score" : undefined}
                           >
                             {val}
                           </Table.Td>
@@ -159,8 +165,47 @@ function JudgeTable({ cat }: { cat: Category }) {
                 </Table.Tr>
               ))}
             </Table.Tbody>
+            {(() => {
+              const completed = results.filter((r) => r.status !== "dns");
+              if (completed.length < 2) return null;
+              const avg = (vals: number[]) =>
+                Math.round((vals.reduce((a, b) => a + b, 0) / vals.length) * 10) / 10;
+              const med = (vals: number[]) => {
+                const s = [...vals].sort((a, b) => a - b);
+                const m = Math.floor(s.length / 2);
+                return s.length % 2 ? s[m] : Math.round(((s[m - 1] + s[m]) / 2) * 10) / 10;
+              };
+              const top3Avg = (vals: number[]) => {
+                const s = [...vals].sort((a, b) => b - a);
+                return avg(s.slice(0, Math.min(3, s.length)));
+              };
+              const hasNat = !!cat.results[0]?.nationality;
+              const statRow = (label: string, fn: (v: number[]) => number) => (
+                <Table.Tr key={label}>
+                  <Table.Td />
+                  <Table.Td><Text size="xs" c="dimmed" fw={500}>{label}</Text></Table.Td>
+                  {hasNat && <Table.Td />}
+                  {criteria.map((c) => {
+                    const vals = completed.map((r) => r.scores?.[c.id]).filter((v): v is number => v != null);
+                    return <Table.Td key={c.id} ta="right"><Text size="xs" c="dimmed">{vals.length ? fn(vals) : ""}</Text></Table.Td>;
+                  })}
+                  <Table.Td ta="right">
+                    <Text size="xs" c="dimmed" fw={500}>
+                      {fn(completed.map((r) => r.totalScore!).filter((v) => v != null))}
+                    </Text>
+                  </Table.Td>
+                </Table.Tr>
+              );
+              return (
+                <Table.Tfoot>
+                  {statRow("Top3 Avg", top3Avg)}
+                  {statRow("All Avg", avg)}
+                  {statRow("Med", med)}
+                </Table.Tfoot>
+              );
+            })()}
           </Table>
-        </Table.ScrollContainer>
+        </RoundedTableContainer>
       </Stack>
     );
   };
@@ -186,8 +231,8 @@ function EnduranceTable({ cat }: { cat: Category }) {
   const hasClass = cat.results.some((r) => r.class);
 
   return (
-    <Table.ScrollContainer minWidth={400}>
-      <Table striped highlightOnHover withTableBorder>
+    <RoundedTableContainer minWidth={400}>
+      <Table highlightOnHover>
         <Table.Thead>
           <Table.Tr>
             <Table.Th>Rank</Table.Th>
@@ -223,7 +268,7 @@ function EnduranceTable({ cat }: { cat: Category }) {
           ))}
         </Table.Tbody>
       </Table>
-    </Table.ScrollContainer>
+    </RoundedTableContainer>
   );
 }
 

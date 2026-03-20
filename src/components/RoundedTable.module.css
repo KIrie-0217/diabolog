@@ -1,0 +1,15 @@
+.container {
+  border: 1px solid var(--mantine-color-default-border);
+  border-radius: var(--mantine-radius-md);
+  overflow: hidden;
+}
+
+:global([data-mantine-color-scheme="light"]) .container {
+  background: var(--mantine-color-white);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
+}
+
+:global([data-mantine-color-scheme="dark"]) .container {
+  background: var(--mantine-color-dark-6);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2);
+}
