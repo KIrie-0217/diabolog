@@ -1,35 +1,82 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import {
+  AppShell,
+  Group,
+  Anchor,
+  Container,
+  Title,
+  Burger,
+  Stack,
+  ActionIcon,
+  useMantineColorScheme,
+} from "@mantine/core";
+import { useDisclosure } from "@mantine/hooks";
+import { IconSun, IconMoon } from "@tabler/icons-react";
+import { Link, Outlet, useNavigate } from "react-router-dom";
 
-function App() {
-  const [count, setCount] = useState(0)
+export function App() {
+  const [opened, { toggle, close }] = useDisclosure(false);
+  const navigate = useNavigate();
+  const { colorScheme, toggleColorScheme } = useMantineColorScheme();
+
+  const handleNav = (to: string) => {
+    navigate(to);
+    close();
+  };
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
+    <AppShell
+      header={{ height: 56 }}
+      navbar={{
+        width: 200,
+        breakpoint: "sm",
+        collapsed: { desktop: true, mobile: !opened },
+      }}
+      padding="md"
+    >
+      <AppShell.Header>
+        <Container size="lg" h="100%">
+          <Group h="100%" justify="space-between">
+            <Anchor component={Link} to="/" underline="never">
+              <Title order={4}>Diabolog</Title>
+            </Anchor>
+            <Group gap="md" visibleFrom="sm">
+              <Anchor component={Link} to="/competitions">
+                Competitions
+              </Anchor>
+              <Anchor component={Link} to="/players">
+                Players
+              </Anchor>
+              <ActionIcon variant="subtle" onClick={toggleColorScheme} size="lg">
+                {colorScheme === "dark" ? <IconSun size={18} /> : <IconMoon size={18} />}
+              </ActionIcon>
+            </Group>
+            <Burger
+              opened={opened}
+              onClick={toggle}
+              hiddenFrom="sm"
+              size="sm"
+            />
+          </Group>
+        </Container>
+      </AppShell.Header>
 
-export default App
+      <AppShell.Navbar p="md">
+        <Stack gap="sm">
+          <Anchor onClick={() => handleNav("/competitions")}>
+            Competitions
+          </Anchor>
+          <Anchor onClick={() => handleNav("/players")}>Players</Anchor>
+          <ActionIcon variant="subtle" onClick={toggleColorScheme} size="lg">
+            {colorScheme === "dark" ? <IconSun size={18} /> : <IconMoon size={18} />}
+          </ActionIcon>
+        </Stack>
+      </AppShell.Navbar>
+
+      <AppShell.Main>
+        <Container size="lg">
+          <Outlet />
+        </Container>
+      </AppShell.Main>
+    </AppShell>
+  );
+}

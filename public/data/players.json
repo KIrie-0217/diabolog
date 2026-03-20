@@ -1,0 +1,4182 @@
+[
+  {
+    "id": "akiba-yosuke",
+    "name": "アキバ ヨウスケ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 48,
+        "pairWith": "kanehira-shinichi"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": null,
+      "averageRank": null
+    }
+  },
+  {
+    "id": "cecilia-kwan",
+    "name": "关颖茜 / Cecilia Kwan",
+    "nationality": "Malaysia",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wi",
+        "categoryName": "女子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "totalScore": 72.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w1d",
+        "categoryName": "女子1ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 66
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 3,
+      "averageRank": 3.5
+    }
+  },
+  {
+    "id": "chang-tzu-chien",
+    "name": "張子謙 / Chang, Tzu Chien",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 5,
+        "totalScore": 66.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 18,
+        "totalScore": 50.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 17,
+        "totalScore": 59.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 5,
+      "averageRank": 13.3
+    }
+  },
+  {
+    "id": "chang-yu-chun",
+    "name": "張宇珺 / CHANG, YU-CHUN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wi",
+        "categoryName": "女子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 81
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "totalScore": 74.5,
+        "pairWith": "chiu-tzu-chin"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 2
+    }
+  },
+  {
+    "id": "chao-yu-sung",
+    "name": "趙昱淞 / CHAO,YU-SUNG",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 8,
+        "ageGroup": "senior",
+        "totalScore": 74.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "totalScore": 74.1,
+        "pairWith": "lee-yu-chen"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 57.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3da",
+        "categoryName": "3ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 65.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 69.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 68.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 82.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 5,
+        "count": 303
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 6.3
+    }
+  },
+  {
+    "id": "chen-jheng-yu",
+    "name": "陳政宇 / chen-jheng-yu",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 14,
+        "totalScore": 62.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 16,
+        "totalScore": 65.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 14,
+      "averageRank": 15
+    }
+  },
+  {
+    "id": "chen-jou-hui",
+    "name": "陳柔卉 / CHEN JOU-HUI",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-ashimawari",
+        "categoryName": "女子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 3,
+        "count": 165
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": null,
+      "averageRank": null
+    }
+  },
+  {
+    "id": "chen-kuei-hsi",
+    "name": "陳奎希 / CHEN, KUEI-HSI",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 13,
+        "totalScore": 60.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 16,
+        "totalScore": 52.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-ashimawari",
+        "categoryName": "男子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 140
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 13,
+      "averageRank": 14.5
+    }
+  },
+  {
+    "id": "chen-shuo-chen",
+    "name": "陳辰碩 / Chen Shuo Chen",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 11,
+        "ageGroup": "senior",
+        "totalScore": 68.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 83
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3da",
+        "categoryName": "3ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 71.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3db",
+        "categoryName": "3ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 56.7
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 12,
+        "totalScore": 59.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 1304
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 7
+    }
+  },
+  {
+    "id": "chen-ying-jhen",
+    "name": "陳穎禎 / CHEN YING JHEN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-nawatobi",
+        "categoryName": "男子1ディアボロ縄跳び部門",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 85
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": null,
+      "averageRank": null
+    }
+  },
+  {
+    "id": "chiu-hsunpei",
+    "name": "邱薰霈 / Chiu HsunPei",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 80.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 9,
+        "totalScore": 54.8,
+        "pairWith": "ho-jie-lin"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 70.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w1d",
+        "categoryName": "女子1ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 71.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 4,
+        "count": 39,
+        "pairWith": "ho-jie-lin"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-nawatobi",
+        "categoryName": "女子1ディアボロ縄跳び部門",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 75
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-ashimawari",
+        "categoryName": "女子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 219
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 4.3
+    }
+  },
+  {
+    "id": "chiu-tzu-chin",
+    "name": "邱子秦 / CHIU, TZU-CHIN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wi",
+        "categoryName": "女子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "totalScore": 80.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "totalScore": 74.5,
+        "pairWith": "chang-yu-chun"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 2.5
+    }
+  },
+  {
+    "id": "chiu-yi-hsin",
+    "name": "邱奕心 / CHIU, YI-HSIN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "totalScore": 74.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w1d",
+        "categoryName": "女子1ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 77.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-ashimawari",
+        "categoryName": "女子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 173
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 2
+    }
+  },
+  {
+    "id": "cho-tzu-hung",
+    "name": "曹子宏 / CHO, TZU, HUNG",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "ageGroup": "senior",
+        "totalScore": 85.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 68.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3da",
+        "categoryName": "3ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 78.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3db",
+        "categoryName": "3ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 85.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 19,
+        "totalScore": 41.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 9,
+        "count": 166
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 6.4
+    }
+  },
+  {
+    "id": "daniel-chua",
+    "name": "蔡仁杰 / Daniel Chua Ren Jie",
+    "nationality": "Malaysia",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 5,
+        "totalScore": 64.3,
+        "pairWith": "tee-kim-hong"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 3,
+        "count": 53,
+        "pairWith": "tee-kim-hong"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 5,
+      "averageRank": 5
+    }
+  },
+  {
+    "id": "endo-mamoru",
+    "name": "遠藤 守琉 / Mamoru Endo",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 76.1
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 80.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 66.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 80.3
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 3,
+      "averageRank": 4.3
+    }
+  },
+  {
+    "id": "fang-xin-tao",
+    "name": "方鑫涛 / FANG XIN TAO",
+    "nationality": "China",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 17,
+        "totalScore": 45
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 17,
+      "averageRank": 17
+    }
+  },
+  {
+    "id": "fukuouji-riu",
+    "name": "福王寺璃海 / Riu Fukuouji",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 12,
+        "totalScore": 65.4
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 12,
+      "averageRank": 12
+    }
+  },
+  {
+    "id": "fuse-koichiro",
+    "name": "布施孝一郎 / Koichiro Fuse",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 15,
+        "ageGroup": "senior",
+        "totalScore": 60.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 72.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 10,
+        "totalScore": 71
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 9.7
+    }
+  },
+  {
+    "id": "graham-lo",
+    "name": "羅英九 / Graham Lo",
+    "nationality": "USA",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 13,
+        "ageGroup": "senior",
+        "totalScore": 65.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 11,
+        "count": 35
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 13,
+      "averageRank": 13
+    }
+  },
+  {
+    "id": "hashimoto-tatsuro",
+    "name": "橋本 竜郎 / Tatsuro Hashimoto",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 71.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 73.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 5,
+      "averageRank": 6
+    }
+  },
+  {
+    "id": "he-yuan-hong",
+    "name": "何原弘 / HE, YUAN-HONG",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "totalScore": 67.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 74,
+        "pairWith": "lu-yu-ting"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "ho-jie-lin",
+    "name": "林和頡 / Ho-Jie Lin",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 14,
+        "totalScore": 57.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 9,
+        "totalScore": 54.8,
+        "pairWith": "chiu-hsunpei"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 10,
+        "totalScore": 66.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 4,
+        "count": 39,
+        "pairWith": "chiu-hsunpei"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 9,
+      "averageRank": 11
+    }
+  },
+  {
+    "id": "hoshino-kota",
+    "name": "ホシノコウタ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 11,
+        "totalScore": 66.7
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 11,
+      "averageRank": 11
+    }
+  },
+  {
+    "id": "huang-bing-cheng",
+    "name": "黃稟程 / HUANG, BING-CHENG",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 7,
+        "totalScore": 64.7
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 14,
+        "totalScore": 67.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 7,
+      "averageRank": 10.5
+    }
+  },
+  {
+    "id": "huang-bing-yu",
+    "name": "黃秉昱 / HUANG, BING-YU",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 18,
+        "totalScore": 55.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-ashimawari",
+        "categoryName": "男子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 3,
+        "count": 131
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 18,
+      "averageRank": 18
+    }
+  },
+  {
+    "id": "huang-shih-rong",
+    "name": "黃士融 / HUANG SHIH RONG",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 9,
+        "ageGroup": "senior",
+        "totalScore": 73.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 83.9,
+        "pairWith": "huang-shih-wei"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 78
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 5
+    }
+  },
+  {
+    "id": "huang-shih-wei",
+    "name": "黃士瑋 / HUANG SHIH WEI",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 7,
+        "ageGroup": "senior",
+        "totalScore": 75.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 83.9,
+        "pairWith": "huang-shih-rong"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "hung-chia-shen",
+    "name": "洪珈紳 / HUNG CHIA SHEN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "ageGroup": "junior",
+        "totalScore": 79.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 10,
+        "count": 91
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 3,
+      "averageRank": 3
+    }
+  },
+  {
+    "id": "inaba-wataru",
+    "name": "稲葉亘 / Wataru Inaba",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 80.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 81.9
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 3,
+      "averageRank": 3
+    }
+  },
+  {
+    "id": "irie-koshiro",
+    "name": "入江航士朗 / Koshiro Irie",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 80.7
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 84.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 86.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 77.2
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 2,
+      "averageRank": 3.5
+    }
+  },
+  {
+    "id": "ishimizu-taiki",
+    "name": "石水 泰樹 / Taiki Ishimizu",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 83.2
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 329
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 85
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 4,
+        "count": 323
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 2,
+      "averageRank": 2
+    }
+  },
+  {
+    "id": "ji-li",
+    "name": "李舞 / JI LI",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "totalScore": 72.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 11,
+        "totalScore": 65.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-ashimawari",
+        "categoryName": "男子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 4,
+        "count": 109
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 3,
+      "averageRank": 7
+    }
+  },
+  {
+    "id": "juan-tzu-yu",
+    "name": "阮梓瑜 / JUAN TZU YU",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "totalScore": 77.3,
+        "pairWith": "lin-pei-i"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 2
+    }
+  },
+  {
+    "id": "kamei-hiroki",
+    "name": "亀井大輝 / Hiroki Kamei",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 72.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 9,
+        "totalScore": 67.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 4,
+      "averageRank": 6.5
+    }
+  },
+  {
+    "id": "kanehira-shinichi",
+    "name": "カネヒラ シンイチ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 48,
+        "pairWith": "akiba-yosuke"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": null,
+      "averageRank": null
+    }
+  },
+  {
+    "id": "kanno-joei",
+    "name": "カンノジョウエイ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 90.8
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 86.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 1
+    }
+  },
+  {
+    "id": "kao-yang-te",
+    "name": "高仰德 / KAO, YANG-TE",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 14,
+        "ageGroup": "senior",
+        "totalScore": 62.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 61
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 3,
+        "count": 329
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 6,
+      "averageRank": 10
+    }
+  },
+  {
+    "id": "kao-yu-kai",
+    "name": "高裕凱 / Kao Yu Kai",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 6,
+        "ageGroup": "junior",
+        "totalScore": 69.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 6,
+        "totalScore": 64,
+        "pairWith": "liu-yao-xi"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 74
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 3,
+      "averageRank": 5
+    }
+  },
+  {
+    "id": "kawahara-suguru",
+    "name": "河原 優 / Suguru Kawahara",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 74.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 13,
+        "totalScore": 67.9
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 5,
+      "averageRank": 9
+    }
+  },
+  {
+    "id": "kosaka-ryota",
+    "name": "小坂 亮太 / Kosaka Ryota",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 60.7
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 76.2
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 6,
+      "averageRank": 7
+    }
+  },
+  {
+    "id": "kubota-taiga",
+    "name": "久保田 大雅 / Taiga Kubota",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 73.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 78
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 6,
+      "averageRank": 7
+    }
+  },
+  {
+    "id": "kudo-masahiro",
+    "name": "工藤 正景 / Masahiro Kudo",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 10,
+        "ageGroup": "senior",
+        "totalScore": 68.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 57.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 6,
+        "count": 234
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 7,
+      "averageRank": 8.5
+    }
+  },
+  {
+    "id": "kuniya-mizuki",
+    "name": "クニヤミズキ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 12,
+        "totalScore": 62.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 12,
+      "averageRank": 12
+    }
+  },
+  {
+    "id": "kuo-yu-liang",
+    "name": "郭祐良 / KUO YU LIANG",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 82.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 8,
+        "count": 186
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 1
+    }
+  },
+  {
+    "id": "lee-chen-hao",
+    "name": "李宸豪 / LEE, CHEN-HAO",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 10,
+        "totalScore": 63.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 17,
+        "totalScore": 58.4
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 10,
+      "averageRank": 13.5
+    }
+  },
+  {
+    "id": "lee-yu-chen",
+    "name": "李雨臻 / LEE,YU-CHEN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "totalScore": 74.1,
+        "pairWith": "chao-yu-sung"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "li-shenyitong",
+    "name": "李沈艺潼 / LI SHENYITONG",
+    "nationality": "China",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wi",
+        "categoryName": "女子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "totalScore": 65.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 7,
+        "totalScore": 57.8,
+        "pairWith": "li-zhao-xu"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 5.5
+    }
+  },
+  {
+    "id": "li-yi-hua",
+    "name": "李翊華 / LI YI HUA",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "ageGroup": "senior",
+        "totalScore": 89.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 83.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 7,
+        "count": 209
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 1
+    }
+  },
+  {
+    "id": "li-zhao-xu",
+    "name": "李朝旭 / LI ZHAO XU",
+    "nationality": "China",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 7,
+        "totalScore": 58.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 7,
+        "totalScore": 57.8,
+        "pairWith": "li-shenyitong"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 7,
+      "averageRank": 7
+    }
+  },
+  {
+    "id": "liang-shu-guang",
+    "name": "梁曙光 / LIANG SHU GUANG",
+    "nationality": "China",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 8,
+        "totalScore": 57.3,
+        "pairWith": "zhu-zhi-xuan"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 8,
+      "averageRank": 8
+    }
+  },
+  {
+    "id": "lien-jia-jiun",
+    "name": "連家駿 / LIEN, JIA-JIUN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 5,
+        "ageGroup": "junior",
+        "totalScore": 76
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 10,
+        "totalScore": 64.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-nawatobi",
+        "categoryName": "男子1ディアボロ縄跳び部門",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 64
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-ashimawari",
+        "categoryName": "男子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 134
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 5,
+      "averageRank": 7.5
+    }
+  },
+  {
+    "id": "lien-yu-ting",
+    "name": "連又亭 / LIEN, YU-TING",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 5,
+        "totalScore": 63.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-nawatobi",
+        "categoryName": "女子1ディアボロ縄跳び部門",
+        "categoryClass": "challenge",
+        "rank": 3,
+        "count": 53
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-ashimawari",
+        "categoryName": "女子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 5,
+        "count": 112
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 5,
+      "averageRank": 5
+    }
+  },
+  {
+    "id": "lin-chen-hua",
+    "name": "林晨華 / LIN,CHEN-HUA",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 6,
+        "ageGroup": "senior",
+        "totalScore": 80.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 9,
+        "totalScore": 54.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 76.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 79.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 83.3
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 3,
+      "averageRank": 5.4
+    }
+  },
+  {
+    "id": "lin-pei-i",
+    "name": "林貝宜 / LIN PEI I",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "totalScore": 77.3,
+        "pairWith": "juan-tzu-yu"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 2
+    }
+  },
+  {
+    "id": "lin-yan-xin",
+    "name": "林妍昕 / LIN-YAN-XIN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "totalScore": 66
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-nawatobi",
+        "categoryName": "女子1ディアボロ縄跳び部門",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 67
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-ashimawari",
+        "categoryName": "女子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 4,
+        "count": 150
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "liu-yao-xi",
+    "name": "劉曜熙 / Liu Yao Xi",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "ageGroup": "senior",
+        "totalScore": 87.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 6,
+        "totalScore": 64,
+        "pairWith": "kao-yu-kai"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 81.2
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "lu-yu-ting",
+    "name": "呂宥廷 / LU,YU-TING",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 6,
+        "totalScore": 65.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 74,
+        "pairWith": "he-yuan-hong"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 6,
+      "averageRank": 6
+    }
+  },
+  {
+    "id": "machida-tomoki",
+    "name": "マチダトモキ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "totalScore": 64
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "maeda-ryosuke",
+    "name": "マエダ リョウスケ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "totalScore": 76.8
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 63.3
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 79.4
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 3,
+      "averageRank": 4.3
+    }
+  },
+  {
+    "id": "matsuki-rina",
+    "name": "松木 梨南 / Rina Matsuki",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "wi",
+        "categoryName": "女子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 82.7
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w1d",
+        "categoryName": "女子1ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 68
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 2
+    }
+  },
+  {
+    "id": "matsumae-nozomi",
+    "name": "松前望 / Nozomi Matsumae",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 9,
+        "totalScore": 75.2
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 9,
+      "averageRank": 9
+    }
+  },
+  {
+    "id": "miyata-daiki",
+    "name": "ミヤタダイキ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 74.7
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "morikoshi-daito",
+    "name": "森越 大渡 / Daito Morikoshi",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 7,
+        "totalScore": 68.7
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "3d",
+        "categoryName": "3ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 72
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3da",
+        "categoryName": "3ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 77.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 78
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 4,
+      "averageRank": 5.8
+    }
+  },
+  {
+    "id": "numata-keisuke",
+    "name": "ヌマタ ケイスケ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 30,
+        "pairWith": "numata-yuine"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": null,
+      "averageRank": null
+    }
+  },
+  {
+    "id": "numata-yuine",
+    "name": "沼田 結音 / Yuine Numata",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 75.1
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "w-nawatobi",
+        "categoryName": "女子1ディアボロ縄跳び",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 37
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 30,
+        "pairWith": "numata-keisuke"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 6,
+        "totalScore": 62.9
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w-nawatobi",
+        "categoryName": "女子1ディアボロ縄跳び部門",
+        "categoryClass": "challenge",
+        "rank": 4,
+        "count": 37
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 3.5
+    }
+  },
+  {
+    "id": "ogata-ryusei",
+    "name": "オガタ リュウセイ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 3,
+        "totalScore": 65.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 3,
+      "averageRank": 3
+    }
+  },
+  {
+    "id": "ogata-taisei",
+    "name": "オガタ タイセイ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 5,
+        "totalScore": 57.4
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 5,
+      "averageRank": 5
+    }
+  },
+  {
+    "id": "omagari-shintaro",
+    "name": "尾曲 紳太郎 / Shintaro Omagari",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 74.7
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 13,
+        "totalScore": 70.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 11,
+        "totalScore": 70
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 5,
+      "averageRank": 9.7
+    }
+  },
+  {
+    "id": "oohashi-rento",
+    "name": "オオハシレント",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 9,
+        "totalScore": 64.4
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 9,
+      "averageRank": 9
+    }
+  },
+  {
+    "id": "oose-takakazu",
+    "name": "オオセタカカズ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "totalScore": 74.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 2
+    }
+  },
+  {
+    "id": "sakurai-yuto",
+    "name": "サクライ ユウト",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 64.6
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 8,
+      "averageRank": 8
+    }
+  },
+  {
+    "id": "shen-yu-xuan",
+    "name": "沈妤萱 / SHEN YU XUAN",
+    "nationality": "China",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 8,
+        "totalScore": 49.9
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 8,
+      "averageRank": 8
+    }
+  },
+  {
+    "id": "shibata-koki",
+    "name": "柴田 廣樹 / Koki Shibata",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 65.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 15,
+        "totalScore": 58.3
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 7,
+      "averageRank": 11
+    }
+  },
+  {
+    "id": "shimizu-asahi",
+    "name": "シミズ アサヒ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 75.7
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 1
+    }
+  },
+  {
+    "id": "su-guan-zhong",
+    "name": "蘇冠仲 / SU,GUAN-ZHONG",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 9,
+        "totalScore": 63.7
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 9,
+      "averageRank": 9
+    }
+  },
+  {
+    "id": "sudo-keita",
+    "name": "周藤 圭太 / Keita Sudo",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 73.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 14,
+        "totalScore": 70.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 6,
+      "averageRank": 10
+    }
+  },
+  {
+    "id": "sunahara-hiroto",
+    "name": "砂原 啓人 / Hiroto Sunahara",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 79.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 82.7
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 1.5
+    }
+  },
+  {
+    "id": "suzuki-akito",
+    "name": "スズキ アキト",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 70.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 6,
+      "averageRank": 6
+    }
+  },
+  {
+    "id": "suzuki-kanata",
+    "name": "鈴木奏多 / Kanata Suzuki",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 67
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 15,
+        "totalScore": 67.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 6,
+      "averageRank": 10.5
+    }
+  },
+  {
+    "id": "tada-kazuki",
+    "name": "田多 加津輝 / Kazuki Tada",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 78
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "takada-shunsuke",
+    "name": "高田 俊輔 / Shunsuke Takada",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 78.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 15,
+        "totalScore": 65.6
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 4,
+      "averageRank": 9.5
+    }
+  },
+  {
+    "id": "takahashi-rensho",
+    "name": "高橋 蓮生 / Rensho Takahashi",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 71.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 89.9
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 2.5
+    }
+  },
+  {
+    "id": "takano-sho",
+    "name": "高野 勝 / Sho Takano",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 81.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 83.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 1.5
+    }
+  },
+  {
+    "id": "tan-huey-xuan-brenda",
+    "name": "陈慧渲 / Tan Huey Xuan Brenda",
+    "nationality": "Malaysia",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "wj",
+        "categoryName": "女子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "totalScore": 80
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "w1d",
+        "categoryName": "女子1ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 60.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 79,
+        "pairWith": "tan-wen-kang"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 3.5
+    }
+  },
+  {
+    "id": "tan-teck-jie",
+    "name": "陳德杰 / TAN TECK JIE",
+    "nationality": "Malaysia",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 77.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 75.6
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 7,
+      "averageRank": 7.5
+    }
+  },
+  {
+    "id": "tan-wen-kang",
+    "name": "陈文康 / Tan Wen Kang",
+    "nationality": "Malaysia",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 1,
+        "count": 79,
+        "pairWith": "tan-huey-xuan-brenda"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": null,
+      "averageRank": null
+    }
+  },
+  {
+    "id": "tanabe-shinji",
+    "name": "タナベ シンジ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 9,
+        "totalScore": 72.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 9,
+      "averageRank": 9
+    }
+  },
+  {
+    "id": "tanaka-tomoyasu",
+    "name": "タナカトモヤス",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 79.6
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "tang-ching-yuan",
+    "name": "唐靖淵 / TANG, CHING-YUAN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "ageGroup": "senior",
+        "totalScore": 85.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 85.7
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 2.5
+    }
+  },
+  {
+    "id": "tanioka-kaketo",
+    "name": "谷岡 翔人 / Kaketo Tanioka",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "totalScore": 80.6
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "3d",
+        "categoryName": "3ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 83.1
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 10,
+        "totalScore": 71
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 68.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "ageGroup": "junior",
+        "totalScore": 84.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3da",
+        "categoryName": "3ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 79.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 4.2
+    }
+  },
+  {
+    "id": "tasaki-kosi",
+    "name": "田崎 晃司 / Kosi Tasaki",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "totalScore": 73.7
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 76.7
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 9,
+        "totalScore": 66
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 3,
+      "averageRank": 5.3
+    }
+  },
+  {
+    "id": "tateishi-tsubasa",
+    "name": "立石翼 / Tsubasa Tateishi",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 11,
+        "totalScore": 63.7
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 11,
+      "averageRank": 11
+    }
+  },
+  {
+    "id": "tee-kim-hong",
+    "name": "郑锦洪 / Tee Kim Hong",
+    "nationality": "Malaysia",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 4,
+        "ageGroup": "junior",
+        "totalScore": 77.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 5,
+        "totalScore": 64.3,
+        "pairWith": "daniel-chua"
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 12,
+        "totalScore": 68.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 3,
+        "count": 53,
+        "pairWith": "daniel-chua"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 4,
+      "averageRank": 7
+    }
+  },
+  {
+    "id": "tomita-hikaru",
+    "name": "トミタ ヒカル",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 6,
+        "totalScore": 70
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 68.9
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 5,
+      "averageRank": 5.5
+    }
+  },
+  {
+    "id": "tomita-ryohei",
+    "name": "富田 亮平 / Ryohei Tomita",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 78.3
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 6,
+      "averageRank": 6
+    }
+  },
+  {
+    "id": "torii-takemi",
+    "name": "トリイ タケミ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 1,
+        "totalScore": 81.3
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "3d",
+        "categoryName": "3ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 83.8
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 85.7
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 1
+    }
+  },
+  {
+    "id": "tsuda-manato",
+    "name": "津田 真叶 / Manato Tsuda",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 12,
+        "ageGroup": "senior",
+        "totalScore": 67.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 75.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 12,
+        "totalScore": 71.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 6,
+      "averageRank": 10
+    }
+  },
+  {
+    "id": "urayama-masatsugu",
+    "name": "浦山 昌嗣 / Masatsugu Urayama",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 52
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 17,
+        "totalScore": 50.5
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 8,
+      "averageRank": 12.5
+    }
+  },
+  {
+    "id": "wang-hao-ran",
+    "name": "王浩然 / WANG HAO RAN",
+    "nationality": "China",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 15,
+        "totalScore": 55.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-nawatobi",
+        "categoryName": "男子1ディアボロ縄跳び部門",
+        "categoryClass": "challenge",
+        "rank": 3,
+        "count": 41
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 15,
+      "averageRank": 15
+    }
+  },
+  {
+    "id": "wang-yi-syun",
+    "name": "王奕勛 / WANG, YI-SYUN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 12,
+        "totalScore": 61
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 12,
+      "averageRank": 12
+    }
+  },
+  {
+    "id": "wangshaochen",
+    "name": "王少辰 / Wangshaochen",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 16,
+        "totalScore": 64
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-ashimawari",
+        "categoryName": "男子1ディアボロ足回り部門",
+        "categoryClass": "challenge",
+        "rank": 5,
+        "count": 93
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 16,
+      "averageRank": 16
+    }
+  },
+  {
+    "id": "wangshaojun",
+    "name": "王少均 / Wangshaojun",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "totalScore": 75.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 8,
+        "totalScore": 68.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 13,
+        "totalScore": 65.3
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 10,
+        "totalScore": 74.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m-nawatobi",
+        "categoryName": "男子1ディアボロ縄跳び部門",
+        "categoryClass": "challenge",
+        "rank": 3,
+        "count": 41
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 8.3
+    }
+  },
+  {
+    "id": "watanabe-shotaro",
+    "name": "渡邊 翔太朗 / Shotaro Watanabe",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 5,
+        "count": 23,
+        "pairWith": "yoshii-norihiro"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": null,
+      "averageRank": null
+    }
+  },
+  {
+    "id": "watanuki-shunsuke",
+    "name": "綿貫 峻介 / Shunsuke Watanuki",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 5,
+        "totalScore": 72.7
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "3d",
+        "categoryName": "3ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 79.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3da",
+        "categoryName": "3ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 81.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 83.1
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 2.8
+    }
+  },
+  {
+    "id": "wu-fan-yu",
+    "name": "巫舰攸 / WU, FAN-YU",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 11,
+        "totalScore": 62.6
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 11,
+      "averageRank": 11
+    }
+  },
+  {
+    "id": "wu-you-qi",
+    "name": "吳祐齊 / WU YOU QI",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 2,
+        "ageGroup": "junior",
+        "totalScore": 79.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3db",
+        "categoryName": "3ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 59.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 81.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 81.3
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 2,
+      "averageRank": 3
+    }
+  },
+  {
+    "id": "xu-luo-hao",
+    "name": "许罗浩 / XU LUO HAO",
+    "nationality": "China",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 16,
+        "totalScore": 52.6
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 16,
+      "averageRank": 16
+    }
+  },
+  {
+    "id": "yagami-rintaro",
+    "name": "八神 凛太郎 / Rintaro Yagami",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 91.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "1dv",
+        "categoryName": "男子1ディアボロ垂直軸部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 83
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 1.5
+    }
+  },
+  {
+    "id": "yamamoto-takashi",
+    "name": "ヤマモト タカシ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 6,
+        "totalScore": 65.6
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 6,
+      "averageRank": 6
+    }
+  },
+  {
+    "id": "yamazaki-soshi",
+    "name": "ヤマザキ ソウシ",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 8,
+        "totalScore": 60.5
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 8,
+      "averageRank": 8
+    }
+  },
+  {
+    "id": "yang-jung-yan",
+    "name": "楊中硯 / YANG, JUNG-YAN",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mj",
+        "categoryName": "男子個人総合ジュニア部門",
+        "categoryClass": "overall",
+        "rank": 8,
+        "totalScore": 64.6
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 8,
+      "averageRank": 8
+    }
+  },
+  {
+    "id": "yano-atsushi",
+    "name": "矢野 敦 / Atsushi Yano",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 82.3
+      },
+      {
+        "competitionId": "ajdc-2025",
+        "competitionName": "第十四回全日本ディアボロ選手権大会",
+        "date": "2025-03-20",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 7,
+        "totalScore": 73.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2da",
+        "categoryName": "2ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 84.2
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 11,
+        "totalScore": 74
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 2,
+      "bestRank": 1,
+      "averageRank": 5.5
+    }
+  },
+  {
+    "id": "yasunaga-nao",
+    "name": "安永 直央 / Nao Yasunaga",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dhb",
+        "categoryName": "男子1ディアボロ水平軸(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 9,
+        "totalScore": 72.8
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 9,
+      "averageRank": 9
+    }
+  },
+  {
+    "id": "yeh-tzu-hao",
+    "name": "葉子豪 / YEH TZU HAO",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 4,
+        "totalScore": 73.6
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3da",
+        "categoryName": "3ディアボロ(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 1,
+        "totalScore": 86.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "3db",
+        "categoryName": "3ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 81.1
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "2db",
+        "categoryName": "2ディアボロ(ベアリング)部門",
+        "categoryClass": "specialist",
+        "rank": 2,
+        "totalScore": 82.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "m1dha",
+        "categoryName": "男子1ディアボロ水平軸(固定)部門",
+        "categoryClass": "specialist",
+        "rank": 5,
+        "totalScore": 78.5
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d-low",
+        "categoryName": "4ディアボロロウ部門",
+        "categoryClass": "challenge",
+        "rank": 2,
+        "count": 519
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 1,
+      "averageRank": 2.8
+    }
+  },
+  {
+    "id": "yoshii-norihiro",
+    "name": "吉井 紀博 / Norihiro Yoshii",
+    "nationality": "Japan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "p-pass",
+        "categoryName": "2ディアボロペアパス部門",
+        "categoryClass": "challenge",
+        "rank": 5,
+        "count": 23,
+        "pairWith": "watanabe-shotaro"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": null,
+      "averageRank": null
+    }
+  },
+  {
+    "id": "zheng-kang-ping",
+    "name": "鄭康平 / ZHENG-KANG-PING",
+    "nationality": "Taiwan",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 5,
+        "ageGroup": "senior",
+        "totalScore": 85.4
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "4d",
+        "categoryName": "4ディアボロ部門",
+        "categoryClass": "specialist",
+        "rank": 3,
+        "totalScore": 78.3
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 3,
+      "averageRank": 4
+    }
+  },
+  {
+    "id": "zhu-zhi-xuan",
+    "name": "朱智轩 / ZHU ZHI XUAN",
+    "nationality": "China",
+    "results": [
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "mi",
+        "categoryName": "男子個人総合部門",
+        "categoryClass": "overall",
+        "rank": 7,
+        "ageGroup": "junior",
+        "totalScore": 52.8
+      },
+      {
+        "competitionId": "oidc-2025",
+        "competitionName": "Osaka International Diabolo Competition 2025",
+        "date": "2025-08-14",
+        "categoryId": "pi",
+        "categoryName": "ペア部門",
+        "categoryClass": "overall",
+        "rank": 8,
+        "totalScore": 57.3,
+        "pairWith": "liang-shu-guang"
+      }
+    ],
+    "stats": {
+      "totalCompetitions": 1,
+      "bestRank": 7,
+      "averageRank": 7.5
+    }
+  }
+]
