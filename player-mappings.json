@@ -1,0 +1,917 @@
+{
+  "tanioka-kaketo": {
+    "canonicalName": "谷岡 翔人 / Kaketo Tanioka",
+    "aliases": [
+      "谷岡 翔人 / Kaketo Tanioka",
+      "タニオカ カケト",
+      "タニオカカケト"
+    ],
+    "nationality": "Japan"
+  },
+  "watanuki-shunsuke": {
+    "canonicalName": "綿貫 峻介 / Shunsuke Watanuki",
+    "aliases": [
+      "綿貫 峻介 / Shunsuke Watanuki",
+      "ワタヌキ シュンスケ"
+    ],
+    "nationality": "Japan"
+  },
+  "morikoshi-daito": {
+    "canonicalName": "森越 大渡 / Daito Morikoshi",
+    "aliases": [
+      "森越 大渡 / Daito Morikoshi",
+      "モリコシ ダイト",
+      "モリコシダイト"
+    ],
+    "nationality": "Japan"
+  },
+  "tasaki-kosi": {
+    "canonicalName": "田崎 晃司 / Kosi Tasaki",
+    "aliases": [
+      "田崎 晃司 / Kosi Tasaki",
+      "タサキ コウシ",
+      "タサキコウシ"
+    ],
+    "nationality": "Japan"
+  },
+  "numata-yuine": {
+    "canonicalName": "沼田 結音 / Yuine Numata",
+    "aliases": [
+      "沼田 結音 / Yuine Numata",
+      "ヌマタ ユイネ"
+    ],
+    "nationality": "Japan"
+  },
+  "sunahara-hiroto": {
+    "canonicalName": "砂原 啓人 / Hiroto Sunahara",
+    "aliases": [
+      "砂原 啓人 / Hiroto Sunahara",
+      "スナハラヒロト"
+    ],
+    "nationality": "Japan"
+  },
+  "endo-mamoru": {
+    "canonicalName": "遠藤 守琉 / Mamoru Endo",
+    "aliases": [
+      "遠藤 守琉 / Mamoru Endo",
+      "エンドウ マモル"
+    ],
+    "nationality": "Japan"
+  },
+  "yano-atsushi": {
+    "canonicalName": "矢野 敦 / Atsushi Yano",
+    "aliases": [
+      "矢野 敦 / Atsushi Yano",
+      "ヤノアツシ"
+    ],
+    "nationality": "Japan"
+  },
+  "irie-koshiro": {
+    "canonicalName": "入江航士朗 / Koshiro Irie",
+    "aliases": [
+      "入江航士朗 / Koshiro Irie",
+      "イリエ コウシロウ"
+    ],
+    "nationality": "Japan"
+  },
+  "takahashi-rensho": {
+    "canonicalName": "高橋 蓮生 / Rensho Takahashi",
+    "aliases": [
+      "高橋 蓮生 / Rensho Takahashi",
+      "タカハシ レンショウ"
+    ],
+    "nationality": "Japan"
+  },
+  "kosaka-ryota": {
+    "canonicalName": "小坂 亮太 / Kosaka Ryota",
+    "aliases": [
+      "小坂 亮太 / Kosaka Ryota",
+      "コサカ リョウタ"
+    ],
+    "nationality": "Japan"
+  },
+  "inaba-wataru": {
+    "canonicalName": "稲葉亘 / Wataru Inaba",
+    "aliases": [
+      "稲葉亘 / Wataru Inaba",
+      "イナバ ワタル"
+    ],
+    "nationality": "Japan"
+  },
+  "takada-shunsuke": {
+    "canonicalName": "高田 俊輔 / Shunsuke Takada",
+    "aliases": [
+      "高田 俊輔 / Shunsuke Takada",
+      "タカダシュンスケ"
+    ],
+    "nationality": "Japan"
+  },
+  "omagari-shintaro": {
+    "canonicalName": "尾曲 紳太郎 / Shintaro Omagari",
+    "aliases": [
+      "尾曲 紳太郎 / Shintaro Omagari",
+      "オマガリ シンタロウ"
+    ],
+    "nationality": "Japan"
+  },
+  "sudo-keita": {
+    "canonicalName": "周藤 圭太 / Keita Sudo",
+    "aliases": [
+      "周藤 圭太 / Keita Sudo",
+      "スドウ ケイタ"
+    ],
+    "nationality": "Japan"
+  },
+  "kubota-taiga": {
+    "canonicalName": "久保田 大雅 / Taiga Kubota",
+    "aliases": [
+      "久保田 大雅 / Taiga Kubota",
+      "クボタ タイガ"
+    ],
+    "nationality": "Japan"
+  },
+  "ishimizu-taiki": {
+    "canonicalName": "石水 泰樹 / Taiki Ishimizu",
+    "aliases": [
+      "石水 泰樹 / Taiki Ishimizu",
+      "イシミズ タイキ"
+    ],
+    "nationality": "Japan"
+  },
+  "kawahara-suguru": {
+    "canonicalName": "河原 優 / Suguru Kawahara",
+    "aliases": [
+      "河原 優 / Suguru Kawahara",
+      "カワハラスグル"
+    ],
+    "nationality": "Japan"
+  },
+  "suzuki-kanata": {
+    "canonicalName": "鈴木奏多 / Kanata Suzuki",
+    "aliases": [
+      "鈴木奏多 / Kanata Suzuki",
+      "スズキ カナタ"
+    ],
+    "nationality": "Japan"
+  },
+  "shibata-koki": {
+    "canonicalName": "柴田 廣樹 / Koki Shibata",
+    "aliases": [
+      "柴田 廣樹 / Koki Shibata",
+      "シバタコウキ"
+    ],
+    "nationality": "Japan"
+  },
+  "yoshii-norihiro": {
+    "canonicalName": "吉井 紀博 / Norihiro Yoshii",
+    "aliases": [
+      "吉井 紀博 / Norihiro Yoshii",
+      "ヨシイノリヒロ"
+    ],
+    "nationality": "Japan"
+  },
+  "yagami-rintaro": {
+    "canonicalName": "八神 凛太郎 / Rintaro Yagami",
+    "aliases": [
+      "八神 凛太郎 / Rintaro Yagami",
+      "ヤガミリンタロウ"
+    ],
+    "nationality": "Japan"
+  },
+  "takano-sho": {
+    "canonicalName": "高野 勝 / Sho Takano",
+    "aliases": [
+      "高野 勝 / Sho Takano",
+      "タカノショウ"
+    ],
+    "nationality": "Japan"
+  },
+  "kamei-hiroki": {
+    "canonicalName": "亀井大輝 / Hiroki Kamei",
+    "aliases": [
+      "亀井大輝 / Hiroki Kamei",
+      "カメイヒロキ"
+    ],
+    "nationality": "Japan"
+  },
+  "hashimoto-tatsuro": {
+    "canonicalName": "橋本 竜郎 / Tatsuro Hashimoto",
+    "aliases": [
+      "橋本 竜郎 / Tatsuro Hashimoto",
+      "ハシモト タツロウ"
+    ],
+    "nationality": "Japan"
+  },
+  "urayama-masatsugu": {
+    "canonicalName": "浦山 昌嗣 / Masatsugu Urayama",
+    "aliases": [
+      "浦山 昌嗣 / Masatsugu Urayama",
+      "ウラヤマ マサツグ"
+    ],
+    "nationality": "Japan"
+  },
+  "torii-takemi": {
+    "canonicalName": "トリイ タケミ",
+    "aliases": [
+      "トリイ タケミ"
+    ],
+    "nationality": "Japan"
+  },
+  "maeda-ryosuke": {
+    "canonicalName": "マエダ リョウスケ",
+    "aliases": [
+      "マエダ リョウスケ"
+    ],
+    "nationality": "Japan"
+  },
+  "tomita-hikaru": {
+    "canonicalName": "トミタ ヒカル",
+    "aliases": [
+      "トミタ ヒカル",
+      "トミタヒカル"
+    ],
+    "nationality": "Japan"
+  },
+  "yamazaki-soshi": {
+    "canonicalName": "ヤマザキ ソウシ",
+    "aliases": [
+      "ヤマザキ ソウシ"
+    ],
+    "nationality": "Japan"
+  },
+  "matsuki-rina": {
+    "canonicalName": "松木 梨南 / Rina Matsuki",
+    "aliases": [
+      "松木 梨南 / Rina Matsuki",
+      "マツキリナ"
+    ],
+    "nationality": "Japan"
+  },
+  "shimizu-asahi": {
+    "canonicalName": "シミズ アサヒ",
+    "aliases": [
+      "シミズ アサヒ"
+    ],
+    "nationality": "Japan"
+  },
+  "oose-takakazu": {
+    "canonicalName": "オオセタカカズ",
+    "aliases": [
+      "オオセタカカズ"
+    ],
+    "nationality": "Japan"
+  },
+  "ogata-ryusei": {
+    "canonicalName": "オガタ リュウセイ",
+    "aliases": [
+      "オガタ リュウセイ"
+    ],
+    "nationality": "Japan"
+  },
+  "machida-tomoki": {
+    "canonicalName": "マチダトモキ",
+    "aliases": [
+      "マチダトモキ"
+    ],
+    "nationality": "Japan"
+  },
+  "ogata-taisei": {
+    "canonicalName": "オガタ タイセイ",
+    "aliases": [
+      "オガタ タイセイ"
+    ],
+    "nationality": "Japan"
+  },
+  "miyata-daiki": {
+    "canonicalName": "ミヤタダイキ",
+    "aliases": [
+      "ミヤタダイキ"
+    ],
+    "nationality": "Japan"
+  },
+  "yamamoto-takashi": {
+    "canonicalName": "ヤマモト タカシ",
+    "aliases": [
+      "ヤマモト タカシ"
+    ],
+    "nationality": "Japan"
+  },
+  "kanno-joei": {
+    "canonicalName": "カンノジョウエイ",
+    "aliases": [
+      "カンノジョウエイ",
+      "カンノ ジョウエイ"
+    ],
+    "nationality": "Japan"
+  },
+  "tanabe-shinji": {
+    "canonicalName": "タナベ シンジ",
+    "aliases": [
+      "タナベ シンジ"
+    ],
+    "nationality": "Japan"
+  },
+  "hoshino-kota": {
+    "canonicalName": "ホシノコウタ",
+    "aliases": [
+      "ホシノコウタ"
+    ],
+    "nationality": "Japan"
+  },
+  "kuniya-mizuki": {
+    "canonicalName": "クニヤミズキ",
+    "aliases": [
+      "クニヤミズキ"
+    ],
+    "nationality": "Japan"
+  },
+  "oohashi-rento": {
+    "canonicalName": "オオハシレント",
+    "aliases": [
+      "オオハシレント"
+    ],
+    "nationality": "Japan"
+  },
+  "sakurai-yuto": {
+    "canonicalName": "サクライ ユウト",
+    "aliases": [
+      "サクライ ユウト"
+    ],
+    "nationality": "Japan"
+  },
+  "suzuki-akito": {
+    "canonicalName": "スズキ アキト",
+    "aliases": [
+      "スズキ アキト"
+    ],
+    "nationality": "Japan"
+  },
+  "numata-keisuke": {
+    "canonicalName": "ヌマタ ケイスケ",
+    "aliases": [
+      "ヌマタ ケイスケ"
+    ],
+    "nationality": "Japan"
+  },
+  "kanehira-shinichi": {
+    "canonicalName": "カネヒラ シンイチ",
+    "aliases": [
+      "カネヒラ シンイチ"
+    ],
+    "nationality": "Japan"
+  },
+  "tanaka-tomoyasu": {
+    "canonicalName": "タナカトモヤス",
+    "aliases": [
+      "タナカトモヤス"
+    ],
+    "nationality": "Japan"
+  },
+  "akiba-yosuke": {
+    "canonicalName": "アキバ ヨウスケ",
+    "aliases": [
+      "アキバ ヨウスケ"
+    ],
+    "nationality": "Japan"
+  },
+  "li-yi-hua": {
+    "canonicalName": "李翊華 / LI YI HUA",
+    "aliases": [
+      "李翊華 / LI YI HUA"
+    ],
+    "nationality": "Taiwan"
+  },
+  "wu-you-qi": {
+    "canonicalName": "吳祐齊 / WU YOU QI",
+    "aliases": [
+      "吳祐齊 / WU YOU QI"
+    ],
+    "nationality": "Taiwan"
+  },
+  "hung-chia-shen": {
+    "canonicalName": "洪珈紳 / HUNG CHIA SHEN",
+    "aliases": [
+      "洪珈紳 / HUNG CHIA SHEN",
+      "洪珈神 / HUNG CHIA SHEN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "tee-kim-hong": {
+    "canonicalName": "郑锦洪 / Tee Kim Hong",
+    "aliases": [
+      "郑锦洪 / Tee Kim Hong"
+    ],
+    "nationality": "Malaysia"
+  },
+  "lien-jia-jiun": {
+    "canonicalName": "連家駿 / LIEN, JIA-JIUN",
+    "aliases": [
+      "連家駿 / LIEN, JIA-JIUN",
+      "連家駿 / LIEN.JIA-JIUN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "kao-yu-kai": {
+    "canonicalName": "高裕凱 / Kao Yu Kai",
+    "aliases": [
+      "高裕凱 / Kao Yu Kai"
+    ],
+    "nationality": "Taiwan"
+  },
+  "zhu-zhi-xuan": {
+    "canonicalName": "朱智轩 / ZHU ZHI XUAN",
+    "aliases": [
+      "朱智轩 / ZHU ZHI XUAN"
+    ],
+    "nationality": "China"
+  },
+  "liu-yao-xi": {
+    "canonicalName": "劉曜熙 / Liu Yao Xi",
+    "aliases": [
+      "劉曜熙 / Liu Yao Xi"
+    ],
+    "nationality": "Taiwan"
+  },
+  "cho-tzu-hung": {
+    "canonicalName": "曹子宏 / CHO, TZU, HUNG",
+    "aliases": [
+      "曹子宏 / CHO, TZU, HUNG",
+      "曹子宏 / CHO.TZU, HUNG",
+      "曹子宏 / CHO,TZU,HUNG",
+      "曹子宏 / CHO TZU,HUNG",
+      "曹子宏 / CHO, TZU HUNG"
+    ],
+    "nationality": "Taiwan"
+  },
+  "tang-ching-yuan": {
+    "canonicalName": "唐靖淵 / TANG, CHING-YUAN",
+    "aliases": [
+      "唐靖淵 / TANG, CHING-YUAN",
+      "唐靖淵 / TANG,CHING-YUAN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "zheng-kang-ping": {
+    "canonicalName": "鄭康平 / ZHENG-KANG-PING",
+    "aliases": [
+      "鄭康平 / ZHENG-KANG-PING"
+    ],
+    "nationality": "Taiwan"
+  },
+  "lin-chen-hua": {
+    "canonicalName": "林晨華 / LIN,CHEN-HUA",
+    "aliases": [
+      "林晨華 / LIN,CHEN-HUA",
+      "林晨華 / LIN, CHEN-HUA",
+      "林農華 / LIN,CHEN-HUA"
+    ],
+    "nationality": "Taiwan"
+  },
+  "huang-shih-wei": {
+    "canonicalName": "黃士瑋 / HUANG SHIH WEI",
+    "aliases": [
+      "黃士瑋 / HUANG SHIH WEI"
+    ],
+    "nationality": "Taiwan"
+  },
+  "chao-yu-sung": {
+    "canonicalName": "趙昱淞 / CHAO,YU-SUNG",
+    "aliases": [
+      "趙昱淞 / CHAO,YU-SUNG",
+      "趙昱淞 / CHAO, YU-SUNG"
+    ],
+    "nationality": "Taiwan"
+  },
+  "huang-shih-rong": {
+    "canonicalName": "黃士融 / HUANG SHIH RONG",
+    "aliases": [
+      "黃士融 / HUANG SHIH RONG"
+    ],
+    "nationality": "Taiwan"
+  },
+  "kudo-masahiro": {
+    "canonicalName": "工藤 正景 / Masahiro Kudo",
+    "aliases": [
+      "工藤 正景 / Masahiro Kudo"
+    ],
+    "nationality": "Japan"
+  },
+  "chen-shuo-chen": {
+    "canonicalName": "陳辰碩 / Chen Shuo Chen",
+    "aliases": [
+      "陳辰碩 / Chen Shuo Chen"
+    ],
+    "nationality": "Taiwan"
+  },
+  "tsuda-manato": {
+    "canonicalName": "津田 真叶 / Manato Tsuda",
+    "aliases": [
+      "津田 真叶 / Manato Tsuda"
+    ],
+    "nationality": "Japan"
+  },
+  "graham-lo": {
+    "canonicalName": "羅英九 / Graham Lo",
+    "aliases": [
+      "羅英九 / Graham Lo"
+    ],
+    "nationality": "USA"
+  },
+  "kao-yang-te": {
+    "canonicalName": "高仰德 / KAO, YANG-TE",
+    "aliases": [
+      "高仰德 / KAO, YANG-TE",
+      "高仰德 / KAO YANG-TE"
+    ],
+    "nationality": "Taiwan"
+  },
+  "fuse-koichiro": {
+    "canonicalName": "布施孝一郎 / Koichiro Fuse",
+    "aliases": [
+      "布施孝一郎 / Koichiro Fuse"
+    ],
+    "nationality": "Japan"
+  },
+  "chang-yu-chun": {
+    "canonicalName": "張宇珺 / CHANG, YU-CHUN",
+    "aliases": [
+      "張宇珺 / CHANG, YU-CHUN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "chiu-tzu-chin": {
+    "canonicalName": "邱子秦 / CHIU, TZU-CHIN",
+    "aliases": [
+      "邱子秦 / CHIU, TZU-CHIN",
+      "邱子秦 / CHIU,TZU-CHIN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "cecilia-kwan": {
+    "canonicalName": "关颖茜 / Cecilia Kwan",
+    "aliases": [
+      "关颖茜 / Cecilia Kwan"
+    ],
+    "nationality": "Malaysia"
+  },
+  "li-shenyitong": {
+    "canonicalName": "李沈艺潼 / LI SHENYITONG",
+    "aliases": [
+      "李沈艺潼 / LI SHENYITONG"
+    ],
+    "nationality": "China"
+  },
+  "kuo-yu-liang": {
+    "canonicalName": "郭祐良 / KUO YU LIANG",
+    "aliases": [
+      "郭祐良 / KUO YU LIANG"
+    ],
+    "nationality": "Taiwan"
+  },
+  "wangshaojun": {
+    "canonicalName": "王少均 / Wangshaojun",
+    "aliases": [
+      "王少均 / Wangshaojun"
+    ],
+    "nationality": "Taiwan"
+  },
+  "ji-li": {
+    "canonicalName": "李舞 / JI LI",
+    "aliases": [
+      "李舞 / JI LI",
+      "李霽 / JI LI"
+    ],
+    "nationality": "Taiwan"
+  },
+  "he-yuan-hong": {
+    "canonicalName": "何原弘 / HE, YUAN-HONG",
+    "aliases": [
+      "何原弘 / HE, YUAN-HONG"
+    ],
+    "nationality": "Taiwan"
+  },
+  "chang-tzu-chien": {
+    "canonicalName": "張子謙 / Chang, Tzu Chien",
+    "aliases": [
+      "張子謙 / Chang, Tzu Chien"
+    ],
+    "nationality": "Taiwan"
+  },
+  "lu-yu-ting": {
+    "canonicalName": "呂宥廷 / LU,YU-TING",
+    "aliases": [
+      "呂宥廷 / LU,YU-TING"
+    ],
+    "nationality": "Taiwan"
+  },
+  "huang-bing-cheng": {
+    "canonicalName": "黃稟程 / HUANG, BING-CHENG",
+    "aliases": [
+      "黃稟程 / HUANG, BING-CHENG"
+    ],
+    "nationality": "Taiwan"
+  },
+  "yang-jung-yan": {
+    "canonicalName": "楊中硯 / YANG, JUNG-YAN",
+    "aliases": [
+      "楊中硯 / YANG, JUNG-YAN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "su-guan-zhong": {
+    "canonicalName": "蘇冠仲 / SU,GUAN-ZHONG",
+    "aliases": [
+      "蘇冠仲 / SU,GUAN-ZHONG"
+    ],
+    "nationality": "Taiwan"
+  },
+  "lee-chen-hao": {
+    "canonicalName": "李宸豪 / LEE, CHEN-HAO",
+    "aliases": [
+      "李宸豪 / LEE, CHEN-HAO"
+    ],
+    "nationality": "Taiwan"
+  },
+  "wu-fan-yu": {
+    "canonicalName": "巫舰攸 / WU, FAN-YU",
+    "aliases": [
+      "巫舰攸 / WU, FAN-YU"
+    ],
+    "nationality": "Taiwan"
+  },
+  "wang-yi-syun": {
+    "canonicalName": "王奕勛 / WANG, YI-SYUN",
+    "aliases": [
+      "王奕勛 / WANG, YI-SYUN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "chen-kuei-hsi": {
+    "canonicalName": "陳奎希 / CHEN, KUEI-HSI",
+    "aliases": [
+      "陳奎希 / CHEN, KUEI-HSI",
+      "陳奎希 / CHEN,KUEI-HSI"
+    ],
+    "nationality": "Taiwan"
+  },
+  "ho-jie-lin": {
+    "canonicalName": "林和頡 / Ho-Jie Lin",
+    "aliases": [
+      "林和頡 / Ho-Jie Lin"
+    ],
+    "nationality": "Taiwan"
+  },
+  "wang-hao-ran": {
+    "canonicalName": "王浩然 / WANG HAO RAN",
+    "aliases": [
+      "王浩然 / WANG HAO RAN"
+    ],
+    "nationality": "China"
+  },
+  "xu-luo-hao": {
+    "canonicalName": "许罗浩 / XU LUO HAO",
+    "aliases": [
+      "许罗浩 / XU LUO HAO"
+    ],
+    "nationality": "China"
+  },
+  "fang-xin-tao": {
+    "canonicalName": "方鑫涛 / FANG XIN TAO",
+    "aliases": [
+      "方鑫涛 / FANG XIN TAO"
+    ],
+    "nationality": "China"
+  },
+  "chiu-hsunpei": {
+    "canonicalName": "邱薰霈 / Chiu HsunPei",
+    "aliases": [
+      "邱薰霈 / Chiu HsunPei"
+    ],
+    "nationality": "Taiwan"
+  },
+  "tan-huey-xuan-brenda": {
+    "canonicalName": "陈慧渲 / Tan Huey Xuan Brenda",
+    "aliases": [
+      "陈慧渲 / Tan Huey Xuan Brenda"
+    ],
+    "nationality": "Malaysia"
+  },
+  "chiu-yi-hsin": {
+    "canonicalName": "邱奕心 / CHIU, YI-HSIN",
+    "aliases": [
+      "邱奕心 / CHIU, YI-HSIN",
+      "邱奕心 / CHIU,YI-HSIN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "lin-yan-xin": {
+    "canonicalName": "林妍昕 / LIN-YAN-XIN",
+    "aliases": [
+      "林妍昕 / LIN-YAN-XIN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "lien-yu-ting": {
+    "canonicalName": "連又亭 / LIEN, YU-TING",
+    "aliases": [
+      "連又亭 / LIEN, YU-TING",
+      "連又亭 / LIEN.YU-TING"
+    ],
+    "nationality": "Taiwan"
+  },
+  "li-zhao-xu": {
+    "canonicalName": "李朝旭 / LI ZHAO XU",
+    "aliases": [
+      "李朝旭 / LI ZHAO XU"
+    ],
+    "nationality": "China"
+  },
+  "shen-yu-xuan": {
+    "canonicalName": "沈妤萱 / SHEN YU XUAN",
+    "aliases": [
+      "沈妤萱 / SHEN YU XUAN"
+    ],
+    "nationality": "China"
+  },
+  "lin-pei-i": {
+    "canonicalName": "林貝宜 / LIN PEI I",
+    "aliases": [
+      "林貝宜 / LIN PEI I"
+    ],
+    "nationality": "Taiwan"
+  },
+  "juan-tzu-yu": {
+    "canonicalName": "阮梓瑜 / JUAN TZU YU",
+    "aliases": [
+      "阮梓瑜 / JUAN TZU YU"
+    ],
+    "nationality": "Taiwan"
+  },
+  "chao-yu-sung+lee-yu-chen": {
+    "canonicalName": "趙昱淞/李雨臻",
+    "aliases": [
+      "趙昱淞/李雨臻 / CHAO,YU-SUNG/LEE,YU-CHEN"
+    ]
+  },
+  "lee-yu-chen": {
+    "canonicalName": "李雨臻 / LEE,YU-CHEN",
+    "aliases": [
+      "李雨臻 / LEE,YU-CHEN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "daniel-chua": {
+    "canonicalName": "蔡仁杰 / Daniel Chua Ren Jie",
+    "aliases": [
+      "蔡仁杰 / Daniel Chua Ren Jie"
+    ],
+    "nationality": "Malaysia"
+  },
+  "liang-shu-guang": {
+    "canonicalName": "梁曙光 / LIANG SHU GUANG",
+    "aliases": [
+      "梁曙光 / LIANG SHU GUANG"
+    ],
+    "nationality": "China"
+  },
+  "team:fly": {
+    "canonicalName": "FLY",
+    "aliases": [
+      "FLY"
+    ],
+    "nationality": "Taiwan"
+  },
+  "team:adc-flare": {
+    "canonicalName": "ADC FLARE",
+    "aliases": [
+      "ADC FLARE"
+    ],
+    "nationality": "Taiwan"
+  },
+  "team:melaka-dmix": {
+    "canonicalName": "Melaka Diabolo Association Dmix Team",
+    "aliases": [
+      "Melaka Diabolo Association Dmix Team"
+    ],
+    "nationality": "Malaysia"
+  },
+  "team:pinghu": {
+    "canonicalName": "平湖市空竹协会 / Pinghu Diabolo Association",
+    "aliases": [
+      "平湖市空竹协会 / Pinghu Diabolo Association"
+    ],
+    "nationality": "China"
+  },
+  "team:diabolosaid": {
+    "canonicalName": "鈴云 / Diabolosaid",
+    "aliases": [
+      "鈴云 / Diabolosaid"
+    ],
+    "nationality": "Taiwan"
+  },
+  "yeh-tzu-hao": {
+    "canonicalName": "葉子豪 / YEH TZU HAO",
+    "aliases": [
+      "葉子豪 / YEH TZU HAO"
+    ],
+    "nationality": "Taiwan"
+  },
+  "tada-kazuki": {
+    "canonicalName": "田多 加津輝 / Kazuki Tada",
+    "aliases": [
+      "田多 加津輝 / Kazuki Tada"
+    ],
+    "nationality": "Japan"
+  },
+  "tateishi-tsubasa": {
+    "canonicalName": "立石翼 / Tsubasa Tateishi",
+    "aliases": [
+      "立石翼 / Tsubasa Tateishi"
+    ],
+    "nationality": "Japan"
+  },
+  "tomita-ryohei": {
+    "canonicalName": "富田 亮平 / Ryohei Tomita",
+    "aliases": [
+      "富田 亮平 / Ryohei Tomita"
+    ],
+    "nationality": "Japan"
+  },
+  "yasunaga-nao": {
+    "canonicalName": "安永 直央 / Nao Yasunaga",
+    "aliases": [
+      "安永 直央 / Nao Yasunaga"
+    ],
+    "nationality": "Japan"
+  },
+  "tan-teck-jie": {
+    "canonicalName": "陳德杰 / TAN TECK JIE",
+    "aliases": [
+      "陳德杰 / TAN TECK JIE"
+    ],
+    "nationality": "Malaysia"
+  },
+  "matsumae-nozomi": {
+    "canonicalName": "松前望 / Nozomi Matsumae",
+    "aliases": [
+      "松前望 / Nozomi Matsumae"
+    ],
+    "nationality": "Japan"
+  },
+  "chen-jheng-yu": {
+    "canonicalName": "陳政宇 / chen-jheng-yu",
+    "aliases": [
+      "陳政宇 / chen-jheng-yu"
+    ],
+    "nationality": "Taiwan"
+  },
+  "fukuouji-riu": {
+    "canonicalName": "福王寺璃海 / Riu Fukuouji",
+    "aliases": [
+      "福王寺璃海 / Riu Fukuouji"
+    ],
+    "nationality": "Japan"
+  },
+  "wangshaochen": {
+    "canonicalName": "王少辰 / Wangshaochen",
+    "aliases": [
+      "王少辰 / Wangshaochen"
+    ],
+    "nationality": "Taiwan"
+  },
+  "huang-bing-yu": {
+    "canonicalName": "黃秉昱 / HUANG, BING-YU",
+    "aliases": [
+      "黃秉昱 / HUANG, BING-YU"
+    ],
+    "nationality": "Taiwan"
+  },
+  "chen-ying-jhen": {
+    "canonicalName": "陳穎禎 / CHEN YING JHEN",
+    "aliases": [
+      "陳穎禎 / CHEN YING JHEN"
+    ],
+    "nationality": "Taiwan"
+  },
+  "chen-jou-hui": {
+    "canonicalName": "陳柔卉 / CHEN JOU-HUI",
+    "aliases": [
+      "陳柔卉 / CHEN JOU-HUI"
+    ],
+    "nationality": "Taiwan"
+  },
+  "tan-wen-kang": {
+    "canonicalName": "陈文康 / Tan Wen Kang",
+    "aliases": [
+      "陈文康 / Tan Wen Kang"
+    ],
+    "nationality": "Malaysia"
+  },
+  "watanabe-shotaro": {
+    "canonicalName": "渡邊 翔太朗 / Shotaro Watanabe",
+    "aliases": [
+      "渡邊 翔太朗 / Shotaro Watanabe"
+    ],
+    "nationality": "Japan"
+  }
+}

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "ajdc-2025",
+    "name": "第十四回全日本ディアボロ選手権大会",
+    "location": "大阪",
+    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2025_result.pdf",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "トリイ タケミ"
+      },
+      {
+        "type": "special",
+        "playerName": "トリイ タケミ"
+      },
+      {
+        "type": "special",
+        "playerName": "カンノ ジョウエイ"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス",
+        "class": "challenge"
+      }
+    ],
+    "startDate": "2025-03-20",
+    "endDate": "2025-03-21",
+    "shortName": "AJDC 2025",
+    "venue": "大阪コミ協ひがしなり区民センター 大ホール"
+  },
+  {
+    "id": "oidc-2025",
+    "name": "Osaka International Diabolo Competition 2025",
+    "location": "大阪",
+    "resultUrl": "https://diabolo.jp/OIDC/wp-content/uploads/OIDC2025_result.pdf",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "タカハシ レンショウ"
+      },
+      {
+        "type": "special",
+        "playerName": "FLY"
+      },
+      {
+        "type": "special",
+        "playerName": "李翊華"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "pi",
+        "name": "ペア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "4d",
+        "name": "4ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3da",
+        "name": "3ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3db",
+        "name": "3ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      }
+    ],
+    "startDate": "2025-08-14",
+    "endDate": "2025-08-16",
+    "shortName": "OIDC 2025",
+    "venue": "大阪コミ協ひがしなり区民センター 大ホール"
+  }
+]
