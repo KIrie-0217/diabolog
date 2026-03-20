@@ -10,6 +10,7 @@ import {
   Group,
   Card,
   useMantineColorScheme,
+  SegmentedControl,
 } from "@mantine/core";
 import { LineChart } from "@mantine/charts";
 import "@mantine/charts/styles.css";
@@ -51,6 +52,7 @@ export function Player() {
   const [player, setPlayer] = useState<PlayerData | null>(null);
   const [compNames, setCompNames] = useState<Record<string, string>>({});
   const [loading, setLoading] = useState(true);
+  const [viewMode, setViewMode] = useState<string>("competition");
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
@@ -74,6 +76,15 @@ export function Player() {
       byComp.set(r.competitionId, { name: r.competitionName, date: r.date, results: [] });
     }
     byComp.get(r.competitionId)!.results.push(r);
+  }
+
+  // group results by category
+  const byCat = new Map<string, { name: string; results: PlayerResult[] }>();
+  for (const r of player.results) {
+    if (!byCat.has(r.categoryId)) {
+      byCat.set(r.categoryId, { name: r.categoryName, results: [] });
+    }
+    byCat.get(r.categoryId)!.results.push(r);
   }
 
   // build rank trend data: group by categoryId across competitions
@@ -181,9 +192,21 @@ export function Player() {
       {trendChart}
       */}
 
-      <Title order={3}>Results</Title>
+      <Group justify="space-between" align="center">
+        <Title order={3}>Results</Title>
+        <SegmentedControl
+          size="xs"
+          value={viewMode}
+          onChange={setViewMode}
+          data={[
+            { label: "By Competition", value: "competition" },
+            { label: "By Category", value: "category" },
+          ]}
+        />
+      </Group>
 
-      {[...byComp.entries()].reverse().map(([compId, comp]) => (
+      {viewMode === "competition" ? (
+        [...byComp.entries()].reverse().map(([compId, comp]) => (
         <Card key={compId} shadow="xs" padding="md" radius="md" withBorder>
           <Anchor component={Link} to={`/competitions/${compId}`} fw={500}>
             <Text fw={500} visibleFrom="sm">{comp.name}</Text>
@@ -192,13 +215,13 @@ export function Player() {
           <Text size="xs" c="dimmed" mb="sm">{comp.date}</Text>
 
           <RoundedTableContainer minWidth={400}>
-            <Table highlightOnHover>
+            <Table highlightOnHover style={{ tableLayout: "fixed" }}>
               <Table.Thead>
                 <Table.Tr>
                   <Table.Th>Category</Table.Th>
-                  <Table.Th>Rank</Table.Th>
-                  <Table.Th ta="right">Score</Table.Th>
                   <Table.Th>Note</Table.Th>
+                  <Table.Th w={60} ta="center">Rank</Table.Th>
+                  <Table.Th w={80} ta="right">Score</Table.Th>
                 </Table.Tr>
               </Table.Thead>
               <Table.Tbody>
@@ -213,16 +236,6 @@ export function Player() {
                         )}
                       </Group>
                     </Table.Td>
-                    <Table.Td style={{ verticalAlign: "middle" }}>
-                      {r.rank != null && medalColor[r.rank] ? (
-                        <IconMedal size={26} color={medalColor[r.rank]} style={{ display: "block" }} />
-                      ) : (
-                        <span style={{ display: "inline-block", width: 26, textAlign: "center" }}>{r.rank ?? "-"}</span>
-                      )}
-                    </Table.Td>
-                    <Table.Td ta="right" fw={600}>
-                      {r.totalScore ?? r.count ?? "-"}
-                    </Table.Td>
                     <Table.Td>
                       {r.pairWith && (
                         <Anchor component={Link} to={`/players/${r.pairWith}`} size="xs">
@@ -230,13 +243,65 @@ export function Player() {
                         </Anchor>
                       )}
                     </Table.Td>
+                    <Table.Td ta="center" style={{ verticalAlign: "middle" }}>
+                      {r.rank != null && medalColor[r.rank] ? (
+                        <IconMedal size={26} color={medalColor[r.rank]} style={{ display: "inline-block" }} />
+                      ) : (
+                        r.rank ?? "-"
+                      )}
+                    </Table.Td>
+                    <Table.Td ta="right" fw={600}>
+                      {r.totalScore ?? r.count ?? "-"}
+                    </Table.Td>
                   </Table.Tr>
                 ))}
               </Table.Tbody>
             </Table>
           </RoundedTableContainer>
         </Card>
-      ))}
+      ))
+      ) : (
+        [...byCat.entries()].map(([catId, cat]) => (
+          <Card key={catId} shadow="xs" padding="md" radius="md" withBorder>
+            <Text fw={500} visibleFrom="sm">{cat.name}</Text>
+            <Text fw={500} hiddenFrom="sm">{catId.toUpperCase()}</Text>
+
+            <RoundedTableContainer minWidth={400}>
+              <Table highlightOnHover style={{ tableLayout: "fixed" }}>
+                <Table.Thead>
+                  <Table.Tr>
+                    <Table.Th>Competition</Table.Th>
+                    <Table.Th w={60} ta="center">Rank</Table.Th>
+                    <Table.Th w={80} ta="right">Score</Table.Th>
+                  </Table.Tr>
+                </Table.Thead>
+                <Table.Tbody>
+                  {[...cat.results].reverse().map((r, i) => (
+                    <Table.Tr key={i}>
+                      <Table.Td>
+                        <Anchor component={Link} to={`/competitions/${r.competitionId}?category=${r.categoryId}`} size="sm">
+                          <Text visibleFrom="sm" size="sm">{r.competitionName}</Text>
+                          <Text hiddenFrom="sm" size="sm">{compNames[r.competitionId] ?? r.competitionId.toUpperCase()}</Text>
+                        </Anchor>
+                      </Table.Td>
+                      <Table.Td ta="center" style={{ verticalAlign: "middle" }}>
+                        {r.rank != null && medalColor[r.rank] ? (
+                          <IconMedal size={26} color={medalColor[r.rank]} style={{ display: "inline-block" }} />
+                        ) : (
+                          r.rank ?? "-"
+                        )}
+                      </Table.Td>
+                      <Table.Td ta="right" fw={600}>
+                        {r.totalScore ?? r.count ?? "-"}
+                      </Table.Td>
+                    </Table.Tr>
+                  ))}
+                </Table.Tbody>
+              </Table>
+            </RoundedTableContainer>
+          </Card>
+        ))
+      )}
     </Stack>
   );
 }

@@ -11,7 +11,7 @@ import {
   Group,
 } from "@mantine/core";
 import { IconMedal } from "@tabler/icons-react";
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useSearchParams } from "react-router-dom";
 import { NationFlag } from "../components/NationFlag";
 import { RoundedTableContainer } from "../components/RoundedTable";
 
@@ -279,6 +279,7 @@ function CategoryContent({ cat }: { cat: Category }) {
 
 export function Competition() {
   const { id } = useParams();
+  const [searchParams] = useSearchParams();
   const [meta, setMeta] = useState<CompetitionMeta | null>(null);
   const [data, setData] = useState<CompetitionData | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
@@ -292,7 +293,7 @@ export function Competition() {
     ]).then(([comps, result]) => {
       setMeta(comps.find((c: CompetitionMeta) => c.id === id) ?? null);
       setData(result);
-      setSelected(result.categories[0]?.categoryId ?? null);
+      setSelected(searchParams.get("category") ?? result.categories[0]?.categoryId ?? null);
       setLoading(false);
     });
   }, [id]);
