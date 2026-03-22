@@ -15,7 +15,7 @@ export function Home() {
       <Stack mt="md">
         <Card shadow="sm" padding="lg" radius="md" withBorder component={Link} to="/competitions" style={{ textDecoration: "none", color: "inherit" }}>
           <Title order={3} mb="xs">
-            Results
+            Competitions
           </Title>
           <Text size="sm" c="dimmed" mb="md">
             国内外の大会結果一覧

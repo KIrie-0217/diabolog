@@ -206,7 +206,7 @@ export function Player() {
       </Group>
 
       {viewMode === "competition" ? (
-        [...byComp.entries()].reverse().map(([compId, comp]) => (
+        [...byComp.entries()].sort((a, b) => b[1].date.localeCompare(a[1].date)).map(([compId, comp]) => (
         <Card key={compId} shadow="xs" padding="md" radius="md" withBorder>
           <Anchor component={Link} to={`/competitions/${compId}`} fw={500}>
             <Text fw={500} visibleFrom="sm">{comp.name}</Text>
@@ -278,7 +278,7 @@ export function Player() {
                   </Table.Tr>
                 </Table.Thead>
                 <Table.Tbody>
-                  {[...cat.results].reverse().map((r, i) => (
+                  {[...cat.results].sort((a, b) => b.date.localeCompare(a.date)).map((r, i) => (
                     <Table.Tr key={i}>
                       <Table.Td ta="center" style={{ verticalAlign: "middle" }}>
                         {r.rank != null && medalColor[r.rank] ? (
