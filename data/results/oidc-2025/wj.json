@@ -1,0 +1,182 @@
+{
+  "categoryId": "wj",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chiu-hsunpei",
+      "playerName": "邱薰霈 / Chiu HsunPei",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 24,
+        "variety": 16.3,
+        "stability": 12.5,
+        "novelty": 7.5,
+        "composition": 8,
+        "base-score": 15,
+        "execution-deduction": 2.4
+      },
+      "totalScore": 80.9,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "tan-huey-xuan-brenda",
+      "playerName": "陈慧渲 / Tan Huey Xuan Brenda",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 24.3,
+        "variety": 16,
+        "stability": 11.8,
+        "novelty": 7,
+        "composition": 7.3,
+        "base-score": 15,
+        "execution-deduction": 1.4
+      },
+      "totalScore": 80,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "chiu-yi-hsin",
+      "playerName": "邱奕心 / CHIU, YI-HSIN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 22.5,
+        "variety": 14.8,
+        "stability": 12,
+        "novelty": 6.5,
+        "composition": 6.8,
+        "base-score": 15,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 74.1,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "lin-yan-xin",
+      "playerName": "林妍昕 / LIN-YAN-XIN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 18.5,
+        "variety": 12.5,
+        "stability": 10,
+        "novelty": 5.5,
+        "composition": 8,
+        "base-score": 15,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 66,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lien-yu-ting",
+      "playerName": "連又亭 / LIEN, YU-TING",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 19,
+        "variety": 12.8,
+        "stability": 10.8,
+        "novelty": 5.3,
+        "composition": 5.8,
+        "base-score": 15,
+        "execution-deduction": 5.4
+      },
+      "totalScore": 63.3,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "numata-yuine",
+      "playerName": "沼田 結音 / Yuine Numata",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 18.3,
+        "variety": 12.5,
+        "stability": 10.3,
+        "novelty": 5.5,
+        "composition": 7,
+        "base-score": 15,
+        "execution-deduction": 5.7
+      },
+      "totalScore": 62.9,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "li-zhao-xu",
+      "playerName": "李朝旭 / LI ZHAO XU",
+      "nationality": "China",
+      "scores": {
+        "difficulty": 15.5,
+        "variety": 10.8,
+        "stability": 9.8,
+        "novelty": 4.8,
+        "composition": 5.8,
+        "base-score": 15,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 58.2,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "shen-yu-xuan",
+      "playerName": "沈妤萱 / SHEN YU XUAN",
+      "nationality": "China",
+      "scores": {
+        "difficulty": 13.8,
+        "variety": 9.8,
+        "stability": 8.5,
+        "novelty": 3.8,
+        "composition": 5,
+        "base-score": 10,
+        "execution-deduction": 1
+      },
+      "totalScore": 49.9,
+      "status": "completed"
+    }
+  ],
+  "name": "女子個人総合ジュニア部門",
+  "nameEn": "Women's Junior Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ]
+}

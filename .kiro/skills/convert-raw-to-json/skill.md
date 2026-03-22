@@ -85,7 +85,7 @@ CSV に `年齢区分` 列がある場合（OIDC MI パターン）:
 architecture.md の Data Schema に従い、以下を生成する:
 
 - `data/competitions.json` に大会エントリを追加（既存ファイルがあればマージ）
-- `data/results/{competition-id}.json` を新規作成
+- `data/results/{competition-id}/{category-id}.json` を部門ごとに新規作成
 
 特殊ケースの処理:
 - **DNS**: `"status": "dns"`, スコア系フィールドは省略
@@ -106,8 +106,10 @@ architecture.md の Data Schema に従い、以下を生成する:
 ## Output
 
 - `data/competitions.json`（更新）
-- `data/results/{competition-id}.json`（新規）
+- `data/results/{competition-id}/{category-id}.json`（部門ごとに新規作成）
 - `player-mappings.json`（更新 — 新しい選手・alias・nationality が追加された場合）
+
+`public/data/` 配下の統合 JSON は `npm run build-data` で自動生成される。スキルが直接書き出すのは `data/` 配下のソースファイルのみ。
 
 ## Notes
 

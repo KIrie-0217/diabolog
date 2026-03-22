@@ -1,4 +1,4 @@
-# Diabolog - Architecture & Data Schema
+# Diabolife - Architecture & Data Schema
 
 Diabolo 競技の大会結果をまとめるサイトの設計ドキュメント。
 
@@ -34,14 +34,16 @@ player-mappings.json            選手名寄せ・国籍マッピング（手動
 
         ↓  Agent skill（HIL: 新大会追加時に1回だけ実行、人間がレビュー）
 
-[ビルド済みデータ（コミット対象）]
+[ソースデータ（コミット対象）]
 data/competitions.json         大会メタデータ一覧
-data/results/{id}.json         大会ごとの部門定義 + 全結果
+data/results/{id}/{category}.json  部門ごとの定義 + 結果
 
-        ↓  スクリプト（決定的処理、CI で自動実行）
+        ↓  npm run build-data（決定的処理、prebuild で自動実行）
 
-[自動生成データ]
-data/players.json              競技者別集計
+[自動生成データ（.gitignore、public/data/ 配下）]
+public/data/competitions.json       コピー
+public/data/results/{id}.json       部門別JSONを統合
+public/data/players.json            競技者別集計
 ```
 
 ### なぜ raw → JSON を Agent skill にしたか
@@ -223,13 +225,19 @@ competition
 ### ファイル構成
 
 ```
-data/
-  competitions.json          # 大会メタデータ一覧
+data/                              # ソースデータ（コミット対象）
+  competitions.json                # 大会メタデータ一覧
   results/
-    {competition-id}.json    # 大会ごとの部門定義 + 全結果
-  players.json               # 競技者別集計（スクリプトで自動生成）
-player-mappings.json          # 選手名寄せ（手動管理）
-raw/                         # 大会結果の生データ（CSV + _index.md）
+    {competition-id}/
+      {category-id}.json           # 部門ごとの定義 + 結果
+player-mappings.json               # 選手名寄せ（手動管理）
+raw/                               # 大会結果の生データ（CSV + _index.md）
+
+public/data/                       # 自動生成（.gitignore）
+  competitions.json                # data/ からコピー
+  results/
+    {competition-id}.json          # 部門別JSONを統合
+  players.json                     # 競技者別集計
 ```
 
 ### `data/competitions.json`

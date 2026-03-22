@@ -1,13 +1,13 @@
 {
-  "name": "vite-react",
+  "name": "diabolife",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "generate-players": "node scripts/generate-players.mjs",
-    "predev": "node scripts/generate-players.mjs",
+    "build-data": "node scripts/build-results.mjs && cp data/competitions.json public/data/competitions.json && node scripts/generate-players.mjs",
+    "predev": "npm run build-data",
     "dev": "vite",
-    "prebuild": "node scripts/generate-players.mjs",
+    "prebuild": "npm run build-data",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"

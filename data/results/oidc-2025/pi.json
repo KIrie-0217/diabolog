@@ -1,0 +1,171 @@
+{
+  "categoryId": "pi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "huang-shih-wei+huang-shih-rong",
+      "playerName": "黃士瑋/黃士融 / HUANG SHIH WEI/HUANG SHIH RONG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 37.3,
+        "synchronization": 26.3,
+        "composition": 24.3,
+        "execution-deduction": 4,
+        "special-deduction": 0
+      },
+      "totalScore": 83.9,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "lin-pei-i+juan-tzu-yu",
+      "playerName": "林貝宜/阮梓瑜 / LIN PEI I/JUAN TZU YU",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 30,
+        "synchronization": 24,
+        "composition": 26.3,
+        "execution-deduction": 3,
+        "special-deduction": 0
+      },
+      "totalScore": 77.3,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "chang-yu-chun+chiu-tzu-chin",
+      "playerName": "張宇珺/邱子秦 / CHANG, YU-CHUN/CHIU,TZU-CHIN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 31,
+        "synchronization": 23,
+        "composition": 24,
+        "execution-deduction": 3.5,
+        "special-deduction": 0
+      },
+      "totalScore": 74.5,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chao-yu-sung+lee-yu-chen",
+      "playerName": "趙昱淞/李雨臻 / CHAO,YU-SUNG/LEE,YU-CHEN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 32.5,
+        "synchronization": 22.3,
+        "composition": 23.8,
+        "execution-deduction": 4.5,
+        "special-deduction": 0
+      },
+      "totalScore": 74.1,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "tee-kim-hong+daniel-chua",
+      "playerName": "郑锦洪/蔡仁杰 / Tee Kim Hong/Daniel Chua Ren Jie",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 27,
+        "synchronization": 18.5,
+        "composition": 21.3,
+        "execution-deduction": 2.5,
+        "special-deduction": 0
+      },
+      "totalScore": 64.3,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "liu-yao-xi+kao-yu-kai",
+      "playerName": "劉曜熙/高裕凱 / Liu Yao Xi/Kao Yu Kai",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 28.5,
+        "synchronization": 18.5,
+        "composition": 20.8,
+        "execution-deduction": 3.8,
+        "special-deduction": 0
+      },
+      "totalScore": 64,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "li-shenyitong+li-zhao-xu",
+      "playerName": "李沈艺潼/李朝旭 / LI SHENYITONG/LI ZHAO XU",
+      "nationality": "China",
+      "scores": {
+        "difficulty": 22,
+        "synchronization": 17.5,
+        "composition": 20.3,
+        "execution-deduction": 2,
+        "special-deduction": 0
+      },
+      "totalScore": 57.8,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "liang-shu-guang+zhu-zhi-xuan",
+      "playerName": "梁曙光/朱智轩 / LIANG SHU GUANG/ZHU ZHI XUAN",
+      "nationality": "China",
+      "scores": {
+        "difficulty": 21.8,
+        "synchronization": 18,
+        "composition": 20,
+        "execution-deduction": 2.5,
+        "special-deduction": 0
+      },
+      "totalScore": 57.3,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "ho-jie-lin+chiu-hsunpei",
+      "playerName": "林和頡/邱薰霈 / Ho-Jie Lin/Chiu HsunPei",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 24.3,
+        "synchronization": 17,
+        "composition": 18,
+        "execution-deduction": 4.5,
+        "special-deduction": 0
+      },
+      "totalScore": 54.8,
+      "status": "completed"
+    }
+  ],
+  "name": "ペア部門",
+  "nameEn": "Pair Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "synchronization",
+      "name": "同調性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

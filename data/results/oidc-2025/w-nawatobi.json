@@ -1,0 +1,48 @@
+{
+  "categoryId": "w-nawatobi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chiu-hsunpei",
+      "playerName": "邱薰霈 / Chiu HsunPei",
+      "nationality": "Taiwan",
+      "count": 75,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "lin-yan-xin",
+      "playerName": "林妍昕 / LIN-YAN-XIN",
+      "nationality": "Taiwan",
+      "count": 67,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "lien-yu-ting",
+      "playerName": "連又亭 / LIEN, YU-TING",
+      "nationality": "Taiwan",
+      "count": 53,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "numata-yuine",
+      "playerName": "沼田 結音 / Yuine Numata",
+      "nationality": "Japan",
+      "count": 37,
+      "class": "A",
+      "note": "Japan Record Tie",
+      "status": "completed"
+    }
+  ],
+  "name": "女子1ディアボロ縄跳び部門",
+  "nameEn": "Women's 1diabolo jump rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

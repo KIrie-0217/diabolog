@@ -1,0 +1,103 @@
+{
+  "categoryId": "t",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:fly",
+      "playerName": "FLY",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 36.5,
+        "synchronization": 25.5,
+        "composition": 27.3,
+        "execution-deduction": 3.8,
+        "special-deduction": 0
+      },
+      "totalScore": 85.5,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "team:adc-flare",
+      "playerName": "ADC FLARE",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 33,
+        "synchronization": 25.8,
+        "composition": 24.8,
+        "execution-deduction": 3.3,
+        "special-deduction": 0
+      },
+      "totalScore": 80.3,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "team:melaka-dmix",
+      "playerName": "Melaka Diabolo Association Dmix Team",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 29.5,
+        "synchronization": 22.3,
+        "composition": 19.8,
+        "execution-deduction": 4.5,
+        "special-deduction": 0
+      },
+      "totalScore": 67.1,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "team:pinghu",
+      "playerName": "平湖市空竹协会 / Pinghu Diabolo Association",
+      "nationality": "China",
+      "scores": {
+        "difficulty": 25,
+        "synchronization": 19.5,
+        "composition": 18.8,
+        "execution-deduction": 3.3,
+        "special-deduction": 0
+      },
+      "totalScore": 60,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "team:diabolosaid",
+      "playerName": "鈴云 / Diabolosaid",
+      "nationality": "Taiwan",
+      "status": "dns"
+    }
+  ],
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "synchronization",
+      "name": "同調性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

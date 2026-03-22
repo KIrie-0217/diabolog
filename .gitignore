@@ -26,6 +26,11 @@ dist-ssr
 # Competition Raw Data
 raw/*/
 
+# Generated data (built from data/ source)
+public/data/results/
+public/data/players.json
+public/data/competitions.json
+
 
 # TypeScript build info
 *.tsbuildinfo

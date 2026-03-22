@@ -6,7 +6,7 @@ export function Home() {
   return (
     <Stack gap="xl" mt="xl">
       <Stack gap="xs" ta="center">
-        <Title order={1}>Diabolog</Title>
+        <Title order={1}>Diabolife</Title>
         <Text size="lg" c="dimmed">
           競技ディアボロの情報集約サイト
         </Text>

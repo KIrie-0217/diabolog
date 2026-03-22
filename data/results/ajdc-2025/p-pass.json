@@ -1,0 +1,23 @@
+{
+  "categoryId": "p-pass",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kanehira-shinichi+akiba-yosuke",
+      "playerName": "カネヒラ シンイチ / アキバ ヨウスケ",
+      "count": 48,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "numata-yuine+numata-keisuke",
+      "playerName": "ヌマタ ユイネ / ヌマタ ケイスケ",
+      "count": 30,
+      "status": "completed"
+    }
+  ],
+  "name": "2ディアボロペアパス",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

@@ -1,0 +1,99 @@
+{
+  "categoryId": "4d-low",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chen-shuo-chen",
+      "playerName": "陳辰碩 / Chen Shuo Chen",
+      "nationality": "Taiwan",
+      "count": 1304,
+      "note": "OIDC Record",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "yeh-tzu-hao",
+      "playerName": "葉子豪 / YEH TZU HAO",
+      "nationality": "Taiwan",
+      "count": 519,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kao-yang-te",
+      "playerName": "高仰德 / KAO YANG-TE",
+      "nationality": "Taiwan",
+      "count": 329,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / Taiki Ishimizu",
+      "nationality": "Japan",
+      "count": 323,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "chao-yu-sung",
+      "playerName": "趙昱淞 / CHAO,YU-SUNG",
+      "nationality": "Taiwan",
+      "count": 303,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kudo-masahiro",
+      "playerName": "工藤 正景 / Masahiro Kudo",
+      "nationality": "Japan",
+      "count": 234,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "li-yi-hua",
+      "playerName": "李翊華 / LI YI HUA",
+      "nationality": "Taiwan",
+      "count": 209,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "kuo-yu-liang",
+      "playerName": "郭祐良 / KUO YU LIANG",
+      "nationality": "Taiwan",
+      "count": 186,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "cho-tzu-hung",
+      "playerName": "曹子宏 / CHO, TZU HUNG",
+      "nationality": "Taiwan",
+      "count": 166,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "hung-chia-shen",
+      "playerName": "洪珈神 / HUNG CHIA SHEN",
+      "nationality": "Taiwan",
+      "count": 91,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "graham-lo",
+      "playerName": "羅英九 / Graham Lo",
+      "nationality": "USA",
+      "count": 35,
+      "status": "completed"
+    }
+  ],
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4diabolo low endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

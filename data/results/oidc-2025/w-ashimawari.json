@@ -1,0 +1,56 @@
+{
+  "categoryId": "w-ashimawari",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chiu-hsunpei",
+      "playerName": "邱薰霈 / Chiu HsunPei",
+      "nationality": "Taiwan",
+      "count": 219,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "chiu-yi-hsin",
+      "playerName": "邱奕心 / CHIU,YI-HSIN",
+      "nationality": "Taiwan",
+      "count": 173,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "chen-jou-hui",
+      "playerName": "陳柔卉 / CHEN JOU-HUI",
+      "nationality": "Taiwan",
+      "count": 165,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "lin-yan-xin",
+      "playerName": "林妍昕 / LIN-YAN-XIN",
+      "nationality": "Taiwan",
+      "count": 150,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lien-yu-ting",
+      "playerName": "連又亭 / LIEN.YU-TING",
+      "nationality": "Taiwan",
+      "count": 112,
+      "class": "B",
+      "status": "completed"
+    }
+  ],
+  "name": "女子1ディアボロ足回り部門",
+  "nameEn": "Women's 1diabolo around the leg Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

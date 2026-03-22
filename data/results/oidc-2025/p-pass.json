@@ -1,0 +1,50 @@
+{
+  "categoryId": "p-pass",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tan-wen-kang+tan-huey-xuan-brenda",
+      "playerName": "陈文康/陈慧渲 / Tan Wen Kang / Tan Huey Xuan Brenda",
+      "nationality": "Malaysia",
+      "count": 79,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "lu-yu-ting+he-yuan-hong",
+      "playerName": "呂宥廷/何原弘 / LU.YU-TING / HE.YUAN-HONG",
+      "nationality": "Taiwan",
+      "count": 74,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "tee-kim-hong+daniel-chua",
+      "playerName": "郑锦洪/蔡仁杰 / Tee Kim Hong / Daniel Chua Ren Jie",
+      "nationality": "Malaysia",
+      "count": 53,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "ho-jie-lin+chiu-hsunpei",
+      "playerName": "林和頡/邱薰霈 / Ho-Jie Lin / Chiu HsunPei",
+      "nationality": "Taiwan",
+      "count": 39,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "yoshii-norihiro+watanabe-shotaro",
+      "playerName": "吉井 紀博/渡邊 翔太朗 / Norihiro Yoshii / Shotaro Watanabe",
+      "nationality": "Japan",
+      "count": 23,
+      "status": "completed"
+    }
+  ],
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2diabolo pair pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

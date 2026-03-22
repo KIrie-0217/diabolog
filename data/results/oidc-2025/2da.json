@@ -1,0 +1,223 @@
+{
+  "categoryId": "2da",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "takahashi-rensho",
+      "playerName": "高橋 蓮生 / Rensho Takahashi",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 43.8,
+        "stability": 13,
+        "novelty": 26,
+        "composition": 7.5,
+        "execution-deduction": 0.4
+      },
+      "totalScore": 89.9,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "irie-koshiro",
+      "playerName": "入江航士朗 / Koshiro Irie",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 42,
+        "stability": 12.8,
+        "novelty": 24.8,
+        "composition": 7,
+        "execution-deduction": 0
+      },
+      "totalScore": 86.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "yano-atsushi",
+      "playerName": "矢野 敦 / Atsushi Yano",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 40.5,
+        "stability": 12.5,
+        "novelty": 25.8,
+        "composition": 6.8,
+        "execution-deduction": 1.4
+      },
+      "totalScore": 84.2,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tada-kazuki",
+      "playerName": "田多 加津輝 / Kazuki Tada",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 37.3,
+        "stability": 12,
+        "novelty": 22.8,
+        "composition": 8.8,
+        "execution-deduction": 2.9
+      },
+      "totalScore": 78,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "huang-shih-rong",
+      "playerName": "黃士融 / HUANG SHIH RONG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 39.8,
+        "stability": 11.5,
+        "novelty": 23.3,
+        "composition": 7.3,
+        "execution-deduction": 3.9
+      },
+      "totalScore": 78,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kosaka-ryota",
+      "playerName": "小坂 亮太 / Kosaka Ryota",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 38.5,
+        "stability": 10.8,
+        "novelty": 23.3,
+        "composition": 6.5,
+        "execution-deduction": 2.9
+      },
+      "totalScore": 76.2,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "chao-yu-sung",
+      "playerName": "趙昱淞 / CHAO, YU-SUNG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 36,
+        "stability": 9.8,
+        "novelty": 22.5,
+        "composition": 7.5,
+        "execution-deduction": 6.6
+      },
+      "totalScore": 69.2,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "wangshaojun",
+      "playerName": "王少均 / Wangshaojun",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 34.8,
+        "stability": 10,
+        "novelty": 18.8,
+        "composition": 6.3,
+        "execution-deduction": 1.6
+      },
+      "totalScore": 68.3,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "tasaki-kosi",
+      "playerName": "田崎 晃司 / Kosi Tasaki",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 34.8,
+        "stability": 9,
+        "novelty": 20,
+        "composition": 6,
+        "execution-deduction": 3.8
+      },
+      "totalScore": 66,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "lien-jia-jiun",
+      "playerName": "連家駿 / LIEN, JIA-JIUN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 34.3,
+        "stability": 8.8,
+        "novelty": 19.3,
+        "composition": 6.8,
+        "execution-deduction": 5
+      },
+      "totalScore": 64.2,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "tateishi-tsubasa",
+      "playerName": "立石翼 / Tsubasa Tateishi",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 33,
+        "stability": 9,
+        "novelty": 18,
+        "composition": 5.5,
+        "execution-deduction": 1.8
+      },
+      "totalScore": 63.7,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "chen-shuo-chen",
+      "playerName": "陳辰碩 / Chen Shuo Chen",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 33,
+        "stability": 7.8,
+        "novelty": 19,
+        "composition": 5.5,
+        "execution-deduction": 5.8
+      },
+      "totalScore": 59.5,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "graham-lo",
+      "playerName": "羅英九 / Graham Lo",
+      "nationality": "USA",
+      "status": "dns"
+    }
+  ],
+  "name": "2ディアボロ(固定)部門",
+  "nameEn": "2diabolo (fixed axel) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ]
+}

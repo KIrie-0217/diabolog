@@ -1,0 +1,452 @@
+{
+  "categoryId": "mi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tanioka-kaketo",
+      "playerName": "谷岡 翔人 / Kaketo Tanioka",
+      "nationality": "Japan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 26.5,
+        "variety": 8.3,
+        "stability": 9,
+        "novelty": 7.5,
+        "composition": 13.5,
+        "base-score": 20,
+        "execution-deduction": 0.2
+      },
+      "totalScore": 84.6,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "wu-you-qi",
+      "playerName": "吳祐齊 / WU YOU QI",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 22.5,
+        "variety": 7.3,
+        "stability": 8,
+        "novelty": 7.8,
+        "composition": 15.3,
+        "base-score": 20,
+        "execution-deduction": 1.1
+      },
+      "totalScore": 79.8,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hung-chia-shen",
+      "playerName": "洪珈紳 / HUNG CHIA SHEN",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 24,
+        "variety": 7.5,
+        "stability": 8,
+        "novelty": 7,
+        "composition": 14.8,
+        "base-score": 20,
+        "execution-deduction": 1.5
+      },
+      "totalScore": 79.8,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tee-kim-hong",
+      "playerName": "郑锦洪 / Tee Kim Hong",
+      "nationality": "Malaysia",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 21.8,
+        "variety": 7.3,
+        "stability": 8.3,
+        "novelty": 6.3,
+        "composition": 14.3,
+        "base-score": 20,
+        "execution-deduction": 0.7
+      },
+      "totalScore": 77.3,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lien-jia-jiun",
+      "playerName": "連家駿 / LIEN, JIA-JIUN",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 21.8,
+        "variety": 7.5,
+        "stability": 7.8,
+        "novelty": 6.8,
+        "composition": 13.8,
+        "base-score": 20,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 76,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kao-yu-kai",
+      "playerName": "高裕凱 / Kao Yu Kai",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 19,
+        "variety": 7,
+        "stability": 6.5,
+        "novelty": 6.5,
+        "composition": 13.8,
+        "base-score": 20,
+        "execution-deduction": 3.3
+      },
+      "totalScore": 69.5,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "zhu-zhi-xuan",
+      "playerName": "朱智轩 / ZHU ZHI XUAN",
+      "nationality": "China",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 14.3,
+        "variety": 4.8,
+        "stability": 5,
+        "novelty": 4.8,
+        "composition": 12.3,
+        "base-score": 15,
+        "execution-deduction": 3.4
+      },
+      "totalScore": 52.8,
+      "status": "completed"
+    },
+    {
+      "rank": 1,
+      "playerId": "li-yi-hua",
+      "playerName": "李翊華 / LI YI HUA",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 27.3,
+        "variety": 8.5,
+        "stability": 9.3,
+        "novelty": 7,
+        "composition": 18.3,
+        "base-score": 20,
+        "execution-deduction": 0.5
+      },
+      "totalScore": 89.9,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "liu-yao-xi",
+      "playerName": "劉曜熙 / Liu Yao Xi",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 26.5,
+        "variety": 8,
+        "stability": 9.3,
+        "novelty": 7.5,
+        "composition": 16.8,
+        "base-score": 20,
+        "execution-deduction": 0.2
+      },
+      "totalScore": 87.9,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "cho-tzu-hung",
+      "playerName": "曹子宏 / CHO, TZU, HUNG",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 26.3,
+        "variety": 7.5,
+        "stability": 9,
+        "novelty": 7.5,
+        "composition": 15.5,
+        "base-score": 20,
+        "execution-deduction": 0.3
+      },
+      "totalScore": 85.5,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tang-ching-yuan",
+      "playerName": "唐靖淵 / TANG, CHING-YUAN",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 24,
+        "variety": 7.5,
+        "stability": 8.5,
+        "novelty": 8.5,
+        "composition": 17.5,
+        "base-score": 20,
+        "execution-deduction": 0.6
+      },
+      "totalScore": 85.4,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "zheng-kang-ping",
+      "playerName": "鄭康平 / ZHENG-KANG-PING",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 28.3,
+        "variety": 8.5,
+        "stability": 8,
+        "novelty": 8,
+        "composition": 15,
+        "base-score": 20,
+        "execution-deduction": 2.4
+      },
+      "totalScore": 85.4,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "lin-chen-hua",
+      "playerName": "林晨華 / LIN,CHEN-HUA",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 23.5,
+        "variety": 7.8,
+        "stability": 7.3,
+        "novelty": 8,
+        "composition": 17.3,
+        "base-score": 20,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 80.4,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "huang-shih-wei",
+      "playerName": "黃士瑋 / HUANG SHIH WEI",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 23.3,
+        "variety": 8,
+        "stability": 7.3,
+        "novelty": 7.5,
+        "composition": 15.8,
+        "base-score": 20,
+        "execution-deduction": 6.5
+      },
+      "totalScore": 75.4,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "chao-yu-sung",
+      "playerName": "趙昱淞 / CHAO,YU-SUNG",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 21.8,
+        "variety": 8,
+        "stability": 6.8,
+        "novelty": 8,
+        "composition": 16.3,
+        "base-score": 20,
+        "execution-deduction": 6.4
+      },
+      "totalScore": 74.5,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "huang-shih-rong",
+      "playerName": "黃士融 / HUANG SHIH RONG",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 21.5,
+        "variety": 8.3,
+        "stability": 6.8,
+        "novelty": 7.3,
+        "composition": 15.8,
+        "base-score": 20,
+        "execution-deduction": 6.1
+      },
+      "totalScore": 73.6,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "kudo-masahiro",
+      "playerName": "工藤 正景 / Masahiro Kudo",
+      "nationality": "Japan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 18.5,
+        "variety": 6.5,
+        "stability": 7.3,
+        "novelty": 5.8,
+        "composition": 16.5,
+        "base-score": 20,
+        "execution-deduction": 5.7
+      },
+      "totalScore": 68.9,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "chen-shuo-chen",
+      "playerName": "陳辰碩 / Chen Shuo Chen",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 22.5,
+        "variety": 7,
+        "stability": 6.3,
+        "novelty": 7.3,
+        "composition": 13.5,
+        "base-score": 20,
+        "execution-deduction": 8.2
+      },
+      "totalScore": 68.4,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "tsuda-manato",
+      "playerName": "津田 真叶 / Manato Tsuda",
+      "nationality": "Japan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 19.8,
+        "variety": 6.8,
+        "stability": 6.3,
+        "novelty": 7,
+        "composition": 14.8,
+        "base-score": 20,
+        "execution-deduction": 7.2
+      },
+      "totalScore": 67.5,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "graham-lo",
+      "playerName": "羅英九 / Graham Lo",
+      "nationality": "USA",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 19,
+        "variety": 7.3,
+        "stability": 6.3,
+        "novelty": 6.3,
+        "composition": 12.8,
+        "base-score": 20,
+        "execution-deduction": 6.6
+      },
+      "totalScore": 65.1,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "kao-yang-te",
+      "playerName": "高仰德 / KAO, YANG-TE",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 19.8,
+        "variety": 6.5,
+        "stability": 5.5,
+        "novelty": 6,
+        "composition": 12.8,
+        "base-score": 20,
+        "execution-deduction": 8.2
+      },
+      "totalScore": 62.4,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "fuse-koichiro",
+      "playerName": "布施孝一郎 / Koichiro Fuse",
+      "nationality": "Japan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 15.5,
+        "variety": 7,
+        "stability": 5.3,
+        "novelty": 7.5,
+        "composition": 12,
+        "base-score": 20,
+        "execution-deduction": 6.7
+      },
+      "totalScore": 60.6,
+      "status": "completed"
+    }
+  ],
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "ageGroups": [
+    {
+      "id": "junior",
+      "name": "16~18"
+    },
+    {
+      "id": "senior",
+      "name": "19~"
+    }
+  ],
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ]
+}

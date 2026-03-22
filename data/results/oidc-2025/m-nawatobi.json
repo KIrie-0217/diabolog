@@ -1,0 +1,47 @@
+{
+  "categoryId": "m-nawatobi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chen-ying-jhen",
+      "playerName": "陳穎禎 / CHEN YING JHEN",
+      "nationality": "Taiwan",
+      "count": 85,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "lien-jia-jiun",
+      "playerName": "連家駿 / LIEN.JIA-JIUN",
+      "nationality": "Taiwan",
+      "count": 64,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "wangshaojun",
+      "playerName": "王少均 / Wangshaojun",
+      "nationality": "Taiwan",
+      "count": 41,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "wang-hao-ran",
+      "playerName": "王浩然 / WANG HAO RAN",
+      "nationality": "China",
+      "count": 41,
+      "class": "B",
+      "status": "completed"
+    }
+  ],
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1diabolo jump rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

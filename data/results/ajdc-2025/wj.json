@@ -1,0 +1,67 @@
+{
+  "categoryId": "wj",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "numata-yuine",
+      "playerName": "ヌマタ ユイネ",
+      "scores": {
+        "difficulty": 23.5,
+        "variety": 15.8,
+        "stability": 12.3,
+        "novelty": 6.5,
+        "composition": 7.8,
+        "base-score": 15,
+        "execution-deduction": 5.8,
+        "special-deduction": 0
+      },
+      "totalScore": 75.1,
+      "status": "completed"
+    }
+  ],
+  "name": "女子個人総合ジュニア部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性度",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

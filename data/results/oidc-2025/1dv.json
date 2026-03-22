@@ -1,0 +1,328 @@
+{
+  "categoryId": "1dv",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "takano-sho",
+      "playerName": "高野 勝 / Sho Takano",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 39,
+        "stability": 12.8,
+        "novelty": 24.8,
+        "composition": 7.5,
+        "execution-deduction": 1
+      },
+      "totalScore": 83.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "yagami-rintaro",
+      "playerName": "八神 凛太郎 / Rintaro Yagami",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 41,
+        "stability": 11.3,
+        "novelty": 27,
+        "composition": 7.3,
+        "execution-deduction": 3.6
+      },
+      "totalScore": 83,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "wu-you-qi",
+      "playerName": "吳祐齊 / WU YOU QI",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 40,
+        "stability": 12,
+        "novelty": 24,
+        "composition": 7.8,
+        "execution-deduction": 2
+      },
+      "totalScore": 81.8,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "liu-yao-xi",
+      "playerName": "劉曜熙 / Liu Yao Xi",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 39,
+        "stability": 12.5,
+        "novelty": 23.8,
+        "composition": 7.5,
+        "execution-deduction": 1.6
+      },
+      "totalScore": 81.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lin-chen-hua",
+      "playerName": "林晨華 / LIN,CHEN-HUA",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 38,
+        "stability": 10,
+        "novelty": 26,
+        "composition": 7.5,
+        "execution-deduction": 5.3
+      },
+      "totalScore": 76.2,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "tsuda-manato",
+      "playerName": "津田 真叶 / Manato Tsuda",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 36.8,
+        "stability": 10.3,
+        "novelty": 25,
+        "composition": 6.8,
+        "execution-deduction": 3.8
+      },
+      "totalScore": 75.1,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "hashimoto-tatsuro",
+      "playerName": "橋本 竜郎 / Tatsuro Hashimoto",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 35.5,
+        "stability": 10.8,
+        "novelty": 24,
+        "composition": 6.3,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 73.8,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "chao-yu-sung",
+      "playerName": "趙昱淞 / CHAO, YU-SUNG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 34,
+        "stability": 10,
+        "novelty": 23,
+        "composition": 7.3,
+        "execution-deduction": 6
+      },
+      "totalScore": 68.3,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / Hiroki Kamei",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 30.8,
+        "stability": 10,
+        "novelty": 23.5,
+        "composition": 6.8,
+        "execution-deduction": 3.3
+      },
+      "totalScore": 67.8,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "ho-jie-lin",
+      "playerName": "林和頡 / Ho-Jie Lin",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 31.8,
+        "stability": 10.5,
+        "novelty": 20.5,
+        "composition": 5.8,
+        "execution-deduction": 1.8
+      },
+      "totalScore": 66.8,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "ji-li",
+      "playerName": "李霽 / JI LI",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 33.5,
+        "stability": 9.8,
+        "novelty": 21,
+        "composition": 5.8,
+        "execution-deduction": 4.6
+      },
+      "totalScore": 65.5,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "fukuouji-riu",
+      "playerName": "福王寺璃海 / Riu Fukuouji",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 31.3,
+        "stability": 9.8,
+        "novelty": 21.3,
+        "composition": 6,
+        "execution-deduction": 3
+      },
+      "totalScore": 65.4,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "wangshaojun",
+      "playerName": "王少均 / Wangshaojun",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 33.3,
+        "stability": 8.5,
+        "novelty": 22.5,
+        "composition": 6,
+        "execution-deduction": 5
+      },
+      "totalScore": 65.3,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "chen-jheng-yu",
+      "playerName": "陳政宇 / chen-jheng-yu",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 31.5,
+        "stability": 9.3,
+        "novelty": 20.8,
+        "composition": 5.5,
+        "execution-deduction": 4.9
+      },
+      "totalScore": 62.2,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "shibata-koki",
+      "playerName": "柴田 廣樹 / Koki Shibata",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 29.8,
+        "stability": 9,
+        "novelty": 18.3,
+        "composition": 5.5,
+        "execution-deduction": 4.3
+      },
+      "totalScore": 58.3,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "chen-kuei-hsi",
+      "playerName": "陳奎希 / CHEN,KUEI-HSI",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 26.5,
+        "stability": 8.3,
+        "novelty": 16.3,
+        "composition": 5.3,
+        "execution-deduction": 4.1
+      },
+      "totalScore": 52.3,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "urayama-masatsugu",
+      "playerName": "浦山 昌嗣 / Masatsugu Urayama",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 26.8,
+        "stability": 8,
+        "novelty": 16.8,
+        "composition": 5.3,
+        "execution-deduction": 6.4
+      },
+      "totalScore": 50.5,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "chang-tzu-chien",
+      "playerName": "張子謙 / Chang, Tzu Chien",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 27.8,
+        "stability": 7,
+        "novelty": 17.8,
+        "composition": 5.5,
+        "execution-deduction": 7.6
+      },
+      "totalScore": 50.5,
+      "status": "completed"
+    },
+    {
+      "rank": 19,
+      "playerId": "cho-tzu-hung",
+      "playerName": "曹子宏 / CHO TZU,HUNG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 24.8,
+        "stability": 5.8,
+        "novelty": 15.5,
+        "composition": 4.8,
+        "execution-deduction": 9.3
+      },
+      "totalScore": 41.6,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "graham-lo",
+      "playerName": "羅英九 / Graham Lo",
+      "nationality": "USA",
+      "status": "dns"
+    }
+  ],
+  "name": "男子1ディアボロ垂直軸部門",
+  "nameEn": "Men's 1diabolo vertical axis Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ]
+}

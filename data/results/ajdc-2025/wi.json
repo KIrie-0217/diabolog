@@ -1,0 +1,67 @@
+{
+  "categoryId": "wi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "matsuki-rina",
+      "playerName": "マツキリナ",
+      "scores": {
+        "difficulty": 25.8,
+        "variety": 8,
+        "stability": 7.5,
+        "novelty": 8,
+        "composition": 20,
+        "base-score": 15,
+        "execution-deduction": 1.6,
+        "special-deduction": 0
+      },
+      "totalScore": 82.7,
+      "status": "completed"
+    }
+  ],
+  "name": "女子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性度",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

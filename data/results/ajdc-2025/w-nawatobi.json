@@ -1,0 +1,17 @@
+{
+  "categoryId": "w-nawatobi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "numata-yuine",
+      "playerName": "ヌマタ ユイネ",
+      "count": 37,
+      "note": "クラスA新記録・日本新記録タイ",
+      "status": "completed"
+    }
+  ],
+  "name": "女子1ディアボロ縄跳び",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

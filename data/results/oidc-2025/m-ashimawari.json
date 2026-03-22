@@ -1,0 +1,56 @@
+{
+  "categoryId": "m-ashimawari",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chen-kuei-hsi",
+      "playerName": "陳奎希 / CHEN,KUEI-HSI",
+      "nationality": "Taiwan",
+      "count": 140,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "lien-jia-jiun",
+      "playerName": "連家駿 / LIEN, JIA-JIUN",
+      "nationality": "Taiwan",
+      "count": 134,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "huang-bing-yu",
+      "playerName": "黃秉昱 / HUANG, BING-YU",
+      "nationality": "Taiwan",
+      "count": 131,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "ji-li",
+      "playerName": "李霽 / JI LI",
+      "nationality": "Taiwan",
+      "count": 109,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "wangshaochen",
+      "playerName": "王少辰 / Wangshaochen",
+      "nationality": "Taiwan",
+      "count": 93,
+      "class": "A",
+      "status": "completed"
+    }
+  ],
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1diabolo around the leg Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

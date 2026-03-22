@@ -1,0 +1,160 @@
+{
+  "categoryId": "2da",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yano-atsushi",
+      "playerName": "ヤノアツシ",
+      "scores": {
+        "difficulty": 39.3,
+        "stability": 11.5,
+        "novelty": 26.8,
+        "composition": 7.3,
+        "execution-deduction": 2.6,
+        "special-deduction": 0
+      },
+      "totalScore": 82.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "irie-koshiro",
+      "playerName": "イリエ コウシロウ",
+      "scores": {
+        "difficulty": 40,
+        "stability": 11.5,
+        "novelty": 24.8,
+        "composition": 7.3,
+        "execution-deduction": 2.9,
+        "special-deduction": 0
+      },
+      "totalScore": 80.7,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "tasaki-kosi",
+      "playerName": "タサキコウシ",
+      "scores": {
+        "difficulty": 37.3,
+        "stability": 11,
+        "novelty": 22.8,
+        "composition": 7,
+        "execution-deduction": 1.4,
+        "special-deduction": 0
+      },
+      "totalScore": 76.7,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "takahashi-rensho",
+      "playerName": "タカハシ レンショウ",
+      "scores": {
+        "difficulty": 36.8,
+        "stability": 10.3,
+        "novelty": 25.8,
+        "composition": 7.5,
+        "execution-deduction": 5.9,
+        "special-deduction": 3
+      },
+      "totalScore": 71.5,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "tomita-hikaru",
+      "playerName": "トミタヒカル",
+      "scores": {
+        "difficulty": 32.3,
+        "stability": 10.3,
+        "novelty": 20.3,
+        "composition": 7.5,
+        "execution-deduction": 1.5,
+        "special-deduction": 0
+      },
+      "totalScore": 68.9,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "yamamoto-takashi",
+      "playerName": "ヤマモト タカシ",
+      "scores": {
+        "difficulty": 32.8,
+        "stability": 8.8,
+        "novelty": 24,
+        "composition": 7,
+        "execution-deduction": 7,
+        "special-deduction": 0
+      },
+      "totalScore": 65.6,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "maeda-ryosuke",
+      "playerName": "マエダ リョウスケ",
+      "scores": {
+        "difficulty": 31.5,
+        "stability": 8.8,
+        "novelty": 21.5,
+        "composition": 7.3,
+        "execution-deduction": 5.8,
+        "special-deduction": 0
+      },
+      "totalScore": 63.3,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "kosaka-ryota",
+      "playerName": "コサカ リョウタ",
+      "scores": {
+        "difficulty": 30.5,
+        "stability": 8.8,
+        "novelty": 22,
+        "composition": 6.5,
+        "execution-deduction": 7.1,
+        "special-deduction": 0
+      },
+      "totalScore": 60.7,
+      "status": "completed"
+    }
+  ],
+  "name": "2ディアボロ(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性度",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "categoryId": "m1dhb",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kanno-joei",
+      "playerName": "カンノジョウエイ",
+      "scores": {
+        "difficulty": 38.5,
+        "stability": 13.8,
+        "novelty": 25.8,
+        "composition": 8.3,
+        "execution-deduction": 0.3,
+        "special-deduction": 0
+      },
+      "totalScore": 86.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "ishimizu-taiki",
+      "playerName": "イシミズ タイキ",
+      "scores": {
+        "difficulty": 39.3,
+        "stability": 12,
+        "novelty": 26.5,
+        "composition": 8,
+        "execution-deduction": 2.6,
+        "special-deduction": 0
+      },
+      "totalScore": 83.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "endo-mamoru",
+      "playerName": "エンドウ マモル",
+      "scores": {
+        "difficulty": 38,
+        "stability": 11.3,
+        "novelty": 26.5,
+        "composition": 7,
+        "execution-deduction": 1.9,
+        "special-deduction": 0
+      },
+      "totalScore": 80.9,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tanaka-tomoyasu",
+      "playerName": "タナカトモヤス",
+      "scores": {
+        "difficulty": 35.8,
+        "stability": 12.3,
+        "novelty": 25.3,
+        "composition": 8,
+        "execution-deduction": 1.8,
+        "special-deduction": 0
+      },
+      "totalScore": 79.6,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kawahara-suguru",
+      "playerName": "カワハラスグル",
+      "scores": {
+        "difficulty": 36,
+        "stability": 9.8,
+        "novelty": 25.3,
+        "composition": 6.8,
+        "execution-deduction": 3,
+        "special-deduction": 0
+      },
+      "totalScore": 74.9,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "suzuki-kanata",
+      "playerName": "スズキ カナタ",
+      "scores": {
+        "difficulty": 34.8,
+        "stability": 8,
+        "novelty": 23.5,
+        "composition": 6.5,
+        "execution-deduction": 5.8,
+        "special-deduction": 0
+      },
+      "totalScore": 67,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "shibata-koki",
+      "playerName": "シバタコウキ",
+      "scores": {
+        "difficulty": 32,
+        "stability": 8.8,
+        "novelty": 20.5,
+        "composition": 7,
+        "execution-deduction": 2.8,
+        "special-deduction": 0
+      },
+      "totalScore": 65.5,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "sakurai-yuto",
+      "playerName": "サクライ ユウト",
+      "scores": {
+        "difficulty": 32.3,
+        "stability": 8.8,
+        "novelty": 20,
+        "composition": 6.5,
+        "execution-deduction": 3,
+        "special-deduction": 0
+      },
+      "totalScore": 64.6,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "oohashi-rento",
+      "playerName": "オオハシレント",
+      "scores": {
+        "difficulty": 33.3,
+        "stability": 9.3,
+        "novelty": 21.3,
+        "composition": 6.8,
+        "execution-deduction": 3.3,
+        "special-deduction": 0
+      },
+      "totalScore": 64.4,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "yoshii-norihiro",
+      "playerName": "ヨシイノリヒロ",
+      "status": "dns"
+    }
+  ],
+  "name": "男子1ディアボロ水平軸(ベアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性度",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

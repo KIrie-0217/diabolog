@@ -1,0 +1,186 @@
+{
+  "categoryId": "mi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-takemi",
+      "playerName": "トリイ タケミ",
+      "scores": {
+        "difficulty": 26.3,
+        "variety": 8,
+        "stability": 7.8,
+        "novelty": 8.5,
+        "composition": 16,
+        "base-score": 20,
+        "execution-deduction": 5.3,
+        "special-deduction": 0
+      },
+      "totalScore": 81.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "tanioka-kaketo",
+      "playerName": "タニオカ カケト",
+      "scores": {
+        "difficulty": 25.8,
+        "variety": 7.5,
+        "stability": 8.5,
+        "novelty": 6,
+        "composition": 14,
+        "base-score": 20,
+        "execution-deduction": 1.2,
+        "special-deduction": 0
+      },
+      "totalScore": 80.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "maeda-ryosuke",
+      "playerName": "マエダ リョウスケ",
+      "scores": {
+        "difficulty": 23.5,
+        "variety": 6.3,
+        "stability": 7,
+        "novelty": 7.5,
+        "composition": 16.3,
+        "base-score": 20,
+        "execution-deduction": 3.8,
+        "special-deduction": 0
+      },
+      "totalScore": 76.8,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tasaki-kosi",
+      "playerName": "タサキ コウシ",
+      "scores": {
+        "difficulty": 22.3,
+        "variety": 6,
+        "stability": 6,
+        "novelty": 5.8,
+        "composition": 15.5,
+        "base-score": 20,
+        "execution-deduction": 1.9,
+        "special-deduction": 0
+      },
+      "totalScore": 73.7,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "watanuki-shunsuke",
+      "playerName": "ワタヌキ シュンスケ",
+      "scores": {
+        "difficulty": 24.3,
+        "variety": 6.3,
+        "stability": 7,
+        "novelty": 8.3,
+        "composition": 14,
+        "base-score": 20,
+        "execution-deduction": 7.2,
+        "special-deduction": 0
+      },
+      "totalScore": 72.7,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "tomita-hikaru",
+      "playerName": "トミタ ヒカル",
+      "scores": {
+        "difficulty": 17.8,
+        "variety": 5.5,
+        "stability": 6.3,
+        "novelty": 4.3,
+        "composition": 18.3,
+        "base-score": 20,
+        "execution-deduction": 2.2,
+        "special-deduction": 0
+      },
+      "totalScore": 70,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "morikoshi-daito",
+      "playerName": "モリコシ ダイト",
+      "scores": {
+        "difficulty": 21.8,
+        "variety": 6.5,
+        "stability": 6.5,
+        "novelty": 7,
+        "composition": 13.3,
+        "base-score": 20,
+        "execution-deduction": 6.4,
+        "special-deduction": 0
+      },
+      "totalScore": 68.7,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "yamazaki-soshi",
+      "playerName": "ヤマザキ ソウシ",
+      "scores": {
+        "difficulty": 19.8,
+        "variety": 5.8,
+        "stability": 6,
+        "novelty": 5.8,
+        "composition": 12.8,
+        "base-score": 20,
+        "execution-deduction": 9.7,
+        "special-deduction": 0
+      },
+      "totalScore": 60.5,
+      "status": "completed"
+    }
+  ],
+  "name": "男子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性度",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

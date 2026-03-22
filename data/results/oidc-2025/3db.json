@@ -1,0 +1,96 @@
+{
+  "categoryId": "3db",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "cho-tzu-hung",
+      "playerName": "曹子宏 / CHO,TZU,HUNG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 42,
+        "stability": 13.3,
+        "novelty": 23.8,
+        "composition": 8,
+        "execution-deduction": 1.5
+      },
+      "totalScore": 85.6,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "yeh-tzu-hao",
+      "playerName": "葉子豪 / YEH TZU HAO",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 37.8,
+        "stability": 13.3,
+        "novelty": 23.8,
+        "composition": 7.5,
+        "execution-deduction": 1.3
+      },
+      "totalScore": 81.1,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "wu-you-qi",
+      "playerName": "吳祐齊 / WU YOU QI",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 28.3,
+        "stability": 9.5,
+        "novelty": 20.8,
+        "composition": 6.5,
+        "execution-deduction": 5.3
+      },
+      "totalScore": 59.8,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chen-shuo-chen",
+      "playerName": "陳辰碩 / Chen Shuo Chen",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 30.5,
+        "stability": 8.5,
+        "novelty": 21,
+        "composition": 5.5,
+        "execution-deduction": 8.8
+      },
+      "totalScore": 56.7,
+      "status": "completed"
+    }
+  ],
+  "name": "3ディアボロ(ベアリング)部門",
+  "nameEn": "3diabolo (bearing axle) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ]
+}

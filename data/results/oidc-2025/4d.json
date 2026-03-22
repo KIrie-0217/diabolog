@@ -1,0 +1,157 @@
+{
+  "categoryId": "4d",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "li-yi-hua",
+      "playerName": "李翊華 / LI YI HUA",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 47.5,
+        "stability": 12.8,
+        "novelty": 24.3,
+        "execution-deduction": 1.4
+      },
+      "totalScore": 83.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "chen-shuo-chen",
+      "playerName": "陳辰碩 / Chen Shuo Chen",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 50.8,
+        "stability": 11.5,
+        "novelty": 24,
+        "execution-deduction": 3.3
+      },
+      "totalScore": 83,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "zheng-kang-ping",
+      "playerName": "鄭康平 / ZHENG-KANG-PING",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 46.8,
+        "stability": 11.5,
+        "novelty": 22.8,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 78.3,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "yeh-tzu-hao",
+      "playerName": "葉子豪 / YEH TZU HAO",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 44,
+        "stability": 11,
+        "novelty": 21.5,
+        "execution-deduction": 2.9
+      },
+      "totalScore": 73.6,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "cho-tzu-hung",
+      "playerName": "曹子宏 / CHO, TZU, HUNG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 41.5,
+        "stability": 8.8,
+        "novelty": 22.5,
+        "execution-deduction": 4.5
+      },
+      "totalScore": 68.3,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kao-yang-te",
+      "playerName": "高仰德 / KAO YANG-TE",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 39.8,
+        "stability": 7.5,
+        "novelty": 20.8,
+        "execution-deduction": 7.1
+      },
+      "totalScore": 61,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "kudo-masahiro",
+      "playerName": "工藤 正景 / Masahiro Kudo",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 35.5,
+        "stability": 8.5,
+        "novelty": 16.5,
+        "execution-deduction": 2.9
+      },
+      "totalScore": 57.6,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "chao-yu-sung",
+      "playerName": "趙昱淞 / CHAO,YU-SUNG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 36.3,
+        "stability": 7.8,
+        "novelty": 19,
+        "execution-deduction": 5.8
+      },
+      "totalScore": 57.3,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "lin-chen-hua",
+      "playerName": "林晨華 / LIN,CHEN-HUA",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 35.3,
+        "stability": 7.5,
+        "novelty": 17,
+        "execution-deduction": 4.9
+      },
+      "totalScore": 54.9,
+      "status": "completed"
+    }
+  ],
+  "name": "4ディアボロ部門",
+  "nameEn": "4diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ]
+}

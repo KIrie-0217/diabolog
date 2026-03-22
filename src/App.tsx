@@ -37,7 +37,7 @@ export function App() {
         <Container size="lg" h="100%">
           <Group h="100%" justify="space-between">
             <Anchor component={Link} to="/" underline="never">
-              <Title order={4}>Diabolog</Title>
+              <Title order={4}>Diabolife</Title>
             </Anchor>
             <Group gap="md" visibleFrom="sm">
               <Anchor component={Link} to="/competitions">
