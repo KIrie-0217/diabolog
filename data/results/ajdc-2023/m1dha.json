@@ -1,0 +1,33 @@
+{
+  "categoryId": "m1dha",
+  "name": "男子1ディアボロ水平軸(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "inaba-wataru", "playerName": "イナバワタル", "scores": { "difficulty": 41.5, "stability": 14.0, "novelty": 25.8, "composition": 8.0, "execution-deduction": 0.1, "special-deduction": 0 }, "totalScore": 89.2, "status": "completed" },
+    { "rank": 2, "playerId": "kubota-taiga", "playerName": "クボタタイガ", "scores": { "difficulty": 40.5, "stability": 13.0, "novelty": 25.8, "composition": 7.8, "execution-deduction": 0.1, "special-deduction": 0 }, "totalScore": 87.0, "status": "completed" },
+    { "rank": 3, "playerId": "kosaka-ryota", "playerName": "コサカ リョウタ", "scores": { "difficulty": 39.0, "stability": 13.0, "novelty": 26.0, "composition": 7.8, "execution-deduction": 1.5, "special-deduction": 0 }, "totalScore": 84.3, "status": "completed" },
+    { "rank": 4, "playerId": "sugito-youta", "playerName": "スギトヨウタ", "scores": { "difficulty": 37.5, "stability": 13.8, "novelty": 26.0, "composition": 8.5, "execution-deduction": 2.4, "special-deduction": 0 }, "totalScore": 83.4, "status": "completed" },
+    { "rank": 5, "playerId": "kanno-joei", "playerName": "カンノジョウエイ", "scores": { "difficulty": 40.0, "stability": 12.3, "novelty": 25.8, "composition": 7.8, "execution-deduction": 2.9, "special-deduction": 0 }, "totalScore": 83.0, "status": "completed" },
+    { "rank": 6, "playerId": "tsuda-manato", "playerName": "ツダ マナト", "scores": { "difficulty": 38.3, "stability": 12.0, "novelty": 24.8, "composition": 7.3, "execution-deduction": 1.3, "special-deduction": 0 }, "totalScore": 81.1, "status": "completed" },
+    { "rank": 7, "playerId": "yamamoto-takashi", "playerName": "ヤマモト タカシ", "scores": { "difficulty": 38.8, "stability": 12.8, "novelty": 26.3, "composition": 7.8, "execution-deduction": 4.6, "special-deduction": 0 }, "totalScore": 81.1, "status": "completed" },
+    { "rank": 8, "playerId": "irie-koshiro", "playerName": "イリエコウシロウ", "scores": { "difficulty": 39.0, "stability": 11.8, "novelty": 25.5, "composition": 7.3, "execution-deduction": 3.4, "special-deduction": 0 }, "totalScore": 80.2, "status": "completed" },
+    { "rank": 9, "playerId": "sudo-keita", "playerName": "スドウ ケイタ", "scores": { "difficulty": 38.3, "stability": 11.8, "novelty": 26.0, "composition": 7.3, "execution-deduction": 3.3, "special-deduction": 0 }, "totalScore": 80.1, "status": "completed" },
+    { "rank": 10, "playerId": "takeuchi-souta", "playerName": "タケウチソウタ", "scores": { "difficulty": 34.3, "stability": 11.3, "novelty": 23.0, "composition": 6.8, "execution-deduction": 2.5, "special-deduction": 0 }, "totalScore": 72.9, "status": "completed" },
+    { "rank": 11, "playerId": "sato-nobu", "playerName": "サトウ ノブ", "scores": { "difficulty": 34.0, "stability": 11.8, "novelty": 22.5, "composition": 6.5, "execution-deduction": 2.4, "special-deduction": 0 }, "totalScore": 72.4, "status": "completed" },
+    { "rank": 12, "playerId": "yano-atsushi", "playerName": "ヤノアツシ", "scores": { "difficulty": 34.3, "stability": 10.0, "novelty": 22.3, "composition": 6.5, "execution-deduction": 4.1, "special-deduction": 0 }, "totalScore": 69.0, "status": "completed" },
+    { "rank": 13, "playerId": "matsumura-takao", "playerName": "マツムラタカオ", "scores": { "difficulty": 33.3, "stability": 10.0, "novelty": 22.8, "composition": 7.0, "execution-deduction": 4.1, "special-deduction": 0 }, "totalScore": 69.0, "status": "completed" },
+    { "rank": 14, "playerId": "tanabe-shinji", "playerName": "タナベ シンジ", "scores": { "difficulty": 32.3, "stability": 9.3, "novelty": 23.3, "composition": 6.5, "execution-deduction": 3.9, "special-deduction": 0 }, "totalScore": 67.5, "status": "completed" },
+    { "rank": 15, "playerId": "ishiwata-sui", "playerName": "イシワタスイ", "scores": { "difficulty": 31.3, "stability": 8.0, "novelty": 21.0, "composition": 6.0, "execution-deduction": 8.9, "special-deduction": 0 }, "totalScore": 57.4, "status": "completed" },
+    { "rank": null, "playerId": "hosokawa-kyouya", "playerName": "ホソカワ キョウヤ", "status": "dns" },
+    { "rank": null, "playerId": "matsumae-nozomi", "playerName": "マツマエノゾミ", "status": "dns" }
+  ]
+}

@@ -70,7 +70,8 @@
     "canonicalName": "入江航士朗 / Koshiro Irie",
     "aliases": [
       "入江航士朗 / Koshiro Irie",
-      "イリエ コウシロウ"
+      "イリエ コウシロウ",
+      "イリエコウシロウ"
     ],
     "nationality": "Japan"
   },
@@ -127,7 +128,8 @@
     "canonicalName": "久保田 大雅 / Taiga Kubota",
     "aliases": [
       "久保田 大雅 / Taiga Kubota",
-      "クボタ タイガ"
+      "クボタ タイガ",
+      "クボタタイガ"
     ],
     "nationality": "Japan"
   },
@@ -375,7 +377,8 @@
   "kanehira-shinichi": {
     "canonicalName": "カネヒラ シンイチ",
     "aliases": [
-      "カネヒラ シンイチ"
+      "カネヒラ シンイチ",
+      "カネヒラシンイチ"
     ],
     "nationality": "Japan"
   },
@@ -526,7 +529,8 @@
   "kudo-masahiro": {
     "canonicalName": "工藤 正景 / Masahiro Kudo",
     "aliases": [
-      "工藤 正景 / Masahiro Kudo"
+      "工藤 正景 / Masahiro Kudo",
+      "クドウ マサヒロ"
     ],
     "nationality": "Japan"
   },
@@ -562,7 +566,8 @@
   "fuse-koichiro": {
     "canonicalName": "布施孝一郎 / Koichiro Fuse",
     "aliases": [
-      "布施孝一郎 / Koichiro Fuse"
+      "布施孝一郎 / Koichiro Fuse",
+      "フセコウイチロウ"
     ],
     "nationality": "Japan"
   },
@@ -974,7 +979,8 @@
     "canonicalName": "渡邊陽仁 / Haruto Watanabe",
     "nationality": "Japan",
     "aliases": [
-      "渡邊陽仁 / Haruto Watanabe"
+      "渡邊陽仁 / Haruto Watanabe",
+      "ワタナベ ハルト"
     ]
   },
   "zheng-hao-jie": {
@@ -1198,7 +1204,8 @@
     "canonicalName": "本多翔 / Sho Honda",
     "nationality": "Japan",
     "aliases": [
-      "本多翔 / Sho Honda"
+      "本多翔 / Sho Honda",
+      "ホンダショウ"
     ]
   },
   "chang-tzu-wei": {
@@ -1362,7 +1369,8 @@
     "canonicalName": "ホソカワキョウヤ",
     "nationality": "Japan",
     "aliases": [
-      "ホソカワキョウヤ"
+      "ホソカワキョウヤ",
+      "ホソカワ キョウヤ"
     ]
   },
   "shimizu-kouta": {
@@ -1370,7 +1378,8 @@
     "nationality": "Japan",
     "aliases": [
       "シミズコウタ",
-      "清水公太 / Shimizu Kota"
+      "清水公太 / Shimizu Kota",
+      "シミズ コウタ"
     ]
   },
   "tang-jing-xiang": {
@@ -1531,21 +1540,24 @@
     "canonicalName": "梶原 智人 / Kazihara Tomohito",
     "nationality": "Japan",
     "aliases": [
-      "梶原 智人 / Kazihara Tomohito"
+      "梶原 智人 / Kazihara Tomohito",
+      "カジハラトモヒト"
     ]
   },
   "kameyama-saku": {
     "canonicalName": "亀山咲 / Kameyama Saku",
     "nationality": "Japan",
     "aliases": [
-      "亀山咲 / Kameyama Saku"
+      "亀山咲 / Kameyama Saku",
+      "カメヤマサクタロウ"
     ]
   },
   "emoto-haruki": {
     "canonicalName": "江本 晴喜 / Emoto Haruki",
     "nationality": "Japan",
     "aliases": [
-      "江本 晴喜 / Emoto Haruki"
+      "江本 晴喜 / Emoto Haruki",
+      "エモトハルキ"
     ]
   },
   "cho-chia-min": {
@@ -1662,6 +1674,136 @@
     "canonicalName": "亀山咲/江本 晴喜",
     "aliases": [
       "亀山咲/江本 晴喜 / Kameyama Saku/Emoto Haruki"
+    ]
+  },
+  "saito-ryo": {
+    "canonicalName": "サイトウ リョウ",
+    "nationality": "Japan",
+    "aliases": [
+      "サイトウ リョウ"
+    ]
+  },
+  "suda-erika": {
+    "canonicalName": "スダエリカ",
+    "nationality": "Japan",
+    "aliases": [
+      "スダエリカ"
+    ]
+  },
+  "nishi-yamato": {
+    "canonicalName": "ニシヤマト",
+    "nationality": "Japan",
+    "aliases": [
+      "ニシヤマト"
+    ]
+  },
+  "ichikawa-yuuma": {
+    "canonicalName": "イチカワ ユウマ",
+    "nationality": "Japan",
+    "aliases": [
+      "イチカワ ユウマ"
+    ]
+  },
+  "makino-sena": {
+    "canonicalName": "マキノセナ",
+    "nationality": "Japan",
+    "aliases": [
+      "マキノセナ"
+    ]
+  },
+  "ichikawa-hotaru": {
+    "canonicalName": "イチカワ ホタル",
+    "nationality": "Japan",
+    "aliases": [
+      "イチカワ ホタル"
+    ]
+  },
+  "hara-keito": {
+    "canonicalName": "ハラケイト",
+    "nationality": "Japan",
+    "aliases": [
+      "ハラケイト"
+    ]
+  },
+  "matsumura-takao": {
+    "canonicalName": "マツムラタカオ",
+    "nationality": "Japan",
+    "aliases": [
+      "マツムラタカオ"
+    ]
+  },
+  "sugito-youta": {
+    "canonicalName": "スギトヨウタ",
+    "nationality": "Japan",
+    "aliases": [
+      "スギトヨウタ"
+    ]
+  },
+  "takeuchi-souta": {
+    "canonicalName": "タケウチソウタ",
+    "nationality": "Japan",
+    "aliases": [
+      "タケウチソウタ"
+    ]
+  },
+  "sato-nobu": {
+    "canonicalName": "サトウ ノブ",
+    "nationality": "Japan",
+    "aliases": [
+      "サトウ ノブ"
+    ]
+  },
+  "ishiwata-sui": {
+    "canonicalName": "イシワタスイ",
+    "nationality": "Japan",
+    "aliases": [
+      "イシワタスイ"
+    ]
+  },
+  "isobe-takumi": {
+    "canonicalName": "イソベ タクミ",
+    "nationality": "Japan",
+    "aliases": [
+      "イソベ タクミ"
+    ]
+  },
+  "shinpuku-naoya": {
+    "canonicalName": "シンプクナオヤ",
+    "nationality": "Japan",
+    "aliases": [
+      "シンプクナオヤ"
+    ]
+  },
+  "tanioka-takeyuki": {
+    "canonicalName": "タニオカ タケユキ",
+    "nationality": "Japan",
+    "aliases": [
+      "タニオカ タケユキ"
+    ]
+  },
+  "date-yuichiro": {
+    "canonicalName": "ダテユウイチロウ",
+    "nationality": "Japan",
+    "aliases": [
+      "ダテユウイチロウ"
+    ]
+  },
+  "kajihara-tomohito+tanioka-takeyuki": {
+    "canonicalName": "カジハラトモヒト/タニオカ タケユキ",
+    "aliases": [
+      "カジハラトモヒト/タニオカ タケユキ"
+    ]
+  },
+  "ichikawa-yuuma+tanioka-kaketo": {
+    "canonicalName": "イチカワ ユウマ/タニオカ カケト",
+    "aliases": [
+      "イチカワ ユウマ/タニオカ カケト"
+    ]
+  },
+  "emoto-haruki+kameyama-saku": {
+    "canonicalName": "エモトハルキ/カメヤマサクタロウ",
+    "aliases": [
+      "エモトハルキ/カメヤマサクタロウ"
     ]
   }
 }

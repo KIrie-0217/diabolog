@@ -1,0 +1,11 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "ichikawa-hotaru", "playerName": "イチカワ ホタル", "count": 29, "class": "A", "status": "completed" }
+  ]
+}

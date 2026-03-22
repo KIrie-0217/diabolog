@@ -1,0 +1,12 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "kajihara-tomohito+tanioka-takeyuki", "playerName": "カジハラトモヒト/タニオカ タケユキ", "count": 38, "note": "クラスB 日本新記録", "status": "completed" },
+    { "rank": 2, "playerId": "ichikawa-yuuma+tanioka-kaketo", "playerName": "イチカワ ユウマ/タニオカ カケト", "count": 32, "status": "completed" },
+    { "rank": 3, "playerId": "emoto-haruki+kameyama-saku", "playerName": "エモトハルキ/カメヤマサクタロウ", "count": 2, "status": "completed" }
+  ]
+}

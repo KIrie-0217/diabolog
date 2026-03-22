@@ -1,0 +1,18 @@
+{
+  "categoryId": "2db",
+  "name": "2ディアボロ(ベアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "sunahara-hiroto", "playerName": "スナハラヒロト", "scores": { "difficulty": 41.0, "stability": 13.3, "novelty": 26.3, "composition": 7.5, "execution-deduction": 0.0, "special-deduction": 0 }, "totalScore": 88.1, "status": "completed" },
+    { "rank": 2, "playerId": "fuse-koichiro", "playerName": "フセコウイチロウ", "scores": { "difficulty": 37.5, "stability": 11.8, "novelty": 27.3, "composition": 6.8, "execution-deduction": 0.8, "special-deduction": 0 }, "totalScore": 82.6, "status": "completed" }
+  ]
+}

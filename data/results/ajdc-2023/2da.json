@@ -1,0 +1,25 @@
+{
+  "categoryId": "2da",
+  "name": "2ディアボロ(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "kanehira-shinichi", "playerName": "カネヒラシンイチ", "scores": { "difficulty": 39.8, "stability": 13.8, "novelty": 27.3, "composition": 8.3, "execution-deduction": 0.0, "special-deduction": 0 }, "totalScore": 89.2, "status": "completed" },
+    { "rank": 2, "playerId": "ishimizu-taiki", "playerName": "イシミズ タイキ", "scores": { "difficulty": 40.8, "stability": 13.3, "novelty": 26.0, "composition": 8.5, "execution-deduction": 0.0, "special-deduction": 0 }, "totalScore": 88.6, "status": "completed" },
+    { "rank": 3, "playerId": "hara-keito", "playerName": "ハラケイト", "scores": { "difficulty": 39.3, "stability": 13.8, "novelty": 26.3, "composition": 9.0, "execution-deduction": 0.0, "special-deduction": 0 }, "totalScore": 88.4, "status": "completed" },
+    { "rank": 4, "playerId": "kosaka-ryota", "playerName": "コサカ リョウタ", "scores": { "difficulty": 40.5, "stability": 12.5, "novelty": 26.5, "composition": 8.0, "execution-deduction": 2.0, "special-deduction": 0 }, "totalScore": 85.5, "status": "completed" },
+    { "rank": 5, "playerId": "irie-koshiro", "playerName": "イリエコウシロウ", "scores": { "difficulty": 40.0, "stability": 11.5, "novelty": 26.3, "composition": 7.3, "execution-deduction": 2.8, "special-deduction": 0 }, "totalScore": 82.3, "status": "completed" },
+    { "rank": 6, "playerId": "takahashi-rensho", "playerName": "タカハシレンショウ", "scores": { "difficulty": 38.8, "stability": 11.5, "novelty": 26.8, "composition": 7.0, "execution-deduction": 3.5, "special-deduction": 0 }, "totalScore": 80.6, "status": "completed" },
+    { "rank": 7, "playerId": "matsumura-takao", "playerName": "マツムラタカオ", "scores": { "difficulty": 37.5, "stability": 11.3, "novelty": 24.0, "composition": 7.3, "execution-deduction": 2.4, "special-deduction": 0 }, "totalScore": 77.7, "status": "completed" },
+    { "rank": 8, "playerId": "yamamoto-takashi", "playerName": "ヤマモト タカシ", "scores": { "difficulty": 36.5, "stability": 11.0, "novelty": 25.0, "composition": 6.0, "execution-deduction": 5.9, "special-deduction": 0 }, "totalScore": 72.6, "status": "completed" },
+    { "rank": 9, "playerId": "ichikawa-yuuma", "playerName": "イチカワ ユウマ", "scores": { "difficulty": 34.3, "stability": 12.3, "novelty": 21.8, "composition": 6.8, "execution-deduction": 4.4, "special-deduction": 0 }, "totalScore": 70.8, "status": "completed" }
+  ]
+}

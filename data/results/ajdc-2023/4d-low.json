@@ -1,0 +1,11 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "kajihara-tomohito", "playerName": "カジハラトモヒト", "count": 102, "class": "A", "status": "completed" },
+    { "rank": null, "playerId": "makino-sena", "playerName": "マキノセナ", "status": "dns" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "suda-erika", "playerName": "スダエリカ", "scores": { "difficulty": 34.5, "stability": 13.3, "novelty": 20.3, "composition": 8.3, "execution-deduction": 0.3, "special-deduction": 0 }, "totalScore": 76.1, "status": "completed" }
+  ]
+}

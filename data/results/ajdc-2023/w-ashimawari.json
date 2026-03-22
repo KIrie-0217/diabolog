@@ -1,0 +1,11 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "ichikawa-hotaru", "playerName": "イチカワ ホタル", "count": 87, "class": "A", "note": "日本新記録", "status": "completed" }
+  ]
+}
