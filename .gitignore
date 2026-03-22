@@ -25,6 +25,7 @@ dist-ssr
 
 # Competition Raw Data
 raw/*/
+!raw/PDF_EXTRACTION_TEMPLATE.md
 
 # Generated data (built from data/ source)
 public/data/results/
