@@ -4,12 +4,9 @@
   "class": "challenge",
   "scoringType": "endurance",
   "enduranceUnit": "回数",
+  "hasClass": true,
   "results": [
-    { "rank": 1, "playerId": "watanuki-shunsuke", "playerName": "ワタヌキ シュンスケ", "count": 231, "status": "completed" },
-    { "rank": 2, "playerId": "ishimizu-taiki", "playerName": "イシミズ タイキ", "count": 86, "status": "completed" },
-    { "rank": 3, "playerId": "yamamoto-takashi", "playerName": "ヤマモト タカシ", "count": 39, "status": "completed" },
-    { "rank": 4, "playerId": "kosaka-ryota", "playerName": "コサカ リョウタ", "count": 15, "status": "completed" },
-    { "rank": 5, "playerId": "kudo-masahiro", "playerName": "クドウ マサヒロ", "count": 14, "status": "completed" },
+    { "rank": 1, "playerId": "kajihara-tomohito", "playerName": "カジハラトモヒト", "count": 102, "class": "A", "status": "completed" },
     { "rank": null, "playerId": "makino-sena", "playerName": "マキノセナ", "status": "dns" }
   ]
 }
