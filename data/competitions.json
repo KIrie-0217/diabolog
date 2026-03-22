@@ -345,5 +345,68 @@
         "class": "challenge"
       }
     ]
+  },
+  {
+    "id": "ajdc-2024",
+    "name": "第十三回全日本ディアボロ選手権大会",
+    "shortName": "AJDC 2024",
+    "location": "TBD",
+    "venue": "TBD",
+    "startDate": "TBD",
+    "endDate": "TBD",
+    "resultUrl": "",
+    "awards": [],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      }
+    ]
   }
 ]

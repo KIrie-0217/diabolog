@@ -1,0 +1,12 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "ishimizu-taiki", "playerName": "イシミズタイキ", "count": 270, "status": "completed" },
+    { "rank": 2, "playerId": "watanuki-shunsuke", "playerName": "ワタヌキ シュンスケ", "count": 190, "status": "completed" },
+    { "rank": 3, "playerId": "agou-tensei", "playerName": "アゴウ テンセイ", "count": 9, "status": "completed" }
+  ]
+}

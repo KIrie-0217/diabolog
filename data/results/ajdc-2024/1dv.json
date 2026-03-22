@@ -1,0 +1,23 @@
+{
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "yagami-rintaro", "playerName": "ヤガミ リンタロウ", "scores": { "difficulty": 40.8, "stability": 11.8, "novelty": 27.8, "composition": 7.5 }, "totalScore": 83.9, "status": "completed" },
+    { "rank": 2, "playerId": "maeda-ryosuke", "playerName": "マエダ リョウスケ", "scores": { "difficulty": 39.0, "stability": 11.8, "novelty": 25.3, "composition": 8.0 }, "totalScore": 82.5, "status": "completed" },
+    { "rank": 3, "playerId": "tsuda-manato", "playerName": "ツダ マナト", "scores": { "difficulty": 40.0, "stability": 12.5, "novelty": 26.3, "composition": 6.5 }, "totalScore": 82.3, "status": "completed" },
+    { "rank": 4, "playerId": "kamei-hiroki", "playerName": "カメイヒロキ", "scores": { "difficulty": 35.3, "stability": 11.5, "novelty": 25.8, "composition": 8.5 }, "totalScore": 79.6, "status": "completed" },
+    { "rank": 5, "playerId": "hashimoto-tatsuro", "playerName": "ハシモトタツロウ", "scores": { "difficulty": 37.0, "stability": 11.0, "novelty": 25.0, "composition": 6.8 }, "totalScore": 79.0, "status": "completed" },
+    { "rank": 6, "playerId": "takano-sho", "playerName": "タカノショウ", "scores": { "difficulty": 36.3, "stability": 12.0, "novelty": 23.8, "composition": 7.5 }, "totalScore": 78.0, "status": "completed" },
+    { "rank": 7, "playerId": "suzuki-akito", "playerName": "スズキアキト", "scores": { "difficulty": 35.5, "stability": 11.3, "novelty": 24.8, "composition": 6.3 }, "totalScore": 74.6, "status": "completed" },
+    { "rank": 8, "playerId": "sunahara-hiroto", "playerName": "スナハラヒロト", "scores": { "difficulty": 34.3, "stability": 12.0, "novelty": 22.0, "composition": 7.0 }, "totalScore": 71.9, "status": "completed" },
+    { "rank": 9, "playerId": "urayama-masatsugu", "playerName": "ウラヤマ マサツグ", "scores": { "difficulty": 29.3, "stability": 9.3, "novelty": 18.3, "composition": 6.3 }, "totalScore": 57.4, "status": "completed" }
+  ]
+}

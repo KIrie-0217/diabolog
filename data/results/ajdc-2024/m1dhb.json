@@ -1,0 +1,22 @@
+{
+  "categoryId": "m1dhb",
+  "name": "男子1ディアボロ水平軸(ベアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "yagami-rintaro", "playerName": "ヤガミ リンタロウ", "scores": { "difficulty": 42.3, "stability": 12.3, "novelty": 28.0, "composition": 8.0 }, "totalScore": 88.7, "status": "completed" },
+    { "rank": 2, "playerId": "ishimizu-taiki", "playerName": "イシミズタイキ", "scores": { "difficulty": 40.8, "stability": 12.8, "novelty": 26.5, "composition": 9.0 }, "totalScore": 86.6, "status": "completed" },
+    { "rank": 3, "playerId": "endo-mamoru", "playerName": "エンドウ マモル", "scores": { "difficulty": 38.5, "stability": 11.8, "novelty": 25.5, "composition": 7.0 }, "totalScore": 81.4, "status": "completed" },
+    { "rank": 4, "playerId": "tanaka-tomoyasu", "playerName": "タナカ トモヤス", "scores": { "difficulty": 36.5, "stability": 11.8, "novelty": 24.5, "composition": 7.5 }, "totalScore": 77.8, "status": "completed" },
+    { "rank": 5, "playerId": "tomita-ryohei", "playerName": "トミタ リョウヘイ", "scores": { "difficulty": 35.5, "stability": 12.5, "novelty": 23.3, "composition": 8.0 }, "totalScore": 77.5, "status": "completed" },
+    { "rank": 6, "playerId": "shimizu-kouta", "playerName": "シミズコウタ", "scores": { "difficulty": 38.0, "stability": 11.0, "novelty": 23.0, "composition": 6.8 }, "totalScore": 76.0, "status": "completed" },
+    { "rank": 7, "playerId": "kosaka-ryota", "playerName": "コサカ リョウタ", "scores": { "difficulty": 36.0, "stability": 11.5, "novelty": 24.0, "composition": 6.3 }, "totalScore": 75.0, "status": "completed" },
+    { "rank": 8, "playerId": "kawahara-suguru", "playerName": "カワハラ スグル", "scores": { "difficulty": 31.5, "stability": 9.0, "novelty": 22.0, "composition": 5.3 }, "totalScore": 60.5, "status": "completed" }
+  ]
+}

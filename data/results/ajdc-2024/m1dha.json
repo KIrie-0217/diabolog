@@ -1,0 +1,26 @@
+{
+  "categoryId": "m1dha",
+  "name": "男子1ディアボロ水平軸(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "kanno-joei", "playerName": "カンノジョウエイ", "scores": { "difficulty": 42.3, "stability": 13.8, "novelty": 26.8, "composition": 8.8 }, "totalScore": 91.7, "status": "completed" },
+    { "rank": 2, "playerId": "watanuki-shunsuke", "playerName": "ワタヌキ シュンスケ", "scores": { "difficulty": 42.0, "stability": 13.5, "novelty": 26.5, "composition": 7.3 }, "totalScore": 87.9, "status": "completed" },
+    { "rank": 3, "playerId": "inaba-wataru", "playerName": "イナバワタル", "scores": { "difficulty": 41.3, "stability": 13.5, "novelty": 24.3, "composition": 6.5 }, "totalScore": 84.7, "status": "completed" },
+    { "rank": 4, "playerId": "kubota-taiga", "playerName": "クボタ タイガ", "scores": { "difficulty": 40.0, "stability": 12.0, "novelty": 25.5, "composition": 7.8 }, "totalScore": 84.2, "status": "completed" },
+    { "rank": 5, "playerId": "omagari-shintaro", "playerName": "オマガリ シンタロウ", "scores": { "difficulty": 39.0, "stability": 13.0, "novelty": 26.5, "composition": 7.3 }, "totalScore": 83.7, "status": "completed" },
+    { "rank": 6, "playerId": "sudo-keita", "playerName": "スドウケイタ", "scores": { "difficulty": 39.8, "stability": 12.0, "novelty": 25.8, "composition": 7.0 }, "totalScore": 82.8, "status": "completed" },
+    { "rank": 7, "playerId": "yamamoto-takashi", "playerName": "ヤマモト タカシ", "scores": { "difficulty": 40.3, "stability": 12.3, "novelty": 26.5, "composition": 7.0 }, "totalScore": 81.8, "status": "completed" },
+    { "rank": 8, "playerId": "matsumae-nozomi", "playerName": "マツマエノゾミ", "scores": { "difficulty": 35.3, "stability": 9.3, "novelty": 24.3, "composition": 6.5 }, "totalScore": 69.3, "status": "completed" },
+    { "rank": 9, "playerId": "kuniya-mizuki", "playerName": "クニヤミズキ", "scores": { "difficulty": 34.3, "stability": 11.3, "novelty": 22.0, "composition": 5.8 }, "totalScore": 68.6, "status": "completed" },
+    { "rank": 10, "playerId": "hosokawa-kyouya", "playerName": "ホソカワキョウヤ", "scores": { "difficulty": 33.5, "stability": 8.8, "novelty": 22.8, "composition": 6.8 }, "totalScore": 67.3, "status": "completed" },
+    { "rank": 11, "playerId": "tanabe-shinji", "playerName": "タナベ シンジ", "scores": { "difficulty": 31.8, "stability": 8.5, "novelty": 23.0, "composition": 5.8 }, "totalScore": 64.1, "status": "completed" },
+    { "rank": null, "playerId": "amano-kouta", "playerName": "アマノ コウタ", "status": "dns" }
+  ]
+}

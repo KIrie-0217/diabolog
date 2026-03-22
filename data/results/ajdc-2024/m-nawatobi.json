@@ -1,0 +1,11 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "tsuda-manato", "playerName": "ツダ マナト", "count": 9, "class": "B", "status": "completed" }
+  ]
+}

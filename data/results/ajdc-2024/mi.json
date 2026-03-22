@@ -1,0 +1,24 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "agou-tensei", "playerName": "アゴウテンセイ", "scores": { "difficulty": 25.0, "variety": 8.3, "stability": 9.0, "novelty": 7.3, "composition": 18.5 }, "totalScore": 86.9, "status": "completed" },
+    { "rank": 2, "playerId": "maeda-ryosuke", "playerName": "マエダリョウスケ", "scores": { "difficulty": 24.8, "variety": 7.8, "stability": 8.3, "novelty": 8.0, "composition": 17.8 }, "totalScore": 85.6, "status": "completed" },
+    { "rank": 3, "playerId": "tsuda-manato", "playerName": "ツダ マナト", "scores": { "difficulty": 26.5, "variety": 7.0, "stability": 8.0, "novelty": 8.5, "composition": 15.5 }, "totalScore": 84.0, "status": "completed" },
+    { "rank": 4, "playerId": "ishimizu-taiki", "playerName": "イシミズタイキ", "scores": { "difficulty": 24.5, "variety": 8.3, "stability": 7.0, "novelty": 8.0, "composition": 17.0 }, "totalScore": 78.2, "status": "completed" },
+    { "rank": 5, "playerId": "morikoshi-daito", "playerName": "モリコシダイト", "scores": { "difficulty": 22.8, "variety": 7.5, "stability": 7.0, "novelty": 6.8, "composition": 13.8 }, "totalScore": 74.1, "status": "completed" },
+    { "rank": 6, "playerId": "kosaka-ryota", "playerName": "コサカ リョウタ", "scores": { "difficulty": 21.8, "variety": 6.8, "stability": 6.5, "novelty": 7.3, "composition": 14.3 }, "totalScore": 70.9, "status": "completed" },
+    { "rank": 7, "playerId": "tomita-hikaru", "playerName": "トミタ ヒカル", "scores": { "difficulty": 20.0, "variety": 7.0, "stability": 6.8, "novelty": 6.0, "composition": 15.8 }, "totalScore": 70.4, "status": "completed" },
+    { "rank": 8, "playerId": "yasunaga-nao", "playerName": "ヤスナガ ナオ", "scores": { "difficulty": 19.5, "variety": 6.8, "stability": 6.5, "novelty": 6.5, "composition": 15.3 }, "totalScore": 69.8, "status": "completed" },
+    { "rank": 9, "playerId": "tasaki-kosi", "playerName": "タサキコウシ", "scores": { "difficulty": 18.8, "variety": 6.5, "stability": 5.5, "novelty": 6.3, "composition": 13.8 }, "totalScore": 65.0, "status": "completed" }
+  ]
+}

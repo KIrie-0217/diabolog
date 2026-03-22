@@ -1,0 +1,20 @@
+{
+  "categoryId": "mj",
+  "name": "男子個人総合ジュニア部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tanioka-kaketo", "playerName": "タニオカ カケト", "scores": { "difficulty": 28.3, "variety": 17.8, "stability": 13.3, "novelty": 7.8, "composition": 8.0 }, "totalScore": 87.5, "status": "completed" },
+    { "rank": 2, "playerId": "tezuka-sei", "playerName": "テヅカ セイ", "scores": { "difficulty": 21.0, "variety": 13.5, "stability": 9.3, "novelty": 6.0, "composition": 5.8 }, "totalScore": 63.8, "status": "completed" },
+    { "rank": 3, "playerId": "ishida-masayoshi", "playerName": "イシダ マサヨシ", "scores": { "difficulty": 19.0, "variety": 12.5, "stability": 8.5, "novelty": 5.0, "composition": 5.8 }, "totalScore": 58.8, "status": "completed" },
+    { "rank": 4, "playerId": "seki-souta", "playerName": "セキソウタ", "scores": { "difficulty": 17.0, "variety": 10.8, "stability": 7.0, "novelty": 4.8, "composition": 5.5 }, "totalScore": 49.6, "status": "completed" },
+    { "rank": null, "playerId": "amano-kouta", "playerName": "アマノ コウタ", "status": "dns" }
+  ]
+}

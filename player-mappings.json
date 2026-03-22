@@ -143,7 +143,8 @@
     "canonicalName": "河原 優 / Suguru Kawahara",
     "aliases": [
       "河原 優 / Suguru Kawahara",
-      "カワハラスグル"
+      "カワハラスグル",
+      "カワハラ スグル"
     ],
     "nationality": "Japan"
   },
@@ -200,7 +201,8 @@
     "canonicalName": "橋本 竜郎 / Tatsuro Hashimoto",
     "aliases": [
       "橋本 竜郎 / Tatsuro Hashimoto",
-      "ハシモト タツロウ"
+      "ハシモト タツロウ",
+      "ハシモトタツロウ"
     ],
     "nationality": "Japan"
   },
@@ -289,7 +291,8 @@
     "canonicalName": "ミヤタダイキ",
     "aliases": [
       "ミヤタダイキ",
-      "宮田 大輝 / Miyata Daiki"
+      "宮田 大輝 / Miyata Daiki",
+      "ミヤタ ダイキ"
     ],
     "nationality": "Japan"
   },
@@ -370,7 +373,8 @@
   "tanaka-tomoyasu": {
     "canonicalName": "タナカトモヤス",
     "aliases": [
-      "タナカトモヤス"
+      "タナカトモヤス",
+      "タナカ トモヤス"
     ],
     "nationality": "Japan"
   },
@@ -853,7 +857,8 @@
   "tomita-ryohei": {
     "canonicalName": "富田 亮平 / Ryohei Tomita",
     "aliases": [
-      "富田 亮平 / Ryohei Tomita"
+      "富田 亮平 / Ryohei Tomita",
+      "トミタ リョウヘイ"
     ],
     "nationality": "Japan"
   },
@@ -874,7 +879,8 @@
   "matsumae-nozomi": {
     "canonicalName": "松前望 / Nozomi Matsumae",
     "aliases": [
-      "松前望 / Nozomi Matsumae"
+      "松前望 / Nozomi Matsumae",
+      "マツマエノゾミ"
     ],
     "nationality": "Japan"
   },
@@ -1292,6 +1298,63 @@
     "canonicalName": "連家駿/連又亭",
     "aliases": [
       "連家駿/連又亭 / LIEN JIA-JIUN/LIEN YU-TING"
+    ]
+  },
+  "agou-tensei": {
+    "canonicalName": "アゴウテンセイ",
+    "nationality": "Japan",
+    "aliases": [
+      "アゴウテンセイ",
+      "アゴウ テンセイ"
+    ]
+  },
+  "tezuka-sei": {
+    "canonicalName": "テヅカ セイ",
+    "nationality": "Japan",
+    "aliases": [
+      "テヅカ セイ"
+    ]
+  },
+  "ishida-masayoshi": {
+    "canonicalName": "イシダ マサヨシ",
+    "nationality": "Japan",
+    "aliases": [
+      "イシダ マサヨシ"
+    ]
+  },
+  "seki-souta": {
+    "canonicalName": "セキソウタ",
+    "nationality": "Japan",
+    "aliases": [
+      "セキソウタ"
+    ]
+  },
+  "amano-kouta": {
+    "canonicalName": "アマノ コウタ",
+    "nationality": "Japan",
+    "aliases": [
+      "アマノ コウタ"
+    ]
+  },
+  "suwa-hiroki": {
+    "canonicalName": "スワヒロキ",
+    "nationality": "Japan",
+    "aliases": [
+      "スワヒロキ"
+    ]
+  },
+  "hosokawa-kyouya": {
+    "canonicalName": "ホソカワキョウヤ",
+    "nationality": "Japan",
+    "aliases": [
+      "ホソカワキョウヤ"
+    ]
+  },
+  "shimizu-kouta": {
+    "canonicalName": "シミズコウタ",
+    "nationality": "Japan",
+    "aliases": [
+      "シミズコウタ"
     ]
   }
 }

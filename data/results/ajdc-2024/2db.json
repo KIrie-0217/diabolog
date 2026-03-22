@@ -1,0 +1,17 @@
+{
+  "categoryId": "2db",
+  "name": "2ディアボロ(ベアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "sunahara-hiroto", "playerName": "スナハラヒロト", "scores": { "difficulty": 39.8, "stability": 13.0, "novelty": 24.8, "composition": 7.5 }, "totalScore": 82.2, "status": "completed" },
+    { "rank": 2, "playerId": "miyata-daiki", "playerName": "ミヤタ ダイキ", "scores": { "difficulty": 35.3, "stability": 10.5, "novelty": 25.0, "composition": 6.8 }, "totalScore": 73.0, "status": "completed" },
+    { "rank": 3, "playerId": "urayama-masatsugu", "playerName": "ウラヤマ マサツグ", "scores": { "difficulty": 29.0, "stability": 8.3, "novelty": 19.8, "composition": 5.5 }, "totalScore": 55.6, "status": "completed" }
+  ]
+}
