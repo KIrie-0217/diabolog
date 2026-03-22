@@ -103,6 +103,18 @@ architecture.md の Data Schema に従い、以下を生成する:
 
 確認が取れたらファイルを書き出す。
 
+### 8. TBD フィールドを補完する
+
+ファイル書き出し後、`data/competitions.json` 内の TBD フィールドについてユーザーに確認する:
+
+- `startDate` / `endDate`: 大会の開催日（`YYYY-MM-DD` 形式）
+- `venue`: 会場名
+- `location`: 開催地（都市名）
+- `resultUrl`: 結果 PDF の URL
+- `awards`: ベストトリック賞・特別賞（`_index.md` から取得済みなら確認のみ）
+
+すべて埋まったら `npm run build-data` を実行して統合 JSON と players.json を再生成する。
+
 ## Output
 
 - `data/competitions.json`（更新）
@@ -113,6 +125,6 @@ architecture.md の Data Schema に従い、以下を生成する:
 
 ## Notes
 
-- `date` フィールドは `"TBD"` で出力する（オーナーが後日記入）
+- `competitions.json` の日付・会場等は初回書き出し時に `"TBD"` で出力し、Step 8 でユーザーに確認して埋める
 - `competitions.json` が存在しない場合は新規作成する
 - `player-mappings.json` が存在しない場合は新規作成する

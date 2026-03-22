@@ -88,7 +88,8 @@
     "startDate": "2025-03-20",
     "endDate": "2025-03-21",
     "shortName": "AJDC 2025",
-    "venue": "大阪コミ協ひがしなり区民センター 大ホール"
+    "venue": "大阪コミ協ひがしなり区民センター 大ホール",
+    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2025_schedule.pdf"
   },
   {
     "id": "oidc-2025",
@@ -219,14 +220,15 @@
     "startDate": "2025-08-14",
     "endDate": "2025-08-16",
     "shortName": "OIDC 2025",
-    "venue": "大阪コミ協ひがしなり区民センター 大ホール"
+    "venue": "大阪コミ協ひがしなり区民センター 大ホール",
+    "infoUrl": "https://diabolo.jp/OIDC/wp-content/uploads/OIDC2025_schedule.pdf"
   },
   {
     "id": "oidc-2024",
     "name": "Osaka International Diabolo Competition 2024",
     "shortName": "OIDC 2024",
     "location": "大阪",
-    "venue": "大阪コミ協ひがしなり区民センター 大ホール",
+    "venue": "コミ協ひがしなり区民センター 大ホール",
     "startDate": "2024-08-13",
     "endDate": "2024-08-15",
     "resultUrl": "https://diabolo.jp/OIDC/wp-content/uploads/OIDC2024_result.pdf",
@@ -344,17 +346,18 @@
         "name": "女子1ディアボロ足回り部門",
         "class": "challenge"
       }
-    ]
+    ],
+    "infoUrl": "https://diabolo.jp/OIDC/wp-content/uploads/OIDC2024_schedule.pdf"
   },
   {
     "id": "ajdc-2024",
     "name": "第十三回全日本ディアボロ選手権大会",
     "shortName": "AJDC 2024",
-    "location": "TBD",
-    "venue": "TBD",
-    "startDate": "TBD",
-    "endDate": "TBD",
-    "resultUrl": "",
+    "location": "大阪",
+    "venue": "西成区民センター ホール",
+    "startDate": "2024-03-19",
+    "endDate": "2024-03-20",
+    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2024_result.pdf",
     "awards": [],
     "categories": [
       {
@@ -407,6 +410,7 @@
         "name": "男子1ディアボロ縄跳び部門",
         "class": "challenge"
       }
-    ]
+    ],
+    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2024_schedule.pdf"
   }
 ]
