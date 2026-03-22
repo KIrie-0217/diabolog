@@ -27,6 +27,7 @@ type PlayerResult = {
   date: string;
   categoryId: string;
   categoryName: string;
+  categoryClass?: string;
   rank: number | null;
   ageGroup?: string;
   totalScore?: number;
@@ -79,10 +80,10 @@ export function Player() {
   }
 
   // group results by category
-  const byCat = new Map<string, { name: string; results: PlayerResult[] }>();
+  const byCat = new Map<string, { name: string; cls: string; results: PlayerResult[] }>();
   for (const r of player.results) {
     if (!byCat.has(r.categoryId)) {
-      byCat.set(r.categoryId, { name: r.categoryName, results: [] });
+      byCat.set(r.categoryId, { name: r.categoryName, cls: r.categoryClass ?? "", results: [] });
     }
     byCat.get(r.categoryId)!.results.push(r);
   }
@@ -263,7 +264,11 @@ export function Player() {
         </Card>
       ))
       ) : (
-        [...byCat.entries()].map(([catId, cat]) => (
+        [...byCat.entries()].sort((a, b) => {
+          const classOrder: Record<string, number> = { overall: 0, specialist: 1, challenge: 2 };
+          const d = (classOrder[a[1].cls] ?? 9) - (classOrder[b[1].cls] ?? 9);
+          return d !== 0 ? d : a[0].localeCompare(b[0]);
+        }).map(([catId, cat]) => (
           <Card key={catId} shadow="xs" padding="md" radius="md" withBorder>
             <Text fw={500} visibleFrom="sm">{cat.name}</Text>
             <Text fw={500} hiddenFrom="sm">{catId.toUpperCase()}</Text>
