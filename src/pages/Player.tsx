@@ -239,8 +239,10 @@ export function Player() {
                     </Table.Td>
                     <Table.Td>
                       <Group gap={4} wrap="nowrap">
-                        <Text visibleFrom="sm" size="sm">{r.categoryName}</Text>
-                        <Text hiddenFrom="sm" size="sm">{r.categoryId.toUpperCase()}</Text>
+                        <Anchor component={Link} to={`/competitions/${compId}?category=${r.categoryId}`} size="sm">
+                          <Text visibleFrom="sm" size="sm">{r.categoryName}</Text>
+                          <Text hiddenFrom="sm" size="sm">{r.categoryId.toUpperCase()}</Text>
+                        </Anchor>
                         {r.ageGroup && (
                           <Badge variant="light" size="xs">{r.ageGroup}</Badge>
                         )}
