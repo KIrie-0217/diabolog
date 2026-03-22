@@ -1,0 +1,23 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "chao-ling-ya", "playerName": "趙怡雅 / Chao Ling-Ya", "nationality": "Taiwan", "scores": { "difficulty": 24.4, "variety": 7.4, "stability": 8.2, "novelty": 7.0, "composition": 22.2, "base-score": 15.0, "execution-deduction": 1.9, "special-deduction": 0.0 }, "totalScore": 82.3, "status": "completed" },
+    { "rank": 2, "playerId": "fan-chen-jhen", "playerName": "范宸甄 / Fan Chen-Jhen", "nationality": "Taiwan", "scores": { "difficulty": 24.0, "variety": 7.6, "stability": 7.6, "novelty": 7.2, "composition": 20.0, "base-score": 15.0, "execution-deduction": 3.7, "special-deduction": 0.0 }, "totalScore": 77.7, "status": "completed" },
+    { "rank": 3, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / TSAI CHUN-HUI", "nationality": "Taiwan", "scores": { "difficulty": 21.6, "variety": 6.4, "stability": 6.4, "novelty": 6.0, "composition": 20.6, "base-score": 15.0, "execution-deduction": 6.2, "special-deduction": 0.0 }, "totalScore": 69.8, "status": "completed" },
+    { "rank": 4, "playerId": "chan-hsin-lin", "playerName": "詹欣霖 / CHAN HSIN-LIN", "nationality": "Taiwan", "scores": { "difficulty": 19.6, "variety": 6.0, "stability": 6.0, "novelty": 5.4, "composition": 18.2, "base-score": 15.0, "execution-deduction": 6.7, "special-deduction": 0.0 }, "totalScore": 63.5, "status": "completed" }
+  ]
+}

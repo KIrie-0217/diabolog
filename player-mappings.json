@@ -94,7 +94,8 @@
     "canonicalName": "稲葉亘 / Wataru Inaba",
     "aliases": [
       "稲葉亘 / Wataru Inaba",
-      "イナバ ワタル"
+      "イナバ ワタル",
+      "稲葉亘 / Inaba Wataru"
     ],
     "nationality": "Japan"
   },
@@ -193,7 +194,8 @@
     "canonicalName": "亀井大輝 / Hiroki Kamei",
     "aliases": [
       "亀井大輝 / Hiroki Kamei",
-      "カメイヒロキ"
+      "カメイヒロキ",
+      "亀井大輝 / Kamei Hiroki"
     ],
     "nationality": "Japan"
   },
@@ -202,7 +204,8 @@
     "aliases": [
       "橋本 竜郎 / Tatsuro Hashimoto",
       "ハシモト タツロウ",
-      "ハシモトタツロウ"
+      "ハシモトタツロウ",
+      "橋本 竜郎 / Hashimoto Tatsuro"
     ],
     "nationality": "Japan"
   },
@@ -217,7 +220,8 @@
   "torii-takemi": {
     "canonicalName": "トリイ タケミ",
     "aliases": [
-      "トリイ タケミ"
+      "トリイ タケミ",
+      "鳥居 岳史 / Torii Takemi"
     ],
     "nationality": "Japan"
   },
@@ -233,7 +237,8 @@
     "canonicalName": "トミタ ヒカル",
     "aliases": [
       "トミタ ヒカル",
-      "トミタヒカル"
+      "トミタヒカル",
+      "冨田 輝 / Tomita Hikaru"
     ],
     "nationality": "Japan"
   },
@@ -308,7 +313,8 @@
     "canonicalName": "カンノジョウエイ",
     "aliases": [
       "カンノジョウエイ",
-      "カンノ ジョウエイ"
+      "カンノ ジョウエイ",
+      "菅野晟永 / Kanno Joei"
     ],
     "nationality": "Japan"
   },
@@ -316,7 +322,8 @@
     "canonicalName": "タナベ シンジ",
     "aliases": [
       "タナベ シンジ",
-      "田邊 慎史 / Shinji Tanabe"
+      "田邊 慎史 / Shinji Tanabe",
+      "田邊慎史 / Tanabe Shinji"
     ],
     "nationality": "Japan"
   },
@@ -330,7 +337,8 @@
   "kuniya-mizuki": {
     "canonicalName": "クニヤミズキ",
     "aliases": [
-      "クニヤミズキ"
+      "クニヤミズキ",
+      "國谷 瑞樹 / Kuniya Mizuki"
     ],
     "nationality": "Japan"
   },
@@ -352,7 +360,8 @@
     "canonicalName": "スズキ アキト",
     "aliases": [
       "スズキ アキト",
-      "鈴木瑛登 / Akito Suzuki"
+      "鈴木瑛登 / Akito Suzuki",
+      "鈴木瑛登 / Suzuki Akito"
     ],
     "nationality": "Japan"
   },
@@ -429,7 +438,8 @@
     "canonicalName": "高裕凱 / Kao Yu Kai",
     "aliases": [
       "高裕凱 / Kao Yu Kai",
-      "高裕凱 / KAO YU-KAI"
+      "高裕凱 / KAO YU-KAI",
+      "高裕凱 / Kao Yu-Kai"
     ],
     "nationality": "Taiwan"
   },
@@ -498,7 +508,8 @@
     "canonicalName": "趙昱淞 / CHAO,YU-SUNG",
     "aliases": [
       "趙昱淞 / CHAO,YU-SUNG",
-      "趙昱淞 / CHAO, YU-SUNG"
+      "趙昱淞 / CHAO, YU-SUNG",
+      "趙昱淞 / Chao Yu-Sung"
     ],
     "nationality": "Taiwan"
   },
@@ -507,7 +518,8 @@
     "aliases": [
       "黃士融 / HUANG SHIH RONG",
       "黃士融 / HUANG SHIH RON",
-      "黃士融 / HUANG, SHIH RON"
+      "黃士融 / HUANG, SHIH RON",
+      "黃士融 / HUANG SHIH-RONG"
     ],
     "nationality": "Taiwan"
   },
@@ -836,7 +848,8 @@
   "yeh-tzu-hao": {
     "canonicalName": "葉子豪 / YEH TZU HAO",
     "aliases": [
-      "葉子豪 / YEH TZU HAO"
+      "葉子豪 / YEH TZU HAO",
+      "葉子豪 / YEH TZU-HAO"
     ],
     "nationality": "Taiwan"
   },
@@ -1199,7 +1212,8 @@
     "canonicalName": "光安祐介 / Yusuke Mitsuyasu",
     "nationality": "Japan",
     "aliases": [
-      "光安祐介 / Yusuke Mitsuyasu"
+      "光安祐介 / Yusuke Mitsuyasu",
+      "光安祐介 / Mitsuyasu Yusuke"
     ]
   },
   "nozawa-ryunosuke": {
@@ -1305,7 +1319,8 @@
     "nationality": "Japan",
     "aliases": [
       "アゴウテンセイ",
-      "アゴウ テンセイ"
+      "アゴウ テンセイ",
+      "吾郷 天星 / Ago Tensei"
     ]
   },
   "tezuka-sei": {
@@ -1354,7 +1369,299 @@
     "canonicalName": "シミズコウタ",
     "nationality": "Japan",
     "aliases": [
-      "シミズコウタ"
+      "シミズコウタ",
+      "清水公太 / Shimizu Kota"
+    ]
+  },
+  "tang-jing-xiang": {
+    "canonicalName": "唐敬翔 / TANG JING-XIANG",
+    "nationality": "Taiwan",
+    "aliases": [
+      "唐敬翔 / TANG JING-XIANG"
+    ]
+  },
+  "chao-ling-ya": {
+    "canonicalName": "趙怡雅 / Chao Ling-Ya",
+    "nationality": "Taiwan",
+    "aliases": [
+      "趙怡雅 / Chao Ling-Ya"
+    ]
+  },
+  "fan-chen-jhen": {
+    "canonicalName": "范宸甄 / Fan Chen-Jhen",
+    "nationality": "Taiwan",
+    "aliases": [
+      "范宸甄 / Fan Chen-Jhen"
+    ]
+  },
+  "tsai-chun-hui": {
+    "canonicalName": "蔡君慧 / TSAI CHUN-HUI",
+    "nationality": "Taiwan",
+    "aliases": [
+      "蔡君慧 / TSAI CHUN-HUI"
+    ]
+  },
+  "chan-hsin-lin": {
+    "canonicalName": "詹欣霖 / CHAN HSIN-LIN",
+    "nationality": "Taiwan",
+    "aliases": [
+      "詹欣霖 / CHAN HSIN-LIN"
+    ]
+  },
+  "lan-chen-chi": {
+    "canonicalName": "藍振旗 / LAN CHEN-CHI",
+    "nationality": "Taiwan",
+    "aliases": [
+      "藍振旗 / LAN CHEN-CHI"
+    ]
+  },
+  "liu-cheng-en": {
+    "canonicalName": "劉成恩 / LIU CHENG-EN",
+    "nationality": "Taiwan",
+    "aliases": [
+      "劉成恩 / LIU CHENG-EN"
+    ]
+  },
+  "ku-cheng-yu": {
+    "canonicalName": "古承諭 / KU CHENG-YU",
+    "nationality": "Taiwan",
+    "aliases": [
+      "古承諭 / KU CHENG-YU"
+    ]
+  },
+  "chang-shao-qi": {
+    "canonicalName": "張少齊 / Chang Shao-Qi",
+    "nationality": "Taiwan",
+    "aliases": [
+      "張少齊 / Chang Shao-Qi"
+    ]
+  },
+  "chen-pin-ju": {
+    "canonicalName": "陳品儒 / Chen PinJu",
+    "nationality": "Taiwan",
+    "aliases": [
+      "陳品儒 / Chen PinJu-"
+    ]
+  },
+  "chen-yi-fan": {
+    "canonicalName": "陳一帆 / CHEN YI-FAN",
+    "nationality": "Taiwan",
+    "aliases": [
+      "陳一帆 / CHEN YI-FAN"
+    ]
+  },
+  "wang-nai-lun": {
+    "canonicalName": "王乃綸 / WANG NAI-LUN",
+    "nationality": "Taiwan",
+    "aliases": [
+      "王乃綸 / WANG NAI-LUN"
+    ]
+  },
+  "liu-yang-che": {
+    "canonicalName": "劉仰哲 / LIU YANG-CHE",
+    "nationality": "Taiwan",
+    "aliases": [
+      "劉仰哲 / LIU YANG-CHE"
+    ]
+  },
+  "lee-ting-wen": {
+    "canonicalName": "李庭芝 / LEE TING-WEN",
+    "nationality": "Taiwan",
+    "aliases": [
+      "李庭芝 / LEE.TING-WEN"
+    ]
+  },
+  "beh-seng-fatt": {
+    "canonicalName": "馬成發 / Beh Seng Fatt",
+    "nationality": "Malaysia",
+    "aliases": [
+      "馬成發 / Beh Seng Fatt"
+    ]
+  },
+  "wu-zhen-yu": {
+    "canonicalName": "吳鎮宇 / Wu Zhen-yu",
+    "nationality": "Taiwan",
+    "aliases": [
+      "吳鎮宇 / Wu Zhen-yu"
+    ]
+  },
+  "nagao-yuto": {
+    "canonicalName": "永尾 祐人 / Nagao Yuto",
+    "nationality": "Japan",
+    "aliases": [
+      "永尾 祐人 / Nagao Yuto"
+    ]
+  },
+  "kawamura-takashi": {
+    "canonicalName": "川村隆史 / Kawamura Takashi",
+    "nationality": "Japan",
+    "aliases": [
+      "川村隆史 / Kawamura Takashi"
+    ]
+  },
+  "kusakawa-iori": {
+    "canonicalName": "草川 惟織 / Kusakawa Iori",
+    "nationality": "Japan",
+    "aliases": [
+      "草川 惟織 / Kusakawa Iori"
+    ]
+  },
+  "mori-takaaki": {
+    "canonicalName": "森 崇彰 / Mori Takaaki",
+    "nationality": "Japan",
+    "aliases": [
+      "森 崇彰 / Mori Takaaki"
+    ]
+  },
+  "sensui-saki": {
+    "canonicalName": "泉水 沙樹 / Sensui Saki",
+    "nationality": "Japan",
+    "aliases": [
+      "泉水 沙樹 / Sensui Saki"
+    ]
+  },
+  "reynal-chong": {
+    "canonicalName": "章偉安 / Reynal Chong Wei An",
+    "nationality": "Malaysia",
+    "aliases": [
+      "章偉安 / Reynal Chong Wei An"
+    ]
+  },
+  "kajihara-tomohito": {
+    "canonicalName": "梶原 智人 / Kazihara Tomohito",
+    "nationality": "Japan",
+    "aliases": [
+      "梶原 智人 / Kazihara Tomohito"
+    ]
+  },
+  "kameyama-saku": {
+    "canonicalName": "亀山咲 / Kameyama Saku",
+    "nationality": "Japan",
+    "aliases": [
+      "亀山咲 / Kameyama Saku"
+    ]
+  },
+  "emoto-haruki": {
+    "canonicalName": "江本 晴喜 / Emoto Haruki",
+    "nationality": "Japan",
+    "aliases": [
+      "江本 晴喜 / Emoto Haruki"
+    ]
+  },
+  "cho-chia-min": {
+    "canonicalName": "卓佳敏 / CHO CHIA MIN",
+    "nationality": "Taiwan",
+    "aliases": [
+      "卓佳敏 / CHO CHIA MIN"
+    ]
+  },
+  "lin-hsing-yu": {
+    "canonicalName": "林興昱 / Lin Hsing Yu",
+    "nationality": "Taiwan",
+    "aliases": [
+      "林興昱 / Lin Hsing Yu"
+    ]
+  },
+  "wu-tz-shiuan": {
+    "canonicalName": "吳姿璿 / Tz-shiuan Wu",
+    "nationality": "Taiwan",
+    "aliases": [
+      "吳姿璿 / Tz-shiuan Wu"
+    ]
+  },
+  "team:malabaristas": {
+    "canonicalName": "Malabaristas",
+    "nationality": "Mixed",
+    "aliases": [
+      "Malabaristas"
+    ]
+  },
+  "team:xing-you-ling-xi": {
+    "canonicalName": "興友鈴犀 / Xing You Ling Xi",
+    "nationality": "Taiwan",
+    "aliases": [
+      "興友鈴犀 / Xing You Ling Xi"
+    ]
+  },
+  "team:c4bd": {
+    "canonicalName": "C4BD",
+    "nationality": "Mixed",
+    "aliases": [
+      "C4BD"
+    ]
+  },
+  "team:over-the-limit": {
+    "canonicalName": "鈴極限 / Over The Limit",
+    "nationality": "Taiwan",
+    "aliases": [
+      "鈴極限 / Over The Limit"
+    ]
+  },
+  "team:tainan-diabolo-team": {
+    "canonicalName": "Tainan Diabolo Team",
+    "nationality": "Mixed",
+    "aliases": [
+      "Tainan Diabolo Team"
+    ]
+  },
+  "chang-shao-qi+chen-pin-ju": {
+    "canonicalName": "張少齊/陳品儒",
+    "aliases": [
+      "張少齊/陳品儒 / Chang Shao-Qi/Chen PinJu-"
+    ]
+  },
+  "lien-jia-jiun+liu-cheng-en": {
+    "canonicalName": "連家駿/劉成恩",
+    "aliases": [
+      "連家駿/劉成恩 / LIEN JIA-JIUN/LIU CHENG-EN"
+    ]
+  },
+  "chen-yi-fan+chan-hsin-lin": {
+    "canonicalName": "陳一帆/詹欣霖",
+    "aliases": [
+      "陳一帆/詹欣霖 / CHEN YI-FAN/CHAN HSIN-LIN"
+    ]
+  },
+  "lee-ting-wen+ku-cheng-yu": {
+    "canonicalName": "李庭芝/古承諭",
+    "aliases": [
+      "李庭芝/古承諭 / LEE.TING-WEN/KU CHENG-YU"
+    ]
+  },
+  "wang-nai-lun+liu-yang-che": {
+    "canonicalName": "王乃綸/劉仰哲",
+    "aliases": [
+      "王乃綸/劉仰哲 / WANG NAI-LUN/LIU YANG-CHE"
+    ]
+  },
+  "tang-jing-xiang+li-hung-lin": {
+    "canonicalName": "唐敬翔/李泓霖",
+    "aliases": [
+      "唐敬翔/李泓霖 / TANG JING-XIANG/LI HUNG-LIN"
+    ]
+  },
+  "torii-takemi+agou-tensei": {
+    "canonicalName": "鳥居 岳史/吾郷 天星",
+    "aliases": [
+      "鳥居 岳史/吾郷 天星 / Torii Takemi/Ago Tensei"
+    ]
+  },
+  "chang-tzu-wei+lin-hsing-yu": {
+    "canonicalName": "張子威/林興昱",
+    "aliases": [
+      "張子威/林興昱 / Chang Tzu Wei/Lin Hsing Yu"
+    ]
+  },
+  "tsai-chun-hui+wu-tz-shiuan": {
+    "canonicalName": "蔡君慧/吳姿璿",
+    "aliases": [
+      "蔡君慧/吳姿璿 / TSAI CHUN-HUI/Tz-shiuan Wu"
+    ]
+  },
+  "kameyama-saku+emoto-haruki": {
+    "canonicalName": "亀山咲/江本 晴喜",
+    "aliases": [
+      "亀山咲/江本 晴喜 / Kameyama Saku/Emoto Haruki"
     ]
   }
 }

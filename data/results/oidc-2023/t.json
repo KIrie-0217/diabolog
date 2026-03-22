@@ -1,0 +1,21 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "team:xing-you-ling-xi", "playerName": "興友鈴犀 / Xing You Ling Xi", "nationality": "Taiwan", "scores": { "difficulty": 32.4, "synchronization": 26.2, "composition": 25.6, "execution-deduction": 2.4, "special-deduction": 0.0 }, "totalScore": 81.8, "status": "completed" },
+    { "rank": 2, "playerId": "team:c4bd", "playerName": "C4BD", "nationality": "Mixed", "scores": { "difficulty": 31.8, "synchronization": 22.4, "composition": 23.8, "execution-deduction": 5.2, "special-deduction": 0.0 }, "totalScore": 72.8, "status": "completed" },
+    { "rank": 3, "playerId": "team:over-the-limit", "playerName": "鈴極限 / Over The Limit", "nationality": "Taiwan", "scores": { "difficulty": 28.0, "synchronization": 23.4, "composition": 24.0, "execution-deduction": 4.0, "special-deduction": 0.0 }, "totalScore": 71.4, "status": "completed" },
+    { "rank": 4, "playerId": "team:tainan-diabolo-team", "playerName": "Tainan Diabolo Team", "nationality": "Mixed", "scores": { "difficulty": 28.0, "synchronization": 19.0, "composition": 19.6, "execution-deduction": 6.4, "special-deduction": 0.0 }, "totalScore": 60.2, "status": "completed" },
+    { "rank": 5, "playerId": "team:who-theatre", "playerName": "W.H.O Theatre", "nationality": "Mixed", "scores": { "difficulty": 22.2, "synchronization": 12.6, "composition": 16.2, "execution-deduction": 3.2, "special-deduction": 0.0 }, "totalScore": 47.8, "status": "completed" }
+  ]
+}

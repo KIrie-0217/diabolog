@@ -1,0 +1,30 @@
+{
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "nameEn": "Men's 1 Diabolo Vertical Axle Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "yagami-rintaro", "playerName": "八神 凛太郎 / Yagami Rintaro", "nationality": "Japan", "scores": { "difficulty": 43.0, "stability": 13.3, "novelty": 27.8, "composition": 8.3, "execution-deduction": 1.9, "special-deduction": 0.0 }, "totalScore": 90.5, "status": "completed" },
+    { "rank": 2, "playerId": "tsuda-manato", "playerName": "津田 真叶 / Tsuda Manato", "nationality": "Japan", "scores": { "difficulty": 39.8, "stability": 12.3, "novelty": 25.8, "composition": 7.0, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 82.4, "status": "completed" },
+    { "rank": 3, "playerId": "huang-shih-rong", "playerName": "黃士融 / HUANG SHIH-RONG", "nationality": "Taiwan", "scores": { "difficulty": 38.5, "stability": 12.0, "novelty": 22.5, "composition": 7.3, "execution-deduction": 4.9, "special-deduction": 0.0 }, "totalScore": 75.4, "status": "completed" },
+    { "rank": 4, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / Kamei Hiroki", "nationality": "Japan", "scores": { "difficulty": 34.3, "stability": 10.5, "novelty": 25.0, "composition": 8.0, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 75.3, "status": "completed" },
+    { "rank": 5, "playerId": "li-hung-lin", "playerName": "李泓霖 / LI HUNG-LIN", "nationality": "Taiwan", "scores": { "difficulty": 37.8, "stability": 11.0, "novelty": 23.5, "composition": 8.0, "execution-deduction": 5.3, "special-deduction": 0.0 }, "totalScore": 75.0, "status": "completed" },
+    { "rank": 6, "playerId": "sensui-saki", "playerName": "泉水 沙樹 / Sensui Saki", "nationality": "Japan", "scores": { "difficulty": 35.8, "stability": 11.8, "novelty": 21.8, "composition": 7.0, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 73.6, "status": "completed" },
+    { "rank": 7, "playerId": "hashimoto-tatsuro", "playerName": "橋本 竜郎 / Hashimoto Tatsuro", "nationality": "Japan", "scores": { "difficulty": 32.5, "stability": 9.8, "novelty": 24.0, "composition": 6.0, "execution-deduction": 4.9, "special-deduction": 0.0 }, "totalScore": 67.4, "status": "completed" },
+    { "rank": 8, "playerId": "suzuki-akito", "playerName": "鈴木瑛登 / Suzuki Akito", "nationality": "Japan", "scores": { "difficulty": 32.5, "stability": 8.8, "novelty": 23.0, "composition": 6.5, "execution-deduction": 6.8, "special-deduction": 0.0 }, "totalScore": 64.0, "status": "completed" },
+    { "rank": 9, "playerId": "wu-zhen-yu", "playerName": "吳鎮宇 / Wu Zhen-yu", "nationality": "Taiwan", "scores": { "difficulty": 27.8, "stability": 10.8, "novelty": 19.3, "composition": 7.5, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 63.6, "status": "completed" },
+    { "rank": 10, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / Chao Yu-Sung", "nationality": "Taiwan", "scores": { "difficulty": 28.8, "stability": 8.3, "novelty": 21.3, "composition": 6.0, "execution-deduction": 8.4, "special-deduction": 0.0 }, "totalScore": 56.0, "status": "completed" },
+    { "rank": 11, "playerId": "tang-jing-xiang", "playerName": "唐敬翔 / TANG JING-XIANG", "nationality": "Taiwan", "scores": { "difficulty": 28.5, "stability": 8.3, "novelty": 17.3, "composition": 6.8, "execution-deduction": 5.9, "special-deduction": 0.0 }, "totalScore": 55.0, "status": "completed" },
+    { "rank": 12, "playerId": "reynal-chong", "playerName": "章偉安 / Reynal Chong Wei An", "nationality": "Malaysia", "scores": { "difficulty": 27.3, "stability": 8.3, "novelty": 17.8, "composition": 6.0, "execution-deduction": 5.4, "special-deduction": 0.0 }, "totalScore": 54.0, "status": "completed" },
+    { "rank": 13, "playerId": "urayama-masatsugu", "playerName": "浦山 昌嗣 / Urayama Masatsugu", "nationality": "Japan", "scores": { "difficulty": 23.3, "stability": 7.8, "novelty": 15.5, "composition": 7.3, "execution-deduction": 3.5, "special-deduction": 0.0 }, "totalScore": 50.4, "status": "completed" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1 Diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "agou-tensei", "playerName": "吾郷 天星 / Ago Tensei", "nationality": "Japan", "count": 86, "class": "B", "note": "OIDC record", "status": "completed" },
+    { "rank": 2, "playerId": "liu-yang-che", "playerName": "劉仰哲 / LIU YANG-CHE", "nationality": "Taiwan", "count": 63, "class": "B", "status": "completed" },
+    { "rank": 3, "playerId": "lien-jia-jiun", "playerName": "連家駿 / LIEN JIA-JIUN", "nationality": "Taiwan", "count": 57, "class": "B", "status": "completed" },
+    { "rank": 4, "playerId": "wang-nai-lun", "playerName": "王乃綸 / WANG NAI-LUN", "nationality": "Taiwan", "count": 47, "class": "B", "status": "completed" },
+    { "rank": 5, "playerId": "lan-chen-chi", "playerName": "藍振旗 / LAN CHEN-CHI", "nationality": "Taiwan", "count": 43, "class": "B", "status": "completed" },
+    { "rank": 6, "playerId": "kajihara-tomohito", "playerName": "梶原 智人 / Kazihara Tomohito", "nationality": "Japan", "count": 25, "class": "A", "status": "completed" },
+    { "rank": 7, "playerId": "urayama-masatsugu", "playerName": "浦山 昌嗣 / Urayama Masatsugu", "nationality": "Japan", "count": 3, "class": "C", "status": "completed" },
+    { "rank": null, "playerId": "kameyama-saku", "playerName": "亀山咲 / Kameyama Saku", "nationality": "Japan", "status": "dns" }
+  ]
+}

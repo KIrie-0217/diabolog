@@ -1,0 +1,14 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "nameEn": "Women's 1 Diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "lien-yu-ting", "playerName": "連又亭 / LIEN YU-TING", "nationality": "Taiwan", "count": 55, "class": "A", "status": "completed" },
+    { "rank": 2, "playerId": "cho-chia-min", "playerName": "卓佳敏 / CHO CHIA MIN", "nationality": "Taiwan", "count": 43, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / TSAI CHUN-HUI", "nationality": "Taiwan", "count": 21, "class": "D", "status": "completed" }
+  ]
+}

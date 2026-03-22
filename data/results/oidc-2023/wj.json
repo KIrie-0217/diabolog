@@ -1,0 +1,21 @@
+{
+  "categoryId": "wj",
+  "name": "女子個人総合ジュニア部門",
+  "nameEn": "Women's Individual Junior Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "ku-cheng-yu", "playerName": "古承諭 / KU CHENG-YU", "nationality": "Taiwan", "scores": { "difficulty": 25.2, "variety": 16.4, "stability": 12.2, "novelty": 7.0, "composition": 8.0, "base-score": 15.0, "execution-deduction": 3.5, "special-deduction": 0.0 }, "totalScore": 80.3, "status": "completed" },
+    { "rank": 2, "playerId": "lien-yu-ting", "playerName": "連又亭 / LIEN YU-TING", "nationality": "Taiwan", "scores": { "difficulty": 19.2, "variety": 13.4, "stability": 10.0, "novelty": 5.6, "composition": 6.6, "base-score": 15.0, "execution-deduction": 6.2, "special-deduction": 0.0 }, "totalScore": 63.6, "status": "completed" }
+  ]
+}

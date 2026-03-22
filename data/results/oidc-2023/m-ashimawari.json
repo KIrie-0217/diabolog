@@ -1,0 +1,15 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1 Diabolo Leg Orbits Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "agou-tensei", "playerName": "吾郷 天星 / Ago Tensei", "nationality": "Japan", "count": 170, "class": "B", "status": "completed" },
+    { "rank": 2, "playerId": "liu-cheng-en", "playerName": "劉成恩 / LIU CHENG-EN", "nationality": "Taiwan", "count": 155, "class": "B", "status": "completed" },
+    { "rank": 3, "playerId": "lien-jia-jiun", "playerName": "連家駿 / LIEN JIA-JIUN", "nationality": "Taiwan", "count": 141, "class": "B", "status": "completed" },
+    { "rank": 4, "playerId": "kajihara-tomohito", "playerName": "梶原 智人 / Kazihara Tomohito", "nationality": "Japan", "count": 113, "class": "A", "status": "completed" }
+  ]
+}

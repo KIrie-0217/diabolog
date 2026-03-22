@@ -1,0 +1,18 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2 Diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "torii-takemi+agou-tensei", "playerName": "鳥居 岳史/吾郷 天星 / Torii Takemi/Ago Tensei", "nationality": "Japan", "count": 75, "status": "completed" },
+    { "rank": 2, "playerId": "chen-yi-fan+chan-hsin-lin", "playerName": "陳一帆/詹欣霖 / CHEN YI-FAN/CHAN HSIN-LIN", "nationality": "Taiwan", "count": 72, "status": "completed" },
+    { "rank": 3, "playerId": "lee-ting-wen+ku-cheng-yu", "playerName": "李庭芝/古承諭 / LEE.TING-WEN/KU CHENG-YU", "nationality": "Taiwan", "count": 64, "status": "completed" },
+    { "rank": 4, "playerId": "wang-nai-lun+liu-yang-che", "playerName": "王乃綸/劉仰哲 / WANG NAI-LUN/LIU YANG-CHE", "nationality": "Taiwan", "count": 52, "status": "completed" },
+    { "rank": 5, "playerId": "lien-jia-jiun+lien-yu-ting", "playerName": "連家駿/連又亭 / LIEN JIA-JIUN/LIEN YU-TING", "nationality": "Taiwan", "count": 44, "status": "completed" },
+    { "rank": 6, "playerId": "chang-tzu-wei+lin-hsing-yu", "playerName": "張子威/林興昱 / Chang Tzu Wei/Lin Hsing Yu", "nationality": "Taiwan", "count": 28, "status": "completed" },
+    { "rank": 7, "playerId": "tsai-chun-hui+wu-tz-shiuan", "playerName": "蔡君慧/吳姿璿 / TSAI CHUN-HUI/Tz-shiuan Wu", "nationality": "Taiwan", "count": 20, "status": "completed" },
+    { "rank": null, "playerId": "kameyama-saku+emoto-haruki", "playerName": "亀山咲/江本 晴喜 / Kameyama Saku/Emoto Haruki", "nationality": "Japan", "status": "dns" }
+  ]
+}

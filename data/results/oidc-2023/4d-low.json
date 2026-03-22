@@ -1,0 +1,15 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4 Diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "watanuki-shunsuke", "playerName": "綿貫 峻介 / Watanuki Shunsuke", "nationality": "Japan", "count": 158, "status": "completed" },
+    { "rank": 2, "playerId": "ishimizu-taiki", "playerName": "石水 泰樹 / Ishimizu Taiki", "nationality": "Japan", "count": 150, "status": "completed" },
+    { "rank": 3, "playerId": "reynal-chong", "playerName": "章偉安 / Reynal Chong Wei An", "nationality": "Malaysia", "count": 39, "status": "completed" },
+    { "rank": 4, "playerId": "yamamoto-takashi", "playerName": "山本 孝 / Yamamoto Takashi", "nationality": "Japan", "count": 16, "status": "completed" },
+    { "rank": 5, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / TSAI CHUN-HUI", "nationality": "Taiwan", "count": 14, "status": "completed" }
+  ]
+}

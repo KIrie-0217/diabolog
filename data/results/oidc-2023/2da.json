@@ -1,0 +1,26 @@
+{
+  "categoryId": "2da",
+  "name": "2ディアボロ(固定)部門",
+  "nameEn": "2 Diabolo (Fixed Axle) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "kosaka-ryota", "playerName": "小坂 亮太 / Kosaka Ryota", "nationality": "Japan", "scores": { "difficulty": 41.3, "stability": 13.0, "novelty": 26.0, "composition": 7.0, "execution-deduction": 0.4, "special-deduction": 0.0 }, "totalScore": 86.9, "status": "completed" },
+    { "rank": 2, "playerId": "takahashi-rensho", "playerName": "高橋 蓮生 / Takahashi Rensho", "nationality": "Japan", "scores": { "difficulty": 40.3, "stability": 12.3, "novelty": 26.3, "composition": 7.0, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 83.1, "status": "completed" },
+    { "rank": 3, "playerId": "ishimizu-taiki", "playerName": "石水 泰樹 / Ishimizu Taiki", "nationality": "Japan", "scores": { "difficulty": 39.0, "stability": 12.3, "novelty": 24.8, "composition": 7.8, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 81.4, "status": "completed" },
+    { "rank": 4, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / Chao Yu-Sung", "nationality": "Taiwan", "scores": { "difficulty": 38.3, "stability": 11.3, "novelty": 25.5, "composition": 7.3, "execution-deduction": 4.5, "special-deduction": 0.0 }, "totalScore": 77.9, "status": "completed" },
+    { "rank": 5, "playerId": "huang-shih-rong", "playerName": "黃士融 / HUANG SHIH-RONG", "nationality": "Taiwan", "scores": { "difficulty": 38.3, "stability": 11.0, "novelty": 26.0, "composition": 7.3, "execution-deduction": 4.9, "special-deduction": 0.0 }, "totalScore": 77.7, "status": "completed" },
+    { "rank": 6, "playerId": "irie-koshiro", "playerName": "入江航士朗 / Koshiro Irie", "nationality": "Japan", "scores": { "difficulty": 37.3, "stability": 10.8, "novelty": 24.5, "composition": 6.5, "execution-deduction": 4.4, "special-deduction": 0.0 }, "totalScore": 74.7, "status": "completed" },
+    { "rank": 7, "playerId": "lien-jia-jiun", "playerName": "連家駿 / LIEN JIA-JIUN", "nationality": "Taiwan", "scores": { "difficulty": 35.3, "stability": 10.8, "novelty": 23.0, "composition": 7.8, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 74.1, "status": "completed" },
+    { "rank": 8, "playerId": "kusakawa-iori", "playerName": "草川 惟織 / Kusakawa Iori", "nationality": "Japan", "scores": { "difficulty": 34.0, "stability": 11.0, "novelty": 23.0, "composition": 5.8, "execution-deduction": 2.0, "special-deduction": 0.0 }, "totalScore": 71.8, "status": "completed" },
+    { "rank": 9, "playerId": "mori-takaaki", "playerName": "森 崇彰 / Mori Takaaki", "nationality": "Japan", "scores": { "difficulty": 33.0, "stability": 9.3, "novelty": 21.8, "composition": 6.8, "execution-deduction": 5.5, "special-deduction": 3.0 }, "totalScore": 62.4, "status": "completed" }
+  ]
+}

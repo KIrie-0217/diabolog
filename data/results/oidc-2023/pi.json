@@ -1,0 +1,22 @@
+{
+  "categoryId": "pi",
+  "name": "ペア部門",
+  "nameEn": "Pair Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "chang-shao-qi+chen-pin-ju", "playerName": "張少齊/陳品儒 / Chang Shao-Qi/Chen PinJu-", "nationality": "Taiwan", "scores": { "difficulty": 30.6, "synchronization": 25.8, "composition": 25.8, "execution-deduction": 2.4, "special-deduction": 0.0 }, "totalScore": 79.8, "status": "completed" },
+    { "rank": 2, "playerId": "lien-jia-jiun+liu-cheng-en", "playerName": "連家駿/劉成恩 / LIEN JIA-JIUN/LIU CHENG-EN", "nationality": "Taiwan", "scores": { "difficulty": 33.2, "synchronization": 23.6, "composition": 21.8, "execution-deduction": 3.0, "special-deduction": 0.0 }, "totalScore": 75.6, "status": "completed" },
+    { "rank": 3, "playerId": "chen-yi-fan+chan-hsin-lin", "playerName": "陳一帆/詹欣霖 / CHEN YI-FAN/CHAN HSIN-LIN", "nationality": "Taiwan", "scores": { "difficulty": 29.8, "synchronization": 22.0, "composition": 22.2, "execution-deduction": 4.0, "special-deduction": 0.0 }, "totalScore": 70.0, "status": "completed" },
+    { "rank": 4, "playerId": "lee-ting-wen+ku-cheng-yu", "playerName": "李庭芝/古承諭 / LEE.TING-WEN/KU CHENG-YU", "nationality": "Taiwan", "scores": { "difficulty": 28.6, "synchronization": 21.6, "composition": 20.8, "execution-deduction": 5.4, "special-deduction": 0.0 }, "totalScore": 65.6, "status": "completed" },
+    { "rank": 5, "playerId": "wang-nai-lun+liu-yang-che", "playerName": "王乃綸/劉仰哲 / WANG NAI-LUN/LIU YANG-CHE", "nationality": "Taiwan", "scores": { "difficulty": 26.6, "synchronization": 18.0, "composition": 16.4, "execution-deduction": 8.2, "special-deduction": 0.0 }, "totalScore": 52.8, "status": "completed" },
+    { "rank": 6, "playerId": "tang-jing-xiang+li-hung-lin", "playerName": "唐敬翔/李泓霖 / TANG JING-XIANG/LI HUNG-LIN", "nationality": "Taiwan", "scores": { "difficulty": 26.4, "synchronization": 17.8, "composition": 17.6, "execution-deduction": 7.4, "special-deduction": 3.0 }, "totalScore": 51.4, "status": "completed" }
+  ]
+}

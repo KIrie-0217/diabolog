@@ -1,0 +1,44 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "ageGroups": [
+    { "id": "16-18", "name": "16~18" },
+    { "id": "19-", "name": "19~" }
+  ],
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "li-hung-lin", "playerName": "李泓霖 / LI HUNG-LIN", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 24.4, "variety": 7.8, "stability": 7.4, "novelty": 7.8, "composition": 17.0, "base-score": 20.0, "execution-deduction": 5.0, "special-deduction": 0.0 }, "totalScore": 79.4, "status": "completed" },
+    { "rank": 2, "playerId": "tsuda-manato", "playerName": "津田 真叶 / Tsuda Manato", "nationality": "Japan", "ageGroup": "16-18", "scores": { "difficulty": 23.4, "variety": 7.2, "stability": 7.6, "novelty": 7.6, "composition": 14.2, "base-score": 20.0, "execution-deduction": 3.2, "special-deduction": 0.0 }, "totalScore": 76.8, "status": "completed" },
+    { "rank": 3, "playerId": "agou-tensei", "playerName": "吾郷 天星 / Ago Tensei", "nationality": "Japan", "ageGroup": "16-18", "scores": { "difficulty": 21.6, "variety": 7.0, "stability": 7.8, "novelty": 6.6, "composition": 17.4, "base-score": 20.0, "execution-deduction": 3.9, "special-deduction": 0.0 }, "totalScore": 78.5, "status": "completed" },
+    { "rank": 4, "playerId": "huang-shih-rong", "playerName": "黃士融 / HUANG SHIH-RONG", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 23.8, "variety": 8.0, "stability": 7.4, "novelty": 7.4, "composition": 14.8, "base-score": 20.0, "execution-deduction": 8.6, "special-deduction": 0.0 }, "totalScore": 72.8, "status": "completed" },
+    { "rank": 5, "playerId": "kao-yu-kai", "playerName": "高裕凱 / Kao Yu-Kai", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 21.0, "variety": 7.0, "stability": 7.6, "novelty": 6.6, "composition": 13.0, "base-score": 20.0, "execution-deduction": 5.9, "special-deduction": 0.0 }, "totalScore": 69.3, "status": "completed" },
+    { "rank": 6, "playerId": "tang-jing-xiang", "playerName": "唐敬翔 / TANG JING-XIANG", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 14.0, "variety": 5.6, "stability": 5.2, "novelty": 5.2, "composition": 11.6, "base-score": 20.0, "execution-deduction": 11.2, "special-deduction": 0.0 }, "totalScore": 50.4, "status": "completed" },
+    { "rank": 1, "playerId": "watanuki-shunsuke", "playerName": "綿貫 峻介 / Watanuki Shunsuke", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 27.8, "variety": 7.6, "stability": 8.2, "novelty": 8.8, "composition": 14.0, "base-score": 20.0, "execution-deduction": 0.8, "special-deduction": 0.0 }, "totalScore": 85.6, "status": "completed" },
+    { "rank": 2, "playerId": "ishimizu-taiki", "playerName": "石水 泰樹 / Ishimizu Taiki", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 25.0, "variety": 8.2, "stability": 8.0, "novelty": 8.2, "composition": 17.0, "base-score": 20.0, "execution-deduction": 3.0, "special-deduction": 0.0 }, "totalScore": 83.4, "status": "completed" },
+    { "rank": 3, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / Chao Yu-Sung", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 25.0, "variety": 8.2, "stability": 7.2, "novelty": 8.0, "composition": 16.0, "base-score": 20.0, "execution-deduction": 7.3, "special-deduction": 0.0 }, "totalScore": 77.1, "status": "completed" },
+    { "rank": 4, "playerId": "torii-takemi", "playerName": "鳥居 岳史 / Torii Takemi", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 22.2, "variety": 7.6, "stability": 7.0, "novelty": 7.6, "composition": 15.2, "base-score": 20.0, "execution-deduction": 5.0, "special-deduction": 0.0 }, "totalScore": 74.6, "status": "completed" },
+    { "rank": 5, "playerId": "tasaki-kosi", "playerName": "田崎 晃司 / Tasaki Koshi", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 20.2, "variety": 6.8, "stability": 6.2, "novelty": 6.6, "composition": 14.6, "base-score": 20.0, "execution-deduction": 0.7, "special-deduction": 0.0 }, "totalScore": 73.7, "status": "completed" },
+    { "rank": 6, "playerId": "yamamoto-takashi", "playerName": "山本 孝 / Yamamoto Takashi", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 24.4, "variety": 7.4, "stability": 7.0, "novelty": 8.4, "composition": 14.8, "base-score": 15.0, "execution-deduction": 6.8, "special-deduction": 0.0 }, "totalScore": 70.2, "status": "completed" },
+    { "rank": 7, "playerId": "huang-shih-wei", "playerName": "黃士瑋 / HUANG SHIH WEI", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 22.6, "variety": 7.4, "stability": 6.8, "novelty": 8.0, "composition": 13.8, "base-score": 20.0, "execution-deduction": 9.0, "special-deduction": 0.0 }, "totalScore": 69.6, "status": "completed" },
+    { "rank": 8, "playerId": "chen-yi-fan", "playerName": "陳一帆 / CHEN YI-FAN", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 17.2, "variety": 6.2, "stability": 6.8, "novelty": 6.0, "composition": 15.0, "base-score": 20.0, "execution-deduction": 2.6, "special-deduction": 0.0 }, "totalScore": 68.6, "status": "completed" },
+    { "rank": 9, "playerId": "beh-seng-fatt", "playerName": "馬成發 / Beh Seng Fatt", "nationality": "Malaysia", "ageGroup": "19-", "scores": { "difficulty": 18.8, "variety": 6.6, "stability": 6.4, "novelty": 7.8, "composition": 15.2, "base-score": 20.0, "execution-deduction": 6.7, "special-deduction": 0.0 }, "totalScore": 68.1, "status": "completed" },
+    { "rank": 10, "playerId": "yasunaga-nao", "playerName": "安永 直央 / Yasunaga Nao", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 17.4, "variety": 6.4, "stability": 7.0, "novelty": 6.4, "composition": 15.4, "base-score": 20.0, "execution-deduction": 4.7, "special-deduction": 0.0 }, "totalScore": 67.9, "status": "completed" },
+    { "rank": 11, "playerId": "tomita-hikaru", "playerName": "冨田 輝 / Tomita Hikaru", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 16.4, "variety": 6.0, "stability": 6.4, "novelty": 5.0, "composition": 15.0, "base-score": 20.0, "execution-deduction": 4.2, "special-deduction": 0.0 }, "totalScore": 64.6, "status": "completed" },
+    { "rank": 12, "playerId": "wu-zhen-yu", "playerName": "吳鎮宇 / Wu Zhen-yu", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 16.0, "variety": 5.6, "stability": 5.8, "novelty": 5.6, "composition": 13.0, "base-score": 20.0, "execution-deduction": 4.1, "special-deduction": 0.0 }, "totalScore": 61.9, "status": "completed" },
+    { "rank": null, "playerId": "nagao-yuto", "playerName": "永尾 祐人 / Nagao Yuto", "nationality": "Japan", "ageGroup": "19-", "status": "dns" },
+    { "rank": null, "playerId": "kawamura-takashi", "playerName": "川村隆史 / Kawamura Takashi", "nationality": "Japan", "ageGroup": "19-", "status": "dns" },
+    { "rank": null, "playerId": "kudo-masahiro", "playerName": "工藤 正景 / Masahiro Kudo", "nationality": "Japan", "ageGroup": "19-", "status": "dns" }
+  ]
+}

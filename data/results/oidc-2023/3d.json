@@ -1,0 +1,21 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "nameEn": "3 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "torii-takemi", "playerName": "鳥居 岳史 / Torii Takemi", "nationality": "Japan", "scores": { "difficulty": 39.5, "stability": 12.0, "novelty": 25.0, "composition": 7.8, "execution-deduction": 0.6, "special-deduction": 0.0 }, "totalScore": 83.7, "status": "completed" },
+    { "rank": 2, "playerId": "watanuki-shunsuke", "playerName": "綿貫 峻介 / Watanuki Shunsuke", "nationality": "Japan", "scores": { "difficulty": 40.0, "stability": 12.3, "novelty": 26.5, "composition": 7.0, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 83.0, "status": "completed" },
+    { "rank": 3, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / Chao Yu-Sung", "nationality": "Taiwan", "scores": { "difficulty": 34.0, "stability": 9.8, "novelty": 23.5, "composition": 6.3, "execution-deduction": 6.0, "special-deduction": 0.0 }, "totalScore": 67.6, "status": "completed" },
+    { "rank": 4, "playerId": "morikoshi-daito", "playerName": "森越 大渡 / Morikoshi Daito", "nationality": "Japan", "scores": { "difficulty": 33.5, "stability": 8.8, "novelty": 21.5, "composition": 5.8, "execution-deduction": 5.0, "special-deduction": 0.0 }, "totalScore": 64.6, "status": "completed" }
+  ]
+}
