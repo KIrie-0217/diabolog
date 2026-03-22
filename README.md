@@ -1,21 +1,39 @@
-# React + TypeScript + Vite
+# Diabolife
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+競技ディアボロの大会結果を集約・閲覧するための Web サイトです。
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## セットアップ
 
-## Deploy Your Own
-
-Deploy your own Vite project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/vite-react&template=vite-react)
-
-_Live Example: https://vite-react-example.vercel.app_
-
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
+```bash
+npm install
+npm run dev
 ```
+
+## データ構造
+
+```
+data/                          ソースデータ（手動管理）
+  competitions.json            大会メタデータ
+  results/{competition-id}/    部門ごとの結果 JSON
+player-mappings.json           選手名寄せマッピング
+
+    ↓ npm run build-data
+
+public/data/                   自動生成（UI が参照）
+  competitions.json
+  results/{competition-id}.json
+  players.json
+```
+
+## データの著作権について
+
+本サイトに掲載されている大会結果データは、各大会主催者が公式に公開している結果 PDF に基づいています。大会結果の著作権は各大会主催者に帰属します。
+
+- OIDC (Osaka International Diabolo Competition): https://diabolo.jp/OIDC/
+- AJDC (全日本ディアボロ選手権大会): https://diabolo.jp/AJDC/
+
+## 掲載情報の削除について
+
+本サイトに掲載されているご自身の情報の削除を希望される場合は、GitHub Issue または以下の連絡先までご連絡ください。速やかに対応いたします。
+
+- GitHub Issues: https://github.com/KIrie-0217/diabolog/issues
