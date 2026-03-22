@@ -1,0 +1,16 @@
+{
+  "categoryId": "4d-low",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "ishimizu-taiki",
+      "playerName": "イシミズ タイキ",
+      "count": 123,
+      "status": "completed"
+    }
+  ],
+  "name": "4ディアボロロウ",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

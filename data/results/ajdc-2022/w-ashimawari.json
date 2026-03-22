@@ -1,0 +1,18 @@
+{
+  "categoryId": "w-ashimawari",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "ichikawa-hotaru",
+      "playerName": "イチカワ ホタル",
+      "count": 102,
+      "class": "A",
+      "status": "completed"
+    }
+  ],
+  "name": "女子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

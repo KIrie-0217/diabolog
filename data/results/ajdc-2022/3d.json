@@ -1,0 +1,61 @@
+{
+  "categoryId": "3d",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "watanuki-shunsuke",
+      "playerName": "ワタヌキ シュンスケ",
+      "scores": {
+        "difficulty": 41.8,
+        "stability": 12.8,
+        "novelty": 27.0,
+        "composition": 6.8,
+        "execution-deduction": 1.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 87.0,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "saito-ryo",
+      "playerName": "サイトウ リョウ",
+      "scores": {
+        "difficulty": 38.5,
+        "stability": 11.0,
+        "novelty": 24.5,
+        "composition": 7.0,
+        "execution-deduction": 6.3,
+        "special-deduction": 0.0
+      },
+      "totalScore": 74.7,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "ichikawa-yuuma",
+      "playerName": "イチカワ ユウマ",
+      "scores": {
+        "difficulty": 35.3,
+        "stability": 10.3,
+        "novelty": 21.3,
+        "composition": 7.5,
+        "execution-deduction": 3.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 70.6,
+      "status": "completed"
+    }
+  ],
+  "name": "3ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ]
+}

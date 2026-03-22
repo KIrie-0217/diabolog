@@ -79,7 +79,9 @@
     "canonicalName": "高橋 蓮生 / Rensho Takahashi",
     "aliases": [
       "高橋 蓮生 / Rensho Takahashi",
-      "タカハシ レンショウ"
+      "タカハシ レンショウ",
+      "タカハシレンショウ",
+      "タカハシレンショウ"
     ],
     "nationality": "Japan"
   },
@@ -96,7 +98,9 @@
     "aliases": [
       "稲葉亘 / Wataru Inaba",
       "イナバ ワタル",
-      "稲葉亘 / Inaba Wataru"
+      "イナバワタル",
+      "稲葉亘 / Inaba Wataru",
+      "イナバワタル"
     ],
     "nationality": "Japan"
   },
@@ -231,6 +235,7 @@
     "canonicalName": "前田 凌佑 / Ryosuke Maeda",
     "aliases": [
       "マエダ リョウスケ",
+      "マエダリョウスケ",
       "前田 凌佑 / Ryosuke Maeda"
     ],
     "nationality": "Japan"
@@ -363,7 +368,8 @@
     "aliases": [
       "スズキ アキト",
       "鈴木瑛登 / Akito Suzuki",
-      "鈴木瑛登 / Suzuki Akito"
+      "鈴木瑛登 / Suzuki Akito",
+      "スズキアキト"
     ],
     "nationality": "Japan"
   },
@@ -393,7 +399,8 @@
   "akiba-yosuke": {
     "canonicalName": "アキバ ヨウスケ",
     "aliases": [
-      "アキバ ヨウスケ"
+      "アキバ ヨウスケ",
+      "アキバヨウスケ"
     ],
     "nationality": "Japan"
   },
@@ -544,7 +551,8 @@
   "tsuda-manato": {
     "canonicalName": "津田 真叶 / Manato Tsuda",
     "aliases": [
-      "津田 真叶 / Manato Tsuda"
+      "津田 真叶 / Manato Tsuda",
+      "ツダ マナト"
     ],
     "nationality": "Japan"
   },
@@ -861,7 +869,8 @@
   "tada-kazuki": {
     "canonicalName": "田多 加津輝 / Kazuki Tada",
     "aliases": [
-      "田多 加津輝 / Kazuki Tada"
+      "田多 加津輝 / Kazuki Tada",
+      "タダカズキ"
     ],
     "nationality": "Japan"
   },
@@ -883,7 +892,8 @@
   "yasunaga-nao": {
     "canonicalName": "安永 直央 / Nao Yasunaga",
     "aliases": [
-      "安永 直央 / Nao Yasunaga"
+      "安永 直央 / Nao Yasunaga",
+      "ヤスナガナオ"
     ],
     "nationality": "Japan"
   },
@@ -1220,7 +1230,8 @@
     "nationality": "Japan",
     "aliases": [
       "光安祐介 / Yusuke Mitsuyasu",
-      "光安祐介 / Mitsuyasu Yusuke"
+      "光安祐介 / Mitsuyasu Yusuke",
+      "ミツヤス ユウスケ"
     ]
   },
   "nozawa-ryunosuke": {
@@ -1505,7 +1516,8 @@
     "canonicalName": "川村隆史 / Kawamura Takashi",
     "nationality": "Japan",
     "aliases": [
-      "川村隆史 / Kawamura Takashi"
+      "川村隆史 / Kawamura Takashi",
+      "カワムラタカシ"
     ]
   },
   "kusakawa-iori": {
@@ -1526,7 +1538,9 @@
     "canonicalName": "泉水 沙樹 / Sensui Saki",
     "nationality": "Japan",
     "aliases": [
-      "泉水 沙樹 / Sensui Saki"
+      "泉水 沙樹 / Sensui Saki",
+      "センスイ サキ",
+      "センスイサキ"
     ]
   },
   "reynal-chong": {
@@ -1805,5 +1819,366 @@
     "aliases": [
       "エモトハルキ/カメヤマサクタロウ"
     ]
+  },
+  "takamori-hirofumi": {
+    "canonicalName": "タカモリヒロフミ",
+    "nationality": "Japan",
+    "aliases": [
+      "タカモリヒロフミ",
+      "タカモリ ヒロフミ"
+    ]
+  },
+  "koizumi-yuuki": {
+    "canonicalName": "コイズミユウキ",
+    "nationality": "Japan",
+    "aliases": [
+      "コイズミユウキ"
+    ]
+  },
+  "kan-takafumi": {
+    "canonicalName": "カン タカフミ",
+    "nationality": "Japan",
+    "aliases": [
+      "カン タカフミ"
+    ]
+  },
+  "sakurai-ryo": {
+    "canonicalName": "サクライ リョウ",
+    "nationality": "Japan",
+    "aliases": [
+      "サクライ リョウ"
+    ]
+  },
+  "yamamoto-ryo": {
+    "canonicalName": "ヤマモト リョウ",
+    "nationality": "Japan",
+    "aliases": [
+      "ヤマモト リョウ"
+    ]
+  },
+  "ishida-ryosuke": {
+    "canonicalName": "イシダリョウスケ",
+    "nationality": "Japan",
+    "aliases": [
+      "イシダリョウスケ"
+    ]
+  },
+  "mikamoto-junna": {
+    "canonicalName": "ミカモト ジュンナ",
+    "nationality": "Japan",
+    "aliases": [
+      "ミカモト ジュンナ"
+    ]
+  },
+  "sudo-maki": {
+    "canonicalName": "スドウ マキ",
+    "nationality": "Japan",
+    "aliases": [
+      "スドウ マキ"
+    ]
+  },
+  "takahashi-haruto": {
+    "canonicalName": "タカハシハルト",
+    "nationality": "Japan",
+    "aliases": [
+      "タカハシハルト"
+    ]
+  },
+  "yoshida-shigemi": {
+    "canonicalName": "ヨシダシゲミ",
+    "nationality": "Japan",
+    "aliases": [
+      "ヨシダシゲミ"
+    ]
+  },
+  "torii-hiromiki": {
+    "canonicalName": "トリイ ヒロミキ",
+    "nationality": "Japan",
+    "aliases": [
+      "トリイ ヒロミキ",
+      "トリイヒロミキ"
+    ]
+  },
+  "team:drippy-crow": {
+    "canonicalName": "Drippy Crow",
+    "nationality": "Japan",
+    "aliases": [
+      "Drippy Crow"
+    ]
+  },
+  "kanzawa-ryosuke": {
+    "canonicalName": "カンザワ リョウスケ",
+    "nationality": "Japan",
+    "aliases": [
+      "カンザワ リョウスケ"
+    ]
+  },
+  "osumi-hiraki": {
+    "canonicalName": "オオスミヒラキ",
+    "nationality": "Japan",
+    "aliases": [
+      "オオスミヒラキ"
+    ]
+  },
+  "sakamaki-takamasa": {
+    "canonicalName": "サカマキタカマサ",
+    "nationality": "Japan",
+    "aliases": [
+      "サカマキタカマサ"
+    ]
+  },
+  "muramatsu-junpei": {
+    "canonicalName": "ムラマツジュンペイ",
+    "nationality": "Japan",
+    "aliases": [
+      "ムラマツジュンペイ"
+    ]
+  },
+  "otsuka-takaaki": {
+    "canonicalName": "オオツカ タカアキ",
+    "nationality": "Japan",
+    "aliases": [
+      "オオツカ タカアキ"
+    ]
+  },
+  "komatsu-naoto": {
+    "canonicalName": "コマツナオト",
+    "nationality": "Japan",
+    "aliases": [
+      "コマツナオト"
+    ]
+  },
+  "asaki-shunta": {
+    "canonicalName": "アサキ シュンタ",
+    "nationality": "Japan",
+    "aliases": [
+      "アサキ シュンタ"
+    ]
+  },
+  "kosaki-jun": {
+    "canonicalName": "コサキ ジュン",
+    "nationality": "Japan",
+    "aliases": [
+      "コサキ ジュン"
+    ]
+  },
+  "makimoto-kosuke": {
+    "canonicalName": "マキモトコウスケ",
+    "nationality": "Japan",
+    "aliases": [
+      "マキモトコウスケ"
+    ]
+  },
+  "kusachi-banri": {
+    "canonicalName": "クサチバンリ",
+    "nationality": "Japan",
+    "aliases": [
+      "クサチバンリ"
+    ]
+  },
+  "morimoto-kyohei": {
+    "canonicalName": "モリモトキョウヘイ",
+    "nationality": "Japan",
+    "aliases": [
+      "モリモトキョウヘイ"
+    ]
+  },
+  "sekiguchi-shuhei": {
+    "canonicalName": "セキグチシュウヘイ",
+    "nationality": "Japan",
+    "aliases": [
+      "セキグチシュウヘイ"
+    ]
+  },
+  "harada-kazuya": {
+    "canonicalName": "ハラダカズヤ",
+    "nationality": "Japan",
+    "aliases": [
+      "ハラダカズヤ"
+    ]
+  },
+  "shiraishi-airi": {
+    "canonicalName": "シライシアイリ",
+    "nationality": "Japan",
+    "aliases": [
+      "シライシアイリ"
+    ]
+  },
+  "oishi-mayu": {
+    "canonicalName": "オオイシマユ",
+    "nationality": "Japan",
+    "aliases": [
+      "オオイシマユ"
+    ]
+  },
+  "ando-aki": {
+    "canonicalName": "アンドウ アキ",
+    "nationality": "Japan",
+    "aliases": [
+      "アンドウ アキ"
+    ]
+  },
+  "ooi-tsugumi": {
+    "canonicalName": "オオイツグミ",
+    "nationality": "Japan",
+    "aliases": [
+      "オオイツグミ"
+    ]
+  },
+  "shimura-yui": {
+    "canonicalName": "シムラユイ",
+    "nationality": "Japan",
+    "aliases": [
+      "シムラユイ"
+    ]
+  },
+  "tojo-maki": {
+    "canonicalName": "トウジョウ マキ",
+    "nationality": "Japan",
+    "aliases": [
+      "トウジョウ マキ"
+    ]
+  },
+  "takahashi-kazuki": {
+    "canonicalName": "タカハシカズキ",
+    "nationality": "Japan",
+    "aliases": [
+      "タカハシカズキ"
+    ]
+  },
+  "watanabe-hayato": {
+    "canonicalName": "ワタナベ ハヤト",
+    "nationality": "Japan",
+    "aliases": [
+      "ワタナベ ハヤト"
+    ]
+  },
+  "makino-runa": {
+    "canonicalName": "マキノルナ",
+    "nationality": "Japan",
+    "aliases": [
+      "マキノルナ"
+    ]
+  },
+  "koyama-hinata": {
+    "canonicalName": "コヤマヒナタ",
+    "nationality": "Japan",
+    "aliases": [
+      "コヤマヒナタ"
+    ]
+  },
+  "hashimoto-kyohei": {
+    "canonicalName": "ハシモト キョウヘイ",
+    "nationality": "Japan",
+    "aliases": [
+      "ハシモト キョウヘイ",
+      "ハシモトキョウヘイ"
+    ]
+  },
+  "abe-hiroki": {
+    "canonicalName": "アベヒロキ",
+    "nationality": "Japan",
+    "aliases": [
+      "アベヒロキ"
+    ]
+  },
+  "torii-hiromiki+makino-sena": {
+    "canonicalName": "トリイヒロミキ/マキノセナ",
+    "aliases": [
+      "トリイヒロミキ/マキノセナ"
+    ]
+  },
+  "kudo-masahiro+tomita-hikaru": {
+    "canonicalName": "クドウ マサヒロ/トミタヒカル",
+    "aliases": [
+      "クドウ マサヒロ/トミタヒカル"
+    ]
+  },
+  "kawamura-takashi+kanzawa-ryosuke": {
+    "canonicalName": "カワムラタカシ/カンザワ リョウスケ",
+    "aliases": [
+      "カワムラタカシ/カンザワ リョウスケ"
+    ]
+  },
+  "inaba-wataru+hashimoto-kyohei": {
+    "canonicalName": "イナバワタル/ハシモトキョウヘイ",
+    "aliases": [
+      "イナバワタル/ハシモトキョウヘイ"
+    ]
+  },
+  "sensui-saki+kanno-joei": {
+    "canonicalName": "センスイサキ/カンノジョウエイ",
+    "aliases": [
+      "センスイサキ/カンノジョウエイ"
+    ]
+  },
+  "harada-shutaro": {
+    "canonicalName": "ハラダシュウタロウ",
+    "nationality": "Japan",
+    "aliases": [
+      "ハラダシュウタロウ"
+    ]
+  },
+  "makino-sena+tanioka-kaketo": {
+    "canonicalName": "マキノセナ/タニオカ カケト",
+    "aliases": [
+      "マキノセナ/タニオカ カケト"
+    ]
+  },
+  "ishikawa-aoto": {
+    "canonicalName": "イシカワ アオト",
+    "aliases": [
+      "イシカワ アオト"
+    ],
+    "nationality": "Japan"
+  },
+  "koseki-megumi": {
+    "canonicalName": "コセキ メグミ",
+    "aliases": [
+      "コセキ メグミ"
+    ],
+    "nationality": "Japan"
+  },
+  "shimizu-shouta": {
+    "canonicalName": "シミズショウタ",
+    "aliases": [
+      "シミズショウタ"
+    ],
+    "nationality": "Japan"
+  },
+  "takarada-masahiro": {
+    "canonicalName": "タカラダ マサヒロ",
+    "aliases": [
+      "タカラダ マサヒロ"
+    ],
+    "nationality": "Japan"
+  },
+  "hosomi-takahiro": {
+    "canonicalName": "ホソミタカヒロ",
+    "aliases": [
+      "ホソミタカヒロ"
+    ],
+    "nationality": "Japan"
+  },
+  "minato-ouri": {
+    "canonicalName": "ミナトオウリ",
+    "aliases": [
+      "ミナトオウリ"
+    ],
+    "nationality": "Japan"
+  },
+  "yonezawa-akiho": {
+    "canonicalName": "ヨネザワ アキホ",
+    "aliases": [
+      "ヨネザワ アキホ"
+    ],
+    "nationality": "Japan"
+  },
+  "rin-yuuki": {
+    "canonicalName": "リンユウキ",
+    "aliases": [
+      "リンユウキ"
+    ],
+    "nationality": "Japan"
   }
 }

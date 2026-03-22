@@ -1,0 +1,61 @@
+{
+  "categoryId": "2db",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "sunahara-hiroto",
+      "playerName": "スナハラヒロト",
+      "scores": {
+        "difficulty": 41.0,
+        "stability": 12.3,
+        "novelty": 26.5,
+        "composition": 8.0,
+        "execution-deduction": 1.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 86.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "harada-shutaro",
+      "playerName": "ハラダシュウタロウ",
+      "scores": {
+        "difficulty": 38.0,
+        "stability": 10.8,
+        "novelty": 25.3,
+        "composition": 7.3,
+        "execution-deduction": 5.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 75.9,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "miyata-daiki",
+      "playerName": "ミヤタダイキ",
+      "scores": {
+        "difficulty": 34.3,
+        "stability": 9.8,
+        "novelty": 22.5,
+        "composition": 6.8,
+        "execution-deduction": 5.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 67.9,
+      "status": "completed"
+    }
+  ],
+  "name": "2ディアボロ(ペアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ]
+}

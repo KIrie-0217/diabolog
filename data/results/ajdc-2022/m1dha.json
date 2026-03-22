@@ -1,0 +1,127 @@
+{
+  "categoryId": "m1dha",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kanno-joei",
+      "playerName": "カンノジョウエイ",
+      "scores": {
+        "difficulty": 42.8,
+        "stability": 13.0,
+        "novelty": 27.0,
+        "composition": 8.5,
+        "execution-deduction": 2.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 89.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "inaba-wataru",
+      "playerName": "イナバワタル",
+      "scores": {
+        "difficulty": 41.0,
+        "stability": 12.8,
+        "novelty": 25.8,
+        "composition": 7.0,
+        "execution-deduction": 1.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 85.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kanehira-shinichi",
+      "playerName": "カネヒラシンイチ",
+      "scores": {
+        "difficulty": 40.0,
+        "stability": 13.0,
+        "novelty": 24.5,
+        "composition": 8.5,
+        "execution-deduction": 2.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 84.0,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "irie-koshiro",
+      "playerName": "イリエコウシロウ",
+      "scores": {
+        "difficulty": 40.8,
+        "stability": 11.3,
+        "novelty": 25.8,
+        "composition": 8.0,
+        "execution-deduction": 2.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 83.5,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kubota-taiga",
+      "playerName": "クボタタイガ",
+      "scores": {
+        "difficulty": 39.0,
+        "stability": 10.5,
+        "novelty": 25.0,
+        "composition": 7.8,
+        "execution-deduction": 4.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 77.7,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "tanabe-shinji",
+      "playerName": "タナベ シンジ",
+      "scores": {
+        "difficulty": 36.0,
+        "stability": 9.5,
+        "novelty": 24.5,
+        "composition": 6.5,
+        "execution-deduction": 5.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 71.0,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "yano-atsushi",
+      "playerName": "ヤノアツシ",
+      "scores": {
+        "difficulty": 34.5,
+        "stability": 10.8,
+        "novelty": 20.3,
+        "composition": 6.5,
+        "execution-deduction": 5.3,
+        "special-deduction": 0.0
+      },
+      "totalScore": 66.8,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "takada-shunsuke",
+      "playerName": "タカダシュンスケ",
+      "status": "dns"
+    }
+  ],
+  "name": "男子1ディアボロ水平軸(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "categoryId": "m-nawatobi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "makino-sena",
+      "playerName": "マキノセナ",
+      "count": 79,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "irie-koshiro",
+      "playerName": "イリエコウシロウ",
+      "count": 26,
+      "class": "D",
+      "status": "completed"
+    }
+  ],
+  "name": "男子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

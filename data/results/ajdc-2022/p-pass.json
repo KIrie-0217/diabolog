@@ -1,0 +1,16 @@
+{
+  "categoryId": "p-pass",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "makino-sena+tanioka-kaketo",
+      "playerName": "マキノセナ / タニオカ カケト",
+      "count": 51,
+      "status": "completed"
+    }
+  ],
+  "name": "2ディアボロペアパス",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

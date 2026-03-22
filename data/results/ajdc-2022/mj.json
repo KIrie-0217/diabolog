@@ -1,0 +1,69 @@
+{
+  "categoryId": "mj",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tanioka-kaketo",
+      "playerName": "タニオカ カケト",
+      "scores": {
+        "difficulty": 28.3,
+        "variety": 14.5,
+        "stability": 12.8,
+        "novelty": 6.3,
+        "composition": 7.5,
+        "base-score": 15.0,
+        "execution-deduction": 2.2,
+        "special-deduction": 0.0
+      },
+      "totalScore": 82.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "makino-sena",
+      "playerName": "マキノセナ",
+      "scores": {
+        "difficulty": 25.0,
+        "variety": 16.8,
+        "stability": 12.0,
+        "novelty": 7.8,
+        "composition": 7.3,
+        "base-score": 15.0,
+        "execution-deduction": 3.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 80.1,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "ichikawa-yuuma",
+      "playerName": "イチカワ ユウマ",
+      "scores": {
+        "difficulty": 22.3,
+        "variety": 14.0,
+        "stability": 10.0,
+        "novelty": 6.3,
+        "composition": 7.0,
+        "base-score": 15.0,
+        "execution-deduction": 7.1,
+        "special-deduction": 0.0
+      },
+      "totalScore": 67.5,
+      "status": "completed"
+    }
+  ],
+  "name": "男子個人総合ジュニア部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ]
+}

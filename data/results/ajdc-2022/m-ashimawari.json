@@ -1,0 +1,26 @@
+{
+  "categoryId": "m-ashimawari",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "makino-sena",
+      "playerName": "マキノセナ",
+      "count": 172,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "inaba-wataru",
+      "playerName": "イナバワタル",
+      "count": 86,
+      "class": "C",
+      "status": "completed"
+    }
+  ],
+  "name": "男子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

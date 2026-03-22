@@ -1,0 +1,76 @@
+{
+  "categoryId": "m1dhb",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "ishimizu-taiki",
+      "playerName": "イシミズ タイキ",
+      "scores": {
+        "difficulty": 41.3,
+        "stability": 13.5,
+        "novelty": 27.0,
+        "composition": 8.8,
+        "execution-deduction": 1.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 89.0,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "abe-hiroki",
+      "playerName": "アベヒロキ",
+      "scores": {
+        "difficulty": 38.3,
+        "stability": 12.3,
+        "novelty": 25.3,
+        "composition": 7.3,
+        "execution-deduction": 1.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 81.8,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "endo-mamoru",
+      "playerName": "エンドウ マモル",
+      "scores": {
+        "difficulty": 39.0,
+        "stability": 11.3,
+        "novelty": 26.8,
+        "composition": 6.8,
+        "execution-deduction": 3.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 80.1,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kamei-hiroki",
+      "playerName": "カメイヒロキ",
+      "scores": {
+        "difficulty": 36.3,
+        "stability": 12.0,
+        "novelty": 25.0,
+        "composition": 7.8,
+        "execution-deduction": 2.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 79.1,
+      "status": "completed"
+    }
+  ],
+  "name": "男子1ディアボロ水平軸(ベアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ]
+}
