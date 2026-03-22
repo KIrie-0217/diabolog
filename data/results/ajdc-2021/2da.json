@@ -1,0 +1,22 @@
+{
+  "categoryId": "2da",
+  "name": "2ディアボロ(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "shimizu-shouta", "playerName": "シミズショウタ", "scores": { "difficulty": 36.5, "stability": 11.0, "novelty": 23.8, "composition": 7.0, "execution-deduction": 3.0, "special-deduction": 0 }, "totalScore": 75.3, "status": "completed" },
+    { "rank": 2, "playerId": "akiba-yosuke", "playerName": "アキバヨウスケ", "scores": { "difficulty": 35.3, "stability": 10.5, "novelty": 23.3, "composition": 7.0, "execution-deduction": 4.6, "special-deduction": 0 }, "totalScore": 71.5, "status": "completed" },
+    { "rank": 3, "playerId": "takahashi-rensho", "playerName": "タカハシレンショウ", "scores": { "difficulty": 34.8, "stability": 9.8, "novelty": 24.3, "composition": 6.3, "execution-deduction": 7.5, "special-deduction": 0 }, "totalScore": 67.7, "status": "completed" },
+    { "rank": 4, "playerId": "makino-sena", "playerName": "マキノセナ", "scores": { "difficulty": 32.3, "stability": 11.0, "novelty": 20.0, "composition": 7.3, "execution-deduction": 3.3, "special-deduction": 0 }, "totalScore": 67.3, "status": "completed" },
+    { "rank": 5, "playerId": "irie-koshiro", "playerName": "イリエコウシロウ", "scores": { "difficulty": 33.3, "stability": 10.3, "novelty": 22.0, "composition": 6.5, "execution-deduction": 5.6, "special-deduction": 0 }, "totalScore": 66.5, "status": "completed" },
+    { "rank": 6, "playerId": "ichikawa-yuuma", "playerName": "イチカワ ユウマ", "scores": { "difficulty": 30.3, "stability": 11.8, "novelty": 17.8, "composition": 6.8, "execution-deduction": 1.4, "special-deduction": 0 }, "totalScore": 65.3, "status": "completed" }
+  ]
+}

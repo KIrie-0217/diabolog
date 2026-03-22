@@ -1,0 +1,24 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "ishimizu-taiki", "playerName": "イシミズ タイキ", "scores": { "difficulty": 26.0, "variety": 8.3, "stability": 7.5, "novelty": 8.5, "composition": 16.3, "base-score": 20, "execution-deduction": 3.7, "special-deduction": 0 }, "totalScore": 82.9, "status": "completed" },
+    { "rank": 2, "playerId": "kudo-masahiro", "playerName": "クドウ マサヒロ", "scores": { "difficulty": 25.0, "variety": 7.8, "stability": 8.0, "novelty": 6.8, "composition": 17.8, "base-score": 20, "execution-deduction": 2.8, "special-deduction": 0 }, "totalScore": 82.6, "status": "completed" },
+    { "rank": 3, "playerId": "tomita-hikaru", "playerName": "トミタヒカル", "scores": { "difficulty": 22.8, "variety": 6.8, "stability": 7.3, "novelty": 6.8, "composition": 16.8, "base-score": 20, "execution-deduction": 1.3, "special-deduction": 0 }, "totalScore": 79.2, "status": "completed" },
+    { "rank": 4, "playerId": "yamazaki-soshi", "playerName": "ヤマザキ ソウシ", "scores": { "difficulty": 25.3, "variety": 7.8, "stability": 7.3, "novelty": 7.8, "composition": 15.3, "base-score": 20, "execution-deduction": 6.4, "special-deduction": 0 }, "totalScore": 77.1, "status": "completed" },
+    { "rank": 5, "playerId": "kawamura-takashi", "playerName": "カワムラタカシ", "scores": { "difficulty": 23.0, "variety": 6.8, "stability": 7.3, "novelty": 6.5, "composition": 15.3, "base-score": 20, "execution-deduction": 2.3, "special-deduction": 0 }, "totalScore": 76.6, "status": "completed" },
+    { "rank": 6, "playerId": "ishikawa-aoto", "playerName": "イシカワ アオト", "scores": { "difficulty": 22.8, "variety": 6.3, "stability": 6.5, "novelty": 7.3, "composition": 13.8, "base-score": 10, "execution-deduction": 4.2, "special-deduction": 0 }, "totalScore": 62.5, "status": "completed" }
+  ]
+}

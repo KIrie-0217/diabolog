@@ -1,0 +1,17 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "koseki-megumi", "playerName": "コセキ メグミ", "scores": { "difficulty": 36.0, "stability": 11.3, "novelty": 22.8, "composition": 7.0, "execution-deduction": 2.9, "special-deduction": 0 }, "totalScore": 74.2, "status": "completed" }
+  ]
+}

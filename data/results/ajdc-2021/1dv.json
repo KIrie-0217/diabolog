@@ -1,0 +1,25 @@
+{
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "yagami-rintaro", "playerName": "ヤガミリンタロウ", "scores": { "difficulty": 42.8, "stability": 13.3, "novelty": 28.3, "composition": 8.3, "execution-deduction": 0.8, "special-deduction": 0 }, "totalScore": 91.9, "status": "completed" },
+    { "rank": 2, "playerId": "yamazaki-soshi", "playerName": "ヤマザキ ソウシ", "scores": { "difficulty": 39.8, "stability": 12.3, "novelty": 24.5, "composition": 8.3, "execution-deduction": 1.1, "special-deduction": 0 }, "totalScore": 83.8, "status": "completed" },
+    { "rank": 3, "playerId": "tsuda-manato", "playerName": "ツダ マナト", "scores": { "difficulty": 38.5, "stability": 12.5, "novelty": 24.0, "composition": 7.0, "execution-deduction": 2.5, "special-deduction": 0 }, "totalScore": 79.5, "status": "completed" },
+    { "rank": 4, "playerId": "kamei-hiroki", "playerName": "カメイヒロキ", "scores": { "difficulty": 36.5, "stability": 11.8, "novelty": 24.8, "composition": 8.0, "execution-deduction": 2.6, "special-deduction": 0 }, "totalScore": 78.5, "status": "completed" },
+    { "rank": 5, "playerId": "harada-shutaro", "playerName": "ハラダシュウタロウ", "scores": { "difficulty": 37.0, "stability": 11.0, "novelty": 23.8, "composition": 7.5, "execution-deduction": 3.3, "special-deduction": 0 }, "totalScore": 76.0, "status": "completed" },
+    { "rank": 6, "playerId": "suzuki-akito", "playerName": "スズキアキト", "scores": { "difficulty": 35.5, "stability": 11.0, "novelty": 23.5, "composition": 7.0, "execution-deduction": 5.1, "special-deduction": 0 }, "totalScore": 71.9, "status": "completed" },
+    { "rank": 7, "playerId": "kosaki-jun", "playerName": "コサキ ジュン", "scores": { "difficulty": 34.3, "stability": 9.8, "novelty": 23.3, "composition": 7.3, "execution-deduction": 3.4, "special-deduction": 0 }, "totalScore": 71.3, "status": "completed" },
+    { "rank": 8, "playerId": "sensui-saki", "playerName": "センスイ サキ", "scores": { "difficulty": 36.0, "stability": 10.8, "novelty": 24.3, "composition": 6.8, "execution-deduction": 7.1, "special-deduction": 0 }, "totalScore": 70.8, "status": "completed" },
+    { "rank": null, "playerId": "kusachi-banri", "playerName": "クサチバンリ", "status": "dns" }
+  ]
+}
