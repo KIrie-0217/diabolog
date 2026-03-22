@@ -60,6 +60,7 @@ const players = Object.entries(playerResults).map(([id, results]) => {
   return {
     id,
     name: mapping.canonicalName || id,
+    aliases: mapping.aliases || [],
     nationality: mapping.nationality || null,
     results,
     stats: {

@@ -9,6 +9,7 @@ import {
   Chip,
   Loader,
   SimpleGrid,
+  Pagination,
 } from "@mantine/core";
 import { IconSearch } from "@tabler/icons-react";
 import { Link } from "react-router-dom";
@@ -17,6 +18,7 @@ import { NationFlag } from "../components/NationFlag";
 type PlayerData = {
   id: string;
   name: string;
+  aliases?: string[];
   nationality: string | null;
   stats: {
     totalCompetitions: number;
@@ -30,6 +32,9 @@ export function Players() {
   const [loading, setLoading] = useState(true);
   const [search, setSearch] = useState("");
   const [nationalities, setNationalities] = useState<string[]>([]);
+  const [page, setPage] = useState(1);
+  const isMobile = window.innerWidth < 768;
+  const perPage = isMobile ? 5 : 15;
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/players.json`)
@@ -45,7 +50,7 @@ export function Players() {
   const allNationalities = [...new Set(players.map((p) => p.nationality).filter(Boolean))] as string[];
 
   const filtered = players.filter((p) => {
-    if (search && !p.name.toLowerCase().includes(search.toLowerCase())) return false;
+    if (search && !p.name.toLowerCase().includes(search.toLowerCase()) && !(p.aliases ?? []).some(a => a.toLowerCase().includes(search.toLowerCase()))) return false;
     if (nationalities.length > 0 && !nationalities.includes(p.nationality ?? "")) return false;
     return true;
   });
@@ -58,10 +63,10 @@ export function Players() {
         placeholder="Search by name..."
         leftSection={<IconSearch size={16} />}
         value={search}
-        onChange={(e) => setSearch(e.currentTarget.value)}
+        onChange={(e) => { setSearch(e.currentTarget.value); setPage(1); }}
       />
 
-      <Chip.Group multiple value={nationalities} onChange={setNationalities}>
+      <Chip.Group multiple value={nationalities} onChange={(v) => { setNationalities(v); setPage(1); }}>
         <Group gap="xs">
           {allNationalities.map((n) => (
             <Chip key={n} value={n} size="xs">
@@ -74,7 +79,7 @@ export function Players() {
       <Text size="sm" c="dimmed">{filtered.length} players</Text>
 
       <SimpleGrid cols={{ base: 1, xs: 2, sm: 3 }} spacing="sm">
-        {filtered.map((p) => (
+        {filtered.slice((page - 1) * perPage, page * perPage).map((p) => (
           <Card
             key={p.id}
             shadow="xs"
@@ -97,6 +102,10 @@ export function Players() {
           </Card>
         ))}
       </SimpleGrid>
+
+      {filtered.length > perPage && (
+        <Pagination total={Math.ceil(filtered.length / perPage)} value={page} onChange={setPage} mt="md" mx="auto" />
+      )}
     </Stack>
   );
 }
