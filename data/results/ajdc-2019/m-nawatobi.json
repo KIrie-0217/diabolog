@@ -1,0 +1,14 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "agou-tensei", "playerName": "アゴウテンセイ", "count": 78, "class": "B", "status": "completed" },
+    { "rank": 2, "playerId": "makino-sena", "playerName": "マキノセナ", "count": 53, "class": "A", "status": "completed" },
+    { "rank": 3, "playerId": "hashimoto-kyohei", "playerName": "ハシモト キョウヘイ", "count": 49, "class": "C", "status": "completed" },
+    { "rank": 4, "playerId": "abe-hiroki", "playerName": "アベヒロキ", "count": 27, "class": "D", "status": "completed" }
+  ]
+}

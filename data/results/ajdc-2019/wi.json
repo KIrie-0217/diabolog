@@ -1,0 +1,40 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "suda-erika",
+      "playerName": "スダエリカ",
+      "scores": { "difficulty": 24.6, "variety": 7.4, "stability": 7.8, "novelty": 6.6, "composition": 20.0, "base-score": 15, "execution-deduction": 2.2, "special-deduction": 0 },
+      "totalScore": 79.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "mikamoto-junna",
+      "playerName": "ミカモト ジュンナ",
+      "scores": { "difficulty": 17.8, "variety": 5.6, "stability": 6.2, "novelty": 5.0, "composition": 16.6, "base-score": 10, "execution-deduction": 3.8, "special-deduction": 0 },
+      "totalScore": 57.4,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "sudo-maki",
+      "playerName": "スドウ マキ",
+      "status": "dns"
+    }
+  ]
+}

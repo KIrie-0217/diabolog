@@ -1,0 +1,11 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "makino-runa", "playerName": "マキノルナ", "count": 18, "class": "A", "status": "completed" }
+  ]
+}

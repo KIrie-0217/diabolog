@@ -1,0 +1,11 @@
+{
+  "categoryId": "battle",
+  "name": "バトル部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "results": [
+    { "rank": 1, "playerId": "tada-kazuki", "playerName": "タダカズキ", "status": "completed" },
+    { "rank": 2, "playerId": "kudo-masahiro", "playerName": "クドウ マサヒロ", "status": "completed" },
+    { "rank": 3, "playerId": "yamamoto-takashi", "playerName": "ヤマモト タカシ", "status": "completed" }
+  ]
+}

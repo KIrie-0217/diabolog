@@ -1,0 +1,124 @@
+{
+  "categoryId": "m1dhb",
+  "name": "男子1ディアボロ水平軸(ベアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "ishimizu-taiki",
+      "playerName": "イシミズ タイキ",
+      "scores": { "difficulty": 41.0, "stability": 12.5, "novelty": 27.0, "composition": 8.5, "execution-deduction": 2.9, "special-deduction": 0 },
+      "totalScore": 86.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "shimizu-kouta",
+      "playerName": "シミズ コウタ",
+      "scores": { "difficulty": 40.5, "stability": 11.8, "novelty": 25.5, "composition": 7.8, "execution-deduction": 1.5, "special-deduction": 0 },
+      "totalScore": 84.1,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "omagari-shintaro",
+      "playerName": "オマガリ シンタロウ",
+      "scores": { "difficulty": 36.3, "stability": 12.0, "novelty": 26.0, "composition": 7.5, "execution-deduction": 2.6, "special-deduction": 0 },
+      "totalScore": 79.2,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tanaka-tomoyasu",
+      "playerName": "タナカトモヤス",
+      "scores": { "difficulty": 36.5, "stability": 12.3, "novelty": 25.5, "composition": 7.5, "execution-deduction": 3.6, "special-deduction": 0 },
+      "totalScore": 78.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイヒロミキ",
+      "scores": { "difficulty": 35.8, "stability": 12.0, "novelty": 25.0, "composition": 7.5, "execution-deduction": 2.8, "special-deduction": 0 },
+      "totalScore": 77.5,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "endo-mamoru",
+      "playerName": "エンドウ マモル",
+      "scores": { "difficulty": 34.3, "stability": 11.5, "novelty": 25.0, "composition": 6.8, "execution-deduction": 1.4, "special-deduction": 0 },
+      "totalScore": 76.2,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "takamori-hirofumi",
+      "playerName": "タカモリヒロフミ",
+      "scores": { "difficulty": 35.8, "stability": 10.8, "novelty": 23.8, "composition": 7.3, "execution-deduction": 4.0, "special-deduction": 0 },
+      "totalScore": 73.7,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "irie-koshiro",
+      "playerName": "イリエコウシロウ",
+      "scores": { "difficulty": 37.5, "stability": 10.5, "novelty": 24.8, "composition": 6.8, "execution-deduction": 5.9, "special-deduction": 0 },
+      "totalScore": 73.7,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "sakamaki-takamasa",
+      "playerName": "サカマキタカマサ",
+      "scores": { "difficulty": 33.5, "stability": 11.3, "novelty": 24.3, "composition": 7.0, "execution-deduction": 4.9, "special-deduction": 0 },
+      "totalScore": 71.2,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "yoshii-norihiro",
+      "playerName": "ヨシイノリヒロ",
+      "scores": { "difficulty": 32.8, "stability": 10.5, "novelty": 22.8, "composition": 7.5, "execution-deduction": 3.4, "special-deduction": 0 },
+      "totalScore": 70.2,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "muramatsu-junpei",
+      "playerName": "ムラマツジュンペイ",
+      "scores": { "difficulty": 32.3, "stability": 9.8, "novelty": 22.5, "composition": 6.8, "execution-deduction": 3.1, "special-deduction": 0 },
+      "totalScore": 68.3,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "otsuka-takaaki",
+      "playerName": "オオツカ タカアキ",
+      "scores": { "difficulty": 29.8, "stability": 8.8, "novelty": 21.5, "composition": 7.5, "execution-deduction": 3.0, "special-deduction": 0 },
+      "totalScore": 64.6,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "komatsu-naoto",
+      "playerName": "コマツナオト",
+      "status": "dns"
+    },
+    {
+      "rank": null,
+      "playerId": "mitsuyasu-yusuke",
+      "playerName": "ミツヤス ユウスケ",
+      "status": "dns"
+    }
+  ]
+}

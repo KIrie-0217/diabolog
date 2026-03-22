@@ -1,0 +1,12 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "makino-runa", "playerName": "マキノルナ", "count": 83, "class": "A", "status": "completed" },
+    { "rank": 2, "playerId": "koyama-hinata", "playerName": "コヤマヒナタ", "count": 58, "class": "C", "status": "completed" }
+  ]
+}

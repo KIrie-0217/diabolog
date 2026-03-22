@@ -1,0 +1,13 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "agou-tensei", "playerName": "アゴウ テンセイ", "count": 179, "class": "B", "status": "completed" },
+    { "rank": 2, "playerId": "makino-sena", "playerName": "マキノセナ", "count": 168, "class": "A", "status": "completed" },
+    { "rank": 3, "playerId": "torii-hiromiki", "playerName": "トリイ ヒロミキ", "count": 158, "class": "B", "status": "completed" }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイヒロミキ",
+      "scores": { "difficulty": 40.0, "stability": 13.0, "novelty": 26.8, "composition": 7.0, "execution-deduction": 1.1, "special-deduction": 0 },
+      "totalScore": 85.7,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "watanabe-hayato",
+      "playerName": "ワタナベ ハヤト",
+      "scores": { "difficulty": 37.8, "stability": 12.0, "novelty": 26.3, "composition": 8.0, "execution-deduction": 3.0, "special-deduction": 0 },
+      "totalScore": 81.1,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "takamori-hirofumi",
+      "playerName": "タカモリヒロフミ",
+      "scores": { "difficulty": 34.5, "stability": 11.0, "novelty": 22.8, "composition": 6.5, "execution-deduction": 2.8, "special-deduction": 0 },
+      "totalScore": 72.0,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kanehira-shinichi",
+      "playerName": "カネヒラシンイチ",
+      "scores": { "difficulty": 32.8, "stability": 10.3, "novelty": 21.8, "composition": 6.0, "execution-deduction": 3.0, "special-deduction": 0 },
+      "totalScore": 67.9,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "sudo-maki",
+      "playerName": "スドウ マキ",
+      "status": "dns"
+    }
+  ]
+}

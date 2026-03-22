@@ -1,0 +1,23 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:drippy-crow",
+      "playerName": "Drippy Crow",
+      "scores": { "difficulty": 30.2, "synchronization": 22.4, "composition": 23.4, "execution-deduction": 5.0, "special-deduction": 0 },
+      "totalScore": 71.0,
+      "status": "completed"
+    }
+  ]
+}

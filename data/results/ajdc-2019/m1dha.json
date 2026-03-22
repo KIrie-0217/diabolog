@@ -1,0 +1,102 @@
+{
+  "categoryId": "m1dha",
+  "name": "男子1ディアボロ水平軸(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yamamoto-takashi",
+      "playerName": "ヤマモト タカシ",
+      "scores": { "difficulty": 43.3, "stability": 13.3, "novelty": 26.8, "composition": 7.5, "execution-deduction": 1.8, "special-deduction": 0 },
+      "totalScore": 89.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kosaka-ryota",
+      "playerName": "コサカ リョウタ",
+      "scores": { "difficulty": 41.3, "stability": 12.5, "novelty": 25.3, "composition": 7.5, "execution-deduction": 1.4, "special-deduction": 0 },
+      "totalScore": 85.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "irie-koshiro",
+      "playerName": "イリエコウシロウ",
+      "scores": { "difficulty": 41.3, "stability": 11.0, "novelty": 26.5, "composition": 7.3, "execution-deduction": 2.9, "special-deduction": 0 },
+      "totalScore": 83.2,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "omagari-shintaro",
+      "playerName": "オマガリ シンタロウ",
+      "scores": { "difficulty": 40.5, "stability": 11.3, "novelty": 28.0, "composition": 7.3, "execution-deduction": 5.0, "special-deduction": 0 },
+      "totalScore": 82.1,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "akiba-yosuke",
+      "playerName": "アキバヨウスケ",
+      "scores": { "difficulty": 39.3, "stability": 11.3, "novelty": 25.5, "composition": 7.8, "execution-deduction": 3.4, "special-deduction": 0 },
+      "totalScore": 80.5,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "inaba-wataru",
+      "playerName": "イナバワタル",
+      "scores": { "difficulty": 38.5, "stability": 11.3, "novelty": 25.0, "composition": 6.8, "execution-deduction": 4.4, "special-deduction": 0 },
+      "totalScore": 77.2,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "osumi-hiraki",
+      "playerName": "オオスミヒラキ",
+      "scores": { "difficulty": 37.3, "stability": 11.3, "novelty": 22.8, "composition": 7.3, "execution-deduction": 2.3, "special-deduction": 0 },
+      "totalScore": 76.4,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "tomita-hikaru",
+      "playerName": "トミタヒカル",
+      "scores": { "difficulty": 35.8, "stability": 11.8, "novelty": 22.8, "composition": 7.8, "execution-deduction": 3.3, "special-deduction": 0 },
+      "totalScore": 74.9,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "kawamura-takashi",
+      "playerName": "カワムラタカシ",
+      "scores": { "difficulty": 34.8, "stability": 10.8, "novelty": 22.8, "composition": 7.0, "execution-deduction": 5.4, "special-deduction": 0 },
+      "totalScore": 70.0,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "kanzawa-ryosuke",
+      "playerName": "カンザワ リョウスケ",
+      "scores": { "difficulty": 29.3, "stability": 9.5, "novelty": 19.0, "composition": 6.3, "execution-deduction": 3.8, "special-deduction": 0 },
+      "totalScore": 60.3,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "kubota-taiga",
+      "playerName": "クボタ タイガ",
+      "status": "dns"
+    }
+  ]
+}

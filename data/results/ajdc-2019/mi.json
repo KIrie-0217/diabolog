@@ -1,0 +1,120 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイ ヒロミキ",
+      "scores": { "difficulty": 27.0, "variety": 9.0, "stability": 8.8, "novelty": 8.8, "composition": 15.8, "base-score": 20, "execution-deduction": 3.1, "special-deduction": 0 },
+      "totalScore": 86.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kamei-hiroki",
+      "playerName": "カメイヒロキ",
+      "scores": { "difficulty": 23.0, "variety": 7.2, "stability": 7.8, "novelty": 8.0, "composition": 16.2, "base-score": 20, "execution-deduction": 1.4, "special-deduction": 0 },
+      "totalScore": 80.8,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kosaka-ryota",
+      "playerName": "コサカ リョウタ",
+      "scores": { "difficulty": 25.2, "variety": 7.4, "stability": 7.8, "novelty": 7.8, "composition": 14.2, "base-score": 20, "execution-deduction": 2.2, "special-deduction": 0 },
+      "totalScore": 80.2,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "takamori-hirofumi",
+      "playerName": "タカモリヒロフミ",
+      "scores": { "difficulty": 24.8, "variety": 7.8, "stability": 7.6, "novelty": 7.6, "composition": 15.4, "base-score": 20, "execution-deduction": 3.0, "special-deduction": 0 },
+      "totalScore": 80.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kanehira-shinichi",
+      "playerName": "カネヒラシンイチ",
+      "scores": { "difficulty": 24.4, "variety": 7.2, "stability": 7.4, "novelty": 8.0, "composition": 15.6, "base-score": 20, "execution-deduction": 5.0, "special-deduction": 0 },
+      "totalScore": 77.6,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kudo-masahiro",
+      "playerName": "クドウ マサヒロ",
+      "scores": { "difficulty": 24.6, "variety": 8.6, "stability": 7.2, "novelty": 7.0, "composition": 16.8, "base-score": 20, "execution-deduction": 6.7, "special-deduction": 0 },
+      "totalScore": 77.5,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "sugito-youta",
+      "playerName": "スギトヨウタ",
+      "scores": { "difficulty": 23.6, "variety": 7.4, "stability": 7.8, "novelty": 7.2, "composition": 15.6, "base-score": 20, "execution-deduction": 4.3, "special-deduction": 0 },
+      "totalScore": 77.3,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "koizumi-yuuki",
+      "playerName": "コイズミユウキ",
+      "scores": { "difficulty": 23.6, "variety": 7.4, "stability": 7.2, "novelty": 7.2, "composition": 14.2, "base-score": 20, "execution-deduction": 2.9, "special-deduction": 0 },
+      "totalScore": 76.7,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "tomita-hikaru",
+      "playerName": "トミタヒカル",
+      "scores": { "difficulty": 22.2, "variety": 7.2, "stability": 7.6, "novelty": 6.8, "composition": 15.6, "base-score": 20, "execution-deduction": 3.4, "special-deduction": 0 },
+      "totalScore": 76.0,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "kan-takafumi",
+      "playerName": "カン タカフミ",
+      "scores": { "difficulty": 23.6, "variety": 7.4, "stability": 7.6, "novelty": 6.8, "composition": 15.6, "base-score": 20, "execution-deduction": 8.0, "special-deduction": 0 },
+      "totalScore": 73.0,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "sakurai-ryo",
+      "playerName": "サクライ リョウ",
+      "scores": { "difficulty": 22.0, "variety": 6.8, "stability": 7.0, "novelty": 6.4, "composition": 13.2, "base-score": 20, "execution-deduction": 3.3, "special-deduction": 0 },
+      "totalScore": 72.1,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "yamamoto-ryo",
+      "playerName": "ヤマモト リョウ",
+      "scores": { "difficulty": 21.2, "variety": 6.8, "stability": 6.2, "novelty": 6.0, "composition": 14.4, "base-score": 20, "execution-deduction": 4.2, "special-deduction": 0 },
+      "totalScore": 70.4,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "ishida-ryosuke",
+      "playerName": "イシダリョウスケ",
+      "status": "dns"
+    }
+  ]
+}

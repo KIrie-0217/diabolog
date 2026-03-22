@@ -1,0 +1,13 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "tada-kazuki", "playerName": "タダカズキ", "count": 12, "status": "completed" },
+    { "rank": 2, "playerId": "kosaka-ryota", "playerName": "コサカ リョウタ", "count": 8, "status": "completed" },
+    { "rank": 3, "playerId": "makino-sena", "playerName": "マキノセナ", "count": 3, "status": "completed" },
+    { "rank": 4, "playerId": "hosokawa-kyouya", "playerName": "ホソカワ キョウヤ", "count": 1, "status": "completed" }
+  ]
+}

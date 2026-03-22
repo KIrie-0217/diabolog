@@ -1,0 +1,88 @@
+{
+  "categoryId": "2da",
+  "name": "2ディアボロ(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "ishimizu-taiki",
+      "playerName": "イシミズ タイキ",
+      "scores": { "difficulty": 40.5, "stability": 12.5, "novelty": 25.8, "composition": 7.5, "execution-deduction": 2.0, "special-deduction": 0 },
+      "totalScore": 84.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "agou-tensei",
+      "playerName": "アゴウ テンセイ",
+      "scores": { "difficulty": 37.3, "stability": 12.5, "novelty": 22.3, "composition": 7.3, "execution-deduction": 2.5, "special-deduction": 0 },
+      "totalScore": 76.9,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "makino-sena",
+      "playerName": "マキノセナ",
+      "scores": { "difficulty": 36.5, "stability": 11.0, "novelty": 21.8, "composition": 7.0, "execution-deduction": 1.4, "special-deduction": 0 },
+      "totalScore": 74.9,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "irie-koshiro",
+      "playerName": "イリエコウシロウ",
+      "scores": { "difficulty": 36.0, "stability": 10.8, "novelty": 24.5, "composition": 6.3, "execution-deduction": 4.6, "special-deduction": 0 },
+      "totalScore": 73.0,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "shimura-yui",
+      "playerName": "シムラユイ",
+      "scores": { "difficulty": 34.8, "stability": 11.8, "novelty": 21.0, "composition": 7.3, "execution-deduction": 2.1, "special-deduction": 0 },
+      "totalScore": 72.8,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "tojo-maki",
+      "playerName": "トウジョウ マキ",
+      "scores": { "difficulty": 34.8, "stability": 11.3, "novelty": 22.5, "composition": 6.5, "execution-deduction": 3.4, "special-deduction": 0 },
+      "totalScore": 71.7,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "akiba-yosuke",
+      "playerName": "アキバヨウスケ",
+      "scores": { "difficulty": 32.8, "stability": 10.0, "novelty": 22.0, "composition": 6.3, "execution-deduction": 4.5, "special-deduction": 0 },
+      "totalScore": 66.6,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "yamamoto-ryo",
+      "playerName": "ヤマモト リョウ",
+      "scores": { "difficulty": 32.3, "stability": 8.8, "novelty": 20.8, "composition": 6.0, "execution-deduction": 5.0, "special-deduction": 0 },
+      "totalScore": 62.9,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "takahashi-kazuki",
+      "playerName": "タカハシカズキ",
+      "scores": { "difficulty": 30.5, "stability": 9.0, "novelty": 19.8, "composition": 5.8, "execution-deduction": 4.9, "special-deduction": 0 },
+      "totalScore": 60.2,
+      "status": "completed"
+    }
+  ]
+}
