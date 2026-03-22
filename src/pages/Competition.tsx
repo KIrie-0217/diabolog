@@ -113,12 +113,13 @@ function JudgeTable({ cat }: { cat: Category }) {
                 <Table.Th>Rank</Table.Th>
                 <Table.Th>Player</Table.Th>
                 {cat.results[0]?.nationality && <Table.Th>Nationality</Table.Th>}
+                <Table.Th ta="right" hiddenFrom="sm">Total</Table.Th>
                 {criteria.map((c) => (
                   <Table.Th key={c.id} ta="right">
                     {c.name}
                   </Table.Th>
                 ))}
-                <Table.Th ta="right">Total</Table.Th>
+                <Table.Th ta="right" visibleFrom="sm">Total</Table.Th>
               </Table.Tr>
             </Table.Thead>
             <Table.Tbody>
@@ -135,13 +136,15 @@ function JudgeTable({ cat }: { cat: Category }) {
                   )}
                   {r.status === "dns" ? (
                     <>
+                      <Table.Td ta="right" hiddenFrom="sm">DNS</Table.Td>
                       {criteria.map((c) => (
                         <Table.Td key={c.id} />
                       ))}
-                      <Table.Td ta="right">DNS</Table.Td>
+                      <Table.Td ta="right" visibleFrom="sm">DNS</Table.Td>
                     </>
                   ) : (
                     <>
+                      <Table.Td ta="right" fw={600} hiddenFrom="sm">{r.totalScore}</Table.Td>
                       {criteria.map((c) => {
                         const val = r.scores?.[c.id];
                         const isBest = val != null && val === best[c.id];
@@ -157,7 +160,7 @@ function JudgeTable({ cat }: { cat: Category }) {
                           </Table.Td>
                         );
                       })}
-                      <Table.Td ta="right" fw={600}>
+                      <Table.Td ta="right" fw={600} visibleFrom="sm">
                         {r.totalScore}
                       </Table.Td>
                     </>
@@ -185,11 +188,16 @@ function JudgeTable({ cat }: { cat: Category }) {
                   <Table.Td />
                   <Table.Td><Text size="xs" c="dimmed" fw={500}>{label}</Text></Table.Td>
                   {hasNat && <Table.Td />}
+                  <Table.Td ta="right" hiddenFrom="sm">
+                    <Text size="xs" c="dimmed" fw={500}>
+                      {fn(completed.map((r) => r.totalScore!).filter((v) => v != null))}
+                    </Text>
+                  </Table.Td>
                   {criteria.map((c) => {
                     const vals = completed.map((r) => r.scores?.[c.id]).filter((v): v is number => v != null);
                     return <Table.Td key={c.id} ta="right"><Text size="xs" c="dimmed">{vals.length ? fn(vals) : ""}</Text></Table.Td>;
                   })}
-                  <Table.Td ta="right">
+                  <Table.Td ta="right" visibleFrom="sm">
                     <Text size="xs" c="dimmed" fw={500}>
                       {fn(completed.map((r) => r.totalScore!).filter((v) => v != null))}
                     </Text>

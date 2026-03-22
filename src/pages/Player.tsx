@@ -218,15 +218,25 @@ export function Player() {
             <Table highlightOnHover style={{ tableLayout: "fixed" }}>
               <Table.Thead>
                 <Table.Tr>
-                  <Table.Th>Category</Table.Th>
-                  <Table.Th>Note</Table.Th>
                   <Table.Th w={60} ta="center">Rank</Table.Th>
                   <Table.Th w={80} ta="right">Score</Table.Th>
+                  <Table.Th>Category</Table.Th>
+                  <Table.Th>Note</Table.Th>
                 </Table.Tr>
               </Table.Thead>
               <Table.Tbody>
                 {comp.results.map((r, i) => (
                   <Table.Tr key={i}>
+                    <Table.Td ta="center" style={{ verticalAlign: "middle" }}>
+                      {r.rank != null && medalColor[r.rank] ? (
+                        <IconMedal size={26} color={medalColor[r.rank]} style={{ display: "inline-block" }} />
+                      ) : (
+                        r.rank ?? "-"
+                      )}
+                    </Table.Td>
+                    <Table.Td ta="right" fw={600}>
+                      {r.totalScore ?? r.count ?? "-"}
+                    </Table.Td>
                     <Table.Td>
                       <Group gap={4} wrap="nowrap">
                         <Text visibleFrom="sm" size="sm">{r.categoryName}</Text>
@@ -242,16 +252,6 @@ export function Player() {
                           w/ {r.pairWith}
                         </Anchor>
                       )}
-                    </Table.Td>
-                    <Table.Td ta="center" style={{ verticalAlign: "middle" }}>
-                      {r.rank != null && medalColor[r.rank] ? (
-                        <IconMedal size={26} color={medalColor[r.rank]} style={{ display: "inline-block" }} />
-                      ) : (
-                        r.rank ?? "-"
-                      )}
-                    </Table.Td>
-                    <Table.Td ta="right" fw={600}>
-                      {r.totalScore ?? r.count ?? "-"}
                     </Table.Td>
                   </Table.Tr>
                 ))}
@@ -270,20 +270,14 @@ export function Player() {
               <Table highlightOnHover style={{ tableLayout: "fixed" }}>
                 <Table.Thead>
                   <Table.Tr>
-                    <Table.Th>Competition</Table.Th>
                     <Table.Th w={60} ta="center">Rank</Table.Th>
                     <Table.Th w={80} ta="right">Score</Table.Th>
+                    <Table.Th>Competition</Table.Th>
                   </Table.Tr>
                 </Table.Thead>
                 <Table.Tbody>
                   {[...cat.results].reverse().map((r, i) => (
                     <Table.Tr key={i}>
-                      <Table.Td>
-                        <Anchor component={Link} to={`/competitions/${r.competitionId}?category=${r.categoryId}`} size="sm">
-                          <Text visibleFrom="sm" size="sm">{r.competitionName}</Text>
-                          <Text hiddenFrom="sm" size="sm">{compNames[r.competitionId] ?? r.competitionId.toUpperCase()}</Text>
-                        </Anchor>
-                      </Table.Td>
                       <Table.Td ta="center" style={{ verticalAlign: "middle" }}>
                         {r.rank != null && medalColor[r.rank] ? (
                           <IconMedal size={26} color={medalColor[r.rank]} style={{ display: "inline-block" }} />
@@ -293,6 +287,12 @@ export function Player() {
                       </Table.Td>
                       <Table.Td ta="right" fw={600}>
                         {r.totalScore ?? r.count ?? "-"}
+                      </Table.Td>
+                      <Table.Td>
+                        <Anchor component={Link} to={`/competitions/${r.competitionId}?category=${r.categoryId}`} size="sm">
+                          <Text visibleFrom="sm" size="sm">{r.competitionName}</Text>
+                          <Text hiddenFrom="sm" size="sm">{compNames[r.competitionId] ?? r.competitionId.toUpperCase()}</Text>
+                        </Anchor>
                       </Table.Td>
                     </Table.Tr>
                   ))}
