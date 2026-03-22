@@ -1,0 +1,30 @@
+{
+  "categoryId": "m1dha",
+  "name": "男子1ディアボロ水平軸(固定)部門",
+  "nameEn": "Men's 1 Diabolo Horizontal Axle (Fixed) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性度", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "lin-chen-hua", "playerName": "林晨華 / LIN CHEN-HUA", "nationality": "Taiwan", "scores": { "difficulty": 40.5, "stability": 13.3, "novelty": 25.8, "composition": 8.3, "execution-deduction": 0.5, "special-deduction": 0.0 }, "totalScore": 87.4, "status": "completed" },
+    { "rank": 2, "playerId": "irie-koshiro", "playerName": "入江航士朗 / Koshiro Irie", "nationality": "Japan", "scores": { "difficulty": 40.8, "stability": 12.3, "novelty": 26.8, "composition": 7.3, "execution-deduction": 0.1, "special-deduction": 0.0 }, "totalScore": 87.1, "status": "completed" },
+    { "rank": 3, "playerId": "inaba-wataru", "playerName": "稲葉亘 / Wataru Inaba", "nationality": "Japan", "scores": { "difficulty": 40.3, "stability": 12.8, "novelty": 24.8, "composition": 7.5, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 83.6, "status": "completed" },
+    { "rank": 4, "playerId": "li-hung-lin", "playerName": "李泓霖 / Li Hung Lin", "nationality": "Taiwan", "scores": { "difficulty": 39.0, "stability": 13.5, "novelty": 24.0, "composition": 8.5, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 83.2, "status": "completed" },
+    { "rank": 5, "playerId": "li-sheng-tse", "playerName": "李聖澤 / LISHENG TSE", "nationality": "Taiwan", "scores": { "difficulty": 35.8, "stability": 13.5, "novelty": 23.3, "composition": 7.3, "execution-deduction": 0.0, "special-deduction": 0.0 }, "totalScore": 79.9, "status": "completed" },
+    { "rank": 6, "playerId": "yamamoto-takashi", "playerName": "山本 孝 / Takashi Yamamoto", "nationality": "Japan", "scores": { "difficulty": 38.8, "stability": 11.8, "novelty": 25.3, "composition": 7.3, "execution-deduction": 4.9, "special-deduction": 0.0 }, "totalScore": 78.3, "status": "completed" },
+    { "rank": 7, "playerId": "honda-sho", "playerName": "本多翔 / Sho Honda", "nationality": "Japan", "scores": { "difficulty": 37.0, "stability": 11.8, "novelty": 24.5, "composition": 7.3, "execution-deduction": 3.3, "special-deduction": 0.0 }, "totalScore": 77.3, "status": "completed" },
+    { "rank": 8, "playerId": "tsuda-manato", "playerName": "津田 真叶 / Manato Tsuda", "nationality": "Japan", "scores": { "difficulty": 36.0, "stability": 11.3, "novelty": 23.5, "composition": 7.3, "execution-deduction": 4.9, "special-deduction": 0.0 }, "totalScore": 73.2, "status": "completed" },
+    { "rank": 9, "playerId": "tseng-yu-cheng", "playerName": "曾祐澄 / TSENG, YU-CHENG", "nationality": "Taiwan", "scores": { "difficulty": 34.3, "stability": 12.0, "novelty": 20.8, "composition": 6.8, "execution-deduction": 2.6, "special-deduction": 0.0 }, "totalScore": 71.3, "status": "completed" },
+    { "rank": 10, "playerId": "tang-ching-yuan", "playerName": "唐靖淵 / TANG CHING-YUAN", "nationality": "Taiwan", "scores": { "difficulty": 34.8, "stability": 9.5, "novelty": 23.0, "composition": 8.0, "execution-deduction": 5.6, "special-deduction": 0.0 }, "totalScore": 69.7, "status": "completed" },
+    { "rank": 11, "playerId": "kubota-taiga", "playerName": "久保田 大雅 / Taiga Kubota", "nationality": "Japan", "scores": { "difficulty": 32.8, "stability": 9.3, "novelty": 22.5, "composition": 6.8, "execution-deduction": 5.9, "special-deduction": 0.0 }, "totalScore": 65.5, "status": "completed" },
+    { "rank": 12, "playerId": "sudo-keita", "playerName": "周藤 圭太 / Keita Sudo", "nationality": "Japan", "scores": { "difficulty": 34.3, "stability": 9.3, "novelty": 23.3, "composition": 6.3, "execution-deduction": 7.8, "special-deduction": 0.0 }, "totalScore": 65.4, "status": "completed" },
+    { "rank": 13, "playerId": "tanabe-shinji", "playerName": "田邊 慎史 / Shinji Tanabe", "nationality": "Japan", "scores": { "difficulty": 30.5, "stability": 8.5, "novelty": 22.0, "composition": 6.5, "execution-deduction": 6.3, "special-deduction": 0.0 }, "totalScore": 61.2, "status": "completed" }
+  ]
+}

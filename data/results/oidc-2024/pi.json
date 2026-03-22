@@ -1,0 +1,19 @@
+{
+  "categoryId": "pi",
+  "name": "ペア部門",
+  "nameEn": "Pair Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "du-man-jhen+chen-chiao-hsun", "playerName": "杜曼禎/陳巧薰 / DU MAN-JHEN/CHEN CHIAO HSUN", "nationality": "Taiwan", "scores": { "difficulty": 33.3, "synchronization": 26.5, "composition": 23.0, "execution-deduction": 0.0, "special-deduction": 0.0 }, "totalScore": 82.8, "status": "completed" },
+    { "rank": 2, "playerId": "cheng-yung-tsang+wang-tzu-yun", "playerName": "鄭湧蒼/王子昀 / CHENG YUNG-TSANG/WANG TZU-YUN", "nationality": "Taiwan", "scores": { "difficulty": 34.8, "synchronization": 22.8, "composition": 23.0, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 77.8, "status": "completed" },
+    { "rank": 3, "playerId": "wang-yu-chun+chen-po-yu", "playerName": "王宥鈞/陳柏瑜 / WANG YU-CHUN/CHEN PO-YU", "nationality": "Taiwan", "scores": { "difficulty": 30.3, "synchronization": 23.5, "composition": 22.3, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 74.3, "status": "completed" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4 Diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "hsieh-tzu-ling", "playerName": "解梓翎 / HSIEH TZU LING", "nationality": "Taiwan", "count": 607, "status": "completed" },
+    { "rank": 2, "playerId": "lin-chen-hua", "playerName": "林晨華 / LIN CHEN-HUA", "nationality": "Taiwan", "count": 505, "status": "completed" },
+    { "rank": 3, "playerId": "kao-yang-te", "playerName": "高仰德 / KAO YANG-TE", "nationality": "Taiwan", "count": 289, "status": "completed" },
+    { "rank": 4, "playerId": "su-zhi-ruei", "playerName": "蘇致睿 / Su Zhi-Ruei", "nationality": "Taiwan", "count": 261, "status": "completed" },
+    { "rank": 5, "playerId": "zheng-kang-ping", "playerName": "鄭康平 / CHENG KANG PING", "nationality": "Taiwan", "count": 224, "status": "completed" },
+    { "rank": 6, "playerId": "wu-nien-cheng", "playerName": "吳念錚 / WU NIEN CHENG", "nationality": "Taiwan", "count": 215, "status": "completed" },
+    { "rank": 7, "playerId": "ishimizu-taiki", "playerName": "石水 泰樹 / Taiki Ishimizu", "nationality": "Japan", "count": 112, "status": "completed" },
+    { "rank": 8, "playerId": "cho-tzu-hung", "playerName": "曹子宏 / CHO TZU HUNG", "nationality": "Taiwan", "count": 65, "status": "completed" },
+    { "rank": 9, "playerId": "li-hung-lin", "playerName": "李泓霖 / Li Hung Lin", "nationality": "Taiwan", "count": 59, "status": "completed" }
+  ]
+}

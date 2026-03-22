@@ -1,0 +1,14 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "nameEn": "Women's 1 Diabolo Leg Orbits Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "fu-yun-chieh", "playerName": "傅筠捷 / FU YUN CHIEH", "nationality": "Taiwan", "count": 217, "class": "A", "status": "completed" },
+    { "rank": 2, "playerId": "hung-ling-yin", "playerName": "洪苓茵 / HUNG LING YIN", "nationality": "Taiwan", "count": 175, "class": "B", "status": "completed" },
+    { "rank": 3, "playerId": "lien-yu-ting", "playerName": "連又亭 / LIEN YU-TING", "nationality": "Taiwan", "count": 94, "class": "A", "status": "completed" }
+  ]
+}

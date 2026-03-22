@@ -1,0 +1,44 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "ageGroups": [
+    { "id": "16-18", "name": "16~18" },
+    { "id": "19-", "name": "19~" }
+  ],
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性度", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性度", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tsuda-manato", "playerName": "津田 真叶 / Manato Tsuda", "nationality": "Japan", "ageGroup": "16-18", "scores": { "difficulty": 25.0, "variety": 7.3, "stability": 7.3, "novelty": 8.3, "composition": 15.5, "base-score": 20, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 80.9, "status": "completed" },
+    { "rank": 2, "playerId": "kuo-chien-heng", "playerName": "郭建亨 / KUO CHIEN HENG", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 23.0, "variety": 7.0, "stability": 7.8, "novelty": 6.5, "composition": 14.3, "base-score": 20, "execution-deduction": 2.0, "special-deduction": 0.0 }, "totalScore": 76.6, "status": "completed" },
+    { "rank": 3, "playerId": "tseng-yu-cheng", "playerName": "曾祐澄 / TSENG YU-CHENG", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 20.8, "variety": 6.5, "stability": 6.5, "novelty": 6.5, "composition": 13.8, "base-score": 20, "execution-deduction": 3.8, "special-deduction": 0.0 }, "totalScore": 70.3, "status": "completed" },
+    { "rank": 4, "playerId": "kao-yu-kai", "playerName": "高裕凱 / KAO YU-KAI", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 22.3, "variety": 6.5, "stability": 6.0, "novelty": 6.5, "composition": 13.8, "base-score": 20, "execution-deduction": 5.5, "special-deduction": 0.0 }, "totalScore": 69.6, "status": "completed" },
+    { "rank": 5, "playerId": "lien-jia-jiun", "playerName": "連家駿 / LIEN JIA-JIUN", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 19.8, "variety": 6.5, "stability": 7.0, "novelty": 6.0, "composition": 14.0, "base-score": 20, "execution-deduction": 5.4, "special-deduction": 0.0 }, "totalScore": 67.9, "status": "completed" },
+    { "rank": 6, "playerId": "watanabe-haruto", "playerName": "渡邊陽仁 / Haruto Watanabe", "nationality": "Japan", "ageGroup": "16-18", "scores": { "difficulty": 19.0, "variety": 5.5, "stability": 4.8, "novelty": 5.8, "composition": 12.3, "base-score": 20, "execution-deduction": 5.2, "special-deduction": 0.0 }, "totalScore": 62.2, "status": "completed" },
+    { "rank": 7, "playerId": "zheng-hao-jie", "playerName": "鄭豪傑 / ZHENG HAO-JIE", "nationality": "Taiwan", "ageGroup": "16-18", "scores": { "difficulty": 18.0, "variety": 5.0, "stability": 5.0, "novelty": 5.8, "composition": 12.3, "base-score": 20, "execution-deduction": 8.0, "special-deduction": 0.0 }, "totalScore": 58.1, "status": "completed" },
+    { "rank": 1, "playerId": "lin-chen-hua", "playerName": "林晨華 / LIN CHEN-HUA", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 24.8, "variety": 7.5, "stability": 7.5, "novelty": 7.8, "composition": 17.0, "base-score": 20, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 82.8, "status": "completed" },
+    { "rank": 2, "playerId": "zheng-kang-ping", "playerName": "鄭康平 / CHENG KANG PING", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 25.0, "variety": 7.5, "stability": 7.3, "novelty": 7.0, "composition": 15.8, "base-score": 20, "execution-deduction": 3.8, "special-deduction": 0.0 }, "totalScore": 78.8, "status": "completed" },
+    { "rank": 3, "playerId": "li-hung-lin", "playerName": "李泓霖 / Li Hung Lin", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 24.8, "variety": 8.3, "stability": 7.0, "novelty": 7.3, "composition": 16.5, "base-score": 20, "execution-deduction": 5.1, "special-deduction": 0.0 }, "totalScore": 78.8, "status": "completed" },
+    { "rank": 4, "playerId": "cho-tzu-hung", "playerName": "曹子宏 / CHO TZU HUNG", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 25.3, "variety": 7.3, "stability": 7.5, "novelty": 7.3, "composition": 14.8, "base-score": 20, "execution-deduction": 3.8, "special-deduction": 0.0 }, "totalScore": 78.4, "status": "completed" },
+    { "rank": 5, "playerId": "ishimizu-taiki", "playerName": "石水泰樹 / Taiki Ishimizu", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 24.3, "variety": 8.0, "stability": 7.0, "novelty": 7.8, "composition": 16.0, "base-score": 20, "execution-deduction": 5.4, "special-deduction": 0.0 }, "totalScore": 77.7, "status": "completed" },
+    { "rank": 6, "playerId": "huang-shih-rong", "playerName": "黃士融 / HUANG SHIH RON", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 25.0, "variety": 7.5, "stability": 7.5, "novelty": 7.5, "composition": 15.3, "base-score": 20, "execution-deduction": 6.5, "special-deduction": 0.0 }, "totalScore": 76.3, "status": "completed" },
+    { "rank": 7, "playerId": "marco-chong", "playerName": "張壮修 / Marco Chong", "nationality": "Malaysia", "ageGroup": "19-", "scores": { "difficulty": 21.3, "variety": 6.5, "stability": 6.5, "novelty": 7.0, "composition": 15.0, "base-score": 20, "execution-deduction": 2.6, "special-deduction": 0.0 }, "totalScore": 73.7, "status": "completed" },
+    { "rank": 8, "playerId": "tang-ching-yuan", "playerName": "唐靖淵 / TANG CHING-YUAN", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 23.8, "variety": 7.5, "stability": 6.0, "novelty": 8.0, "composition": 15.3, "base-score": 20, "execution-deduction": 7.4, "special-deduction": 0.0 }, "totalScore": 73.2, "status": "completed" },
+    { "rank": 9, "playerId": "maeda-ryosuke", "playerName": "前田 凌佑 / Ryosuke Maeda", "nationality": "Japan", "ageGroup": "19-", "scores": { "difficulty": 21.8, "variety": 6.8, "stability": 6.3, "novelty": 7.3, "composition": 15.3, "base-score": 20, "execution-deduction": 5.5, "special-deduction": 0.0 }, "totalScore": 72.0, "status": "completed" },
+    { "rank": 10, "playerId": "ong-hock-eng", "playerName": "王福恩 / Ong Hock Eng", "nationality": "Malaysia", "ageGroup": "19-", "scores": { "difficulty": 21.3, "variety": 6.5, "stability": 7.5, "novelty": 6.5, "composition": 14.3, "base-score": 20, "execution-deduction": 5.0, "special-deduction": 0.0 }, "totalScore": 71.1, "status": "completed" },
+    { "rank": 11, "playerId": "cheng-yung-tsang", "playerName": "鄭湧蒼 / CHENG YUNG-TSANG", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 22.3, "variety": 6.5, "stability": 6.3, "novelty": 6.3, "composition": 13.0, "base-score": 20, "execution-deduction": 10.0, "special-deduction": 0.0 }, "totalScore": 64.4, "status": "completed" },
+    { "rank": 12, "playerId": "kao-yang-te", "playerName": "高仰德 / KAO YANG-TE", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 20.5, "variety": 6.0, "stability": 5.5, "novelty": 6.0, "composition": 13.3, "base-score": 20, "execution-deduction": 8.1, "special-deduction": 0.0 }, "totalScore": 63.2, "status": "completed" },
+    { "rank": 13, "playerId": "huang-shih-wei", "playerName": "黃士瑋 / HUANG SHIH WEI", "nationality": "Taiwan", "ageGroup": "19-", "scores": { "difficulty": 23.0, "variety": 6.0, "stability": 6.0, "novelty": 7.0, "composition": 12.5, "base-score": 15, "execution-deduction": 8.9, "special-deduction": 0.0 }, "totalScore": 60.6, "status": "completed" },
+    { "rank": 14, "playerId": "ong-hock-ooi", "playerName": "王福慧 / Ong Hock Ooi", "nationality": "Malaysia", "ageGroup": "19-", "scores": { "difficulty": 15.5, "variety": 4.5, "stability": 5.0, "novelty": 4.3, "composition": 12.0, "base-score": 15, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 53.8, "status": "completed" }
+  ]
+}

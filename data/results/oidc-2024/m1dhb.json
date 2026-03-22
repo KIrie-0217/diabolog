@@ -1,0 +1,28 @@
+{
+  "categoryId": "m1dhb",
+  "name": "男子1ディアボロ水平軸(ペアリング)部門",
+  "nameEn": "Men's 1 Diabolo Horizontal Axle (Bearing) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "操作安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性度", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "lin-chen-hua", "playerName": "林晨華 / LIN CHEN-HUA", "nationality": "Taiwan", "scores": { "difficulty": 38.8, "stability": 12.8, "novelty": 25.3, "composition": 8.8, "execution-deduction": 1.9, "special-deduction": 0.0 }, "totalScore": 83.8, "status": "completed" },
+    { "rank": 2, "playerId": "ishimizu-taiki", "playerName": "石水 泰樹 / Taiki Ishimizu", "nationality": "Japan", "scores": { "difficulty": 38.0, "stability": 13.0, "novelty": 25.8, "composition": 8.3, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 82.6, "status": "completed" },
+    { "rank": 3, "playerId": "endo-mamoru", "playerName": "遠藤 守琉 / Mamoru Endo", "nationality": "Japan", "scores": { "difficulty": 37.0, "stability": 12.3, "novelty": 25.3, "composition": 7.0, "execution-deduction": 1.3, "special-deduction": 0.0 }, "totalScore": 80.3, "status": "completed" },
+    { "rank": 4, "playerId": "chang-tzu-wei", "playerName": "張子威 / Chang Tzu Wei", "nationality": "Taiwan", "scores": { "difficulty": 34.5, "stability": 12.0, "novelty": 24.8, "composition": 7.5, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 77.0, "status": "completed" },
+    { "rank": 5, "playerId": "marco-chong", "playerName": "張壯修 / Marco Chong", "nationality": "Malaysia", "scores": { "difficulty": 36.3, "stability": 12.0, "novelty": 22.8, "composition": 8.0, "execution-deduction": 2.1, "special-deduction": 0.0 }, "totalScore": 77.0, "status": "completed" },
+    { "rank": 6, "playerId": "tsuda-manato", "playerName": "津田 真叶 / Manato Tsuda", "nationality": "Japan", "scores": { "difficulty": 35.0, "stability": 12.3, "novelty": 23.5, "composition": 7.8, "execution-deduction": 1.9, "special-deduction": 0.0 }, "totalScore": 76.7, "status": "completed" },
+    { "rank": 7, "playerId": "tang-ching-yuan", "playerName": "唐靖淵 / TANG CHING-YUAN", "nationality": "Taiwan", "scores": { "difficulty": 36.3, "stability": 11.3, "novelty": 23.8, "composition": 7.3, "execution-deduction": 3.0, "special-deduction": 0.0 }, "totalScore": 75.7, "status": "completed" },
+    { "rank": 8, "playerId": "zheng-kang-ping", "playerName": "鄭康平 / CHENG KANG PING", "nationality": "Taiwan", "scores": { "difficulty": 35.3, "stability": 11.3, "novelty": 22.5, "composition": 7.0, "execution-deduction": 4.1, "special-deduction": 0.0 }, "totalScore": 72.0, "status": "completed" },
+    { "rank": 9, "playerId": "ong-hock-eng", "playerName": "王福恩 / Ong Hock Eng", "nationality": "Malaysia", "scores": { "difficulty": 33.3, "stability": 12.8, "novelty": 19.3, "composition": 6.5, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 70.1, "status": "completed" },
+    { "rank": 10, "playerId": "mitsuyasu-yusuke", "playerName": "光安祐介 / Yusuke Mitsuyasu", "nationality": "Japan", "scores": { "difficulty": 33.8, "stability": 11.5, "novelty": 20.3, "composition": 7.3, "execution-deduction": 4.1, "special-deduction": 0.0 }, "totalScore": 68.8, "status": "completed" },
+    { "rank": 11, "playerId": "nozawa-ryunosuke", "playerName": "野澤 硫之典 / Ryunosuke Nozawa", "nationality": "Japan", "scores": { "difficulty": 31.8, "stability": 9.8, "novelty": 22.0, "composition": 6.8, "execution-deduction": 5.0, "special-deduction": 0.0 }, "totalScore": 65.4, "status": "completed" }
+  ]
+}

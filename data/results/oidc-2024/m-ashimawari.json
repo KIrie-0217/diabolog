@@ -1,0 +1,12 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1 Diabolo Leg Orbits Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "lien-jia-jiun", "playerName": "連家駿 / LIEN JIA-JIUN", "nationality": "Taiwan", "count": 126, "class": "B", "status": "completed" }
+  ]
+}

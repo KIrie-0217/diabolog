@@ -1,0 +1,16 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1 Diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "hsieh-cheng-kai", "playerName": "謝丞凱 / HSIEH CHENG KAI", "nationality": "Taiwan", "count": 97, "class": "B", "status": "completed" },
+    { "rank": 2, "playerId": "i-chung-chi", "playerName": "易中奇 / I CHUNG-CHI", "nationality": "Taiwan", "count": 70, "class": "A", "status": "completed" },
+    { "rank": 3, "playerId": "lien-jia-jiun", "playerName": "連家駿 / LIEN JIA-JIUN", "nationality": "Taiwan", "count": 65, "class": "B", "status": "completed" },
+    { "rank": 4, "playerId": "zheng-hao-jie", "playerName": "鄭豪傑 / ZHENG HAO-JIE", "nationality": "Taiwan", "count": 52, "class": "B", "status": "completed" },
+    { "rank": 5, "playerId": "su-zhi-ruei", "playerName": "蘇致睿 / Su Zhi-Ruei", "nationality": "Taiwan", "count": 49, "class": "C", "status": "completed" }
+  ]
+}

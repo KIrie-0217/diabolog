@@ -1,0 +1,14 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2 Diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "lan-yu-wei+hsu-ying-hsuan", "playerName": "藍宥薇/許穎瑄 / LAN YU WEI/HSU YING HSUAN", "nationality": "Taiwan", "count": 111, "status": "completed" },
+    { "rank": 2, "playerId": "chen-chiao-hsun+chan-yu-chen", "playerName": "陳巧薰/詹侑臻 / CHEN CHIAO HSUN/CHAN YU CHEN", "nationality": "Taiwan", "count": 91, "status": "completed" },
+    { "rank": 3, "playerId": "wu-nien-cheng+kuo-chu-chun", "playerName": "吳念錚/郭筑鈞 / WU NIEN CHENG/KUO CHU CHUN", "nationality": "Taiwan", "count": 89, "status": "completed" },
+    { "rank": 4, "playerId": "lien-jia-jiun+lien-yu-ting", "playerName": "連家駿/連又亭 / LIEN JIA-JIUN/LIEN YU-TING", "nationality": "Taiwan", "count": 36, "status": "completed" }
+  ]
+}
