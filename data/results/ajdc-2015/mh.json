@@ -1,0 +1,22 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "mh",
+  "name": "高校生男子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "mitani-ryoto", "playerName": "ミタニリョウト", "scores": { "difficulty": 25.25, "variety": 12.25, "stability": 10.0, "novelty": 7.5, "composition": 9.25, "base-score": 15.0, "execution-deduction": 10.6, "special-deduction": 0.0 }, "totalScore": 68.65, "status": "completed" },
+    { "rank": 2, "playerId": "nakagawa-eisaku", "playerName": "ナカガワエイサク", "scores": { "difficulty": 18.5, "variety": 10.25, "stability": 9.5, "novelty": 5.5, "composition": 11.0, "base-score": 15.0, "execution-deduction": 7.4, "special-deduction": 0.0 }, "totalScore": 62.35, "status": "completed" },
+    { "rank": 3, "playerId": "kosaka-ryota", "playerName": "コサカリョウタ", "scores": { "difficulty": 21.5, "variety": 9.75, "stability": 8.25, "novelty": 7.0, "composition": 8.0, "base-score": 15.0, "execution-deduction": 11.1, "special-deduction": 0.0 }, "totalScore": 58.4, "status": "completed" }
+  ]
+}

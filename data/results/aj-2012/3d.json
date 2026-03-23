@@ -1,0 +1,30 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "nagasaka-takuto",
+      "playerName": "長坂卓都 / TAKUTO NAGASAKA",
+      "totalScore": 84.9,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "watanabe-hayato",
+      "playerName": "渡辺隼人 / HAYATO WATANABE",
+      "totalScore": 84.4,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "matsuda-keita",
+      "playerName": "松田啓太 / KEITA MATSUDA",
+      "totalScore": 78.9,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "synchronization",
+      "name": "同調性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:f-court-hanmen",
+      "playerName": "Fコート(半面)",
+      "scores": {
+        "difficulty": 33.6,
+        "synchronization": 26.4,
+        "composition": 26.4,
+        "execution-deduction": 4.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 81.8,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "team:i-to-taichi-no-onikoroshi",
+      "playerName": "惟と太一の鬼ころし",
+      "scores": {
+        "difficulty": 31.4,
+        "synchronization": 23.8,
+        "composition": 25.6,
+        "execution-deduction": 2.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 78.4,
+      "status": "completed"
+    }
+  ]
+}

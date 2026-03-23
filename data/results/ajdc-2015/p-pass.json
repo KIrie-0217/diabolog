@@ -1,0 +1,17 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki+torii-takemi", "playerName": "トリイヒロミキ/トリイタケミ", "count": 88, "status": "completed" },
+    { "rank": 2, "playerId": "suwa-koki+kawabata-minori", "playerName": "スワコウキ/カワバタミノリ", "count": 30, "status": "completed" },
+    { "rank": 3, "playerId": "kurasawa-eiji+watanabe-hayato", "playerName": "クラサワエイジ/ワタナベハヤト", "count": 26, "status": "completed" },
+    { "rank": 3, "playerId": "todoroki-shinsuke+minagawa-satoru", "playerName": "トドロキシンスケ/ミナガワサトル", "count": 26, "status": "completed" },
+    { "rank": 5, "playerId": "hiraiwa-kazuya+koseki-megumi", "playerName": "ヒライワカズヤ/コセキメグミ", "count": 24, "status": "completed" },
+    { "rank": 6, "playerId": "kanamori-miki+tsunetou-kana", "playerName": "カナモリミキ/ツネトウカナ", "count": 10, "status": "completed" },
+    { "rank": 7, "playerId": "yoshiya-taichi+minegishi-takumi", "playerName": "ヨシヤタイチ/ミネギシタクミ", "count": 6, "status": "completed" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "categoryId": "battle",
+  "name": "バトル部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "results": [
+    { "rank": 1, "playerId": "torii-takemi", "playerName": "トリイ タケミ", "status": "completed" },
+    { "rank": 2, "playerId": "takano-sho", "playerName": "タカノショウ", "status": "completed" },
+    { "rank": 3, "playerId": "ishimizu-taiki", "playerName": "イシミズ タイキ", "status": "completed" }
+  ]
+}

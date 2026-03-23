@@ -1,0 +1,49 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "synchronization",
+      "name": "同調性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:tocchies",
+      "playerName": "とっちーず",
+      "scores": {
+        "difficulty": 35.2,
+        "synchronization": 27.2,
+        "composition": 25.8,
+        "execution-deduction": 2.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 85.8,
+      "status": "completed"
+    }
+  ]
+}

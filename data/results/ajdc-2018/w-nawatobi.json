@@ -1,0 +1,50 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "sudo-maki",
+      "playerName": "スドウ マキ",
+      "count": 23,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 2,
+      "playerId": "higuchi-yoko",
+      "playerName": "ヒグチヨウコ",
+      "count": 16,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 3,
+      "playerId": "okuno-mutsumi",
+      "playerName": "オクノムツミ",
+      "count": 13,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 4,
+      "playerId": "yokotani-mai",
+      "playerName": "ヨコタニ マイ",
+      "count": 9,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 5,
+      "playerId": "ri-yuuna",
+      "playerName": "リユウナ",
+      "count": 5,
+      "status": "completed",
+      "class": "C"
+    }
+  ],
+  "hasClass": true
+}

@@ -1,0 +1,145 @@
+{
+  "categoryId": "m1dhb",
+  "name": "男子1ディアボロ水平軸(ベアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / Taiki Ishimizu",
+      "scores": {
+        "difficulty": 41.5,
+        "stability": 13.3,
+        "novelty": 27.3,
+        "composition": 9.3,
+        "execution-deduction": 1.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 89.5,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "tanaka-tomoyasu",
+      "playerName": "タナカトモヤス",
+      "scores": {
+        "difficulty": 38.5,
+        "stability": 12.8,
+        "novelty": 26.3,
+        "composition": 8.3,
+        "execution-deduction": 3.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 82.0,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "fuse-koichiro",
+      "playerName": "布施孝一郎 / Koichiro Fuse",
+      "scores": {
+        "difficulty": 35.3,
+        "stability": 12.5,
+        "novelty": 26.3,
+        "composition": 8.5,
+        "execution-deduction": 2.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 80.2,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "nonogaki-soma",
+      "playerName": "ノノガキソウマ",
+      "scores": {
+        "difficulty": 37.3,
+        "stability": 11.3,
+        "novelty": 24.5,
+        "composition": 7.0,
+        "execution-deduction": 1.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 78.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "mitsuyasu-yusuke",
+      "playerName": "光安祐介 / Yusuke Mitsuyasu",
+      "scores": {
+        "difficulty": 35.5,
+        "stability": 12.3,
+        "novelty": 23.3,
+        "composition": 8.0,
+        "execution-deduction": 3.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 76.1,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "isobe-takumi",
+      "playerName": "イソベ タクミ",
+      "scores": {
+        "difficulty": 36.8,
+        "stability": 10.5,
+        "novelty": 24.5,
+        "composition": 7.8,
+        "execution-deduction": 6.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 72.8,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "yoshii-norihiro",
+      "playerName": "吉井 紀博 / Norihiro Yoshii",
+      "scores": {
+        "difficulty": 32.8,
+        "stability": 10.8,
+        "novelty": 22.8,
+        "composition": 7.3,
+        "execution-deduction": 4.3,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.4,
+      "status": "completed"
+    }
+  ]
+}

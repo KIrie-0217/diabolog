@@ -1,0 +1,119 @@
+{
+  "competitionId": "aj-2013",
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "urawa-arata",
+      "playerName": "ウラワアラタ",
+      "scores": { "difficulty": 28.625, "stability": 9.125, "variety": 8.5, "novelty": 8.25, "composition": 18.25, "base-score": 20, "execution-deduction": 5.2, "special-deduction": 0 },
+      "totalScore": 87.55,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "abe-hiroki",
+      "playerName": "アベヒロキ",
+      "scores": { "difficulty": 25.0, "stability": 8.25, "variety": 7.625, "novelty": 8.375, "composition": 17.625, "base-score": 20, "execution-deduction": 6.3, "special-deduction": 0 },
+      "totalScore": 80.575,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kamei-hiroki",
+      "playerName": "カメイヒロキ",
+      "scores": { "difficulty": 22.875, "stability": 6.375, "variety": 8.125, "novelty": 7.75, "composition": 17.0, "base-score": 20, "execution-deduction": 2.3, "special-deduction": 0 },
+      "totalScore": 79.825,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kubo-yuichiro",
+      "playerName": "クボユウイチロウ",
+      "scores": { "difficulty": 23.625, "stability": 7.625, "variety": 7.75, "novelty": 7.375, "composition": 16.875, "base-score": 20, "execution-deduction": 4.4, "special-deduction": 0 },
+      "totalScore": 78.85,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "nonaka-aoi",
+      "playerName": "ノナカアオイ",
+      "scores": { "difficulty": 24.625, "stability": 7.625, "variety": 8.375, "novelty": 7.75, "composition": 16.75, "base-score": 20, "execution-deduction": 6.3, "special-deduction": 0 },
+      "totalScore": 78.825,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kiso-takahiro",
+      "playerName": "キソタカヒロ",
+      "scores": { "difficulty": 21.875, "stability": 7.375, "variety": 7.25, "novelty": 7.0, "composition": 16.25, "base-score": 20, "execution-deduction": 5.3, "special-deduction": 0 },
+      "totalScore": 74.45,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "hisanari-kizuku",
+      "playerName": "ヒサナリキズク",
+      "scores": { "difficulty": 24.75, "stability": 7.0, "variety": 7.625, "novelty": 7.625, "composition": 16.125, "base-score": 15, "execution-deduction": 4.6, "special-deduction": 0 },
+      "totalScore": 73.525,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "morita-shunpei",
+      "playerName": "モリタシュンペイ",
+      "scores": { "difficulty": 22.75, "stability": 7.375, "variety": 7.25, "novelty": 7.5, "composition": 17.125, "base-score": 15, "execution-deduction": 3.9, "special-deduction": 3 },
+      "totalScore": 70.1,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "kobayashi-norifumi",
+      "playerName": "コバヤシノリフミ",
+      "scores": { "difficulty": 23.75, "stability": 5.625, "variety": 6.5, "novelty": 7.5, "composition": 14.125, "base-score": 20, "execution-deduction": 9, "special-deduction": 0 },
+      "totalScore": 68.5,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "tanemura-hiroki",
+      "playerName": "タネムラヒロキ",
+      "scores": { "difficulty": 17.875, "stability": 6.125, "variety": 6.5, "novelty": 6.0, "composition": 12.0, "base-score": 20, "execution-deduction": 3.2, "special-deduction": 0 },
+      "totalScore": 65.3,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "okada-iki",
+      "playerName": "オカダイキ",
+      "scores": { "difficulty": 20.75, "stability": 7.0, "variety": 6.875, "novelty": 6.375, "composition": 15.75, "base-score": 15, "execution-deduction": 7.7, "special-deduction": 0 },
+      "totalScore": 64.05,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "nagasaka-takuto",
+      "playerName": "ナガサカタクト",
+      "status": "dns"
+    },
+    {
+      "rank": null,
+      "playerId": "masuda-sho",
+      "playerName": "マスダショウ",
+      "status": "dns"
+    }
+  ]
+}

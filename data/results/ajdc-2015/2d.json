@@ -1,0 +1,31 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "2d",
+  "name": "2ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tanaka-shun", "playerName": "タナカシュン", "scores": { "difficulty": 40.33, "stability": 14.67, "novelty": 25.67, "composition": 8.0, "execution-deduction": 0.0, "special-deduction": 0.0 }, "totalScore": 88.67, "status": "completed" },
+    { "rank": 2, "playerId": "abe-hiroki", "playerName": "アベヒロキ", "scores": { "difficulty": 40.33, "stability": 13.67, "novelty": 26.0, "composition": 8.33, "execution-deduction": 1.17, "special-deduction": 0.0 }, "totalScore": 87.17, "status": "completed" },
+    { "rank": 3, "playerId": "kudo-masahiro", "playerName": "クドウマサヒロ", "scores": { "difficulty": 39.67, "stability": 14.0, "novelty": 25.0, "composition": 8.67, "execution-deduction": 0.33, "special-deduction": 0.0 }, "totalScore": 87.0, "status": "completed" },
+    { "rank": 4, "playerId": "tanaka-tomoyasu", "playerName": "タナカトモヤス", "scores": { "difficulty": 39.0, "stability": 14.0, "novelty": 25.0, "composition": 8.67, "execution-deduction": 0.5, "special-deduction": 0.0 }, "totalScore": 86.17, "status": "completed" },
+    { "rank": 5, "playerId": "torii-takemi", "playerName": "トリイタケミ", "scores": { "difficulty": 38.33, "stability": 14.0, "novelty": 24.67, "composition": 8.0, "execution-deduction": 0.33, "special-deduction": 0.0 }, "totalScore": 84.67, "status": "completed" },
+    { "rank": 6, "playerId": "torii-hiromiki", "playerName": "トリイヒロミキ", "scores": { "difficulty": 36.67, "stability": 13.33, "novelty": 24.67, "composition": 7.67, "execution-deduction": 2.17, "special-deduction": 0.0 }, "totalScore": 80.17, "status": "completed" },
+    { "rank": 7, "playerId": "hashimoto-ryota", "playerName": "ハシモトリョウタ", "scores": { "difficulty": 39.0, "stability": 10.67, "novelty": 26.0, "composition": 7.0, "execution-deduction": 3.83, "special-deduction": 0.0 }, "totalScore": 78.83, "status": "completed" },
+    { "rank": 8, "playerId": "kamei-hiroki", "playerName": "カメイヒロキ", "scores": { "difficulty": 35.67, "stability": 11.33, "novelty": 26.0, "composition": 8.0, "execution-deduction": 2.33, "special-deduction": 0.0 }, "totalScore": 78.67, "status": "completed" },
+    { "rank": 9, "playerId": "tojo-maki", "playerName": "トウジョウマキ", "scores": { "difficulty": 36.33, "stability": 11.33, "novelty": 25.0, "composition": 7.67, "execution-deduction": 4.33, "special-deduction": 0.0 }, "totalScore": 76.0, "status": "completed" },
+    { "rank": 10, "playerId": "suwa-koki", "playerName": "スワコウキ", "scores": { "difficulty": 34.67, "stability": 10.67, "novelty": 23.33, "composition": 6.67, "execution-deduction": 2.83, "special-deduction": 0.0 }, "totalScore": 72.5, "status": "completed" },
+    { "rank": 11, "playerId": "tomita-hikaru", "playerName": "トミタヒカル", "scores": { "difficulty": 35.33, "stability": 10.33, "novelty": 23.67, "composition": 6.67, "execution-deduction": 3.83, "special-deduction": 0.0 }, "totalScore": 72.17, "status": "completed" },
+    { "rank": 12, "playerId": "hiraiwa-kazuya", "playerName": "ヒライワカズヤ", "scores": { "difficulty": 34.33, "stability": 10.0, "novelty": 22.33, "composition": 6.0, "execution-deduction": 3.83, "special-deduction": 0.0 }, "totalScore": 68.83, "status": "completed" },
+    { "rank": 13, "playerId": "ooya-yukinaga", "playerName": "オオヤユキナガ", "scores": { "difficulty": 30.0, "stability": 10.33, "novelty": 22.0, "composition": 7.67, "execution-deduction": 4.17, "special-deduction": 0.0 }, "totalScore": 65.83, "status": "completed" },
+    { "rank": 14, "playerId": "todoroki-shinsuke", "playerName": "トドロキシンスケ", "scores": { "difficulty": 31.67, "stability": 9.33, "novelty": 18.0, "composition": 6.33, "execution-deduction": 3.67, "special-deduction": 0.0 }, "totalScore": 61.67, "status": "completed" }
+  ]
+}

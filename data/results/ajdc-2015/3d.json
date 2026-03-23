@@ -1,0 +1,19 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "kudo-masahiro", "playerName": "クドウマサヒロ", "scores": { "difficulty": 34.5, "stability": 9.5, "novelty": 20.0, "composition": 7.75, "execution-deduction": 3.5, "special-deduction": 0.0 }, "totalScore": 68.25, "status": "completed" },
+    { "rank": 2, "playerId": "kurasawa-eiji", "playerName": "クラサワエイジ", "scores": { "difficulty": 32.75, "stability": 8.25, "novelty": 22.0, "composition": 7.5, "execution-deduction": 4.5, "special-deduction": 0.0 }, "totalScore": 66.0, "status": "completed" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "competitionId": "aj-2013",
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足周り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "aoki-naoya", "playerName": "アオキナオヤ", "count": 125, "status": "completed" },
+    { "rank": 2, "playerId": "kamei-hiroki", "playerName": "カメイヒロキ", "count": 119, "status": "completed" },
+    { "rank": 3, "playerId": "torii-hiromiki", "playerName": "トリイヒロミキ", "count": 109, "status": "completed" },
+    { "rank": 4, "playerId": "torii-takemi", "playerName": "トリイタケミ", "count": 105, "status": "completed" },
+    { "rank": 5, "playerId": "isobe-takumi", "playerName": "イソベタクミ", "count": 102, "status": "completed" },
+    { "rank": 6, "playerId": "suwa-koki", "playerName": "スワコウキ", "count": 101, "status": "completed" },
+    { "rank": 7, "playerId": "nagasaka-takuto", "playerName": "ナガサカタクト", "count": 98, "status": "completed" },
+    { "rank": 8, "playerId": "sekiya-masahiro", "playerName": "セキヤマサヒロ", "count": 93, "status": "completed" },
+    { "rank": 9, "playerId": "nonaka-aoi", "playerName": "ノナカアオイ", "count": 89, "status": "completed" },
+    { "rank": 10, "playerId": "masuda-sho", "playerName": "マスダショウ", "count": 88, "status": "completed" },
+    { "rank": 11, "playerId": "suzuki-takayuki", "playerName": "スズキタカユキ", "count": 82, "status": "completed" },
+    { "rank": 12, "playerId": "inaba-yuusuke", "playerName": "イナバユウスケ", "count": 78, "status": "completed" },
+    { "rank": 13, "playerId": "kiso-takahiro", "playerName": "キソタカヒロ", "count": 76, "status": "completed" },
+    { "rank": 14, "playerId": "fujita-kenta", "playerName": "フジタケンタ", "count": 73, "status": "completed" },
+    { "rank": 15, "playerId": "okamoto-teruki", "playerName": "オカモトテルキ", "count": 64, "status": "completed" },
+    { "rank": 16, "playerId": "kajiyama-haruto", "playerName": "カジヤマハルト", "count": 51, "status": "completed" },
+    { "rank": 17, "playerId": "nakamura-makoto", "playerName": "ナカムラマコト", "count": 32, "status": "completed" }
+  ]
+}

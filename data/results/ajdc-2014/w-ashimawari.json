@@ -1,0 +1,50 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足周り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yokoi-yukina",
+      "playerName": "ヨコイ ユキナ",
+      "count": 117,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 2,
+      "playerId": "sugino-yuka",
+      "playerName": "スギノユカ",
+      "count": 93,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 3,
+      "playerId": "suzuki-haruna",
+      "playerName": "スズキハルナ",
+      "count": 85,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 4,
+      "playerId": "suda-erika",
+      "playerName": "スダエリカ",
+      "count": 84,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 5,
+      "playerId": "koseki-megumi",
+      "playerName": "コセキ メグミ",
+      "count": 70,
+      "status": "completed",
+      "class": "B"
+    }
+  ],
+  "hasClass": true
+}

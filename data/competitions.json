@@ -1250,32 +1250,306 @@
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJDC2016_result.pdf",
     "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJDC2016_outline.pdf",
     "awards": [
-      { "type": "best-trick", "playerName": "ナガサカ タクト" },
-      { "type": "special", "playerName": "infinity", "note": "優秀団体賞" },
-      { "type": "special", "playerName": "三重大学ジャグリングサークル「ジャグリアーノ!」", "note": "優秀団体賞" },
-      { "type": "special", "playerName": "静岡県立大学ジャグリングクラブ五臓六腑", "note": "優秀団体賞" },
-      { "type": "special", "playerName": "千葉大学 Juggling Team Possum", "note": "優秀団体賞" },
-      { "type": "special", "playerName": "大阪大学ジャグリングサークルPatio", "note": "優秀団体賞" }
+      {
+        "type": "best-trick",
+        "playerName": "ナガサカ タクト"
+      },
+      {
+        "type": "special",
+        "playerName": "infinity",
+        "note": "優秀団体賞"
+      },
+      {
+        "type": "special",
+        "playerName": "三重大学ジャグリングサークル「ジャグリアーノ!」",
+        "note": "優秀団体賞"
+      },
+      {
+        "type": "special",
+        "playerName": "静岡県立大学ジャグリングクラブ五臓六腑",
+        "note": "優秀団体賞"
+      },
+      {
+        "type": "special",
+        "playerName": "千葉大学 Juggling Team Possum",
+        "note": "優秀団体賞"
+      },
+      {
+        "type": "special",
+        "playerName": "大阪大学ジャグリングサークルPatio",
+        "note": "優秀団体賞"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mhi",
+        "name": "高校生男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      }
+    ]
+  },
+  {
+    "id": "ajdc-2015",
+    "name": "第四回全日本ディアボロ選手権大会",
+    "shortName": "AJDC 2015",
+    "location": "東京",
+    "venue": "江戸川橋体育館 競技場",
+    "startDate": "2015-03-29",
+    "endDate": "2015-03-31",
+    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJDC2015_result.pdf",
+    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJDC2015_outline.pdf",
+    "awards": [
+      { "type": "best-trick", "playerName": "イソベタクミ" },
+      { "type": "special", "playerName": "ヤナガワアヤコ" }
     ],
     "categories": [
       { "id": "mi", "name": "男子個人総合部門", "class": "overall" },
       { "id": "wi", "name": "女子個人総合部門", "class": "overall" },
-      { "id": "mhi", "name": "高校生男子個人総合部門", "class": "overall" },
+      { "id": "mh", "name": "高校生男子個人総合部門", "class": "overall" },
       { "id": "mj", "name": "男子個人総合ジュニア部門", "class": "overall" },
       { "id": "t", "name": "団体部門", "class": "overall" },
-      { "id": "m1dha", "name": "男子1ディアボロ水平軸(固定)部門", "class": "specialist" },
-      { "id": "m1dhb", "name": "男子1ディアボロ水平軸(ベアリング)部門", "class": "specialist" },
+      { "id": "m1dha", "name": "男子1ディアボロ水平(固定)軸部門", "class": "specialist" },
+      { "id": "m1dhb", "name": "男子1ディアボロ水平(ペアリング)軸部門", "class": "specialist" },
       { "id": "1dv", "name": "男子1ディアボロ垂直軸部門", "class": "specialist" },
       { "id": "w1d", "name": "女子1ディアボロ部門", "class": "specialist" },
-      { "id": "2da", "name": "2ディアボロ(固定)部門", "class": "specialist" },
-      { "id": "2db", "name": "2ディアボロ(ベアリング)部門", "class": "specialist" },
+      { "id": "2d", "name": "2ディアボロ部門", "class": "specialist" },
       { "id": "3d", "name": "3ディアボロ部門", "class": "specialist" },
       { "id": "m-ashimawari", "name": "男子1ディアボロ足回り部門", "class": "challenge" },
-      { "id": "w-ashimawari", "name": "女子1ディアボロ足回り部門", "class": "challenge" },
-      { "id": "4d-low", "name": "4ディアボロロウ", "class": "challenge" },
-      { "id": "p-pass", "name": "2ディアボロペアパス", "class": "challenge" },
       { "id": "m-nawatobi", "name": "男子1ディアボロ縄跳び部門", "class": "challenge" },
-      { "id": "w-nawatobi", "name": "女子1ディアボロ縄跳び部門", "class": "challenge" }
+      { "id": "4d-low", "name": "4ディアボロロウ部門", "class": "challenge" },
+      { "id": "w-nawatobi", "name": "女子1ディアボロ縄跳び部門", "class": "challenge" },
+      { "id": "w-ashimawari", "name": "女子1ディアボロ足回り部門", "class": "challenge" },
+      { "id": "p-pass", "name": "2ディアボロペアパス部門", "class": "challenge" }
+    ]
+  },
+  {
+    "id": "ajdc-2014",
+    "name": "第三回全日本ディアボロ選手権大会",
+    "shortName": "AJDC 2014",
+    "location": "大阪",
+    "venue": "なみはやドーム サブアリーナ / 大阪市中央卸売市場 体育館",
+    "startDate": "2014-03-29",
+    "endDate": "2014-03-30",
+    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJ2014_result.pdf",
+    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/aj2014outline.pdf",
+    "awards": [
+      {
+        "type": "special",
+        "playerName": "静岡県立大学ジャグリングサークル 五臓六腑"
+      },
+      {
+        "type": "special",
+        "playerName": "三重大学ジャグリングサークル「ジャグリアーノ!」"
+      },
+      {
+        "type": "special",
+        "playerName": "早稲田大学ジャグリングサークル~infinity~"
+      },
+      {
+        "type": "special",
+        "playerName": "千葉大学ジャグリングチームPossum"
+      },
+      {
+        "type": "special",
+        "playerName": "京都大学 Juggling Donuts"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dh",
+        "name": "男子1ディアボロ水平軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2d",
+        "name": "2ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足周り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足周り部門",
+        "class": "challenge"
+      }
+    ]
+  },
+  {
+    "id": "aj-2013",
+    "name": "2013年度全日本ディアボロ競技会",
+    "shortName": "AJ 2013",
+    "startDate": "2013-03-18",
+    "endDate": "2013-03-19",
+    "venue": "BumB東京スポーツ文化会館",
+    "location": "東京",
+    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJ2013_Result.pdf",
+    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJ2013_Outline.pdf",
+    "awards": [
+      { "type": "special", "playerName": "サイトウヒロキ" },
+      { "type": "special", "playerName": "トリイタケミ" },
+      { "type": "special", "playerName": "トリイヒロミキ" }
+    ],
+    "categories": [
+      { "id": "mi", "name": "男子個人総合部門", "class": "overall" },
+      { "id": "wi", "name": "女子個人総合部門", "class": "overall" },
+      { "id": "t", "name": "団体部門", "class": "overall" },
+      { "id": "m1dh", "name": "男子1ディアボロ水平軸部門", "class": "specialist" },
+      { "id": "1dv", "name": "男子1ディアボロ垂直軸部門", "class": "specialist" },
+      { "id": "w1d", "name": "女子1ディアボロ部門", "class": "specialist" },
+      { "id": "2d", "name": "2ディアボロ部門", "class": "specialist" },
+      { "id": "3d", "name": "3ディアボロ部門", "class": "specialist" },
+      { "id": "m-ashimawari", "name": "男子1ディアボロ足周り部門", "class": "challenge" },
+      { "id": "w-ashimawari", "name": "女子1ディアボロ足周り部門", "class": "challenge" },
+      { "id": "p-pass", "name": "ディアボロペア2パス部門", "class": "challenge" }
+    ]
+  },
+  {
+    "id": "aj-2012",
+    "name": "プレ日本ディアボロ大会(2012年)",
+    "shortName": "AJ 2012",
+    "startDate": "2012-02-01",
+    "endDate": "2012-02-01",
+    "venue": "-",
+    "location": "-",
+    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJ2012_result.pdf",
+    "awards": [],
+    "categories": [
+      { "id": "1d", "name": "1ディアボロ部門", "class": "specialist" },
+      { "id": "2d", "name": "2ディアボロ部門", "class": "specialist" },
+      { "id": "3d", "name": "3ディアボロ部門", "class": "specialist" }
     ]
   }
 ]

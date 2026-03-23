@@ -1,0 +1,37 @@
+{
+  "competitionId": "aj-2013",
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1, "playerId": "suda-erika", "playerName": "スダエリカ",
+      "scores": { "difficulty": 35.5, "novelty": 18.5, "stability": 15.75, "composition": 8.5, "execution-deduction": 0.625, "special-deduction": 0 },
+      "totalScore": 77.625, "status": "completed"
+    },
+    {
+      "rank": 2, "playerId": "takahashi-mirei", "playerName": "タカハシミレイ",
+      "scores": { "difficulty": 31.0, "novelty": 17.25, "stability": 13.0, "composition": 7.25, "execution-deduction": 5.125, "special-deduction": 0 },
+      "totalScore": 63.375, "status": "completed"
+    },
+    {
+      "rank": 3, "playerId": "sugino-yuka", "playerName": "スギノユカ",
+      "scores": { "difficulty": 30.25, "novelty": 18.0, "stability": 12.5, "composition": 6.25, "execution-deduction": 5.375, "special-deduction": 0 },
+      "totalScore": 61.625, "status": "completed"
+    },
+    {
+      "rank": 4, "playerId": "watanabe-yukari", "playerName": "ワタナベユカリ",
+      "scores": { "difficulty": 28.75, "novelty": 17.25, "stability": 9.0, "composition": 6.75, "execution-deduction": 4.125, "special-deduction": 0 },
+      "totalScore": 57.625, "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "competitionId": "aj-2013",
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1, "playerId": "saito-hiroki", "playerName": "サイトウヒロキ",
+      "scores": { "novelty": 41.125, "difficulty": 27.125, "stability": 13.0, "composition": 8.5, "execution-deduction": 1.25, "special-deduction": 0 },
+      "totalScore": 88.5, "status": "completed"
+    },
+    {
+      "rank": 2, "playerId": "aoki-naoya", "playerName": "アオキナオヤ",
+      "scores": { "novelty": 35.75, "difficulty": 24.5, "stability": 13.125, "composition": 9.375, "execution-deduction": 1.75, "special-deduction": 0 },
+      "totalScore": 81.0, "status": "completed"
+    },
+    {
+      "rank": 3, "playerId": "kamei-hiroki", "playerName": "カメイヒロキ",
+      "scores": { "novelty": 37.125, "difficulty": 25.25, "stability": 12.375, "composition": 8.375, "execution-deduction": 3.25, "special-deduction": 0 },
+      "totalScore": 79.875, "status": "completed"
+    },
+    {
+      "rank": 4, "playerId": "takamori-hirofumi", "playerName": "タカモリヒロフミ",
+      "scores": { "novelty": 34.75, "difficulty": 25.25, "stability": 11.5, "composition": 7.625, "execution-deduction": 1.875, "special-deduction": 0 },
+      "totalScore": 77.25, "status": "completed"
+    },
+    {
+      "rank": 5, "playerId": "takano-sho", "playerName": "タカノショウ",
+      "scores": { "novelty": 24.375, "difficulty": 37.125, "stability": 10.375, "composition": 8.5, "execution-deduction": 3.25, "special-deduction": 0 },
+      "totalScore": 77.125, "status": "completed"
+    },
+    {
+      "rank": 6, "playerId": "kobayashi-norifumi", "playerName": "コバヤシノリフミ",
+      "scores": { "novelty": 25.0, "difficulty": 37.375, "stability": 11.875, "composition": 7.875, "execution-deduction": 5.875, "special-deduction": 0 },
+      "totalScore": 76.25, "status": "completed"
+    },
+    {
+      "rank": 7, "playerId": "torii-hiromiki", "playerName": "トリイヒロミキ",
+      "scores": { "novelty": 20.5, "difficulty": 32.625, "stability": 12.625, "composition": 8.5, "execution-deduction": 1.125, "special-deduction": 0 },
+      "totalScore": 73.125, "status": "completed"
+    },
+    {
+      "rank": 8, "playerId": "makimoto-kosuke", "playerName": "マキモトコウスケ",
+      "scores": { "novelty": 32.875, "difficulty": 23.5, "stability": 10.125, "composition": 8.75, "execution-deduction": 4.5, "special-deduction": 0 },
+      "totalScore": 70.75, "status": "completed"
+    },
+    {
+      "rank": 9, "playerId": "torii-takemi", "playerName": "トリイタケミ",
+      "scores": { "novelty": 34.625, "difficulty": 20.875, "stability": 10.875, "composition": 7.25, "execution-deduction": 6.0, "special-deduction": 0 },
+      "totalScore": 67.625, "status": "completed"
+    },
+    {
+      "rank": 10, "playerId": "suzuki-takayuki", "playerName": "スズキタカユキ",
+      "scores": { "novelty": 28.875, "difficulty": 20.625, "stability": 11.125, "composition": 7.375, "execution-deduction": 0.75, "special-deduction": 0 },
+      "totalScore": 67.25, "status": "completed"
+    },
+    {
+      "rank": 11, "playerId": "uda-kento", "playerName": "ウダケント",
+      "scores": { "novelty": 20.0, "difficulty": 31.625, "stability": 10.5, "composition": 7.375, "execution-deduction": 3.75, "special-deduction": 0 },
+      "totalScore": 65.75, "status": "completed"
+    },
+    {
+      "rank": 12, "playerId": "muraoka-takumi", "playerName": "ムラオカタクミ",
+      "scores": { "novelty": 22.875, "difficulty": 33.25, "stability": 9.25, "composition": 7.0, "execution-deduction": 8.375, "special-deduction": 0 },
+      "totalScore": 64.0, "status": "completed"
+    },
+    {
+      "rank": 13, "playerId": "kosaki-jun", "playerName": "コサキジュン",
+      "scores": { "novelty": 29.875, "difficulty": 20.125, "stability": 8.75, "composition": 7.5, "execution-deduction": 3.875, "special-deduction": 0 },
+      "totalScore": 62.375, "status": "completed"
+    }
+  ]
+}

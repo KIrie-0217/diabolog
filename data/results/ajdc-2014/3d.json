@@ -1,0 +1,160 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "watanabe-hayato",
+      "playerName": "ワタナベ ハヤト",
+      "scores": {
+        "difficulty": 39.0,
+        "stability": 11.5,
+        "novelty": 24.5,
+        "composition": 8.25,
+        "execution-deduction": 0.875,
+        "special-deduction": 0.0
+      },
+      "totalScore": 82.375,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "nagasaka-takuto",
+      "playerName": "ナガサカタクト",
+      "scores": {
+        "difficulty": 37.0,
+        "stability": 11.0,
+        "novelty": 24.0,
+        "composition": 6.75,
+        "execution-deduction": 2.625,
+        "special-deduction": 0.0
+      },
+      "totalScore": 76.125,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kamiya-gaku",
+      "playerName": "カミヤガク",
+      "scores": {
+        "difficulty": 36.5,
+        "stability": 11.0,
+        "novelty": 21.5,
+        "composition": 7.25,
+        "execution-deduction": 1.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 75.25,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "nonaka-aoi",
+      "playerName": "ノナカアオイ",
+      "scores": {
+        "difficulty": 37.25,
+        "stability": 10.5,
+        "novelty": 23.25,
+        "composition": 7.0,
+        "execution-deduction": 3.25,
+        "special-deduction": 0.0
+      },
+      "totalScore": 74.75,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kubo-yuichiro",
+      "playerName": "クボ ユウイチロウ",
+      "scores": {
+        "difficulty": 33.25,
+        "stability": 9.75,
+        "novelty": 22.5,
+        "composition": 6.5,
+        "execution-deduction": 2.375,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.625,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "tanaka-shun",
+      "playerName": "タナカシュン",
+      "scores": {
+        "difficulty": 30.5,
+        "stability": 10.25,
+        "novelty": 18.75,
+        "composition": 6.75,
+        "execution-deduction": 2.125,
+        "special-deduction": 0.0
+      },
+      "totalScore": 64.125,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / Taiki Ishimizu",
+      "scores": {
+        "difficulty": 31.0,
+        "stability": 8.0,
+        "novelty": 17.75,
+        "composition": 5.5,
+        "execution-deduction": 3.25,
+        "special-deduction": 0.0
+      },
+      "totalScore": 59.0,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "takamori-hirofumi",
+      "playerName": "タカモリヒロフミ",
+      "scores": {
+        "difficulty": 29.5,
+        "stability": 8.0,
+        "novelty": 16.25,
+        "composition": 6.0,
+        "execution-deduction": 3.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 56.25,
+      "status": "completed"
+    }
+  ]
+}

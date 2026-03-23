@@ -1,0 +1,105 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "synchronization",
+      "name": "同調性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:pi-equals-3",
+      "playerName": "π=3",
+      "scores": {
+        "difficulty": 29.2,
+        "synchronization": 24.6,
+        "composition": 23.8,
+        "execution-deduction": 7.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.8,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "team:waseda-infinity",
+      "playerName": "早稲田大学 infinity",
+      "scores": {
+        "difficulty": 28.6,
+        "synchronization": 21.6,
+        "composition": 23.4,
+        "execution-deduction": 4.2,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.4,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "team:hashimoto-papa",
+      "playerName": "橋本パパと愉快な仲間達",
+      "scores": {
+        "difficulty": 27.6,
+        "synchronization": 20.4,
+        "composition": 23.2,
+        "execution-deduction": 2.2,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.0,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "team:tatabox",
+      "playerName": "TATAbox",
+      "scores": {
+        "difficulty": 25.6,
+        "synchronization": 25.8,
+        "composition": 24.6,
+        "execution-deduction": 7.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 68.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "team:toriisan",
+      "playerName": "鳥居さん",
+      "scores": {
+        "difficulty": 22.8,
+        "synchronization": 21.6,
+        "composition": 20.2,
+        "execution-deduction": 4.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 60.0,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yokoi-yukina",
+      "playerName": "ヨコイ ユキナ",
+      "count": 108,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 2,
+      "playerId": "kondo-asaki",
+      "playerName": "コンドウ アサキ",
+      "count": 87,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 3,
+      "playerId": "okada-saki",
+      "playerName": "オカダサキ",
+      "count": 82,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 4,
+      "playerId": "horie-momoko",
+      "playerName": "ホリエ モモコ",
+      "count": 20,
+      "status": "completed",
+      "class": "A"
+    }
+  ],
+  "hasClass": true
+}

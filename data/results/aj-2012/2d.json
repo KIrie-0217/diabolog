@@ -1,0 +1,72 @@
+{
+  "categoryId": "2d",
+  "name": "2ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / HIROKI KAMEI",
+      "totalScore": 93.0,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "hashimoto-ryota",
+      "playerName": "橋本 涼太 / RYOTA HASHIMOTO",
+      "totalScore": 91.3,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "abe-hiroki",
+      "playerName": "安部 弘紀 / HIROKI ABE",
+      "totalScore": 89.4,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tojo-maki",
+      "playerName": "東條 真樹 / MAKI TOJO",
+      "totalScore": 88.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "matsuda-keita",
+      "playerName": "松田 啓太 / KEITA MATSUDA",
+      "totalScore": 87.5,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "nagasaka-takuto",
+      "playerName": "長坂 卓都 / TAKUTO NAGASAKA",
+      "totalScore": 85.9,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "kurasawa-eiji",
+      "playerName": "倉沢英治 / EIJI KURASAWA",
+      "totalScore": 81.9,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "kiso-takahiro",
+      "playerName": "木曽 貴大 / TAKAHIRO KISO",
+      "totalScore": 81.8,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "kasugai-kazuya",
+      "playerName": "春日井 和也 / KAZUYA KASUGAI",
+      "totalScore": 80.1,
+      "status": "completed"
+    }
+  ]
+}

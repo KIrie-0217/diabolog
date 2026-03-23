@@ -1,0 +1,13 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "mitani-ryoto", "playerName": "ミタニリョウト", "count": 8, "status": "completed" },
+    { "rank": 2, "playerId": "nonaka-aoi", "playerName": "ノナカアオイ", "count": 3, "status": "completed" },
+    { "rank": 3, "playerId": "watanabe-hayato", "playerName": "ワタナベハヤト", "count": 2, "status": "completed" }
+  ]
+}

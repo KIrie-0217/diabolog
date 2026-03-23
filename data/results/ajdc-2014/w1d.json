@@ -1,0 +1,130 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "suda-erika",
+      "playerName": "スダエリカ",
+      "scores": {
+        "difficulty": 38.5,
+        "stability": 13.25,
+        "novelty": 23.75,
+        "composition": 8.0,
+        "execution-deduction": 0.125,
+        "special-deduction": 0.0
+      },
+      "totalScore": 83.375,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "takahashi-mirei",
+      "playerName": "タカハシミレイ",
+      "scores": {
+        "difficulty": 35.25,
+        "stability": 11.5,
+        "novelty": 23.0,
+        "composition": 7.5,
+        "execution-deduction": 2.25,
+        "special-deduction": 0.0
+      },
+      "totalScore": 75.0,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "yamashita-rie",
+      "playerName": "ヤマシタリエ",
+      "scores": {
+        "difficulty": 33.25,
+        "stability": 11.75,
+        "novelty": 22.0,
+        "composition": 8.5,
+        "execution-deduction": 1.25,
+        "special-deduction": 0.0
+      },
+      "totalScore": 74.25,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "yokoi-yukina",
+      "playerName": "ヨコイ ユキナ",
+      "scores": {
+        "difficulty": 32.0,
+        "stability": 9.25,
+        "novelty": 22.0,
+        "composition": 6.75,
+        "execution-deduction": 2.25,
+        "special-deduction": 0.0
+      },
+      "totalScore": 67.75,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "koseki-megumi",
+      "playerName": "コセキ メグミ",
+      "scores": {
+        "difficulty": 28.75,
+        "stability": 8.25,
+        "novelty": 20.0,
+        "composition": 6.5,
+        "execution-deduction": 4.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 59.5,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "ishizuka-kana",
+      "playerName": "イシヅカカナ",
+      "scores": {
+        "difficulty": 29.25,
+        "stability": 8.75,
+        "novelty": 19.25,
+        "composition": 6.25,
+        "execution-deduction": 6.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 57.5,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "トリイヒロミキ", "count": 156, "class": "A", "status": "completed" },
+    { "rank": 2, "playerId": "yoshioka-takehiro", "playerName": "ヨシオカタケヒロ", "count": 148, "class": "B", "status": "completed" },
+    { "rank": 3, "playerId": "torii-ken", "playerName": "トリイケン", "count": 125, "class": "E", "status": "completed" },
+    { "rank": 4, "playerId": "kamei-hiroki", "playerName": "カメイヒロキ", "count": 117, "class": "C", "status": "completed" },
+    { "rank": 4, "playerId": "yamamoto-masaaki", "playerName": "ヤマモトマサアキ", "count": 117, "class": "D", "status": "completed" },
+    { "rank": 6, "playerId": "yamasaki-kouta", "playerName": "ヤマザキコウタ", "count": 111, "class": "C", "status": "completed" },
+    { "rank": 7, "playerId": "yoshii-norihiro", "playerName": "ヨシイノリヒロ", "count": 108, "class": "B", "status": "completed" },
+    { "rank": 8, "playerId": "kudo-masahiro", "playerName": "クドウマサヒロ", "count": 106, "class": "C", "status": "completed" },
+    { "rank": 9, "playerId": "kurasawa-eiji", "playerName": "クラサワエイジ", "count": 89, "class": "D", "status": "completed" },
+    { "rank": 10, "playerId": "yoshida-reo", "playerName": "ヨシダレオ", "count": 86, "class": "A", "status": "completed" },
+    { "rank": 11, "playerId": "watanabe-hayato", "playerName": "ワタナベハヤト", "count": 81, "class": "D", "status": "completed" },
+    { "rank": 12, "playerId": "agou-tensei", "playerName": "アゴウテンセイ", "count": 78, "class": "A", "status": "completed" }
+  ]
+}

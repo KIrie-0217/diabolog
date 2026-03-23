@@ -1,0 +1,175 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "taniguchi-mizuki",
+      "playerName": "タニグチミズキ",
+      "scores": {
+        "difficulty": 42.0,
+        "stability": 13.3,
+        "novelty": 26.0,
+        "composition": 8.0,
+        "execution-deduction": 0.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 89.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "sudo-maki",
+      "playerName": "スドウ マキ",
+      "scores": {
+        "difficulty": 40.0,
+        "stability": 13.5,
+        "novelty": 25.3,
+        "composition": 8.0,
+        "execution-deduction": 1.1,
+        "special-deduction": 0.0
+      },
+      "totalScore": 85.7,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "shiraishi-airi",
+      "playerName": "シライシアイリ",
+      "scores": {
+        "difficulty": 37.5,
+        "stability": 11.8,
+        "novelty": 25.3,
+        "composition": 8.0,
+        "execution-deduction": 5.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 76.7,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "sato-chie",
+      "playerName": "サトウ チエ",
+      "scores": {
+        "difficulty": 36.0,
+        "stability": 12.3,
+        "novelty": 22.3,
+        "composition": 7.5,
+        "execution-deduction": 2.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 76.1,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "oishi-mayu",
+      "playerName": "オオイシマユ",
+      "scores": {
+        "difficulty": 34.3,
+        "stability": 11.8,
+        "novelty": 22.3,
+        "composition": 7.8,
+        "execution-deduction": 3.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 73.2,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "itani-honoka",
+      "playerName": "イタニホノカ",
+      "scores": {
+        "difficulty": 35.3,
+        "stability": 11.8,
+        "novelty": 22.0,
+        "composition": 7.0,
+        "execution-deduction": 4.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 72.1,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "yokoi-yukina",
+      "playerName": "ヨコイ ユキナ",
+      "scores": {
+        "difficulty": 34.5,
+        "stability": 11.0,
+        "novelty": 22.0,
+        "composition": 7.5,
+        "execution-deduction": 4.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 70.5,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "ooi-tsugumi",
+      "playerName": "オオイツグミ",
+      "scores": {
+        "difficulty": 35.8,
+        "stability": 9.3,
+        "novelty": 23.5,
+        "composition": 6.3,
+        "execution-deduction": 6.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 68.9,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "michibata-ena",
+      "playerName": "ミチバタエナ",
+      "scores": {
+        "difficulty": 29.8,
+        "stability": 9.5,
+        "novelty": 18.5,
+        "composition": 6.5,
+        "execution-deduction": 3.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 60.8,
+      "status": "completed"
+    }
+  ]
+}

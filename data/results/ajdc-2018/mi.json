@@ -1,0 +1,237 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tada-kazuki",
+      "playerName": "田多 加津輝 / Kazuki Tada",
+      "scores": {
+        "difficulty": 26.8,
+        "variety": 8.4,
+        "stability": 8.8,
+        "novelty": 7.6,
+        "composition": 16.8,
+        "base-score": 20.0,
+        "execution-deduction": 3.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 85.0,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kudo-masahiro",
+      "playerName": "工藤 正景 / Masahiro Kudo",
+      "scores": {
+        "difficulty": 25.8,
+        "variety": 8.2,
+        "stability": 8.2,
+        "novelty": 6.8,
+        "composition": 16.6,
+        "base-score": 20.0,
+        "execution-deduction": 3.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 82.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "tomita-hikaru",
+      "playerName": "冨田 輝 / Tomita Hikaru",
+      "scores": {
+        "difficulty": 23.0,
+        "variety": 7.6,
+        "stability": 7.6,
+        "novelty": 6.6,
+        "composition": 15.6,
+        "base-score": 20.0,
+        "execution-deduction": 2.1,
+        "special-deduction": 0.0
+      },
+      "totalScore": 78.3,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kan-takafumi",
+      "playerName": "カン タカフミ",
+      "scores": {
+        "difficulty": 23.8,
+        "variety": 7.4,
+        "stability": 8.0,
+        "novelty": 6.4,
+        "composition": 15.6,
+        "base-score": 20.0,
+        "execution-deduction": 5.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 75.7,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "akiba-yosuke",
+      "playerName": "アキバ ヨウスケ",
+      "scores": {
+        "difficulty": 24.6,
+        "variety": 7.4,
+        "stability": 6.6,
+        "novelty": 7.8,
+        "composition": 14.4,
+        "base-score": 20.0,
+        "execution-deduction": 5.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 74.9,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "obata-ryoya",
+      "playerName": "オバタリョウヤ",
+      "scores": {
+        "difficulty": 23.6,
+        "variety": 7.4,
+        "stability": 6.2,
+        "novelty": 6.6,
+        "composition": 15.2,
+        "base-score": 20.0,
+        "execution-deduction": 8.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 71.0,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / Hiroki Kamei",
+      "scores": {
+        "difficulty": 22.0,
+        "variety": 6.6,
+        "stability": 6.2,
+        "novelty": 7.4,
+        "composition": 14.4,
+        "base-score": 20.0,
+        "execution-deduction": 6.7,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.9,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "ishida-ryosuke",
+      "playerName": "イシダリョウスケ",
+      "scores": {
+        "difficulty": 17.6,
+        "variety": 5.4,
+        "stability": 7.4,
+        "novelty": 5.0,
+        "composition": 16.0,
+        "base-score": 20.0,
+        "execution-deduction": 2.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 68.6,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / Taiki Ishimizu",
+      "scores": {
+        "difficulty": 22.6,
+        "variety": 7.0,
+        "stability": 5.6,
+        "novelty": 7.6,
+        "composition": 12.2,
+        "base-score": 20.0,
+        "execution-deduction": 8.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 66.1,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "mitsuyasu-yusuke",
+      "playerName": "光安祐介 / Yusuke Mitsuyasu",
+      "scores": {
+        "difficulty": 21.0,
+        "variety": 6.4,
+        "stability": 6.6,
+        "novelty": 5.8,
+        "composition": 13.2,
+        "base-score": 15.0,
+        "execution-deduction": 5.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 63.0,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "yamada-jun",
+      "playerName": "ヤマダジュン",
+      "scores": {
+        "difficulty": 21.2,
+        "variety": 6.6,
+        "stability": 5.8,
+        "novelty": 6.2,
+        "composition": 13.0,
+        "base-score": 20.0,
+        "execution-deduction": 10.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 62.2,
+      "status": "completed"
+    }
+  ]
+}

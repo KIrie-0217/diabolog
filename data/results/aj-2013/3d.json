@@ -1,0 +1,42 @@
+{
+  "competitionId": "aj-2013",
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1, "playerId": "nagasaka-takuto", "playerName": "ナガサカタクト",
+      "scores": { "difficulty": 41.5, "stability": 25.25, "novelty": 13.0, "composition": 8.0, "execution-deduction": 1.25, "special-deduction": 0 },
+      "totalScore": 86.5, "status": "completed"
+    },
+    {
+      "rank": 2, "playerId": "kubo-yuichiro", "playerName": "クボユウイチロウ",
+      "scores": { "difficulty": 35.0, "stability": 20.75, "novelty": 11.5, "composition": 7.0, "execution-deduction": 3.25, "special-deduction": 0 },
+      "totalScore": 71.0, "status": "completed"
+    },
+    {
+      "rank": 3, "playerId": "tanaka-shun", "playerName": "タナカシュン",
+      "scores": { "difficulty": 32.0, "stability": 19.0, "novelty": 10.75, "composition": 7.0, "execution-deduction": 2.625, "special-deduction": 0 },
+      "totalScore": 66.125, "status": "completed"
+    },
+    {
+      "rank": 4, "playerId": "matsuda-keita", "playerName": "マツダケイタ",
+      "scores": { "difficulty": 32.0, "stability": 9.75, "novelty": 19.5, "composition": 7.25, "execution-deduction": 3.5, "special-deduction": 0 },
+      "totalScore": 65.0, "status": "completed"
+    },
+    {
+      "rank": 5, "playerId": "hisanari-kizuku", "playerName": "ヒサナリキズク",
+      "scores": { "difficulty": 32.25, "stability": 19.25, "novelty": 9.25, "composition": 7.0, "execution-deduction": 4.375, "special-deduction": 0 },
+      "totalScore": 63.375, "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "yamashita-rie", "playerName": "ヤマシタリエ", "count": 34, "class": "C", "status": "completed" },
+    { "rank": 2, "playerId": "yanagawa-ayako", "playerName": "ヤナガワアヤコ", "count": 33, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "yokoi-yukina", "playerName": "ヨコイユキナ", "count": 23, "class": "C", "status": "completed" }
+  ]
+}

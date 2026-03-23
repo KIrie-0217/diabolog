@@ -1,0 +1,30 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "watanuki-shunsuke",
+      "playerName": "綿貫 峻介 / Shunsuke Watanuki",
+      "count": 190,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "tanaka-shun",
+      "playerName": "タナカ シュン",
+      "count": 9,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kudo-masahiro",
+      "playerName": "工藤 正景 / Masahiro Kudo",
+      "count": 3,
+      "status": "completed"
+    }
+  ]
+}

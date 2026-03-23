@@ -1,0 +1,66 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイ ヒロミキ",
+      "count": 190,
+      "status": "completed",
+      "class": "B"
+    },
+    {
+      "rank": 2,
+      "playerId": "agou-tensei",
+      "playerName": "吾郷 天星 / Ago Tensei",
+      "count": 185,
+      "status": "completed",
+      "class": "B"
+    },
+    {
+      "rank": 3,
+      "playerId": "makino-sena",
+      "playerName": "マキノセナ",
+      "count": 156,
+      "status": "completed",
+      "class": "A"
+    },
+    {
+      "rank": 4,
+      "playerId": "kajihara-tatsuhito",
+      "playerName": "カジハラタツヒト",
+      "count": 132,
+      "status": "completed",
+      "class": "A"
+    },
+    {
+      "rank": 5,
+      "playerId": "yoshida-shigemi",
+      "playerName": "ヨシダシゲミ",
+      "count": 109,
+      "status": "completed",
+      "class": "A"
+    },
+    {
+      "rank": 6,
+      "playerId": "yoshii-norihiro",
+      "playerName": "吉井 紀博 / Norihiro Yoshii",
+      "count": 96,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 7,
+      "playerId": "mizumachi-yuuki",
+      "playerName": "ミズマチユウキ",
+      "count": 55,
+      "status": "completed",
+      "class": "C"
+    }
+  ],
+  "hasClass": true
+}

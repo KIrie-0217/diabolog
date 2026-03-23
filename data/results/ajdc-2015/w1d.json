@@ -1,0 +1,28 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "yanagawa-ayako", "playerName": "ヤナガワアヤコ", "scores": { "difficulty": 41.75, "stability": 14.25, "novelty": 27.0, "composition": 8.5, "execution-deduction": 0.0, "special-deduction": 0.0 }, "totalScore": 91.5, "status": "completed" },
+    { "rank": 2, "playerId": "oosawa-aika", "playerName": "オオサワアイカ", "scores": { "difficulty": 36.5, "stability": 13.5, "novelty": 22.5, "composition": 8.75, "execution-deduction": 0.38, "special-deduction": 0.0 }, "totalScore": 80.88, "status": "completed" },
+    { "rank": 3, "playerId": "kawabata-minori", "playerName": "カワバタミノリ", "scores": { "difficulty": 37.5, "stability": 9.75, "novelty": 24.75, "composition": 6.5, "execution-deduction": 2.38, "special-deduction": 0.0 }, "totalScore": 76.13, "status": "completed" },
+    { "rank": 4, "playerId": "yamamoto-yukika", "playerName": "ヤマモトユキカ", "scores": { "difficulty": 31.5, "stability": 10.75, "novelty": 20.25, "composition": 7.0, "execution-deduction": 1.75, "special-deduction": 0.0 }, "totalScore": 67.75, "status": "completed" },
+    { "rank": 5, "playerId": "yokoi-yukina", "playerName": "ヨコイユキナ", "scores": { "difficulty": 32.0, "stability": 10.0, "novelty": 19.5, "composition": 7.0, "execution-deduction": 2.13, "special-deduction": 0.0 }, "totalScore": 66.38, "status": "completed" },
+    { "rank": 6, "playerId": "koseki-megumi", "playerName": "コセキメグミ", "scores": { "difficulty": 33.5, "stability": 9.25, "novelty": 20.5, "composition": 6.25, "execution-deduction": 3.38, "special-deduction": 0.0 }, "totalScore": 66.13, "status": "completed" },
+    { "rank": 7, "playerId": "ooi-tsugumi", "playerName": "オオイツグミ", "scores": { "difficulty": 32.75, "stability": 8.75, "novelty": 20.75, "composition": 6.5, "execution-deduction": 2.75, "special-deduction": 0.0 }, "totalScore": 66.0, "status": "completed" },
+    { "rank": 8, "playerId": "sakai-chisa", "playerName": "サカイチサ", "scores": { "difficulty": 30.5, "stability": 10.0, "novelty": 18.25, "composition": 8.0, "execution-deduction": 2.38, "special-deduction": 0.0 }, "totalScore": 64.38, "status": "completed" },
+    { "rank": 9, "playerId": "ando-aki", "playerName": "アンドウアキ", "scores": { "difficulty": 30.25, "stability": 10.25, "novelty": 17.25, "composition": 6.75, "execution-deduction": 1.38, "special-deduction": 0.0 }, "totalScore": 63.13, "status": "completed" },
+    { "rank": 10, "playerId": "ito-mayu", "playerName": "イトウマユ", "scores": { "difficulty": 30.5, "stability": 8.0, "novelty": 17.5, "composition": 6.0, "execution-deduction": 5.5, "special-deduction": 0.0 }, "totalScore": 56.5, "status": "completed" },
+    { "rank": 11, "playerId": "ode-sae", "playerName": "オオデサエ", "scores": { "difficulty": 27.75, "stability": 9.0, "novelty": 15.5, "composition": 6.5, "execution-deduction": 2.38, "special-deduction": 0.0 }, "totalScore": 56.38, "status": "completed" }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki+torii-takemi",
+      "playerName": "トリイ ヒロミキ/トリイ タケミ",
+      "count": 50,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "suwa-koki+takamori-hirofumi",
+      "playerName": "スワコウキ/タカモリヒロフミ",
+      "count": 43,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "shibuya-ryo+yamada-jun",
+      "playerName": "シブヤリョウ/ヤマダジュン",
+      "count": 37,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kamei-hiroki+hisanari-kizuku",
+      "playerName": "カメイヒロキ/ヒサナリキズク",
+      "count": 14,
+      "status": "completed"
+    }
+  ]
+}

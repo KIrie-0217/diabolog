@@ -1,0 +1,15 @@
+{
+  "competitionId": "aj-2013",
+  "categoryId": "p-pass",
+  "name": "ディアボロペア2パス部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "torii-takemi+torii-hiromiki", "playerName": "トリイタケミ/トリイヒロミキ", "count": 55, "note": "日本記録更新", "status": "completed" },
+    { "rank": 2, "playerId": "suwa-koki+takamori-hirofumi", "playerName": "スワコウキ/タカモリヒロフミ", "count": 54, "note": "日本記録更新", "status": "completed" },
+    { "rank": 3, "playerId": "kamei-hiroki+suzuki-takayuki", "playerName": "カメイヒロキ/スズキタカユキ", "count": 44, "status": "completed" },
+    { "rank": 4, "playerId": "tanaka-rei+masuda-sho", "playerName": "タナカレイ/マスダショウ", "count": 24, "status": "completed" },
+    { "rank": 5, "playerId": "okada-iki+kiso-takahiro", "playerName": "オカダイキ/キソタカヒロ", "count": 20, "status": "completed" }
+  ]
+}

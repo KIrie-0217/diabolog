@@ -1,0 +1,152 @@
+{
+  "categoryId": "mhs",
+  "name": "高校生男子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yamazaki-soshi",
+      "playerName": "ヤマザキ ソウシ",
+      "scores": {
+        "difficulty": 26.4,
+        "variety": 13.0,
+        "stability": 13.0,
+        "novelty": 7.8,
+        "composition": 12.0,
+        "base-score": 15.0,
+        "execution-deduction": 3.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 83.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "tokimori-eiji",
+      "playerName": "トキモリ エイジ",
+      "scores": {
+        "difficulty": 26.8,
+        "variety": 12.8,
+        "stability": 12.2,
+        "novelty": 8.4,
+        "composition": 12.0,
+        "base-score": 15.0,
+        "execution-deduction": 5.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 81.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "abe-kooma",
+      "playerName": "アベコオマ",
+      "scores": {
+        "difficulty": 22.0,
+        "variety": 11.2,
+        "stability": 10.6,
+        "novelty": 6.2,
+        "composition": 9.8,
+        "base-score": 15.0,
+        "execution-deduction": 2.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 71.9,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "hosokawa-kyouya",
+      "playerName": "ホソカワキョウヤ",
+      "scores": {
+        "difficulty": 22.6,
+        "variety": 11.4,
+        "stability": 10.4,
+        "novelty": 6.6,
+        "composition": 9.4,
+        "base-score": 15.0,
+        "execution-deduction": 7.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 67.6,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "nagao-yuto",
+      "playerName": "永尾 祐人 / Nagao Yuto",
+      "scores": {
+        "difficulty": 20.2,
+        "variety": 9.8,
+        "stability": 8.8,
+        "novelty": 6.2,
+        "composition": 7.8,
+        "base-score": 15.0,
+        "execution-deduction": 8.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 59.8,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "sato-shohei",
+      "playerName": "サトウショウヘイ",
+      "scores": {
+        "difficulty": 20.2,
+        "variety": 10.2,
+        "stability": 9.0,
+        "novelty": 6.0,
+        "composition": 8.0,
+        "base-score": 15.0,
+        "execution-deduction": 10.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 58.0,
+      "status": "completed"
+    }
+  ]
+}

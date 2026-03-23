@@ -1,0 +1,129 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足周り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / Hiroki Kamei",
+      "count": 143,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 2,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイ ヒロミキ",
+      "count": 137,
+      "status": "completed",
+      "class": "A"
+    },
+    {
+      "rank": 3,
+      "playerId": "torii-ken",
+      "playerName": "トリイケン",
+      "count": 120,
+      "status": "completed",
+      "class": "E"
+    },
+    {
+      "rank": 4,
+      "playerId": "yoshii-norihiro",
+      "playerName": "吉井 紀博 / Norihiro Yoshii",
+      "count": 115,
+      "status": "completed",
+      "class": "B"
+    },
+    {
+      "rank": 5,
+      "playerId": "yamamoto-masaaki",
+      "playerName": "ヤマモトマサアキ",
+      "count": 104,
+      "status": "completed",
+      "class": "D"
+    },
+    {
+      "rank": 6,
+      "playerId": "isobe-takumi",
+      "playerName": "イソベ タクミ",
+      "count": 94,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 7,
+      "playerId": "urawa-arata",
+      "playerName": "ウラワ アラタ",
+      "count": 90,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 8,
+      "playerId": "saito-tetsunori",
+      "playerName": "サイトウテツノリ",
+      "count": 87,
+      "status": "completed",
+      "class": "D"
+    },
+    {
+      "rank": 9,
+      "playerId": "nonaka-aoi",
+      "playerName": "ノナカアオイ",
+      "count": 74,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 10,
+      "playerId": "shibuya-ryo",
+      "playerName": "シブヤリョウ",
+      "count": 65,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 11,
+      "playerId": "sugimoto-miohiko",
+      "playerName": "スギモトミオヒコ",
+      "count": 62,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 12,
+      "playerId": "kurasawa-eiji",
+      "playerName": "クラサワエイジ",
+      "count": 54,
+      "status": "completed",
+      "class": "D"
+    },
+    {
+      "rank": 13,
+      "playerId": "makimoto-kosuke",
+      "playerName": "マキモトコウスケ",
+      "count": 45,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 14,
+      "playerId": "sakatoku-kohei",
+      "playerName": "サカトクコウヘイ",
+      "count": 38,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": null,
+      "playerId": "torii-takemi",
+      "playerName": "鳥居 岳史 / Torii Takemi",
+      "status": "dns",
+      "class": "A"
+    }
+  ],
+  "hasClass": true
+}

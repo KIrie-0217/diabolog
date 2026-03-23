@@ -1,0 +1,40 @@
+{
+  "competitionId": "aj-2013",
+  "categoryId": "t",
+  "name": "団体部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:waseda-infinity",
+      "playerName": "早稲田大学infinity",
+      "scores": { "difficulty": 29.5, "synchronization": 24.5, "composition": 25.5, "execution-deduction": 5.2, "special-deduction": 0 },
+      "totalScore": 74.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "team:torii-brothers",
+      "playerName": "トリイブラザーズ!",
+      "scores": { "difficulty": 28.25, "synchronization": 23.25, "composition": 23.75, "execution-deduction": 2.6, "special-deduction": 0 },
+      "totalScore": 72.65,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "team:pink-rubber",
+      "playerName": "Pink Rubber",
+      "scores": { "difficulty": 27.25, "synchronization": 21.75, "composition": 24.5, "execution-deduction": 8.7, "special-deduction": 0 },
+      "totalScore": 64.8,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "categoryId": "mj",
+  "name": "男子個人総合ジュニア部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-takemi",
+      "playerName": "鳥居 岳史 / Torii Takemi",
+      "scores": {
+        "difficulty": 29.0,
+        "variety": 17.6,
+        "stability": 13.6,
+        "novelty": 8.2,
+        "composition": 8.2,
+        "base-score": 15.0,
+        "execution-deduction": 3.3,
+        "special-deduction": 0.0
+      },
+      "totalScore": 88.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイ ヒロミキ",
+      "scores": {
+        "difficulty": 27.4,
+        "variety": 17.4,
+        "stability": 13.2,
+        "novelty": 8.8,
+        "composition": 8.0,
+        "base-score": 15.0,
+        "execution-deduction": 2.7,
+        "special-deduction": 0.0
+      },
+      "totalScore": 87.1,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "agou-tensei",
+      "playerName": "吾郷 天星 / Ago Tensei",
+      "scores": {
+        "difficulty": 23.8,
+        "variety": 15.2,
+        "stability": 11.6,
+        "novelty": 7.4,
+        "composition": 7.6,
+        "base-score": 15.0,
+        "execution-deduction": 3.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 77.0,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "makino-sena",
+      "playerName": "マキノセナ",
+      "scores": {
+        "difficulty": 17.0,
+        "variety": 14.8,
+        "stability": 11.0,
+        "novelty": 6.6,
+        "composition": 7.8,
+        "base-score": 15.0,
+        "execution-deduction": 3.2,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.0,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "matsumura-takao",
+      "playerName": "マツムラタカオ",
+      "scores": {
+        "difficulty": 20.8,
+        "variety": 14.0,
+        "stability": 10.2,
+        "novelty": 6.4,
+        "composition": 6.4,
+        "base-score": 15.0,
+        "execution-deduction": 5.3,
+        "special-deduction": 0.0
+      },
+      "totalScore": 67.5,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kajihara-tatsuhito",
+      "playerName": "カジハラタツヒト",
+      "scores": {
+        "difficulty": 19.4,
+        "variety": 13.2,
+        "stability": 10.6,
+        "novelty": 6.0,
+        "composition": 6.6,
+        "base-score": 15.0,
+        "execution-deduction": 4.2,
+        "special-deduction": 0.0
+      },
+      "totalScore": 66.6,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "tanioka-kaketo",
+      "playerName": "谷岡 翔人 / Kaketo Tanioka",
+      "scores": {
+        "difficulty": 20.4,
+        "variety": 12.8,
+        "stability": 9.2,
+        "novelty": 6.4,
+        "composition": 7.0,
+        "base-score": 15.0,
+        "execution-deduction": 7.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 63.8,
+      "status": "completed"
+    }
+  ]
+}

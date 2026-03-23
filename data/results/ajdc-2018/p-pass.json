@@ -1,0 +1,72 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "makino-sena+torii-hiromiki",
+      "playerName": "マキノセナ/トリイ ヒロミキ",
+      "count": 54,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "nonaka-aoi+urawa-arata",
+      "playerName": "ノナカアオイ/ウラワ アラタ",
+      "count": 52,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "tsunoda-yukiko+michibata-ena",
+      "playerName": "ツノダユキコ/ミチバタエナ",
+      "count": 34,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "hosomi-takahiro+yasunaga-nao",
+      "playerName": "ホソミタカヒロ/ヤスナガナオ",
+      "count": 32,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "makimoto-kosuke+saito-hiroki",
+      "playerName": "マキモトコウスケ/サイトウヒロキ",
+      "count": 29,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "akiba-yosuke+watanabe-rui",
+      "playerName": "アキバヨウスケ/ワタナベ ルイ",
+      "count": 26,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "maeda-ryosuke+tokimori-eiji",
+      "playerName": "マエダリョウスケ/トキモリ エイジ",
+      "count": 13,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "yoshii-norihiro+muto-taiga",
+      "playerName": "ヨシイノリヒロ/ムトウ タイガ",
+      "count": 9,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "sensui-saki+miyake-yutaka",
+      "playerName": "センスイサキ/ミヤケユタカ",
+      "count": 3,
+      "status": "completed"
+    }
+  ]
+}

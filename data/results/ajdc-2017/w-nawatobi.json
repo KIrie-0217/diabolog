@@ -1,0 +1,26 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yokoi-yukina",
+      "playerName": "ヨコイ ユキナ",
+      "count": 12,
+      "status": "completed",
+      "class": "C"
+    },
+    {
+      "rank": 2,
+      "playerId": "miyamori-nana",
+      "playerName": "ミヤモリナナ",
+      "count": 9,
+      "status": "completed",
+      "class": "C"
+    }
+  ],
+  "hasClass": true
+}

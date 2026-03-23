@@ -1,0 +1,100 @@
+{
+  "categoryId": "1d",
+  "name": "1ディアボロ部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "abe-hiroki",
+      "playerName": "安部 弘紀 / HIROKI ABE",
+      "totalScore": 92.9,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "nonaka-aoi",
+      "playerName": "野中 葵 / AOI NONAKA",
+      "totalScore": 92.4,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hino-fumitaka",
+      "playerName": "日野文剛 / FUMITAKA HINO",
+      "totalScore": 92.0,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kobayashi-norifumi",
+      "playerName": "小林典史 / NORIFUMI KOBAYASHI",
+      "totalScore": 90.9,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / HIROKI KAMEI",
+      "totalScore": 88.8,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "nagasaka-takuto",
+      "playerName": "長坂 卓都 / TAKUTO NAGASAKA",
+      "totalScore": 87.1,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "watanabe-hideya",
+      "playerName": "渡辺英也 / HIDEYA WATANABE",
+      "totalScore": 86.0,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "morita-shunpei",
+      "playerName": "森田俊平 / SHUNPEI MORITA",
+      "totalScore": 81.4,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "otsuki-takaaki",
+      "playerName": "大月崇照 / TAKAAKI OTSUKI",
+      "totalScore": 81.0,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "hasegawa-tomo",
+      "playerName": "長谷川 朋 / TOMO HASEGAWA",
+      "totalScore": 80.5,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "uda-kento",
+      "playerName": "宇田 健人 / KENTO UDA",
+      "totalScore": 78.8,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "kiso-takahiro",
+      "playerName": "木曽 貴大 / TAKAHIRO KISO",
+      "totalScore": 78.7,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "hirose-masaru",
+      "playerName": "廣瀬優 / MASARU HIROSE",
+      "totalScore": 78.6,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / Hiroki Kamei",
+      "scores": {
+        "difficulty": 41.75,
+        "stability": 14.0,
+        "novelty": 27.25,
+        "composition": 9.0,
+        "execution-deduction": 0.75,
+        "special-deduction": 0.0
+      },
+      "totalScore": 91.25,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "torii-takemi",
+      "playerName": "鳥居 岳史 / Torii Takemi",
+      "scores": {
+        "difficulty": 39.75,
+        "stability": 14.5,
+        "novelty": 26.25,
+        "composition": 10.0,
+        "execution-deduction": 0.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 90.5,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "saito-hiroki",
+      "playerName": "サイトウヒロキ",
+      "scores": {
+        "difficulty": 41.25,
+        "stability": 12.75,
+        "novelty": 26.75,
+        "composition": 7.75,
+        "execution-deduction": 2.25,
+        "special-deduction": 0.0
+      },
+      "totalScore": 86.25,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "takano-sho",
+      "playerName": "高野 勝 / Sho Takano",
+      "scores": {
+        "difficulty": 41.75,
+        "stability": 12.25,
+        "novelty": 25.0,
+        "composition": 8.5,
+        "execution-deduction": 2.125,
+        "special-deduction": 0.0
+      },
+      "totalScore": 85.375,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "takamori-hirofumi",
+      "playerName": "タカモリヒロフミ",
+      "scores": {
+        "difficulty": 40.0,
+        "stability": 12.5,
+        "novelty": 25.0,
+        "composition": 7.5,
+        "execution-deduction": 2.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 83.0,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "makimoto-kosuke",
+      "playerName": "マキモトコウスケ",
+      "scores": {
+        "difficulty": 40.75,
+        "stability": 11.75,
+        "novelty": 25.5,
+        "composition": 7.5,
+        "execution-deduction": 3.125,
+        "special-deduction": 0.0
+      },
+      "totalScore": 82.375,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイ ヒロミキ",
+      "scores": {
+        "difficulty": 39.5,
+        "stability": 12.5,
+        "novelty": 25.0,
+        "composition": 8.0,
+        "execution-deduction": 2.75,
+        "special-deduction": 0.0
+      },
+      "totalScore": 82.25,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "kudo-masahiro",
+      "playerName": "工藤 正景 / Masahiro Kudo",
+      "scores": {
+        "difficulty": 39.5,
+        "stability": 12.0,
+        "novelty": 23.5,
+        "composition": 7.25,
+        "execution-deduction": 2.625,
+        "special-deduction": 0.0
+      },
+      "totalScore": 79.625,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "yamada-jun",
+      "playerName": "ヤマダジュン",
+      "scores": {
+        "difficulty": 36.25,
+        "stability": 12.25,
+        "novelty": 22.0,
+        "composition": 7.5,
+        "execution-deduction": 1.25,
+        "special-deduction": 0.0
+      },
+      "totalScore": 76.75,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "muraoka-takumi",
+      "playerName": "ムラオカタクミ",
+      "scores": {
+        "difficulty": 36.0,
+        "stability": 11.75,
+        "novelty": 23.0,
+        "composition": 7.75,
+        "execution-deduction": 2.75,
+        "special-deduction": 0.0
+      },
+      "totalScore": 75.75,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "hayashi-takuya",
+      "playerName": "ハヤシタクヤ",
+      "scores": {
+        "difficulty": 33.5,
+        "stability": 11.5,
+        "novelty": 22.25,
+        "composition": 7.0,
+        "execution-deduction": 1.125,
+        "special-deduction": 0.0
+      },
+      "totalScore": 73.125,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "asakura-yo",
+      "playerName": "アサクラヨウ",
+      "scores": {
+        "difficulty": 35.25,
+        "stability": 11.0,
+        "novelty": 21.5,
+        "composition": 7.75,
+        "execution-deduction": 2.375,
+        "special-deduction": 0.0
+      },
+      "totalScore": 73.125,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "uda-kento",
+      "playerName": "ウダケント",
+      "scores": {
+        "difficulty": 35.75,
+        "stability": 11.25,
+        "novelty": 21.0,
+        "composition": 7.0,
+        "execution-deduction": 2.75,
+        "special-deduction": 0.0
+      },
+      "totalScore": 72.25,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "sugimoto-miohiko",
+      "playerName": "スギモトミオヒコ",
+      "scores": {
+        "difficulty": 35.75,
+        "stability": 9.25,
+        "novelty": 21.75,
+        "composition": 7.0,
+        "execution-deduction": 4.625,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.125,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "oomi-yusuke",
+      "playerName": "オオミユウスケ",
+      "scores": {
+        "difficulty": 32.5,
+        "stability": 11.5,
+        "novelty": 18.0,
+        "composition": 7.0,
+        "execution-deduction": 1.25,
+        "special-deduction": 0.0
+      },
+      "totalScore": 67.75,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "suzuki-takayuki",
+      "playerName": "スズキ タカユキ",
+      "scores": {
+        "difficulty": 33.0,
+        "stability": 10.25,
+        "novelty": 20.25,
+        "composition": 6.25,
+        "execution-deduction": 3.125,
+        "special-deduction": 0.0
+      },
+      "totalScore": 66.625,
+      "status": "completed"
+    }
+  ]
+}

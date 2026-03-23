@@ -1,0 +1,74 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイ ヒロミキ",
+      "count": 188,
+      "status": "completed",
+      "class": "B"
+    },
+    {
+      "rank": 2,
+      "playerId": "agou-tensei",
+      "playerName": "吾郷 天星 / Ago Tensei",
+      "count": 182,
+      "status": "completed",
+      "class": "A"
+    },
+    {
+      "rank": 3,
+      "playerId": "makino-sena",
+      "playerName": "マキノセナ",
+      "count": 156,
+      "status": "completed",
+      "class": "A"
+    },
+    {
+      "rank": 4,
+      "playerId": "torii-ken",
+      "playerName": "トリイケン",
+      "count": 142,
+      "status": "completed",
+      "class": "E"
+    },
+    {
+      "rank": 5,
+      "playerId": "ohara-yuto",
+      "playerName": "オオハラユウト",
+      "count": 100,
+      "status": "completed",
+      "class": "D"
+    },
+    {
+      "rank": 6,
+      "playerId": "tanioka-kaketo",
+      "playerName": "谷岡 翔人 / Kaketo Tanioka",
+      "count": 88,
+      "status": "completed",
+      "class": "A"
+    },
+    {
+      "rank": 7,
+      "playerId": "matsubara-taichi",
+      "playerName": "マツバラタイチ",
+      "count": 66,
+      "status": "completed",
+      "class": "A"
+    },
+    {
+      "rank": 8,
+      "playerId": "fujimori-tomohiro",
+      "playerName": "フジモリトモヒロ",
+      "count": 62,
+      "status": "completed",
+      "class": "A"
+    }
+  ],
+  "hasClass": true
+}

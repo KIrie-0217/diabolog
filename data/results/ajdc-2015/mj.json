@@ -1,0 +1,26 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "mj",
+  "name": "男子個人総合ジュニア部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "torii-takemi", "playerName": "トリイタケミ", "scores": { "difficulty": 27.25, "variety": 17.75, "stability": 14.0, "novelty": 8.75, "composition": 8.0, "base-score": 15.0, "execution-deduction": 1.2, "special-deduction": 0.0 }, "totalScore": 89.55, "status": "completed" },
+    { "rank": 2, "playerId": "nohara-hiroki", "playerName": "ノハラヒロキ", "scores": { "difficulty": 27.5, "variety": 18.0, "stability": 13.0, "novelty": 8.0, "composition": 8.0, "base-score": 15.0, "execution-deduction": 3.2, "special-deduction": 0.0 }, "totalScore": 86.3, "status": "completed" },
+    { "rank": 3, "playerId": "torii-hiromiki", "playerName": "トリイヒロミキ", "scores": { "difficulty": 25.5, "variety": 17.0, "stability": 11.75, "novelty": 8.5, "composition": 7.25, "base-score": 15.0, "execution-deduction": 5.3, "special-deduction": 0.0 }, "totalScore": 79.7, "status": "completed" },
+    { "rank": 4, "playerId": "sukeda-issei", "playerName": "スケダイッセイ", "scores": { "difficulty": 22.0, "variety": 14.5, "stability": 7.75, "novelty": 7.0, "composition": 5.5, "base-score": 15.0, "execution-deduction": 10.1, "special-deduction": 0.0 }, "totalScore": 61.65, "status": "completed" },
+    { "rank": 5, "playerId": "tsuchida-munechika", "playerName": "ツチダムネチカ", "scores": { "difficulty": 20.75, "variety": 14.75, "stability": 8.25, "novelty": 6.25, "composition": 5.5, "base-score": 15.0, "execution-deduction": 10.7, "special-deduction": 0.0 }, "totalScore": 59.8, "status": "completed" },
+    { "rank": 6, "playerId": "agou-tensei", "playerName": "アゴウテンセイ", "scores": { "difficulty": 16.5, "variety": 12.0, "stability": 7.75, "novelty": 5.25, "composition": 7.25, "base-score": 15.0, "execution-deduction": 5.6, "special-deduction": 0.0 }, "totalScore": 58.15, "status": "completed" },
+    { "rank": 7, "playerId": "yoshida-reo", "playerName": "ヨシダレオ", "scores": { "difficulty": 13.75, "variety": 10.25, "stability": 7.25, "novelty": 5.0, "composition": 6.5, "base-score": 5.0, "execution-deduction": 5.4, "special-deduction": 0.0 }, "totalScore": 42.35, "status": "completed" }
+  ]
+}

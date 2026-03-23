@@ -1,0 +1,17 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "トリイヒロミキ", "count": 77, "class": "A", "status": "completed" },
+    { "rank": 2, "playerId": "isobe-takumi", "playerName": "イソベタクミ", "count": 65, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "kurasawa-eiji", "playerName": "クラサワエイジ", "count": 52, "class": "D", "status": "completed" },
+    { "rank": 4, "playerId": "watanabe-hayato", "playerName": "ワタナベハヤト", "count": 25, "class": "D", "status": "completed" },
+    { "rank": 5, "playerId": "kobayashi-masato", "playerName": "コバヤシマサト", "count": 21, "class": "B", "status": "completed" },
+    { "rank": 6, "playerId": "yamazaki-kazuki", "playerName": "ヤマザキカズキ", "count": 12, "class": "C", "status": "completed" }
+  ]
+}

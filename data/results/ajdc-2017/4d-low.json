@@ -1,0 +1,23 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kubo-yuichiro",
+      "playerName": "クボ ユウイチロウ",
+      "count": 180,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "torii-takemi",
+      "playerName": "鳥居 岳史 / Torii Takemi",
+      "count": 152,
+      "status": "completed"
+    }
+  ]
+}

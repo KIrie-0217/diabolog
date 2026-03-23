@@ -1,0 +1,14 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "yokoi-yukina", "playerName": "ヨコイユキナ", "count": 131, "class": "C", "status": "completed" },
+    { "rank": 2, "playerId": "yanagawa-ayako", "playerName": "ヤナガワアヤコ", "count": 96, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "yamashita-rie", "playerName": "ヤマシタリエ", "count": 85, "class": "C", "status": "completed" }
+  ]
+}

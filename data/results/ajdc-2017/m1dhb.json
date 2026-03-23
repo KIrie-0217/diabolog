@@ -1,0 +1,310 @@
+{
+  "categoryId": "m1dhb",
+  "name": "男子1ディアボロ水平軸(ペアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tanaka-tomoyasu",
+      "playerName": "タナカトモヤス",
+      "scores": {
+        "difficulty": 39.0,
+        "stability": 14.0,
+        "novelty": 27.0,
+        "composition": 9.0,
+        "execution-deduction": 0.8,
+        "special-deduction": 0.0
+      },
+      "totalScore": 88.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / Taiki Ishimizu",
+      "scores": {
+        "difficulty": 40.5,
+        "stability": 13.3,
+        "novelty": 27.3,
+        "composition": 8.5,
+        "execution-deduction": 2.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 86.7,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "fuse-koichiro",
+      "playerName": "布施孝一郎 / Koichiro Fuse",
+      "scores": {
+        "difficulty": 36.8,
+        "stability": 13.8,
+        "novelty": 28.5,
+        "composition": 8.8,
+        "execution-deduction": 1.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 86.4,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "shimizu-kouta",
+      "playerName": "清水公太 / Shimizu Kota",
+      "scores": {
+        "difficulty": 39.8,
+        "stability": 12.5,
+        "novelty": 26.3,
+        "composition": 8.3,
+        "execution-deduction": 1.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 85.3,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kubo-yuichiro",
+      "playerName": "クボ ユウイチロウ",
+      "scores": {
+        "difficulty": 38.0,
+        "stability": 14.0,
+        "novelty": 25.3,
+        "composition": 8.8,
+        "execution-deduction": 0.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 85.2,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "omagari-shintaro",
+      "playerName": "尾曲 紳太郎 / Shintaro Omagari",
+      "scores": {
+        "difficulty": 37.0,
+        "stability": 12.8,
+        "novelty": 27.3,
+        "composition": 8.0,
+        "execution-deduction": 2.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 83.1,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "isobe-takumi",
+      "playerName": "イソベ タクミ",
+      "scores": {
+        "difficulty": 39.0,
+        "stability": 12.0,
+        "novelty": 27.0,
+        "composition": 7.8,
+        "execution-deduction": 3.5,
+        "special-deduction": 0.0
+      },
+      "totalScore": 82.3,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "komatsu-naoto",
+      "playerName": "コマツナオト",
+      "scores": {
+        "difficulty": 35.8,
+        "stability": 11.8,
+        "novelty": 26.8,
+        "composition": 9.3,
+        "execution-deduction": 2.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 81.7,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "yamamoto-masaaki",
+      "playerName": "ヤマモトマサアキ",
+      "scores": {
+        "difficulty": 37.0,
+        "stability": 11.8,
+        "novelty": 24.8,
+        "composition": 7.3,
+        "execution-deduction": 4.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 76.3,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "morimoto-yusuke",
+      "playerName": "モリモトユウスケ",
+      "scores": {
+        "difficulty": 34.8,
+        "stability": 10.8,
+        "novelty": 24.0,
+        "composition": 7.3,
+        "execution-deduction": 4.1,
+        "special-deduction": 0.0
+      },
+      "totalScore": 72.8,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "sakamaki-takamasa",
+      "playerName": "サカマキタカマサ",
+      "scores": {
+        "difficulty": 33.3,
+        "stability": 11.0,
+        "novelty": 25.3,
+        "composition": 7.3,
+        "execution-deduction": 4.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 72.5,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "ohara-yuto",
+      "playerName": "オオハラユウト",
+      "scores": {
+        "difficulty": 29.5,
+        "stability": 12.3,
+        "novelty": 22.5,
+        "composition": 7.5,
+        "execution-deduction": 0.4,
+        "special-deduction": 0.0
+      },
+      "totalScore": 71.4,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "irie-koshiro",
+      "playerName": "入江航士朗 / Koshiro Irie",
+      "scores": {
+        "difficulty": 32.3,
+        "stability": 10.5,
+        "novelty": 22.0,
+        "composition": 7.0,
+        "execution-deduction": 1.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 70.2,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "hashimoto-kyohei",
+      "playerName": "ハシモト キョウヘイ",
+      "scores": {
+        "difficulty": 33.8,
+        "stability": 11.5,
+        "novelty": 22.8,
+        "composition": 7.3,
+        "execution-deduction": 5.3,
+        "special-deduction": 0.0
+      },
+      "totalScore": 70.1,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "miyachi-shogo",
+      "playerName": "ミヤチショウゴ",
+      "scores": {
+        "difficulty": 33.0,
+        "stability": 9.8,
+        "novelty": 23.8,
+        "composition": 7.0,
+        "execution-deduction": 3.9,
+        "special-deduction": 0.0
+      },
+      "totalScore": 69.7,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "baba-hiroya",
+      "playerName": "ババヒロヤ",
+      "scores": {
+        "difficulty": 32.0,
+        "stability": 10.8,
+        "novelty": 23.0,
+        "composition": 6.8,
+        "execution-deduction": 5.0,
+        "special-deduction": 0.0
+      },
+      "totalScore": 67.6,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "misumi-taisei",
+      "playerName": "ミスミ タイセイ",
+      "scores": {
+        "difficulty": 33.0,
+        "stability": 10.8,
+        "novelty": 21.5,
+        "composition": 6.8,
+        "execution-deduction": 6.6,
+        "special-deduction": 0.0
+      },
+      "totalScore": 65.5,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "yoshii-norihiro",
+      "playerName": "吉井 紀博 / Norihiro Yoshii",
+      "scores": {
+        "difficulty": 31.0,
+        "stability": 9.5,
+        "novelty": 21.0,
+        "composition": 6.3,
+        "execution-deduction": 6.3,
+        "special-deduction": 0.0
+      },
+      "totalScore": 61.5,
+      "status": "completed"
+    }
+  ]
+}

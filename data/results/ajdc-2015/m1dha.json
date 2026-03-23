@@ -1,0 +1,36 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "m1dha",
+  "name": "男子1ディアボロ水平(固定)軸部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "ooya-yukinaga", "playerName": "オオヤユキナガ", "scores": { "difficulty": 36.5, "stability": 12.75, "novelty": 26.0, "composition": 9.0, "execution-deduction": 1.25, "special-deduction": 0.0 }, "totalScore": 83.0, "status": "completed" },
+    { "rank": 2, "playerId": "akiba-yosuke", "playerName": "アキバヨウスケ", "scores": { "difficulty": 39.25, "stability": 12.0, "novelty": 25.5, "composition": 7.75, "execution-deduction": 1.75, "special-deduction": 0.0 }, "totalScore": 82.75, "status": "completed" },
+    { "rank": 3, "playerId": "kanehira-shinichi", "playerName": "カネヒラシンイチ", "scores": { "difficulty": 39.75, "stability": 11.5, "novelty": 25.5, "composition": 7.5, "execution-deduction": 2.0, "special-deduction": 0.0 }, "totalScore": 82.25, "status": "completed" },
+    { "rank": 4, "playerId": "mitani-ryoto", "playerName": "ミタニリョウト", "scores": { "difficulty": 38.5, "stability": 11.75, "novelty": 25.25, "composition": 7.0, "execution-deduction": 0.5, "special-deduction": 0.0 }, "totalScore": 82.0, "status": "completed" },
+    { "rank": 5, "playerId": "shimizu-kouta", "playerName": "シミズコウタ", "scores": { "difficulty": 38.75, "stability": 11.25, "novelty": 25.0, "composition": 7.0, "execution-deduction": 3.88, "special-deduction": 0.0 }, "totalScore": 78.13, "status": "completed" },
+    { "rank": 6, "playerId": "watanabe-hideya", "playerName": "ワタナベヒデヤ", "scores": { "difficulty": 38.0, "stability": 10.0, "novelty": 24.0, "composition": 7.0, "execution-deduction": 4.75, "special-deduction": 0.0 }, "totalScore": 74.25, "status": "completed" },
+    { "rank": 7, "playerId": "tomita-hikaru", "playerName": "トミタヒカル", "scores": { "difficulty": 36.0, "stability": 10.5, "novelty": 24.25, "composition": 7.0, "execution-deduction": 4.13, "special-deduction": 0.0 }, "totalScore": 73.63, "status": "completed" },
+    { "rank": 8, "playerId": "suwa-koki", "playerName": "スワコウキ", "scores": { "difficulty": 34.75, "stability": 10.75, "novelty": 22.75, "composition": 7.25, "execution-deduction": 2.63, "special-deduction": 0.0 }, "totalScore": 72.88, "status": "completed" },
+    { "rank": 9, "playerId": "hashimoto-kyohei", "playerName": "ハシモトキョウヘイ", "scores": { "difficulty": 33.75, "stability": 10.75, "novelty": 23.0, "composition": 7.0, "execution-deduction": 2.0, "special-deduction": 0.0 }, "totalScore": 72.5, "status": "completed" },
+    { "rank": 10, "playerId": "kudo-masahiro", "playerName": "クドウマサヒロ", "scores": { "difficulty": 34.5, "stability": 11.5, "novelty": 22.25, "composition": 8.0, "execution-deduction": 4.13, "special-deduction": 0.0 }, "totalScore": 72.13, "status": "completed" },
+    { "rank": 11, "playerId": "azami-daichi", "playerName": "アザミダイチ", "scores": { "difficulty": 33.25, "stability": 10.75, "novelty": 20.0, "composition": 7.0, "execution-deduction": 2.25, "special-deduction": 0.0 }, "totalScore": 68.75, "status": "completed" },
+    { "rank": 12, "playerId": "makimoto-kosuke", "playerName": "マキモトコウスケ", "scores": { "difficulty": 32.5, "stability": 10.25, "novelty": 21.25, "composition": 7.75, "execution-deduction": 4.13, "special-deduction": 0.0 }, "totalScore": 67.63, "status": "completed" },
+    { "rank": 13, "playerId": "obata-ryoya", "playerName": "オバタリョウヤ", "scores": { "difficulty": 28.75, "stability": 10.5, "novelty": 17.75, "composition": 6.25, "execution-deduction": 2.13, "special-deduction": 0.0 }, "totalScore": 61.13, "status": "completed" },
+    { "rank": 14, "playerId": "mitsuyasu-yusuke", "playerName": "ミツヤスユウスケ", "scores": { "difficulty": 28.0, "stability": 8.75, "novelty": 19.5, "composition": 7.0, "execution-deduction": 2.13, "special-deduction": 0.0 }, "totalScore": 61.13, "status": "completed" },
+    { "rank": 15, "playerId": "kokubun-naoyuki", "playerName": "コクブンナオユキ", "scores": { "difficulty": 28.5, "stability": 8.25, "novelty": 17.75, "composition": 6.0, "execution-deduction": 4.13, "special-deduction": 0.0 }, "totalScore": 56.38, "status": "completed" },
+    { "rank": 16, "playerId": "minagawa-satoru", "playerName": "ミナガワサトル", "scores": { "difficulty": 25.5, "stability": 6.75, "novelty": 16.75, "composition": 5.25, "execution-deduction": 2.38, "special-deduction": 0.0 }, "totalScore": 51.88, "status": "completed" },
+    { "rank": 17, "playerId": "akahori-takumi", "playerName": "アカホリタクミ", "scores": { "difficulty": 24.75, "stability": 7.25, "novelty": 16.0, "composition": 5.75, "execution-deduction": 3.5, "special-deduction": 0.0 }, "totalScore": 50.25, "status": "completed" },
+    { "rank": 18, "playerId": "nakamura-makoto", "playerName": "ナカムラマコト", "scores": { "difficulty": 27.25, "stability": 8.5, "novelty": 20.25, "composition": 5.75, "execution-deduction": 8.0, "special-deduction": 14.0 }, "totalScore": 39.75, "status": "completed" },
+    { "rank": 19, "playerId": "kinugasa-naoki", "playerName": "キヌガサナオキ", "scores": { "difficulty": 27.25, "stability": 6.5, "novelty": 17.0, "composition": 4.5, "execution-deduction": 6.5, "special-deduction": 10.0 }, "totalScore": 38.75, "status": "completed" }
+  ]
+}

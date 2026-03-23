@@ -1,0 +1,26 @@
+{
+  "competitionId": "ajdc-2015",
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "yanagawa-ayako", "playerName": "ヤナガワアヤコ", "scores": { "difficulty": 27.0, "variety": 8.75, "stability": 9.25, "novelty": 8.25, "composition": 22.0, "base-score": 15.0, "execution-deduction": 1.7, "special-deduction": 0.0 }, "totalScore": 88.55, "status": "completed" },
+    { "rank": 2, "playerId": "suda-erika", "playerName": "スダエリカ", "scores": { "difficulty": 26.5, "variety": 8.75, "stability": 8.25, "novelty": 7.75, "composition": 22.5, "base-score": 15.0, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 85.95, "status": "completed" },
+    { "rank": 3, "playerId": "takahashi-mirei", "playerName": "タカハシミレイ", "scores": { "difficulty": 23.75, "variety": 7.75, "stability": 7.25, "novelty": 8.0, "composition": 21.25, "base-score": 15.0, "execution-deduction": 4.3, "special-deduction": 0.0 }, "totalScore": 78.7, "status": "completed" },
+    { "rank": 4, "playerId": "oosawa-aika", "playerName": "オオサワアイカ", "scores": { "difficulty": 21.75, "variety": 7.25, "stability": 8.25, "novelty": 6.5, "composition": 21.0, "base-score": 15.0, "execution-deduction": 2.3, "special-deduction": 0.0 }, "totalScore": 77.45, "status": "completed" },
+    { "rank": 5, "playerId": "koseki-megumi", "playerName": "コセキメグミ", "scores": { "difficulty": 21.75, "variety": 7.25, "stability": 7.5, "novelty": 7.0, "composition": 20.5, "base-score": 15.0, "execution-deduction": 3.3, "special-deduction": 0.0 }, "totalScore": 75.7, "status": "completed" },
+    { "rank": 6, "playerId": "yamashita-rie", "playerName": "ヤマシタリエ", "scores": { "difficulty": 21.0, "variety": 6.5, "stability": 7.25, "novelty": 6.5, "composition": 20.75, "base-score": 15.0, "execution-deduction": 3.1, "special-deduction": 0.0 }, "totalScore": 73.9, "status": "completed" },
+    { "rank": 7, "playerId": "ode-sae", "playerName": "オオデサエ", "scores": { "difficulty": 17.5, "variety": 5.75, "stability": 6.5, "novelty": 5.75, "composition": 18.25, "base-score": 15.0, "execution-deduction": 3.1, "special-deduction": 0.0 }, "totalScore": 65.65, "status": "completed" }
+  ]
+}
