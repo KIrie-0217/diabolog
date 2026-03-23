@@ -74,6 +74,7 @@ type CompetitionMeta = {
   location?: string;
   venue?: string;
   resultUrl?: string;
+  infoUrl?: string;
 };
 
 import "@mantine/charts/styles.css";
@@ -333,6 +334,11 @@ export function Competition() {
           {meta.resultUrl && (
             <Anchor href={meta.resultUrl} target="_blank" size="sm">
               公式結果 PDF
+            </Anchor>
+          )}
+          {meta.infoUrl && (
+            <Anchor href={meta.infoUrl} target="_blank" size="sm">
+              大会情報
             </Anchor>
           )}
         </Group>
