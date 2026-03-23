@@ -1,0 +1,14 @@
+{
+  "categoryId": "w-nawatobi",
+  "results": [
+    { "rank": 1, "playerId": "maruyama-ryoko", "playerName": "マルヤマ リョウコ", "count": 29, "class": "C", "status": "completed" },
+    { "rank": 2, "playerId": "watanabe-yukari", "playerName": "ワタナベユカリ", "count": 28, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "higuchi-yoko", "playerName": "ヒグチヨウコ", "count": 12, "class": "C", "status": "completed" },
+    { "rank": 4, "playerId": "nouchi-manaka", "playerName": "ノウチマナカ", "count": 10, "class": "C", "status": "completed" }
+  ],
+  "name": "女子1ディアボロ縄跳び部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

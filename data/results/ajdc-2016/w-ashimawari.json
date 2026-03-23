@@ -1,0 +1,13 @@
+{
+  "categoryId": "w-ashimawari",
+  "results": [
+    { "rank": 1, "playerId": "watanabe-yukari", "playerName": "ワタナベユカリ", "count": 89, "class": "C", "status": "completed" },
+    { "rank": 2, "playerId": "higuchi-yoko", "playerName": "ヒグチヨウコ", "count": 88, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "nouchi-manaka", "playerName": "ノウチマナカ", "count": 54, "class": "C", "status": "completed" }
+  ],
+  "name": "女子1ディアボロ足回り部門",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

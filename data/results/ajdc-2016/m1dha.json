@@ -1,0 +1,61 @@
+{
+  "categoryId": "m1dha",
+  "results": [
+    {
+      "rank": 1, "playerId": "kanehira-shinichi", "playerName": "カネヒラシンイチ",
+      "scores": { "difficulty": 41.5, "stability": 13.3, "novelty": 26.8, "composition": 8.8, "execution-deduction": 2.8, "special-deduction": 0.0 },
+      "totalScore": 87.6, "status": "completed"
+    },
+    {
+      "rank": 2, "playerId": "akiba-yosuke", "playerName": "アキバヨウスケ",
+      "scores": { "difficulty": 41.0, "stability": 12.3, "novelty": 26.8, "composition": 8.0, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 84.1, "status": "completed"
+    },
+    {
+      "rank": 3, "playerId": "kudo-masahiro", "playerName": "クドウ マサヒロ",
+      "scores": { "difficulty": 37.0, "stability": 13.3, "novelty": 24.5, "composition": 9.3, "execution-deduction": 1.4, "special-deduction": 0.0 },
+      "totalScore": 82.7, "status": "completed"
+    },
+    {
+      "rank": 4, "playerId": "matsui-shushiro", "playerName": "マツイシュウシロウ",
+      "scores": { "difficulty": 38.3, "stability": 12.8, "novelty": 23.8, "composition": 8.0, "execution-deduction": 0.5, "special-deduction": 0.0 },
+      "totalScore": 82.4, "status": "completed"
+    },
+    {
+      "rank": 5, "playerId": "makimoto-kosuke", "playerName": "マキモトコウスケ",
+      "scores": { "difficulty": 38.0, "stability": 12.8, "novelty": 25.3, "composition": 8.0, "execution-deduction": 2.3, "special-deduction": 0.0 },
+      "totalScore": 81.8, "status": "completed"
+    },
+    {
+      "rank": 6, "playerId": "ooya-yukinaga", "playerName": "オオヤ ユキナガ",
+      "scores": { "difficulty": 35.8, "stability": 11.8, "novelty": 25.3, "composition": 8.3, "execution-deduction": 5.3, "special-deduction": 0.0 },
+      "totalScore": 75.9, "status": "completed"
+    },
+    {
+      "rank": 7, "playerId": "tsuda-seiya", "playerName": "ツダ セイヤ",
+      "scores": { "difficulty": 38.0, "stability": 12.0, "novelty": 24.5, "composition": 7.5, "execution-deduction": 6.5, "special-deduction": 0.0 },
+      "totalScore": 75.5, "status": "completed"
+    },
+    {
+      "rank": 8, "playerId": "shinoki-yuya", "playerName": "シノキユウヤ",
+      "scores": { "difficulty": 31.8, "stability": 11.8, "novelty": 21.0, "composition": 7.8, "execution-deduction": 2.6, "special-deduction": 0.0 },
+      "totalScore": 69.8, "status": "completed"
+    },
+    {
+      "rank": 9, "playerId": "takahashi-kengo", "playerName": "タカハシケンゴ",
+      "scores": { "difficulty": 30.5, "stability": 11.3, "novelty": 18.8, "composition": 6.3, "execution-deduction": 1.5, "special-deduction": 0.0 },
+      "totalScore": 65.4, "status": "completed"
+    }
+  ],
+  "name": "男子1ディアボロ水平軸(固定)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ]
+}

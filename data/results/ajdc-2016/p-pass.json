@@ -1,0 +1,19 @@
+{
+  "categoryId": "p-pass",
+  "results": [
+    { "rank": 1, "playerId": "torii-takemi+torii-hiromiki", "playerName": "トリイタケミ / トリイヒロミキ", "count": 76, "status": "completed" },
+    { "rank": 2, "playerId": "suzuki-takayuki+kamiya-gaku", "playerName": "スズキ タカユキ / カミヤ ガク", "count": 25, "status": "completed" },
+    { "rank": 3, "playerId": "yamada-jun+kamei-hiroki", "playerName": "ヤマダ ジュン / カメイヒロキ", "count": 20, "status": "completed" },
+    { "rank": 4, "playerId": "nagasaka-takuto+ishiyama-akari", "playerName": "ナガサカ タクト / イシヤマアカリ", "count": 11, "status": "completed" },
+    { "rank": 4, "playerId": "yamamoto-yukika+ooya-yukinaga", "playerName": "ヤマモトユキカ / オオヤユキナガ", "count": 11, "status": "completed" },
+    { "rank": 6, "playerId": "okada-saki+higuchi-yoko", "playerName": "オカダサキ / ヒグチヨウコ", "count": 10, "status": "completed" },
+    { "rank": 7, "playerId": "yoshida-shigemi+makino-sena", "playerName": "ヨシダシゲミ / マキノセナ", "count": 9, "status": "completed" },
+    { "rank": 8, "playerId": "kurasawa-eiji+tsuda-seiya", "playerName": "クラサワ エイジ / ツダ セイヤ", "count": 5, "status": "completed" },
+    { "rank": 8, "playerId": "otomo-ruiko+ode-sae", "playerName": "オオトモ ルイコ / オオデ サエ", "count": 5, "status": "completed" },
+    { "rank": 10, "playerId": "torii-ken+agou-tensei", "playerName": "トリイケン / アゴウテンセイ", "count": 3, "status": "completed" }
+  ],
+  "name": "2ディアボロペアパス",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

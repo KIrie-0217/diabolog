@@ -1,0 +1,31 @@
+{
+  "categoryId": "2db",
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "トリイ ヒロミキ",
+      "scores": { "difficulty": 40.0, "stability": 13.0, "novelty": 26.3, "composition": 7.8, "execution-deduction": 1.4, "special-deduction": 0.0 },
+      "totalScore": 85.7, "status": "completed" },
+    { "rank": 2, "playerId": "hino-fumitaka", "playerName": "ヒノフミタカ",
+      "scores": { "difficulty": 41.5, "stability": 12.0, "novelty": 25.3, "composition": 7.5, "execution-deduction": 4.4, "special-deduction": 0.0 },
+      "totalScore": 81.9, "status": "completed" },
+    { "rank": 3, "playerId": "torii-takemi", "playerName": "トリイ タケミ",
+      "scores": { "difficulty": 39.3, "stability": 12.5, "novelty": 24.3, "composition": 7.5, "execution-deduction": 3.3, "special-deduction": 0.0 },
+      "totalScore": 80.3, "status": "completed" },
+    { "rank": 4, "playerId": "kubota-taiga", "playerName": "クボタ タイガ",
+      "scores": { "difficulty": 35.3, "stability": 10.3, "novelty": 26.0, "composition": 7.0, "execution-deduction": 1.5, "special-deduction": 0.0 },
+      "totalScore": 77.1, "status": "completed" },
+    { "rank": 5, "playerId": "kasai-yuya", "playerName": "カサイユウヤ",
+      "scores": { "difficulty": 36.0, "stability": 9.8, "novelty": 22.5, "composition": 6.8, "execution-deduction": 5.0, "special-deduction": 0.0 },
+      "totalScore": 70.1, "status": "completed" }
+  ],
+  "name": "2ディアボロ(ベアリング)部門",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "categoryId": "4d-low",
+  "results": [
+    { "rank": 1, "playerId": "watanabe-hayato", "playerName": "ワタナベ ハヤト", "count": 9, "status": "completed" },
+    { "rank": 2, "playerId": "torii-takemi", "playerName": "トリイ タケミ", "count": 7, "status": "completed" },
+    { "rank": 3, "playerId": "nonaka-aoi", "playerName": "ノナカアオイ", "count": 3, "status": "completed" },
+    { "rank": 4, "playerId": "torii-hiromiki", "playerName": "トリイ ヒロミキ", "count": 2, "status": "completed" },
+    { "rank": 5, "playerId": "kudo-masahiro", "playerName": "クドウ マサヒロ", "count": 1, "status": "completed" }
+  ],
+  "name": "4ディアボロロウ",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}
