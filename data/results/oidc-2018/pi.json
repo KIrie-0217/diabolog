@@ -1,0 +1,61 @@
+{
+  "categoryId": "pi",
+  "name": "ペア部門",
+  "nameEn": "Pair Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kowa-pei-joo+bryan-tan-zhai-nan",
+      "playerName": "柯姵如/陈再男 / KOWA PEI JOO/BRYAN TAN ZHAI NAN",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 34.2, "synchronization": 26.4, "composition": 25.4, "execution-deduction": 3.4, "special-deduction": 0.0 },
+      "totalScore": 82.6,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "li-wei-tze+chen-tsung-hao",
+      "playerName": "李韋則/陳宗顥 / LI WEITZE/CHEN TSUNG HAO",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 34.6, "synchronization": 24.8, "composition": 24.0, "execution-deduction": 3.0, "special-deduction": 0.0 },
+      "totalScore": 80.4,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "wang-tzu-yun+guo-yun",
+      "playerName": "王子昀/郭允 / Wang Zi Yun/Guo Yun",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 36.2, "synchronization": 23.4, "composition": 23.0, "execution-deduction": 3.4, "special-deduction": 0.0 },
+      "totalScore": 79.2,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chen-ying-qing+chen-ying-ming",
+      "playerName": "陳英清/陳英明 / Chen Ying Qing/Chen Ying Ming",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 33.4, "synchronization": 24.0, "composition": 23.4, "execution-deduction": 3.6, "special-deduction": 0.0 },
+      "totalScore": 77.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "zhang-li-xin+zhang-jie-yi",
+      "playerName": "张丽欣/张洁仪 / Zhang li Xin/Zhang Jie Yi",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 25.6, "synchronization": 20.4, "composition": 22.6, "execution-deduction": 6.8, "special-deduction": 0.0 },
+      "totalScore": 61.8,
+      "status": "completed"
+    }
+  ]
+}

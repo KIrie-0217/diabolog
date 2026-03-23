@@ -1,0 +1,25 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1 Diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / Torii Hiromiki", "nationality": "Japan", "count": 79, "class": "B", "status": "completed" },
+    { "rank": 2, "playerId": "cheng-yung-tsang", "playerName": "鄭湧蒼 / Zheng Yong Cang", "nationality": "Taiwan", "count": 75, "class": "B", "status": "completed" },
+    { "rank": 3, "playerId": "lin-wei-liang", "playerName": "林韋良 / Lin Wei Liang", "nationality": "Taiwan", "count": 73, "class": "D", "status": "completed" },
+    { "rank": 4, "playerId": "huang-shih-rong", "playerName": "黃士融 / Huang Shi Rong", "nationality": "Taiwan", "count": 59, "class": "A", "status": "completed" },
+    { "rank": 5, "playerId": "makino-sena", "playerName": "牧野瀬南 / Makino Sena", "nationality": "Japan", "count": 57, "class": "A", "status": "completed" },
+    { "rank": 6, "playerId": "wu-chi-ming", "playerName": "吳啟銘 / Wu Chi Ming", "nationality": "Taiwan", "count": 47, "class": "C", "status": "completed" },
+    { "rank": 7, "playerId": "ke-ji-cheng", "playerName": "柯季星 / Ke Ji Cheng", "nationality": "Taiwan", "count": 43, "class": "A", "status": "completed" },
+    { "rank": 8, "playerId": "ke-yu-an", "playerName": "柯禹安 / Ke Yu An", "nationality": "Taiwan", "count": 39, "class": "A", "status": "completed" },
+    { "rank": 9, "playerId": "agou-tensei", "playerName": "吾郷 天星 / Ago Tensei", "nationality": "Japan", "count": 31, "class": "A", "status": "completed" },
+    { "rank": 10, "playerId": "ueda-hajime", "playerName": "上田一 / Ueda Hajime", "nationality": "Japan", "count": 23, "class": "C", "status": "completed" },
+    { "rank": 11, "playerId": "tanioka-kaketo", "playerName": "谷岡 翔人 / Tanioka Kaketo.", "nationality": "Japan", "count": 22, "class": "A", "status": "completed" },
+    { "rank": 12, "playerId": "yoshii-norihiro", "playerName": "吉井 紀博 / Yoshii Norihiro", "nationality": "Japan", "count": 16, "class": "C", "status": "completed" },
+    { "rank": 13, "playerId": "itotagawa-taiga", "playerName": "糸田川 大我 / Itotagawa Taiga", "nationality": "Japan", "count": 12, "class": "C", "status": "completed" },
+    { "rank": 14, "playerId": "zhang-zhen-lin", "playerName": "張震林 / Zhang Zhen Lin", "nationality": "Taiwan", "count": 11, "class": "C", "status": "completed" }
+  ]
+}

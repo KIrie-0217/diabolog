@@ -1,0 +1,122 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "lin-hau-woei",
+      "playerName": "林皓緯 / LIN HAU WOEI",
+      "nationality": "Malaysia",
+      "count": 307,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "guo-yun",
+      "playerName": "郭允 / Guo Yun",
+      "nationality": "Taiwan",
+      "count": 282,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kao-jiu-cheng",
+      "playerName": "高睿呈 / Kao Jiu Cheng",
+      "nationality": "Taiwan",
+      "count": 268,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "wang-tzu-yun",
+      "playerName": "王子昀 / Wang Zi Yun",
+      "nationality": "Taiwan",
+      "count": 229,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "watanuki-shunsuke",
+      "playerName": "綿貫 峻介 / Watanuki Shunsuke",
+      "nationality": "Japan",
+      "count": 184,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "torii-takemi",
+      "playerName": "鳥居 岳史 / Torii Takemi",
+      "nationality": "Japan",
+      "count": 173,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "edmund-tan-yuheng",
+      "playerName": "陈宇恒 / EDMUND TAN YUHENG",
+      "nationality": "Malaysia",
+      "count": 98,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "zhang-hong-lun",
+      "playerName": "張紘綸 / Zhang Hong Lun",
+      "nationality": "Taiwan",
+      "count": 67,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "chen-ying-ming",
+      "playerName": "陳英明 / Chen Ying Ming",
+      "nationality": "Taiwan",
+      "count": 55,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "liew-yi-jiang",
+      "playerName": "刘廷江 / LIEW YI JIANG",
+      "nationality": "Malaysia",
+      "count": 53,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "count": 13,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "chiam-wei-bin",
+      "playerName": "詹玮斌 / Chiam Wei Bin",
+      "nationality": "Malaysia",
+      "count": 12,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "tanaka-shun",
+      "playerName": "田中俊 / Tanaka Shun",
+      "nationality": "Japan",
+      "count": 12,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "huang-wei-kai",
+      "playerName": "黃偉愷 / Huang Wei Kai",
+      "nationality": "Taiwan",
+      "count": 3,
+      "status": "completed"
+    }
+  ]
+}

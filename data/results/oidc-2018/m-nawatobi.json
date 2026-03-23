@@ -1,0 +1,155 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "cheng-yung-tsang",
+      "playerName": "鄭湧蒼 / Cheng Yung Tsang",
+      "nationality": "Taiwan",
+      "count": 77,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "makino-sena",
+      "playerName": "牧野 瀬南 / Makino Sena",
+      "nationality": "Japan",
+      "count": 72,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "agou-tensei",
+      "playerName": "吾鄉天星 / Agou Tensei",
+      "nationality": "Japan",
+      "count": 68,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "guo-jian-ting",
+      "playerName": "郭建廷 / Kuo Chien Ting",
+      "nationality": "Taiwan",
+      "count": 65,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "chen-ying-ming",
+      "playerName": "陳英明 / Chen Ying Ming",
+      "nationality": "Taiwan",
+      "count": 62,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "chen-ying-qing",
+      "playerName": "陳英清 / Chen Ying Qing",
+      "nationality": "Taiwan",
+      "count": 58,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "lin-hau-woei",
+      "playerName": "林皓緯 / Lin Hau Woei",
+      "nationality": "Malaysia",
+      "count": 58,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "isobe-takumi",
+      "playerName": "磯部 拓海 / Isobe Takumi",
+      "nationality": "Japan",
+      "count": 56,
+      "class": "D",
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "guo-yun",
+      "playerName": "郭允 / Guo Yun",
+      "nationality": "Taiwan",
+      "count": 52,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "count": 47,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "zhang-hong-lun",
+      "playerName": "張紘綸 / Chang Hung Lun",
+      "nationality": "Taiwan",
+      "count": 41,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "pan-yong-xin",
+      "playerName": "潘永鑫 / Pan Yong Xin",
+      "nationality": "Taiwan",
+      "count": 41,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "kuo-po-ting",
+      "playerName": "郭伯廷 / KUO PO TING",
+      "nationality": "Taiwan",
+      "count": 37,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "yuan-cheng-yang",
+      "playerName": "袁丞揚 / Yuan Cheng Yang",
+      "nationality": "Taiwan",
+      "count": 29,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "zhang-zhen-lin",
+      "playerName": "張震林 / Zhang Zhen Lin",
+      "nationality": "Taiwan",
+      "count": 25,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "muto-taiga",
+      "playerName": "武藤 大河 / Muto Taiga",
+      "nationality": "Japan",
+      "count": 15,
+      "class": "C",
+      "status": "completed"
+    }
+  ]
+}

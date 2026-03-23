@@ -1,0 +1,20 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4 Diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / CHAO YU-SUNG", "nationality": "Taiwan", "count": 300, "status": "completed" },
+    { "rank": 2, "playerId": "chen-chun-wei", "playerName": "陳軍瑋 / CHEN CHUN-WEI", "nationality": "Taiwan", "count": 287, "status": "completed" },
+    { "rank": 3, "playerId": "zheng-kang-ping", "playerName": "鄭康平 / Zheng Kang Ping", "nationality": "Taiwan", "count": 201, "status": "completed" },
+    { "rank": 4, "playerId": "kao-jui-cheng", "playerName": "高睿呈 / Kao Jui-Cheng", "nationality": "Taiwan", "count": 161, "status": "completed" },
+    { "rank": 5, "playerId": "ong-hock-eng", "playerName": "王福恩 / Ong Hock Eng", "nationality": "Malaysia", "count": 154, "status": "completed" },
+    { "rank": 6, "playerId": "hsu-yu-hao", "playerName": "許育豪 / HSU YU-HAO", "nationality": "Taiwan", "count": 98, "status": "completed" },
+    { "rank": 6, "playerId": "huang-shih-rong", "playerName": "黃士融 / Huang Shi Rong", "nationality": "Taiwan", "count": 98, "status": "completed" },
+    { "rank": 8, "playerId": "chen-yi-cheng", "playerName": "陳奕丞 / CHEN YI-CHENG", "nationality": "Taiwan", "count": 86, "status": "completed" },
+    { "rank": 9, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / Tsai Chun-Hui", "nationality": "Taiwan", "count": 55, "status": "completed" },
+    { "rank": 10, "playerId": "chiang-chia-hung", "playerName": "姜佳宏 / CHIANG CHIA-HUNG", "nationality": "Taiwan", "count": 0, "status": "completed" }
+  ]
+}

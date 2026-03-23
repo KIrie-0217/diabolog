@@ -1,0 +1,26 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "nameEn": "Women's 1 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "juan-tzu-yu", "playerName": "阮梓瑜 / Juan Tzu-Yu", "nationality": "Taiwan", "scores": { "difficulty": 39.3, "stability": 12.8, "novelty": 25.0, "composition": 7.3, "execution-deduction": 0.9, "special-deduction": 0.0 }, "totalScore": 83.5, "status": "completed" },
+    { "rank": 2, "playerId": "shiraishi-airi", "playerName": "白石 愛里 / Shiraishi Airi", "nationality": "Japan", "scores": { "difficulty": 39.5, "stability": 12.0, "novelty": 24.5, "composition": 8.0, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 81.2, "status": "completed" },
+    { "rank": 3, "playerId": "sudo-maki", "playerName": "須藤 麻希 / Sudo Maki", "nationality": "Japan", "scores": { "difficulty": 40.0, "stability": 10.8, "novelty": 24.3, "composition": 7.0, "execution-deduction": 3.5, "special-deduction": 0.0 }, "totalScore": 78.6, "status": "completed" },
+    { "rank": 4, "playerId": "liao-yi-xiu", "playerName": "廖怡琇 / Liao Yi Xiu", "nationality": "Taiwan", "scores": { "difficulty": 37.0, "stability": 11.5, "novelty": 22.8, "composition": 7.8, "execution-deduction": 2.4, "special-deduction": 0.0 }, "totalScore": 76.7, "status": "completed" },
+    { "rank": 5, "playerId": "huang-yi-ching", "playerName": "黃苡晴 / Huang Yi Ching", "nationality": "Taiwan", "scores": { "difficulty": 35.0, "stability": 12.8, "novelty": 21.0, "composition": 6.3, "execution-deduction": 0.4, "special-deduction": 0.0 }, "totalScore": 74.7, "status": "completed" },
+    { "rank": 6, "playerId": "jiang-shu-hui", "playerName": "江淑惠 / Jiang Shu Hui", "nationality": "Taiwan", "scores": { "difficulty": 36.0, "stability": 11.0, "novelty": 22.5, "composition": 7.0, "execution-deduction": 2.0, "special-deduction": 0.0 }, "totalScore": 74.5, "status": "completed" },
+    { "rank": 7, "playerId": "lu-chia-lin", "playerName": "呂佳玲 / Lu Chia Lin", "nationality": "Taiwan", "scores": { "difficulty": 33.5, "stability": 11.5, "novelty": 20.8, "composition": 7.0, "execution-deduction": 3.0, "special-deduction": 0.0 }, "totalScore": 69.8, "status": "completed" },
+    { "rank": 8, "playerId": "sato-chie", "playerName": "佐藤 千恵 / Sato Chie", "nationality": "Japan", "scores": { "difficulty": 31.0, "stability": 8.3, "novelty": 19.8, "composition": 5.8, "execution-deduction": 6.6, "special-deduction": 0.0 }, "totalScore": 58.3, "status": "completed" },
+    { "rank": 9, "playerId": "ri-yuuna", "playerName": "李ゆうな / Li Yuna", "nationality": "Japan", "scores": { "difficulty": 27.5, "stability": 9.0, "novelty": 16.3, "composition": 6.0, "execution-deduction": 3.9, "special-deduction": 0.0 }, "totalScore": 54.9, "status": "completed" }
+  ]
+}

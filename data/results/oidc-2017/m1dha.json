@@ -1,0 +1,34 @@
+{
+  "categoryId": "m1dha",
+  "name": "男子1ディアボロ水平軸(固定)部門",
+  "nameEn": "Men's 1 Diabolo Horizontal Axis (Fixed) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / Chao Yu-Sung", "nationality": "Taiwan", "scores": { "difficulty": 42.3, "stability": 13.0, "novelty": 27.5, "composition": 8.8, "execution-deduction": 3.4, "special-deduction": 0.0 }, "totalScore": 88.2, "status": "completed" },
+    { "rank": 2, "playerId": "kanehira-shinichi", "playerName": "兼平 慎一 / Kanehira Shinichi", "nationality": "Japan", "scores": { "difficulty": 41.0, "stability": 12.3, "novelty": 26.8, "composition": 8.3, "execution-deduction": 2.6, "special-deduction": 0.0 }, "totalScore": 85.8, "status": "completed" },
+    { "rank": 3, "playerId": "huang-ho-ying", "playerName": "黃浩然 / Huang Ho Ying", "nationality": "Hong Kong", "scores": { "difficulty": 39.8, "stability": 12.5, "novelty": 27.0, "composition": 8.0, "execution-deduction": 2.1, "special-deduction": 0.0 }, "totalScore": 85.2, "status": "completed" },
+    { "rank": 4, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / Torii Hiromiki", "nationality": "Japan", "scores": { "difficulty": 37.8, "stability": 13.0, "novelty": 26.8, "composition": 8.3, "execution-deduction": 0.9, "special-deduction": 0.0 }, "totalScore": 85.0, "status": "completed" },
+    { "rank": 5, "playerId": "kosaka-ryota", "playerName": "小坂 亮太 / Kosaka Ryota", "nationality": "Japan", "scores": { "difficulty": 37.8, "stability": 12.5, "novelty": 24.8, "composition": 7.3, "execution-deduction": 0.3, "special-deduction": 0.0 }, "totalScore": 82.1, "status": "completed" },
+    { "rank": 6, "playerId": "suwa-koki", "playerName": "諏訪 康貴 / Suwa Koki", "nationality": "Japan", "scores": { "difficulty": 36.8, "stability": 11.5, "novelty": 25.0, "composition": 7.5, "execution-deduction": 1.1, "special-deduction": 0.0 }, "totalScore": 79.7, "status": "completed" },
+    { "rank": 7, "playerId": "alex-ang", "playerName": "洪国皓 / Alex Ang", "nationality": "Malaysia", "scores": { "difficulty": 38.8, "stability": 11.8, "novelty": 23.8, "composition": 7.5, "execution-deduction": 3.9, "special-deduction": 0.0 }, "totalScore": 78.0, "status": "completed" },
+    { "rank": 8, "playerId": "kubota-taiga", "playerName": "久保田 大雅 / Kubota Taiga", "nationality": "Japan", "scores": { "difficulty": 37.0, "stability": 11.8, "novelty": 24.8, "composition": 7.0, "execution-deduction": 2.9, "special-deduction": 0.0 }, "totalScore": 77.7, "status": "completed" },
+    { "rank": 9, "playerId": "kao-jui-cheng", "playerName": "高睿呈 / Kao Jui Cheng", "nationality": "Taiwan", "scores": { "difficulty": 37.8, "stability": 11.5, "novelty": 24.0, "composition": 7.3, "execution-deduction": 5.1, "special-deduction": 0.0 }, "totalScore": 75.5, "status": "completed" },
+    { "rank": 10, "playerId": "makimoto-kosuke", "playerName": "牧本 光輔 / Makimoto Kosuke", "nationality": "Japan", "scores": { "difficulty": 35.5, "stability": 11.8, "novelty": 23.5, "composition": 7.5, "execution-deduction": 3.3, "special-deduction": 0.0 }, "totalScore": 75.0, "status": "completed" },
+    { "rank": 11, "playerId": "kawamura-takashi", "playerName": "川村隆史 / Kawamura Takashi", "nationality": "Japan", "scores": { "difficulty": 36.0, "stability": 11.8, "novelty": 23.5, "composition": 7.8, "execution-deduction": 5.5, "special-deduction": 0.0 }, "totalScore": 73.6, "status": "completed" },
+    { "rank": 12, "playerId": "yamamoto-takashi", "playerName": "山本 孝 / Yamamoto Takashi", "nationality": "Japan", "scores": { "difficulty": 34.8, "stability": 11.3, "novelty": 24.5, "composition": 7.3, "execution-deduction": 4.8, "special-deduction": 0.0 }, "totalScore": 73.1, "status": "completed" },
+    { "rank": 13, "playerId": "fujimoto-kanta", "playerName": "藤本 幹太 / Fujimoto Kanta", "nationality": "Japan", "scores": { "difficulty": 35.5, "stability": 10.5, "novelty": 22.3, "composition": 6.8, "execution-deduction": 2.3, "special-deduction": 0.0 }, "totalScore": 72.8, "status": "completed" },
+    { "rank": 14, "playerId": "wu-dong-ying", "playerName": "吳東穎 / Wu Dong Ying", "nationality": "Taiwan", "scores": { "difficulty": 35.5, "stability": 10.8, "novelty": 23.0, "composition": 7.0, "execution-deduction": 6.6, "special-deduction": 0.0 }, "totalScore": 69.7, "status": "completed" },
+    { "rank": 15, "playerId": "irie-koshiro", "playerName": "入江航士朗 / Irie Koshiro", "nationality": "Japan", "scores": { "difficulty": 33.8, "stability": 9.8, "novelty": 23.8, "composition": 6.5, "execution-deduction": 6.6, "special-deduction": 0.0 }, "totalScore": 67.3, "status": "completed" },
+    { "rank": 16, "playerId": "chih-jia-you", "playerName": "池嘉祐 / Chih Jia you", "nationality": "Taiwan", "scores": { "difficulty": 34.8, "stability": 10.0, "novelty": 22.0, "composition": 6.8, "execution-deduction": 7.5, "special-deduction": 0.0 }, "totalScore": 66.1, "status": "completed" },
+    { "rank": 17, "playerId": "yasunaga-nao", "playerName": "安永 直央 / Yasunaga Nao", "nationality": "Japan", "scores": { "difficulty": 28.5, "stability": 9.8, "novelty": 18.8, "composition": 6.5, "execution-deduction": 1.9, "special-deduction": 0.0 }, "totalScore": 61.7, "status": "completed" }
+  ]
+}

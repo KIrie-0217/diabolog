@@ -1,0 +1,30 @@
+{
+  "categoryId": "2da",
+  "name": "2ディアボロ(固定)部門",
+  "nameEn": "2 Diabolo (Fixed) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "beh-seng-fatt", "playerName": "馬成發 / Beh Seng Fatt", "nationality": "Malaysia", "scores": { "difficulty": 41.0, "stability": 11.3, "novelty": 27.0, "composition": 7.3, "execution-deduction": 3.4, "special-deduction": 0.0 }, "totalScore": 83.2, "status": "completed" },
+    { "rank": 2, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / Chao Yu-Sung", "nationality": "Taiwan", "scores": { "difficulty": 40.3, "stability": 11.8, "novelty": 26.0, "composition": 7.8, "execution-deduction": 3.3, "special-deduction": 0.0 }, "totalScore": 82.6, "status": "completed" },
+    { "rank": 3, "playerId": "ishimizu-taiki", "playerName": "石水 泰樹 / Ishimizu Taiki", "nationality": "Japan", "scores": { "difficulty": 39.5, "stability": 11.5, "novelty": 24.5, "composition": 8.0, "execution-deduction": 3.3, "special-deduction": 0.0 }, "totalScore": 80.2, "status": "completed" },
+    { "rank": 4, "playerId": "tada-kazuki", "playerName": "田多 加津輝 / Tada Kazuki", "nationality": "Japan", "scores": { "difficulty": 40.5, "stability": 11.3, "novelty": 24.8, "composition": 7.3, "execution-deduction": 3.9, "special-deduction": 0.0 }, "totalScore": 80.0, "status": "completed" },
+    { "rank": 5, "playerId": "tsao-ming-jun", "playerName": "曹名君 / Tsao Ming Jun", "nationality": "Taiwan", "scores": { "difficulty": 39.0, "stability": 11.8, "novelty": 24.0, "composition": 6.8, "execution-deduction": 2.6, "special-deduction": 0.0 }, "totalScore": 79.0, "status": "completed" },
+    { "rank": 6, "playerId": "huang-shih-rong", "playerName": "黃士融 / Huang Shi Rong", "nationality": "Taiwan", "scores": { "difficulty": 36.5, "stability": 12.0, "novelty": 22.3, "composition": 7.3, "execution-deduction": 1.9, "special-deduction": 0.0 }, "totalScore": 76.2, "status": "completed" },
+    { "rank": 7, "playerId": "tomita-hikaru", "playerName": "冨田 輝 / Tomita Hikaru", "nationality": "Japan", "scores": { "difficulty": 37.3, "stability": 11.3, "novelty": 23.0, "composition": 7.3, "execution-deduction": 3.8, "special-deduction": 0.0 }, "totalScore": 75.1, "status": "completed" },
+    { "rank": 8, "playerId": "irie-koshiro", "playerName": "入江航士朗 / Irie Koshiro", "nationality": "Japan", "scores": { "difficulty": 35.3, "stability": 10.3, "novelty": 24.3, "composition": 7.0, "execution-deduction": 4.5, "special-deduction": 0.0 }, "totalScore": 72.4, "status": "completed" },
+    { "rank": 9, "playerId": "pan-shih-huang", "playerName": "潘仕桓 / Pan ShihHuang", "nationality": "Taiwan", "scores": { "difficulty": 36.8, "stability": 10.0, "novelty": 23.0, "composition": 6.5, "execution-deduction": 5.1, "special-deduction": 0.0 }, "totalScore": 71.2, "status": "completed" },
+    { "rank": 10, "playerId": "matsubara-shohei", "playerName": "松原 尚平 / Matsubara Shohei", "nationality": "Japan", "scores": { "difficulty": 33.8, "stability": 10.8, "novelty": 20.3, "composition": 6.3, "execution-deduction": 1.6, "special-deduction": 0.0 }, "totalScore": 69.6, "status": "completed" },
+    { "rank": 11, "playerId": "fujii-tsuyoshi", "playerName": "藤井 剛 / Fujii Tsuyoshi", "nationality": "Japan", "scores": { "difficulty": 34.5, "stability": 9.5, "novelty": 21.3, "composition": 6.0, "execution-deduction": 5.5, "special-deduction": 0.0 }, "totalScore": 65.8, "status": "completed" },
+    { "rank": 12, "playerId": "kishimoto-kohei", "playerName": "岸本 康平 / Kishimoto Kohei", "nationality": "Japan", "scores": { "difficulty": 29.8, "stability": 8.5, "novelty": 18.3, "composition": 7.0, "execution-deduction": 3.9, "special-deduction": 0.0 }, "totalScore": 59.7, "status": "completed" },
+    { "rank": 13, "playerId": "yamamoto-ryo", "playerName": "山本 遼 / Yamamoto Ryo", "nationality": "Japan", "scores": { "difficulty": 30.0, "stability": 8.5, "novelty": 18.8, "composition": 6.5, "execution-deduction": 7.0, "special-deduction": 0.0 }, "totalScore": 56.8, "status": "completed" }
+  ]
+}

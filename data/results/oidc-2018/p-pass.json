@@ -1,0 +1,139 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "lin-le-yun+torii-hiromiki",
+      "playerName": "林樂昀/鳥居 大幹 / Lin Le Yun/Torii Hiromiki",
+      "nationality": "Mixed",
+      "count": 90,
+      "note": "OIDC record, Japan record",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "liu-yun+torii-takemi",
+      "playerName": "劉芸/鳥居 岳史 / Liu Yun/Torii Takemi",
+      "nationality": "Mixed",
+      "count": 89,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "liao-shuo-en+huang-zi-xuan",
+      "playerName": "廖碩恩/⿈⼦蘐 / Liao Shuo En/Huang Zi Xuan",
+      "nationality": "Taiwan",
+      "count": 86,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "lee-cheng-chien+hsieh-chin-xiu",
+      "playerName": "李政謙/謝惍修 / LEE CHENG CHIEN/HSIEH CHIN XIU",
+      "nationality": "Taiwan",
+      "count": 79,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "chen-yi-ting+liu-hsin",
+      "playerName": "陳儀庭/劉芯 / Chen Yi Ting/Liu Hsin",
+      "nationality": "Taiwan",
+      "count": 72,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lee-ting-wen+liu-wei",
+      "playerName": "李庭芝/劉葳 / Lee Ting Wen/Liu Wei",
+      "nationality": "Taiwan",
+      "count": 72,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "xia-xu-cheng+wang-pei-yu",
+      "playerName": "夏詡程/王培宇 / Xia Xu Cheng/Wang Pei Yu",
+      "nationality": "Taiwan",
+      "count": 66,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "huang-yan-shuo+hsieh-chin-hao",
+      "playerName": "黃彥碩/謝愉昊 / HUANG YAN SHUO/HSIEH CHIN HAO",
+      "nationality": "Taiwan",
+      "count": 65,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "wang-tzu-yun+guo-yun",
+      "playerName": "王子昀/郭允 / Wang Zi Yun/Guo Yun",
+      "nationality": "Taiwan",
+      "count": 62,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "guo-jian-ting+zhang-zhen-lin",
+      "playerName": "郭建廷/張震林 / Kuo Chien Ting/Zhang Zhen Lin",
+      "nationality": "Taiwan",
+      "count": 62,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "yamada-jun+kanehira-shinichi",
+      "playerName": "山田 純/兼平 慎一 / Yamada Jun/Kanehira Shinichi",
+      "nationality": "Japan",
+      "count": 58,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "chen-ying-qing+chen-ying-ming",
+      "playerName": "陳英清/陳英明 / Chen Ying Qing/Chen Ying Ming",
+      "nationality": "Taiwan",
+      "count": 53,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "kan-takafumi+kubota-taiga",
+      "playerName": "菅尚文/久保田 大雅 / Kan Takafumi/Kubota Taiga",
+      "nationality": "Japan",
+      "count": 38,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "makino-sena+makino-shinichi",
+      "playerName": "牧野 瀬南/牧野真一 / Makino Sena/Makino Shinichi",
+      "nationality": "Japan",
+      "count": 31,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "higuchi-yoko+matsuo-mana",
+      "playerName": "樋口瑛子/松尾 真菜 / Higuchi Yoko/Matsuo Mana",
+      "nationality": "Japan",
+      "count": 13,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "cheng-yung-tsang+zhang-hong-lun",
+      "playerName": "鄭湧蒼/張紘綸 / Cheng Yung Tsang/Chang Hung Lun",
+      "nationality": "Taiwan",
+      "count": 10,
+      "status": "completed"
+    }
+  ]
+}

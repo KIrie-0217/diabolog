@@ -1,97 +1,5 @@
 [
   {
-    "id": "ajdc-2025",
-    "name": "第十四回全日本ディアボロ選手権大会",
-    "location": "大阪",
-    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2025_result.pdf",
-    "awards": [
-      {
-        "type": "best-trick",
-        "playerName": "トリイ タケミ"
-      },
-      {
-        "type": "special",
-        "playerName": "トリイ タケミ"
-      },
-      {
-        "type": "special",
-        "playerName": "カンノ ジョウエイ"
-      }
-    ],
-    "categories": [
-      {
-        "id": "mi",
-        "name": "男子個人総合部門",
-        "class": "overall"
-      },
-      {
-        "id": "wi",
-        "name": "女子個人総合部門",
-        "class": "overall"
-      },
-      {
-        "id": "mj",
-        "name": "男子個人総合ジュニア部門",
-        "class": "overall"
-      },
-      {
-        "id": "wj",
-        "name": "女子個人総合ジュニア部門",
-        "class": "overall"
-      },
-      {
-        "id": "3d",
-        "name": "3ディアボロ部門",
-        "class": "specialist"
-      },
-      {
-        "id": "2db",
-        "name": "2ディアボロ(ベアリング)部門",
-        "class": "specialist"
-      },
-      {
-        "id": "2da",
-        "name": "2ディアボロ(固定)部門",
-        "class": "specialist"
-      },
-      {
-        "id": "m1dha",
-        "name": "男子1ディアボロ水平軸(固定)部門",
-        "class": "specialist"
-      },
-      {
-        "id": "m1dhb",
-        "name": "男子1ディアボロ水平軸(ベアリング)部門",
-        "class": "specialist"
-      },
-      {
-        "id": "1dv",
-        "name": "男子1ディアボロ垂直軸部門",
-        "class": "specialist"
-      },
-      {
-        "id": "w-nawatobi",
-        "name": "女子1ディアボロ縄跳び",
-        "class": "challenge"
-      },
-      {
-        "id": "4d-low",
-        "name": "4ディアボロロウ",
-        "class": "challenge"
-      },
-      {
-        "id": "p-pass",
-        "name": "2ディアボロペアパス",
-        "class": "challenge"
-      }
-    ],
-    "startDate": "2025-03-20",
-    "endDate": "2025-03-21",
-    "shortName": "AJDC 2025",
-    "venue": "大阪コミ協ひがしなり区民センター 大ホール",
-    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2025_schedule.pdf"
-  },
-  {
     "id": "oidc-2025",
     "name": "Osaka International Diabolo Competition 2025",
     "location": "大阪",
@@ -224,11 +132,103 @@
     "infoUrl": "https://diabolo.jp/OIDC/wp-content/uploads/OIDC2025_schedule.pdf"
   },
   {
+    "id": "ajdc-2025",
+    "name": "第十四回全日本ディアボロ選手権大会",
+    "location": "大阪",
+    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2025_result.pdf",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "トリイ タケミ"
+      },
+      {
+        "type": "special",
+        "playerName": "トリイ タケミ"
+      },
+      {
+        "type": "special",
+        "playerName": "カンノ ジョウエイ"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス",
+        "class": "challenge"
+      }
+    ],
+    "startDate": "2025-03-20",
+    "endDate": "2025-03-21",
+    "shortName": "AJDC 2025",
+    "venue": "大阪コミ協ひがしなり区民センター 大ホール",
+    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2025_schedule.pdf"
+  },
+  {
     "id": "oidc-2024",
     "name": "Osaka International Diabolo Competition 2024",
     "shortName": "OIDC 2024",
     "location": "大阪",
-    "venue": "コミ協ひがしなり区民センター 大ホール",
+    "venue": "大阪コミ協ひがしなり区民センター 大ホール",
     "startDate": "2024-08-13",
     "endDate": "2024-08-15",
     "resultUrl": "https://diabolo.jp/OIDC/wp-content/uploads/OIDC2024_result.pdf",
@@ -293,7 +293,7 @@
       },
       {
         "id": "2db",
-        "name": "2ディアボロ(ペアリング)部門",
+        "name": "2ディアボロ(ベアリング)部門",
         "class": "specialist"
       },
       {
@@ -313,7 +313,7 @@
       },
       {
         "id": "m1dhb",
-        "name": "男子1ディアボロ水平軸(ペアリング)部門",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
         "class": "specialist"
       },
       {
@@ -354,7 +354,7 @@
     "name": "第十三回全日本ディアボロ選手権大会",
     "shortName": "AJDC 2024",
     "location": "大阪",
-    "venue": "西成区民センター ホール",
+    "venue": "大阪市立西成区民センター ホール",
     "startDate": "2024-03-19",
     "endDate": "2024-03-20",
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2024_result.pdf",
@@ -548,7 +548,7 @@
     "name": "第十二回全日本ディアボロ選手権大会",
     "shortName": "AJDC 2023",
     "location": "大阪",
-    "venue": "西成区民センター ホール",
+    "venue": "大阪市立西成区民センター ホール",
     "startDate": "2023-03-24",
     "endDate": "2023-03-25",
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2023_result.pdf",
@@ -647,7 +647,7 @@
     "name": "第十一回全日本ディアボロ選手権大会",
     "shortName": "AJDC 2022",
     "location": "大阪",
-    "venue": "東成区民センター 大ホール",
+    "venue": "大阪市立東成区民センター 大ホール",
     "startDate": "2022-03-21",
     "endDate": "2022-03-23",
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2022_result.pdf",
@@ -701,7 +701,7 @@
       },
       {
         "id": "2db",
-        "name": "2ディアボロ(ペアリング)部門",
+        "name": "2ディアボロ(ベアリング)部門",
         "class": "specialist"
       },
       {
@@ -737,6 +737,377 @@
       {
         "id": "w-nawatobi",
         "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      }
+    ]
+  },
+  {
+    "id": "ajdc-2021",
+    "name": "第十回全日本ディアボロ選手権大会",
+    "shortName": "AJDC 2021",
+    "location": "大阪",
+    "venue": "大阪市立東成区民センター 大ホール",
+    "startDate": "2021-03-23",
+    "endDate": "2021-03-24",
+    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2021_result.pdf",
+    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2021_schedule.pdf",
+    "awards": [],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      }
+    ]
+  },
+  {
+    "id": "oidc-2019",
+    "name": "Osaka International Diabolo Competition 2019",
+    "shortName": "OIDC 2019",
+    "startDate": "2019-08-12",
+    "endDate": "2019-08-14",
+    "venue": "大阪市立東成区民センター 大ホール",
+    "location": "大阪",
+    "resultUrl": "https://diabolo.jp/OIDC/wp-content/uploads/2019/08/OIDC2019_result.pdf",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "鳥居 大幹 / Torii Hiromiki"
+      },
+      {
+        "type": "special",
+        "playerName": "興友鈴犀 / Xing You Ling Xi"
+      },
+      {
+        "type": "special",
+        "playerName": "臺北市立大學 / University of Taipei"
+      },
+      {
+        "type": "special",
+        "playerName": "infinity"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mh",
+        "name": "高校生男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "pi",
+        "name": "ペア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      }
+    ],
+    "infoUrl": "https://diabolo.jp/OIDC/wp-content/uploads/OIDC2019_archive.pdf"
+  },
+  {
+    "id": "oidc-2018",
+    "name": "Osaka International Diabolo Competition 2018",
+    "shortName": "OIDC 2018",
+    "location": "大阪",
+    "venue": "大阪市立西成区民センター ホール",
+    "startDate": "2018-08-13",
+    "endDate": "2018-08-15",
+    "resultUrl": "https://diabolo.jp/OIDC/wp-content/uploads/2018/08/OIDC2018_result.pdf",
+    "infoUrl": "https://diabolo.jp/OIDC/wp-content/uploads/2019/06/OIDC2018_archive.pdf",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "潘仕桓"
+      },
+      {
+        "type": "special",
+        "playerName": "鄭湧蒼"
+      },
+      {
+        "type": "special",
+        "playerName": "台灣五福國小"
+      },
+      {
+        "type": "special",
+        "playerName": "辅士校友会"
+      },
+      {
+        "type": "special",
+        "awardName": "バトル部門1位",
+        "playerName": "林皓緯"
+      },
+      {
+        "type": "special",
+        "awardName": "バトル部門2位",
+        "playerName": "鳥居岳史"
+      },
+      {
+        "type": "special",
+        "awardName": "バトル部門3位",
+        "playerName": "王子昀"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mi-highschool",
+        "name": "高校生男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "pi",
+        "name": "ペア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
         "class": "challenge"
       }
     ]
@@ -864,105 +1235,11 @@
     ]
   },
   {
-    "id": "ajdc-2021",
-    "name": "第十回全日本ディアボロ選手権大会",
-    "shortName": "AJDC 2021",
-    "location": "大阪",
-    "venue": "東成区民センター 大ホール",
-    "startDate": "2021-03-23",
-    "endDate": "2021-03-24",
-    "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2021_result.pdf",
-    "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/AJDC2021_schedule.pdf",
-    "awards": [],
-    "categories": [
-      {
-        "id": "mi",
-        "name": "男子個人総合部門",
-        "class": "overall"
-      },
-      {
-        "id": "wi",
-        "name": "女子個人総合部門",
-        "class": "overall"
-      },
-      {
-        "id": "mj",
-        "name": "男子個人総合ジュニア部門",
-        "class": "overall"
-      },
-      {
-        "id": "wj",
-        "name": "女子個人総合ジュニア部門",
-        "class": "overall"
-      },
-      {
-        "id": "m1dha",
-        "name": "男子1ディアボロ水平軸(固定)部門",
-        "class": "specialist"
-      },
-      {
-        "id": "m1dhb",
-        "name": "男子1ディアボロ水平軸(ベアリング)部門",
-        "class": "specialist"
-      },
-      {
-        "id": "1dv",
-        "name": "男子1ディアボロ垂直軸部門",
-        "class": "specialist"
-      },
-      {
-        "id": "w1d",
-        "name": "女子1ディアボロ部門",
-        "class": "specialist"
-      },
-      {
-        "id": "2da",
-        "name": "2ディアボロ(固定)部門",
-        "class": "specialist"
-      },
-      {
-        "id": "2db",
-        "name": "2ディアボロ(ベアリング)部門",
-        "class": "specialist"
-      },
-      {
-        "id": "3d",
-        "name": "3ディアボロ部門",
-        "class": "specialist"
-      },
-      {
-        "id": "m-ashimawari",
-        "name": "男子1ディアボロ足回り部門",
-        "class": "challenge"
-      },
-      {
-        "id": "w-ashimawari",
-        "name": "女子1ディアボロ足回り部門",
-        "class": "challenge"
-      },
-      {
-        "id": "m-nawatobi",
-        "name": "男子1ディアボロ縄跳び部門",
-        "class": "challenge"
-      },
-      {
-        "id": "w-nawatobi",
-        "name": "女子1ディアボロ縄跳び部門",
-        "class": "challenge"
-      },
-      {
-        "id": "4d-low",
-        "name": "4ディアボロロウ部門",
-        "class": "challenge"
-      }
-    ]
-  },
-  {
     "id": "ajdc-2018",
     "name": "第七回全日本ディアボロ選手権大会",
     "shortName": "AJDC 2018",
     "location": "大阪",
-    "venue": "大阪市立西成区民ホール",
+    "venue": "大阪市立西成区民センター ホール",
     "startDate": "2018-03-28",
     "endDate": "2018-03-30",
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/03/AJDC2018_result.pdf",
@@ -1174,7 +1451,7 @@
       },
       {
         "id": "m1dhb",
-        "name": "男子1ディアボロ水平軸(ペアリング)部門",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
         "class": "specialist"
       },
       {
@@ -1244,7 +1521,7 @@
     "name": "第五回全日本ディアボロ選手権大会",
     "shortName": "AJDC 2016",
     "location": "東京",
-    "venue": "江戸川橋体育館競技場、文京スポーツセンター競技場",
+    "venue": "江戸川橋体育館 競技場 / 文京スポーツセンター 競技場",
     "startDate": "2016-03-29",
     "endDate": "2016-03-31",
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJDC2016_result.pdf",
@@ -1384,27 +1661,101 @@
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJDC2015_result.pdf",
     "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJDC2015_outline.pdf",
     "awards": [
-      { "type": "best-trick", "playerName": "イソベタクミ" },
-      { "type": "special", "playerName": "ヤナガワアヤコ" }
+      {
+        "type": "best-trick",
+        "playerName": "イソベタクミ"
+      },
+      {
+        "type": "special",
+        "playerName": "ヤナガワアヤコ"
+      }
     ],
     "categories": [
-      { "id": "mi", "name": "男子個人総合部門", "class": "overall" },
-      { "id": "wi", "name": "女子個人総合部門", "class": "overall" },
-      { "id": "mh", "name": "高校生男子個人総合部門", "class": "overall" },
-      { "id": "mj", "name": "男子個人総合ジュニア部門", "class": "overall" },
-      { "id": "t", "name": "団体部門", "class": "overall" },
-      { "id": "m1dha", "name": "男子1ディアボロ水平(固定)軸部門", "class": "specialist" },
-      { "id": "m1dhb", "name": "男子1ディアボロ水平(ペアリング)軸部門", "class": "specialist" },
-      { "id": "1dv", "name": "男子1ディアボロ垂直軸部門", "class": "specialist" },
-      { "id": "w1d", "name": "女子1ディアボロ部門", "class": "specialist" },
-      { "id": "2d", "name": "2ディアボロ部門", "class": "specialist" },
-      { "id": "3d", "name": "3ディアボロ部門", "class": "specialist" },
-      { "id": "m-ashimawari", "name": "男子1ディアボロ足回り部門", "class": "challenge" },
-      { "id": "m-nawatobi", "name": "男子1ディアボロ縄跳び部門", "class": "challenge" },
-      { "id": "4d-low", "name": "4ディアボロロウ部門", "class": "challenge" },
-      { "id": "w-nawatobi", "name": "女子1ディアボロ縄跳び部門", "class": "challenge" },
-      { "id": "w-ashimawari", "name": "女子1ディアボロ足回り部門", "class": "challenge" },
-      { "id": "p-pass", "name": "2ディアボロペアパス部門", "class": "challenge" }
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mh",
+        "name": "高校生男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平(固定)軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平(ベアリング)軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2d",
+        "name": "2ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      }
     ]
   },
   {
@@ -1518,22 +1869,75 @@
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJ2013_Result.pdf",
     "infoUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJ2013_Outline.pdf",
     "awards": [
-      { "type": "special", "playerName": "サイトウヒロキ" },
-      { "type": "special", "playerName": "トリイタケミ" },
-      { "type": "special", "playerName": "トリイヒロミキ" }
+      {
+        "type": "special",
+        "playerName": "サイトウヒロキ"
+      },
+      {
+        "type": "special",
+        "playerName": "トリイタケミ"
+      },
+      {
+        "type": "special",
+        "playerName": "トリイヒロミキ"
+      }
     ],
     "categories": [
-      { "id": "mi", "name": "男子個人総合部門", "class": "overall" },
-      { "id": "wi", "name": "女子個人総合部門", "class": "overall" },
-      { "id": "t", "name": "団体部門", "class": "overall" },
-      { "id": "m1dh", "name": "男子1ディアボロ水平軸部門", "class": "specialist" },
-      { "id": "1dv", "name": "男子1ディアボロ垂直軸部門", "class": "specialist" },
-      { "id": "w1d", "name": "女子1ディアボロ部門", "class": "specialist" },
-      { "id": "2d", "name": "2ディアボロ部門", "class": "specialist" },
-      { "id": "3d", "name": "3ディアボロ部門", "class": "specialist" },
-      { "id": "m-ashimawari", "name": "男子1ディアボロ足周り部門", "class": "challenge" },
-      { "id": "w-ashimawari", "name": "女子1ディアボロ足周り部門", "class": "challenge" },
-      { "id": "p-pass", "name": "ディアボロペア2パス部門", "class": "challenge" }
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dh",
+        "name": "男子1ディアボロ水平軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2d",
+        "name": "2ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足周り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足周り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "ディアボロペア2パス部門",
+        "class": "challenge"
+      }
     ]
   },
   {
@@ -1547,9 +1951,152 @@
     "resultUrl": "https://diabolo.jp/AJDC/wp-content/uploads/2018/01/AJ2012_result.pdf",
     "awards": [],
     "categories": [
-      { "id": "1d", "name": "1ディアボロ部門", "class": "specialist" },
-      { "id": "2d", "name": "2ディアボロ部門", "class": "specialist" },
-      { "id": "3d", "name": "3ディアボロ部門", "class": "specialist" }
+      {
+        "id": "1d",
+        "name": "1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2d",
+        "name": "2ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      }
     ]
+  },
+  {
+    "id": "oidc-2017",
+    "name": "Osaka International Diabolo Competition 2017",
+    "shortName": "OIDC 2017",
+    "startDate": "2017-08-14",
+    "endDate": "2017-08-16",
+    "venue": "大阪市立此花区民ホール / 大阪市立東成区民センター 大ホール",
+    "location": "大阪",
+    "resultUrl": "https://diabolo.jp/OIDC/wp-content/uploads/2017/08/OIDC2017_result.pdf",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "廖昱翰"
+      },
+      {
+        "type": "special",
+        "playerName": "鈴式主義"
+      },
+      {
+        "type": "special",
+        "playerName": "泉水 沙樹"
+      },
+      {
+        "type": "special",
+        "playerName": "黃士瑋"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mh",
+        "name": "高校生男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "pi",
+        "name": "ペア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      }
+    ],
+    "infoUrl": "https://diabolo.jp/OIDC/wp-content/uploads/2018/06/OIDC2017_archive.pdf"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4 Diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "tsao-he-li", "playerName": "曹和立 / Tsao He Li", "nationality": "Taiwan", "count": 475, "status": "completed" },
+    { "rank": 2, "playerId": "liao-yu-han", "playerName": "廖昱翰 / Liao Yu Han", "nationality": "Taiwan", "count": 452, "status": "completed" },
+    { "rank": 3, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / Chao Yu-Sung", "nationality": "Taiwan", "count": 382, "status": "completed" },
+    { "rank": 4, "playerId": "tsao-ming-jun", "playerName": "曹名君 / Tsao Ming Jun", "nationality": "Taiwan", "count": 253, "status": "completed" },
+    { "rank": 5, "playerId": "ye-li-ming", "playerName": "葉力銘 / Ye Li Ming", "nationality": "Taiwan", "count": 244, "status": "completed" },
+    { "rank": 6, "playerId": "chen-jun-wei", "playerName": "陳軍瑋 / Chen Jun Wei", "nationality": "Taiwan", "count": 191, "status": "completed" },
+    { "rank": 7, "playerId": "kao-jui-cheng", "playerName": "高睿呈 / Kao Jui Cheng", "nationality": "Taiwan", "count": 189, "status": "completed" },
+    { "rank": 8, "playerId": "torii-takemi", "playerName": "鳥居岳史 / Torii Takemi", "nationality": "Japan", "count": 134, "status": "completed" },
+    { "rank": 9, "playerId": "liao-xin-kuan", "playerName": "廖心寬 / Liao Xin Kuan", "nationality": "Taiwan", "count": 132, "status": "completed" },
+    { "rank": 10, "playerId": "watanuki-shunsuke", "playerName": "綿貫 峻介 / Watanuki Shunsuke", "nationality": "Japan", "count": 78, "status": "completed" },
+    { "rank": 11, "playerId": "pan-shih-huang", "playerName": "潘仕桓 / Pan Shih Huang", "nationality": "Taiwan", "count": 8, "status": "completed" }
+  ]
+}

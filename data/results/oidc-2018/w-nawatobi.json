@@ -1,0 +1,75 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "nameEn": "Women's 1diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "liu-yun",
+      "playerName": "劉芸 / Liu Yun",
+      "nationality": "Taiwan",
+      "count": 79,
+      "note": "OIDC record",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "liu-wei",
+      "playerName": "劉蔵 / Liu Wei",
+      "nationality": "Taiwan",
+      "count": 73,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "gao-ming-xiu",
+      "playerName": "高鳴袖 / Gao Ming Xiu",
+      "nationality": "Taiwan",
+      "count": 67,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "gong-rou-yue",
+      "playerName": "柔月 / Gong Rou Yue",
+      "nationality": "Taiwan",
+      "count": 61,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lin-le-yun",
+      "playerName": "林樂昀 / Lin Le Yun",
+      "nationality": "Taiwan",
+      "count": 55,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "yanagawa-ayako",
+      "playerName": "柳川絢子 / Yanagawa Ayako",
+      "nationality": "Japan",
+      "count": 37,
+      "class": "D",
+      "note": "Japan record",
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "matsuo-mana",
+      "playerName": "松尾 真菜 / Matsuo Mana",
+      "nationality": "Japan",
+      "count": 29,
+      "class": "C",
+      "status": "completed"
+    }
+  ]
+}

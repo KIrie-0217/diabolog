@@ -1,0 +1,26 @@
+{
+  "categoryId": "2db",
+  "name": "2ディアボロ(ベアリング)部門",
+  "nameEn": "2 Diabolo (Bearing) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "cheng-yung-tsang", "playerName": "鄭湧蒼 / Zheng Yong Cang", "nationality": "Taiwan", "scores": { "difficulty": 42.5, "stability": 14.3, "novelty": 27.8, "composition": 9.5, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 91.3, "status": "completed" },
+    { "rank": 2, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / Kamei Hiroki", "nationality": "Japan", "scores": { "difficulty": 38.8, "stability": 12.8, "novelty": 26.3, "composition": 8.3, "execution-deduction": 1.4, "special-deduction": 0.0 }, "totalScore": 84.8, "status": "completed" },
+    { "rank": 3, "playerId": "liao-yi-xiu", "playerName": "廖怡琇 / Liao Yi Xiu", "nationality": "Taiwan", "scores": { "difficulty": 35.0, "stability": 13.0, "novelty": 23.8, "composition": 7.5, "execution-deduction": 0.4, "special-deduction": 0.0 }, "totalScore": 78.9, "status": "completed" },
+    { "rank": 4, "playerId": "wu-chi-ming", "playerName": "吳啟銘 / Wu Chi Ming", "nationality": "Taiwan", "scores": { "difficulty": 40.0, "stability": 12.0, "novelty": 26.3, "composition": 7.5, "execution-deduction": 5.1, "special-deduction": 3.0 }, "totalScore": 77.7, "status": "completed" },
+    { "rank": 5, "playerId": "mitsuyasu-yusuke", "playerName": "光安祐介 / Mitsuyasu Yusuke", "nationality": "Japan", "scores": { "difficulty": 35.5, "stability": 12.3, "novelty": 23.8, "composition": 7.8, "execution-deduction": 2.6, "special-deduction": 0.0 }, "totalScore": 76.8, "status": "completed" },
+    { "rank": 6, "playerId": "okada-mikiya", "playerName": "岡田 樹也 / Okada Mikiya", "nationality": "Japan", "scores": { "difficulty": 30.8, "stability": 10.5, "novelty": 21.8, "composition": 7.5, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 68.8, "status": "completed" },
+    { "rank": 7, "playerId": "lu-chia-lin", "playerName": "呂佳玲 / Lu Chia Lin", "nationality": "Taiwan", "scores": { "difficulty": 31.3, "stability": 10.8, "novelty": 21.5, "composition": 7.0, "execution-deduction": 2.0, "special-deduction": 0.0 }, "totalScore": 68.6, "status": "completed" },
+    { "rank": 8, "playerId": "huang-yi-ching", "playerName": "黃苡晴 / Huang Yi Ching", "nationality": "Taiwan", "scores": { "difficulty": 29.0, "stability": 11.0, "novelty": 18.5, "composition": 6.3, "execution-deduction": 1.0, "special-deduction": 0.0 }, "totalScore": 63.8, "status": "completed" },
+    { "rank": 9, "playerId": "zhang-zhen-lin", "playerName": "張震林 / Zhang Zhen Lin", "nationality": "Taiwan", "scores": { "difficulty": 30.8, "stability": 9.0, "novelty": 21.3, "composition": 5.8, "execution-deduction": 5.6, "special-deduction": 0.0 }, "totalScore": 61.3, "status": "completed" }
+  ]
+}

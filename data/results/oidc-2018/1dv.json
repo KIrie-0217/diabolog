@@ -1,0 +1,179 @@
+{
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "nameEn": "Men's 1diabolo Vertical Axis Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "cheng-yung-tsang",
+      "playerName": "鄭湧蒼 / Zheng Yong Cang",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 39.8, "stability": 12.3, "novelty": 26.3, "composition": 7.8, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 82.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "takamori-hirofumi",
+      "playerName": "高森 啓史 / Takamori Hirofumi",
+      "nationality": "Japan",
+      "scores": { "difficulty": 40.0, "stability": 12.0, "novelty": 24.5, "composition": 7.5, "execution-deduction": 3.8, "special-deduction": 0.0 },
+      "totalScore": 80.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "pan-shih-huang",
+      "playerName": "潘仕桓 / Pan Shih Huang",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 40.3, "stability": 11.0, "novelty": 24.8, "composition": 7.0, "execution-deduction": 4.1, "special-deduction": 0.0 },
+      "totalScore": 79.0,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "haga-kosuke",
+      "playerName": "芳賀 広亮 / Haga Kosuke",
+      "nationality": "Japan",
+      "scores": { "difficulty": 38.0, "stability": 13.0, "novelty": 23.0, "composition": 7.0, "execution-deduction": 2.8, "special-deduction": 0.0 },
+      "totalScore": 78.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / Kamei Hiroki",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.8, "stability": 11.8, "novelty": 27.0, "composition": 7.5, "execution-deduction": 5.4, "special-deduction": 0.0 },
+      "totalScore": 77.7,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "eugene-tan",
+      "playerName": "Eugene Tan",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 34.5, "stability": 11.3, "novelty": 25.8, "composition": 6.8, "execution-deduction": 2.0, "special-deduction": 0.0 },
+      "totalScore": 76.4,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "kosaki-jun",
+      "playerName": "小崎潤 / Kosaki Jun",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.8, "stability": 10.5, "novelty": 25.5, "composition": 7.0, "execution-deduction": 4.4, "special-deduction": 0.0 },
+      "totalScore": 75.4,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "makimoto-kosuke",
+      "playerName": "牧本光輔 / Makimoto Kosuke",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.8, "stability": 11.5, "novelty": 25.8, "composition": 7.8, "execution-deduction": 7.4, "special-deduction": 0.0 },
+      "totalScore": 74.5,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "kondo-masaki",
+      "playerName": "近藤 雅稀 / Kondo Masaki",
+      "nationality": "Japan",
+      "scores": { "difficulty": 35.3, "stability": 10.0, "novelty": 22.0, "composition": 6.8, "execution-deduction": 2.5, "special-deduction": 0.0 },
+      "totalScore": 71.6,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "kusachi-banri",
+      "playerName": "草地 万里 / Kusachi Banri",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.5, "stability": 10.8, "novelty": 22.3, "composition": 6.5, "execution-deduction": 5.1, "special-deduction": 0.0 },
+      "totalScore": 71.0,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "tan-hung-wang",
+      "playerName": "陈棠旺 / TAN HUNG WANG",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 34.0, "stability": 10.8, "novelty": 21.3, "composition": 6.8, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 68.9,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "tan-yu-xuan",
+      "playerName": "陈宇轩 / TAN YU XUAN",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 36.8, "stability": 11.0, "novelty": 24.3, "composition": 7.0, "execution-deduction": 10.6, "special-deduction": 0.0 },
+      "totalScore": 68.5,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "sunahara-hiroto",
+      "playerName": "砂原 啓人 / Sunahara Hiroto",
+      "nationality": "Japan",
+      "scores": { "difficulty": 35.3, "stability": 10.0, "novelty": 21.8, "composition": 7.3, "execution-deduction": 6.8, "special-deduction": 0.0 },
+      "totalScore": 67.6,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "ogawa-yugo",
+      "playerName": "小川 雄梧 / Ogawa Yugo",
+      "nationality": "Japan",
+      "scores": { "difficulty": 35.0, "stability": 10.3, "novelty": 22.5, "composition": 6.5, "execution-deduction": 6.9, "special-deduction": 0.0 },
+      "totalScore": 67.4,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "kao-jiu-cheng",
+      "playerName": "高睿呈 / Kao Jiu Cheng",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 33.3, "stability": 10.3, "novelty": 21.0, "composition": 6.5, "execution-deduction": 5.5, "special-deduction": 0.0 },
+      "totalScore": 65.6,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "guo-yun",
+      "playerName": "郭允 / Guo Yun",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 32.0, "stability": 9.8, "novelty": 22.0, "composition": 6.5, "execution-deduction": 8.0, "special-deduction": 0.0 },
+      "totalScore": 62.3,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "asaki-shunta",
+      "playerName": "朝木 俊太 / Asaki Shunta",
+      "nationality": "Japan",
+      "scores": { "difficulty": 32.8, "stability": 8.8, "novelty": 21.3, "composition": 5.8, "execution-deduction": 7.0, "special-deduction": 0.0 },
+      "totalScore": 61.7,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "pan-yong-xin",
+      "playerName": "潘永鑫 / Pan Yong Xin",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 28.3, "stability": 9.0, "novelty": 19.0, "composition": 6.8, "execution-deduction": 6.6, "special-deduction": 0.0 },
+      "totalScore": 56.5,
+      "status": "completed"
+    }
+  ]
+}

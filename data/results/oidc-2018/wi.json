@@ -1,0 +1,82 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tan-ke-wei",
+      "playerName": "陈可薇 / TAN KE WEI",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 24.4, "variety": 7.6, "stability": 8.6, "novelty": 7.4, "composition": 19.85, "base-score": 15, "execution-deduction": 1.6, "special-deduction": 0.0 },
+      "totalScore": 81.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kowa-pei-joo",
+      "playerName": "柯姵如 / KOWA PEI JOO",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 24.0, "variety": 6.8, "stability": 6.8, "novelty": 7.8, "composition": 21.21, "base-score": 15, "execution-deduction": 5.8, "special-deduction": 0.0 },
+      "totalScore": 75.8,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "soh-sze-qi",
+      "playerName": "徐诗琦 / SOH SZE QI",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 23.0, "variety": 7.0, "stability": 6.4, "novelty": 6.8, "composition": 20.2, "base-score": 15, "execution-deduction": 5.8, "special-deduction": 0.0 },
+      "totalScore": 72.6,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tye-yi-xin",
+      "playerName": "戴以芯 / Tye Yi Xin",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 22.0, "variety": 6.8, "stability": 6.4, "novelty": 7.2, "composition": 20.2, "base-score": 15, "execution-deduction": 6.1, "special-deduction": 0.0 },
+      "totalScore": 71.5,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "ngai-bao-wen",
+      "playerName": "魏宝雯 / NGAI BAO WEN",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 22.2, "variety": 6.8, "stability": 6.2, "novelty": 6.8, "composition": 20.6, "base-score": 15, "execution-deduction": 6.6, "special-deduction": 0.0 },
+      "totalScore": 71.0,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "wong-xue-er",
+      "playerName": "黄雪儿 / Wong Xue Er",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 21.8, "variety": 6.6, "stability": 6.8, "novelty": 6.4, "composition": 19.4, "base-score": 15, "execution-deduction": 5.8, "special-deduction": 0.0 },
+      "totalScore": 70.2,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "wong-sze-pei",
+      "playerName": "黄诗贝 / Wong Sze Pei",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 21.8, "variety": 6.6, "stability": 6.2, "novelty": 6.6, "composition": 19.2, "base-score": 15, "execution-deduction": 7.1, "special-deduction": 0.0 },
+      "totalScore": 68.3,
+      "status": "completed"
+    }
+  ]
+}

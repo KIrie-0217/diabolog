@@ -1,0 +1,20 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "team:xing-you-ling-xi", "playerName": "興友鈴犀 / Xing You Ling Xi", "nationality": "Taiwan", "scores": { "difficulty": 34.6, "synchronization": 25.0, "composition": 25.2, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 83.0, "status": "completed" },
+    { "rank": 2, "playerId": "team:bei-shi-da-lian-dui", "playerName": "北市大聯隊 / Bei Shi Da Lian Dui", "nationality": "Taiwan", "scores": { "difficulty": 30.2, "synchronization": 20.0, "composition": 21.2, "execution-deduction": 7.4, "special-deduction": 0.0 }, "totalScore": 64.0, "status": "completed" },
+    { "rank": 3, "playerId": "team:over-the-limit", "playerName": "鈴極限 / Over The Limit", "nationality": "Taiwan", "scores": { "difficulty": 26.2, "synchronization": 19.0, "composition": 20.0, "execution-deduction": 6.0, "special-deduction": 3.0 }, "totalScore": 56.2, "status": "completed" },
+    { "rank": 4, "playerId": "team:makis-taiwanese-friends", "playerName": "Maki's Taiwanese friends", "nationality": "Mixed", "scores": { "difficulty": 22.8, "synchronization": 18.0, "composition": 19.6, "execution-deduction": 5.0, "special-deduction": 6.0 }, "totalScore": 49.4, "status": "completed" }
+  ]
+}

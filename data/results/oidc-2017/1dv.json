@@ -1,0 +1,33 @@
+{
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "nameEn": "Men's 1 Diabolo Vertical Axis Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "sensui-saki", "playerName": "泉水 沙樹 / Sensui Saki", "nationality": "Japan", "scores": { "difficulty": 41.0, "stability": 14.0, "novelty": 25.3, "composition": 7.3, "execution-deduction": 0.0, "special-deduction": 0.0 }, "totalScore": 87.6, "status": "completed" },
+    { "rank": 2, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / Kamei Hiroki", "nationality": "Japan", "scores": { "difficulty": 37.3, "stability": 14.0, "novelty": 27.0, "composition": 8.3, "execution-deduction": 0.0, "special-deduction": 0.0 }, "totalScore": 86.6, "status": "completed" },
+    { "rank": 3, "playerId": "kanno-joei", "playerName": "菅野 晟永 / Kanno Joei", "nationality": "Japan", "scores": { "difficulty": 40.5, "stability": 13.3, "novelty": 26.5, "composition": 8.0, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 86.5, "status": "completed" },
+    { "rank": 4, "playerId": "maeda-ryosuke", "playerName": "前田 凌佑 / Maeda Ryosuke", "nationality": "Japan", "scores": { "difficulty": 39.5, "stability": 13.0, "novelty": 26.5, "composition": 8.5, "execution-deduction": 2.3, "special-deduction": 0.0 }, "totalScore": 85.2, "status": "completed" },
+    { "rank": 5, "playerId": "yamazaki-soshi", "playerName": "山崎 創史 / Yamazaki Soshi", "nationality": "Japan", "scores": { "difficulty": 40.8, "stability": 13.0, "novelty": 25.0, "composition": 7.3, "execution-deduction": 1.6, "special-deduction": 0.0 }, "totalScore": 84.5, "status": "completed" },
+    { "rank": 6, "playerId": "takano-sho", "playerName": "高野 勝 / Takano Sho", "nationality": "Japan", "scores": { "difficulty": 38.5, "stability": 12.5, "novelty": 25.8, "composition": 8.0, "execution-deduction": 2.3, "special-deduction": 0.0 }, "totalScore": 82.5, "status": "completed" },
+    { "rank": 7, "playerId": "kosaki-jun", "playerName": "小崎潤 / Kosaki Jun", "nationality": "Japan", "scores": { "difficulty": 36.5, "stability": 11.5, "novelty": 25.0, "composition": 7.0, "execution-deduction": 1.6, "special-deduction": 0.0 }, "totalScore": 78.4, "status": "completed" },
+    { "rank": 8, "playerId": "takamori-hirofumi", "playerName": "高森 啓史 / Takamori Hirofumi", "nationality": "Japan", "scores": { "difficulty": 37.5, "stability": 11.0, "novelty": 24.5, "composition": 7.5, "execution-deduction": 5.6, "special-deduction": 0.0 }, "totalScore": 74.9, "status": "completed" },
+    { "rank": 9, "playerId": "yamada-jun", "playerName": "山田 純 / Yamada Jun", "nationality": "Japan", "scores": { "difficulty": 34.8, "stability": 11.8, "novelty": 23.5, "composition": 6.8, "execution-deduction": 2.4, "special-deduction": 0.0 }, "totalScore": 74.5, "status": "completed" },
+    { "rank": 10, "playerId": "makimoto-kosuke", "playerName": "牧本 光輔 / Makimoto Kosuke", "nationality": "Japan", "scores": { "difficulty": 35.3, "stability": 10.8, "novelty": 24.0, "composition": 7.3, "execution-deduction": 3.8, "special-deduction": 0.0 }, "totalScore": 73.6, "status": "completed" },
+    { "rank": 11, "playerId": "ogawa-yugo", "playerName": "小川 雄梧 / Ogawa Yugo", "nationality": "Japan", "scores": { "difficulty": 35.3, "stability": 10.8, "novelty": 22.3, "composition": 6.8, "execution-deduction": 3.9, "special-deduction": 0.0 }, "totalScore": 71.3, "status": "completed" },
+    { "rank": 12, "playerId": "li-zong-han", "playerName": "李宗翰 / Li Zong Han", "nationality": "Taiwan", "scores": { "difficulty": 33.3, "stability": 11.0, "novelty": 22.3, "composition": 7.5, "execution-deduction": 3.9, "special-deduction": 0.0 }, "totalScore": 70.2, "status": "completed" },
+    { "rank": 13, "playerId": "akizuki-yuki", "playerName": "秋月勇樹 / Akizuki Yuki", "nationality": "Japan", "scores": { "difficulty": 32.3, "stability": 11.5, "novelty": 21.3, "composition": 6.8, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 69.4, "status": "completed" },
+    { "rank": 14, "playerId": "wu-hao-zhong", "playerName": "吳顥中 / Wu Hao Zhong", "nationality": "Taiwan", "scores": { "difficulty": 34.5, "stability": 10.0, "novelty": 24.0, "composition": 6.8, "execution-deduction": 6.1, "special-deduction": 0.0 }, "totalScore": 69.2, "status": "completed" },
+    { "rank": 15, "playerId": "suzuki-takayuki", "playerName": "鈴木 貴之 / Suzuki Takayuki", "nationality": "Japan", "scores": { "difficulty": 31.5, "stability": 10.5, "novelty": 21.5, "composition": 6.3, "execution-deduction": 3.5, "special-deduction": 0.0 }, "totalScore": 66.3, "status": "completed" },
+    { "rank": 16, "playerId": "ruan-yun-ze", "playerName": "阮云澤 / Ruan Yun Ze", "nationality": "Taiwan", "scores": { "difficulty": 33.0, "stability": 9.3, "novelty": 20.5, "composition": 6.0, "execution-deduction": 7.8, "special-deduction": 0.0 }, "totalScore": 61.0, "status": "completed" }
+  ]
+}

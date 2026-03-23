@@ -1,0 +1,74 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1diabolo Leg Spin Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "count": 184,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "agou-tensei",
+      "playerName": "吾郷 天星 / Agou Tensei",
+      "nationality": "Japan",
+      "count": 177,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "makino-sena",
+      "playerName": "牧野瀬南 / Makino Sena",
+      "nationality": "Japan",
+      "count": 158,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "guo-yun",
+      "playerName": "郭允 / Guo Yun",
+      "nationality": "Taiwan",
+      "count": 141,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kajihara-tatsuhito",
+      "playerName": "梶原 達人 / Kajihara Tatsuhito",
+      "nationality": "Japan",
+      "count": 117,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / Kamei Hiroki",
+      "nationality": "Japan",
+      "count": 113,
+      "class": "D",
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "pan-yong-xin",
+      "playerName": "潘永鑫 / Pan Yong Xin",
+      "nationality": "Taiwan",
+      "count": 108,
+      "class": "A",
+      "status": "completed"
+    }
+  ]
+}

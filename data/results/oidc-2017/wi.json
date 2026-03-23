@@ -1,0 +1,31 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tseng-yu-shan", "playerName": "曾于珊 / Chen Yu Shan", "nationality": "Taiwan", "scores": { "difficulty": 24.2, "variety": 7.6, "stability": 8.0, "novelty": 6.8, "composition": 22.21, "base-score": 15, "execution-deduction": 4.6, "special-deduction": 0.0 }, "totalScore": 79.2, "status": "completed" },
+    { "rank": 2, "playerId": "wang-hong-yu", "playerName": "王泓瑜 / Wang Hong Yu", "nationality": "Taiwan", "scores": { "difficulty": 24.2, "variety": 7.0, "stability": 7.4, "novelty": 7.2, "composition": 22.21, "base-score": 15, "execution-deduction": 3.9, "special-deduction": 0.0 }, "totalScore": 79.1, "status": "completed" },
+    { "rank": 3, "playerId": "sudo-maki", "playerName": "須藤 麻希 / Sudo Maki", "nationality": "Japan", "scores": { "difficulty": 23.2, "variety": 6.6, "stability": 7.0, "novelty": 7.0, "composition": 21.83, "base-score": 15, "execution-deduction": 3.0, "special-deduction": 0.0 }, "totalScore": 77.6, "status": "completed" },
+    { "rank": 4, "playerId": "shen-jun-ling", "playerName": "沈君玲 / Shen Jun Ling", "nationality": "Taiwan", "scores": { "difficulty": 23.6, "variety": 7.4, "stability": 7.4, "novelty": 6.6, "composition": 20.46, "base-score": 15, "execution-deduction": 3.4, "special-deduction": 0.0 }, "totalScore": 77.0, "status": "completed" },
+    { "rank": 5, "playerId": "yanagawa-ayako", "playerName": "柳川絢子 / Yanagawa Ayako", "nationality": "Japan", "scores": { "difficulty": 24.0, "variety": 6.2, "stability": 6.6, "novelty": 7.4, "composition": 19.88, "base-score": 15, "execution-deduction": 3.4, "special-deduction": 0.0 }, "totalScore": 75.6, "status": "completed" },
+    { "rank": 6, "playerId": "zhong-yu-ti", "playerName": "鍾雨緹 / Zhong Yu Ti", "nationality": "Taiwan", "scores": { "difficulty": 23.8, "variety": 7.2, "stability": 6.4, "novelty": 7.0, "composition": 21.83, "base-score": 15, "execution-deduction": 5.8, "special-deduction": 0.0 }, "totalScore": 75.4, "status": "completed" },
+    { "rank": 7, "playerId": "wang-ting-tun", "playerName": "王廷汭 / Wang Ting Tun", "nationality": "Taiwan", "scores": { "difficulty": 22.6, "variety": 6.8, "stability": 7.2, "novelty": 6.8, "composition": 21.25, "base-score": 15, "execution-deduction": 4.3, "special-deduction": 0.0 }, "totalScore": 75.3, "status": "completed" },
+    { "rank": 8, "playerId": "juan-tzu-yu", "playerName": "阮梓瑜 / Juan Tzu-Yu", "nationality": "Taiwan", "scores": { "difficulty": 23.2, "variety": 7.2, "stability": 6.6, "novelty": 6.8, "composition": 19.88, "base-score": 15, "execution-deduction": 4.7, "special-deduction": 0.0 }, "totalScore": 73.9, "status": "completed" },
+    { "rank": 9, "playerId": "lu-chia-lin", "playerName": "呂佳玲 / Lu Chia Lin", "nationality": "Taiwan", "scores": { "difficulty": 22.2, "variety": 6.6, "stability": 6.6, "novelty": 7.0, "composition": 18.6, "base-score": 15, "execution-deduction": 2.2, "special-deduction": 0.0 }, "totalScore": 73.8, "status": "completed" },
+    { "rank": 10, "playerId": "he-xin-xuan", "playerName": "何新璇 / He Xin Xuan", "nationality": "Taiwan", "scores": { "difficulty": 21.2, "variety": 6.8, "stability": 6.2, "novelty": 5.8, "composition": 20.27, "base-score": 15, "execution-deduction": 6.5, "special-deduction": 0.0 }, "totalScore": 68.7, "status": "completed" },
+    { "rank": 11, "playerId": "lin-qiao-han", "playerName": "林巧涵 / Lin Qiao Han", "nationality": "Taiwan", "scores": { "difficulty": 21.0, "variety": 6.2, "stability": 6.2, "novelty": 6.2, "composition": 19.8, "base-score": 15, "execution-deduction": 6.9, "special-deduction": 0.0 }, "totalScore": 67.5, "status": "completed" },
+    { "rank": null, "playerId": "ando-aki", "playerName": "安藤 萌 / Ando Aki", "nationality": "Japan", "status": "dns" }
+  ]
+}

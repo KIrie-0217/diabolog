@@ -1,0 +1,63 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "nameEn": "Women's 1diabolo Leg Spin Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "gong-rou-yue",
+      "playerName": "龔柔月 / Gong Rou Yue",
+      "nationality": "Taiwan",
+      "count": 130,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "chen-yi-ting",
+      "playerName": "陳儀庭 / Chen Yi Ting",
+      "nationality": "Taiwan",
+      "count": 126,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "liu-hsin",
+      "playerName": "劉芯 / Liu Hsin",
+      "nationality": "Taiwan",
+      "count": 123,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "lee-ting-wen",
+      "playerName": "李庭芝 / Lee Ting Wen",
+      "nationality": "Taiwan",
+      "count": 107,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "higuchi-yoko",
+      "playerName": "樋口瑛子 / Higuchi Yoko",
+      "nationality": "Japan",
+      "count": 87,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "makino-runa",
+      "playerName": "牧野 瑠南 / Makino Runa",
+      "nationality": "Japan",
+      "count": 77,
+      "class": "A",
+      "status": "completed"
+    }
+  ]
+}

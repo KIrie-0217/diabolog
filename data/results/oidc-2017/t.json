@@ -1,0 +1,22 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "team:ling-shi-zhu-yi", "playerName": "鈴式主義 / Ling Shi Zhu Yi", "nationality": "Taiwan", "scores": { "difficulty": 37.4, "synchronization": 28.8, "composition": 28.0, "execution-deduction": 3.0, "special-deduction": 0.0 }, "totalScore": 91.2, "status": "completed" },
+    { "rank": 2, "playerId": "team:ping-dong-zhang-zhi", "playerName": "屏東縣長治國中 / Ping Dong Xian Zhang Zhi Guo Zhong", "nationality": "Taiwan", "scores": { "difficulty": 34.8, "synchronization": 24.8, "composition": 25.8, "execution-deduction": 6.6, "special-deduction": 0.0 }, "totalScore": 78.8, "status": "completed" },
+    { "rank": 3, "playerId": "team:ming-dao-xiao-fei-ling", "playerName": "明道小飛鈴 / Ming Dao Xiao Fei Ling", "nationality": "Taiwan", "scores": { "difficulty": 30.6, "synchronization": 25.4, "composition": 25.2, "execution-deduction": 4.4, "special-deduction": 0.0 }, "totalScore": 76.8, "status": "completed" },
+    { "rank": 4, "playerId": "team:cong-ling-kai-shi-b", "playerName": "從鈴開始B / Cong Ling Kai Shi B", "nationality": "Taiwan", "scores": { "difficulty": 33.2, "synchronization": 23.2, "composition": 23.2, "execution-deduction": 5.6, "special-deduction": 0.0 }, "totalScore": 74.0, "status": "completed" },
+    { "rank": 5, "playerId": "team:cong-ling-kai-shi-a", "playerName": "從鈴開始A / Cong Ling Kai Shi A", "nationality": "Taiwan", "scores": { "difficulty": 30.8, "synchronization": 23.2, "composition": 23.4, "execution-deduction": 4.2, "special-deduction": 0.0 }, "totalScore": 73.2, "status": "completed" },
+    { "rank": 6, "playerId": "team:capt-2017", "playerName": "CAPT", "nationality": "Taiwan", "scores": { "difficulty": 33.4, "synchronization": 20.8, "composition": 23.0, "execution-deduction": 7.0, "special-deduction": 0.0 }, "totalScore": 70.2, "status": "completed" }
+  ]
+}

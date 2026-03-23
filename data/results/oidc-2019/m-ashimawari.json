@@ -1,0 +1,21 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1 Diabolo Leg Orbits Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / Torii Hiromiki", "nationality": "Japan", "count": 193, "status": "completed" },
+    { "rank": 2, "playerId": "makino-sena", "playerName": "牧野 瀬南 / Makino Sena", "nationality": "Japan", "count": 160, "class": "A", "status": "completed" },
+    { "rank": 3, "playerId": "agou-tensei", "playerName": "吾郷 天星 / Agou Tensei", "nationality": "Japan", "count": 153, "class": "B", "status": "completed" },
+    { "rank": 4, "playerId": "tanioka-kaketo", "playerName": "谷岡 翔人 / Tanioka Kaketo", "nationality": "Japan", "count": 125, "class": "A", "status": "completed" },
+    { "rank": 5, "playerId": "lien-jia-jiun", "playerName": "連家駿 / Lian Jia Jiun", "nationality": "Taiwan", "count": 120, "class": "A", "status": "completed" },
+    { "rank": 6, "playerId": "kajihara-tatsuhito", "playerName": "梶原 達人 / Kajihara Tatsuhito", "nationality": "Japan", "count": 111, "class": "A", "status": "completed" },
+    { "rank": 7, "playerId": "hsu-yu-hao", "playerName": "許育豪 / HSU YU-HAO", "nationality": "Taiwan", "count": 96, "class": "B", "status": "completed" },
+    { "rank": 8, "playerId": "liu-yang-che", "playerName": "劉仰哲 / Liu Yang Che", "nationality": "Taiwan", "count": 87, "class": "A", "status": "completed" },
+    { "rank": 9, "playerId": "kunisawa-kohei", "playerName": "國澤 昂平 / Kunisawa Kohei", "nationality": "Japan", "count": 80, "class": "C", "status": "completed" },
+    { "rank": 10, "playerId": "kajihara-tomohito", "playerName": "梶原 智人 / Kajihara Tomohito", "nationality": "Japan", "count": 58, "class": "A", "status": "completed" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "nameEn": "Women's 1 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / Tsai Chun-Hui", "nationality": "Taiwan", "scores": { "difficulty": 40.8, "stability": 13.5, "novelty": 22.3, "composition": 8.3, "execution-deduction": 1.1, "special-deduction": 0.0 }, "totalScore": 83.8, "status": "completed" },
+    { "rank": 2, "playerId": "oishi-mayu", "playerName": "大石 麻由 / Oishi Mayu", "nationality": "Japan", "scores": { "difficulty": 38.0, "stability": 11.0, "novelty": 24.8, "composition": 7.8, "execution-deduction": 4.6, "special-deduction": 0.0 }, "totalScore": 77.0, "status": "completed" },
+    { "rank": 3, "playerId": "yanagawa-ayako", "playerName": "柳川絢子 / Yanagawa Ayako", "nationality": "Japan", "scores": { "difficulty": 33.8, "stability": 11.8, "novelty": 22.8, "composition": 7.3, "execution-deduction": 3.4, "special-deduction": 0.0 }, "totalScore": 72.3, "status": "completed" },
+    { "rank": 4, "playerId": "zheng-kang-yi", "playerName": "鄭康怡 / Zheng Kang Yi", "nationality": "Taiwan", "scores": { "difficulty": 30.5, "stability": 12.3, "novelty": 18.3, "composition": 6.3, "execution-deduction": 0.3, "special-deduction": 0.0 }, "totalScore": 67.1, "status": "completed" },
+    { "rank": 5, "playerId": "nagasaka-mizuki", "playerName": "長坂 美都希 / Nagasaka Mizuki", "nationality": "Japan", "scores": { "difficulty": 31.5, "stability": 8.8, "novelty": 23.5, "composition": 6.3, "execution-deduction": 5.3, "special-deduction": 0.0 }, "totalScore": 64.8, "status": "completed" },
+    { "rank": 6, "playerId": "koseki-megumi", "playerName": "古関萌 / Koseki Megumi", "nationality": "Japan", "scores": { "difficulty": 32.5, "stability": 9.3, "novelty": 19.0, "composition": 6.0, "execution-deduction": 2.3, "special-deduction": 0.0 }, "totalScore": 64.5, "status": "completed" }
+  ]
+}

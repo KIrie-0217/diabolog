@@ -1,0 +1,36 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "huang-shih-wei", "playerName": "黃士瑋 / Huang Shi Wei", "nationality": "Taiwan", "scores": { "difficulty": 28.4, "variety": 8.8, "stability": 9.2, "novelty": 8.2, "composition": 16.4, "base-score": 20.0, "execution-deduction": 2.8, "special-deduction": 0.0 }, "totalScore": 89.2, "status": "completed" },
+    { "rank": 2, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / Torii Hiromiki", "nationality": "Japan", "scores": { "difficulty": 26.4, "variety": 8.4, "stability": 8.6, "novelty": 9.0, "composition": 16.0, "base-score": 20.0, "execution-deduction": 5.0, "special-deduction": 0.0 }, "totalScore": 83.8, "status": "completed" },
+    { "rank": 3, "playerId": "ishimizu-taiki", "playerName": "石水 泰樹 / Ishimizu Taiki", "nationality": "Japan", "scores": { "difficulty": 24.8, "variety": 8.0, "stability": 8.0, "novelty": 8.0, "composition": 14.8, "base-score": 20.0, "execution-deduction": 4.0, "special-deduction": 0.0 }, "totalScore": 80.8, "status": "completed" },
+    { "rank": 4, "playerId": "ong-hock-eng", "playerName": "王福恩 / Ong Hock Eng", "nationality": "Malaysia", "scores": { "difficulty": 24.4, "variety": 7.8, "stability": 7.6, "novelty": 7.4, "composition": 16.2, "base-score": 20.0, "execution-deduction": 1.6, "special-deduction": 0.0 }, "totalScore": 80.4, "status": "completed" },
+    { "rank": 5, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / CHAO YU-SUNG", "nationality": "Taiwan", "scores": { "difficulty": 26.0, "variety": 8.6, "stability": 8.0, "novelty": 8.4, "composition": 16.4, "base-score": 20.0, "execution-deduction": 7.2, "special-deduction": 0.0 }, "totalScore": 80.0, "status": "completed" },
+    { "rank": 6, "playerId": "tada-kazuki", "playerName": "田多 加津輝 / Tada Kazuki", "nationality": "Japan", "scores": { "difficulty": 23.8, "variety": 7.8, "stability": 8.0, "novelty": 7.4, "composition": 17.4, "base-score": 20.0, "execution-deduction": 5.1, "special-deduction": 0.0 }, "totalScore": 78.3, "status": "completed" },
+    { "rank": 7, "playerId": "kan-takafumi", "playerName": "菅尚文 / Kan Takafumi", "nationality": "Japan", "scores": { "difficulty": 23.0, "variety": 7.4, "stability": 7.6, "novelty": 6.8, "composition": 15.6, "base-score": 20.0, "execution-deduction": 3.6, "special-deduction": 0.0 }, "totalScore": 76.8, "status": "completed" },
+    { "rank": 8, "playerId": "kudo-masahiro", "playerName": "工藤 正景 / Kudo Masahiro", "nationality": "Japan", "scores": { "difficulty": 22.8, "variety": 7.6, "stability": 7.8, "novelty": 6.8, "composition": 17.0, "base-score": 20.0, "execution-deduction": 5.5, "special-deduction": 0.0 }, "totalScore": 76.5, "status": "completed" },
+    { "rank": 9, "playerId": "chen-chun-wei", "playerName": "陳軍瑋 / CHEN CHUN-WEI", "nationality": "Taiwan", "scores": { "difficulty": 25.6, "variety": 7.6, "stability": 7.4, "novelty": 8.0, "composition": 14.4, "base-score": 20.0, "execution-deduction": 6.6, "special-deduction": 0.0 }, "totalScore": 76.4, "status": "completed" },
+    { "rank": 10, "playerId": "chen-yi-cheng", "playerName": "陳奕丞 / CHEN YI-CHENG", "nationality": "Taiwan", "scores": { "difficulty": 24.4, "variety": 8.0, "stability": 7.4, "novelty": 7.6, "composition": 13.8, "base-score": 20.0, "execution-deduction": 5.4, "special-deduction": 0.0 }, "totalScore": 75.8, "status": "completed" },
+    { "rank": 11, "playerId": "shimizu-kouta", "playerName": "清水 公太 / Shimizu Kota", "nationality": "Japan", "scores": { "difficulty": 22.6, "variety": 7.0, "stability": 6.6, "novelty": 6.0, "composition": 14.6, "base-score": 20.0, "execution-deduction": 5.1, "special-deduction": 0.0 }, "totalScore": 73.5, "status": "completed" },
+    { "rank": 12, "playerId": "lee-chen-xuan", "playerName": "李承軒 / Terrence Lee Chen xuan", "nationality": "Malaysia", "scores": { "difficulty": 20.0, "variety": 6.6, "stability": 7.0, "novelty": 7.8, "composition": 14.2, "base-score": 20.0, "execution-deduction": 1.4, "special-deduction": 0.0 }, "totalScore": 72.6, "status": "completed" },
+    { "rank": 13, "playerId": "ishida-ryosuke", "playerName": "石田 亮祐 / Ishida Ryosuke", "nationality": "Japan", "scores": { "difficulty": 18.0, "variety": 6.0, "stability": 6.8, "novelty": 5.6, "composition": 16.8, "base-score": 20.0, "execution-deduction": 2.2, "special-deduction": 0.0 }, "totalScore": 72.2, "status": "completed" },
+    { "rank": 14, "playerId": "tomita-hikaru", "playerName": "冨田 輝 / Tomita Hikaru", "nationality": "Japan", "scores": { "difficulty": 20.4, "variety": 7.0, "stability": 6.6, "novelty": 6.6, "composition": 15.0, "base-score": 20.0, "execution-deduction": 5.6, "special-deduction": 0.0 }, "totalScore": 70.2, "status": "completed" },
+    { "rank": 15, "playerId": "chiang-chia-hung", "playerName": "姜佳宏 / CHIANG CHIA-HUNG", "nationality": "Taiwan", "scores": { "difficulty": 21.0, "variety": 7.2, "stability": 6.2, "novelty": 6.8, "composition": 13.4, "base-score": 20.0, "execution-deduction": 10.2, "special-deduction": 0.0 }, "totalScore": 64.4, "status": "completed" },
+    { "rank": 16, "playerId": "chen-yi-fan", "playerName": "陳一帆 / CHEN YI-FAN", "nationality": "Taiwan", "scores": { "difficulty": 17.8, "variety": 6.2, "stability": 6.8, "novelty": 6.0, "composition": 14.2, "base-score": 15.0, "execution-deduction": 4.2, "special-deduction": 0.0 }, "totalScore": 61.8, "status": "completed" },
+    { "rank": 17, "playerId": "ong-hock-ooi", "playerName": "王福慧 / Ong Hock Ooi", "nationality": "Malaysia", "scores": { "difficulty": 16.0, "variety": 5.4, "stability": 6.4, "novelty": 5.2, "composition": 12.4, "base-score": 15.0, "execution-deduction": 5.0, "special-deduction": 0.0 }, "totalScore": 55.4, "status": "completed" }
+  ]
+}

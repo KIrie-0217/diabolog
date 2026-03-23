@@ -1,0 +1,105 @@
+{
+  "categoryId": "2db",
+  "name": "2ディアボロ(ベアリング)部門",
+  "nameEn": "2diabolo (Bearing) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "cheng-yung-tsang",
+      "playerName": "鄭湧蒼 / Zheng Yong Cang",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 41.0, "stability": 13.0, "novelty": 25.8, "composition": 8.3, "execution-deduction": 3.0, "special-deduction": 0.0 },
+      "totalScore": 85.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "scores": { "difficulty": 41.5, "stability": 12.3, "novelty": 28.0, "composition": 7.3, "execution-deduction": 5.1, "special-deduction": 0.0 },
+      "totalScore": 84.0,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井 大輝 / Kamei Hiroki",
+      "nationality": "Japan",
+      "scores": { "difficulty": 38.8, "stability": 12.8, "novelty": 25.8, "composition": 7.8, "execution-deduction": 1.5, "special-deduction": 0.0 },
+      "totalScore": 83.7,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "koizumi-yuuki",
+      "playerName": "小泉 優樹 / Koizumi Yuki",
+      "nationality": "Japan",
+      "scores": { "difficulty": 37.0, "stability": 11.8, "novelty": 23.0, "composition": 6.8, "execution-deduction": 2.1, "special-deduction": 0.0 },
+      "totalScore": 76.5,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "fuse-koichiro",
+      "playerName": "布施孝一郎 / Fuse Koichiro",
+      "nationality": "Japan",
+      "scores": { "difficulty": 35.3, "stability": 11.3, "novelty": 26.3, "composition": 6.8, "execution-deduction": 4.9, "special-deduction": 0.0 },
+      "totalScore": 74.8,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "mitsuyasu-yusuke",
+      "playerName": "光安祐介 / Mitsuyasu Yusuke",
+      "nationality": "Japan",
+      "scores": { "difficulty": 35.8, "stability": 11.8, "novelty": 22.0, "composition": 7.0, "execution-deduction": 2.8, "special-deduction": 0.0 },
+      "totalScore": 73.8,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "muramatsu-junpei",
+      "playerName": "村松淳平 / Muramatsu Jumpei",
+      "nationality": "Japan",
+      "scores": { "difficulty": 35.8, "stability": 10.3, "novelty": 24.5, "composition": 6.5, "execution-deduction": 5.6, "special-deduction": 0.0 },
+      "totalScore": 71.5,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "guo-yun",
+      "playerName": "郭允 / Guo Yun",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 34.8, "stability": 11.0, "novelty": 22.5, "composition": 6.5, "execution-deduction": 7.5, "special-deduction": 0.0 },
+      "totalScore": 67.3,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "muto-taiga",
+      "playerName": "武藤 大河 / Muto Taiga",
+      "nationality": "Japan",
+      "scores": { "difficulty": 32.0, "stability": 8.8, "novelty": 21.5, "composition": 6.3, "execution-deduction": 7.1, "special-deduction": 0.0 },
+      "totalScore": 61.5,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "torii-takemi",
+      "playerName": "鳥居 岳史 / Torii Takemi",
+      "nationality": "Japan",
+      "status": "dns"
+    }
+  ]
+}

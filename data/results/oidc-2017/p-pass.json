@@ -1,0 +1,21 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2 Diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki+torii-takemi-2017", "playerName": "鳥居 大幹/鳥居 岳史 / Torii Hiromiki/Torii Takemi", "nationality": "Japan", "count": 85, "status": "completed" },
+    { "rank": 2, "playerId": "suwa-koki+takamori-hirofumi-2017", "playerName": "諏訪 康貴/高森 啓史 / Suwa Koki/Takamori Hirofumi", "nationality": "Japan", "count": 50, "status": "completed" },
+    { "rank": 3, "playerId": "cheng-yung-tsang+zhang-zhen-lin", "playerName": "鄭湧蒼/張震林 / Zheng Yong Cang/Zhang Zhen Lin", "nationality": "Taiwan", "count": 35, "status": "completed" },
+    { "rank": 4, "playerId": "makino-sena+makino-shinichi-2017", "playerName": "牧野 瀬南/牧野真一 / Makino Sena/Makino Shinichi", "nationality": "Japan", "count": 31, "status": "completed" },
+    { "rank": 5, "playerId": "lin-wei-liang+makimoto-kosuke", "playerName": "林韋良/牧本 光輔 / Lin Wei Liang/Makimoto Kosuke", "nationality": "Mixed", "count": 29, "status": "completed" },
+    { "rank": 6, "playerId": "tsunoda-yukiko+michibata-ena-2017", "playerName": "角田 有紀子/道端 映奈 / Tsunoda Yukiko/Michibata Ena", "nationality": "Japan", "count": 23, "status": "completed" },
+    { "rank": 7, "playerId": "hiraiwa-kazuya+kaida-hironobu", "playerName": "平岩 和也/甲斐田豊伸 / Hiraiwa Kazuya/Kaida Hironobu", "nationality": "Japan", "count": 21, "status": "completed" },
+    { "rank": 8, "playerId": "morimoto-yusuke+yoshii-norihiro", "playerName": "森本 祐介/吉井 紀博 / Morimoto Yusuke/Yoshii Norihiro", "nationality": "Japan", "count": 17, "status": "completed" },
+    { "rank": 9, "playerId": "ujiie-michito+nakamura-makoto", "playerName": "氏家 道登/中村誠 / Ujiie Michito/Nakamura Makoto", "nationality": "Japan", "count": 10, "status": "completed" },
+    { "rank": 10, "playerId": "maeda-ryosuke+tokimori-eiji-2017", "playerName": "前田 凌佑/時盛瑛史 / Maeda Ryosuke/Tokimori Eiji", "nationality": "Japan", "count": 8, "status": "completed" },
+    { "rank": 11, "playerId": "huang-ho-ying+yan-jun-xian", "playerName": "黃浩然/顏俊賢 / Huang Ho Ying/Yan Jun Xian", "nationality": "Hong Kong", "count": 4, "status": "completed" }
+  ]
+}

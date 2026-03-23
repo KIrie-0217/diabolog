@@ -1,0 +1,124 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "nameEn": "3diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "cheng-yung-tsang",
+      "playerName": "鄭湧蒼 / Zheng Yong Cang",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 40.5, "stability": 13.3, "novelty": 25.3, "composition": 8.0, "execution-deduction": 2.0, "special-deduction": 0.0 },
+      "totalScore": 85.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "pan-shih-huang",
+      "playerName": "潘仕桓 / Pan Shih Huang",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 41.3, "stability": 11.3, "novelty": 27.3, "composition": 6.5, "execution-deduction": 4.3, "special-deduction": 0.0 },
+      "totalScore": 82.1,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "liew-yi-jiang",
+      "playerName": "刘廷江 / LIEW YI JIANG",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 39.3, "stability": 11.8, "novelty": 23.8, "composition": 7.0, "execution-deduction": 2.0, "special-deduction": 0.0 },
+      "totalScore": 79.9,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "wang-tzu-yun",
+      "playerName": "王子昀 / Wang Zi Yun",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 40.5, "stability": 12.0, "novelty": 25.0, "composition": 7.0, "execution-deduction": 4.6, "special-deduction": 0.0 },
+      "totalScore": 79.9,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "scores": { "difficulty": 37.8, "stability": 11.8, "novelty": 26.3, "composition": 6.5, "execution-deduction": 3.3, "special-deduction": 0.0 },
+      "totalScore": 79.1,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "zhang-kai-hong",
+      "playerName": "張楷浤 / Zhang Kai Hong",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 37.8, "stability": 12.3, "novelty": 23.0, "composition": 6.5, "execution-deduction": 1.4, "special-deduction": 0.0 },
+      "totalScore": 78.2,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "kao-jiu-cheng",
+      "playerName": "高睿呈 / Kao Jiu Cheng",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 37.5, "stability": 10.8, "novelty": 23.5, "composition": 6.5, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 74.3,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "li-wei-tze",
+      "playerName": "李韋則 / LI WEI TZE",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 36.5, "stability": 10.0, "novelty": 23.0, "composition": 6.3, "execution-deduction": 5.5, "special-deduction": 0.0 },
+      "totalScore": 70.3,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "kanehira-shinichi",
+      "playerName": "兼平 慎一 / Kanehira Shinichi",
+      "nationality": "Japan",
+      "scores": { "difficulty": 33.5, "stability": 9.8, "novelty": 22.8, "composition": 6.5, "execution-deduction": 3.1, "special-deduction": 0.0 },
+      "totalScore": 69.5,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "lin-hau-woei",
+      "playerName": "林皓緯 / LIN HAU WOEI",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 36.0, "stability": 9.8, "novelty": 23.3, "composition": 6.0, "execution-deduction": 8.4, "special-deduction": 0.0 },
+      "totalScore": 66.7,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "lee-boon-shuan",
+      "playerName": "李文轩 / LEE BOON SHUAN",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 34.5, "stability": 10.3, "novelty": 21.8, "composition": 6.0, "execution-deduction": 4.6, "special-deduction": 4.0 },
+      "totalScore": 64.0,
+      "note": "時間超過",
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "torii-takemi",
+      "playerName": "鳥居 岳史 / Torii Takemi",
+      "nationality": "Japan",
+      "status": "dns"
+    }
+  ]
+}

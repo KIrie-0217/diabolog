@@ -1,0 +1,93 @@
+{
+  "categoryId": "mi-highschool",
+  "name": "高校生男子個人総合部門",
+  "nameEn": "High School Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "wang-tzu-yun",
+      "playerName": "王子昀 / Wang Zi Yun",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 28.6, "variety": 13.2, "stability": 13.2, "novelty": 8.4, "composition": 12.6, "base-score": 15, "execution-deduction": 2.3, "special-deduction": 0.0 },
+      "totalScore": 88.7,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "watanuki-shunsuke",
+      "playerName": "綿貫 峻介 / Watanuki Shunsuke",
+      "nationality": "Japan",
+      "scores": { "difficulty": 26.6, "variety": 13.0, "stability": 13.8, "novelty": 8.4, "composition": 11.42, "base-score": 15, "execution-deduction": 0.1, "special-deduction": 0.0 },
+      "totalScore": 88.1,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "zhang-kai-hong",
+      "playerName": "張楷浤 / Zhang Kai Hong",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 23.0, "variety": 11.2, "stability": 11.8, "novelty": 6.4, "composition": 10.8, "base-score": 15, "execution-deduction": 3.3, "special-deduction": 0.0 },
+      "totalScore": 74.9,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "guo-yun",
+      "playerName": "郭允 / Guo Yun",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 22.8, "variety": 11.2, "stability": 10.4, "novelty": 7.6, "composition": 10.25, "base-score": 15, "execution-deduction": 8.0, "special-deduction": 0.0 },
+      "totalScore": 69.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kao-jiu-cheng",
+      "playerName": "高睿呈 / Kao Jiu Cheng",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 22.8, "variety": 11.0, "stability": 9.6, "novelty": 7.2, "composition": 9.86, "base-score": 15, "execution-deduction": 9.4, "special-deduction": 3.0 },
+      "totalScore": 63.0,
+      "note": "場外",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "yuan-cheng-yang",
+      "playerName": "袁丞揚 / Yuan Cheng Yang",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 18.6, "variety": 9.6, "stability": 8.6, "novelty": 6.0, "composition": 10.44, "base-score": 15, "execution-deduction": 8.6, "special-deduction": 0.0 },
+      "totalScore": 59.6,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "matsumura-takao",
+      "playerName": "松村 隆央 / Matsumura Takao",
+      "nationality": "Japan",
+      "scores": { "difficulty": 18.2, "variety": 9.8, "stability": 8.6, "novelty": 6.6, "composition": 9.0, "base-score": 15, "execution-deduction": 6.6, "special-deduction": 3.0 },
+      "totalScore": 57.6,
+      "note": "場外",
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "kimura-shunsuke",
+      "playerName": "木村俊輔 / Kimura Shunsuke",
+      "nationality": "Japan",
+      "scores": { "difficulty": 17.6, "variety": 8.6, "stability": 8.2, "novelty": 5.8, "composition": 8.88, "base-score": 10, "execution-deduction": 7.6, "special-deduction": 0.0 },
+      "totalScore": 51.4,
+      "status": "completed"
+    }
+  ]
+}

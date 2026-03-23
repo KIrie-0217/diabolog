@@ -1,0 +1,25 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2 Diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "chen-chun-wei+chen-yi-cheng", "playerName": "陳軍瑋/陳奕丞 / CHEN CHUN-WEI/CHEN YI-CHENG", "nationality": "Taiwan", "count": 74, "status": "completed" },
+    { "rank": 1, "playerId": "torii-hiromiki+torii-takemi", "playerName": "鳥居 大幹/鳥居 岳史 / Torii Hiromiki/Torii Takemi", "nationality": "Japan", "count": 74, "status": "completed" },
+    { "rank": 3, "playerId": "huang-shih-rong+zheng-kang-ping", "playerName": "黃士融/鄭康平 / Huang Shi Rong/Zheng Kang Ping", "nationality": "Taiwan", "count": 63, "status": "completed" },
+    { "rank": 4, "playerId": "inaba-wataru+hashimoto-kyohei", "playerName": "稲葉亘/橋本 恭平 / Inaba Wataru/Hashimoto Kohei", "nationality": "Japan", "count": 58, "status": "completed" },
+    { "rank": 5, "playerId": "chih-jia-you+chen-yi-fan", "playerName": "池嘉祐/陳一帆 / Chih jia you/CHEN YI-FAN", "nationality": "Taiwan", "count": 56, "status": "completed" },
+    { "rank": 6, "playerId": "makino-sena+akiyama-yuki", "playerName": "牧野瀬南/秋山裕貴 / Makino Sena/Akiyama Yuki", "nationality": "Japan", "count": 54, "status": "completed" },
+    { "rank": 7, "playerId": "chiang-chia-hung+hsu-yu-hao", "playerName": "姜佳宏/許育豪 / CHIANG CHIA-HUNG/HSU YU-HAO", "nationality": "Taiwan", "count": 52, "status": "completed" },
+    { "rank": 8, "playerId": "chen-xin-yu+tsai-chun-hui", "playerName": "陳新羽/蔡君慧 / Chen Xin-Yu/Tsai Chun-Hui", "nationality": "Taiwan", "count": 51, "status": "completed" },
+    { "rank": 9, "playerId": "hosomi-takahiro+yasunaga-nao", "playerName": "細見 陸広/安永 直央 / Hosomi Takahiro/Yasunaga Nao", "nationality": "Japan", "count": 44, "status": "completed" },
+    { "rank": 10, "playerId": "sensui-saki+sato-shohei", "playerName": "泉水 沙樹/佐藤 翔平 / Sensui Saki/Sato Shohei", "nationality": "Japan", "count": 42, "status": "completed" },
+    { "rank": 11, "playerId": "agou-tensei+ichikawa-yuuma", "playerName": "吾郷 天星/市川 優真 / Agou Tensei/Ichikawa Yuma", "nationality": "Japan", "count": 40, "status": "completed" },
+    { "rank": 12, "playerId": "lin-wei-yung+wu-tz-shiuan", "playerName": "林惟庸/吳姿璿 / Wei-Yung Lin/Tzu-Shiuan Wu", "nationality": "Taiwan", "count": 33, "status": "completed" },
+    { "rank": 13, "playerId": "yamada-jun+kawamura-takashi", "playerName": "山田純/川村隆史 / Yamada Jun/Kawamura Takashi", "nationality": "Japan", "count": 29, "status": "completed" },
+    { "rank": 14, "playerId": "irie-koshiro+kan-takafumi", "playerName": "入江航士朗/菅尚文 / Irie Koshiro/Kan Takafumi", "nationality": "Japan", "count": 25, "status": "completed" },
+    { "rank": 15, "playerId": "liu-hua-gang+yu-chang-han", "playerName": "劉華剛/游承翰 / Liu Hua Gang/Yu Chang-Han", "nationality": "Taiwan", "count": 24, "status": "completed" }
+  ]
+}

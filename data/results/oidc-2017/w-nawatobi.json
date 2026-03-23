@@ -1,0 +1,16 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "nameEn": "Women's 1 Diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "tang-ya-ting", "playerName": "湯雅婷 / Tang Ya Ting", "nationality": "Taiwan", "count": 68, "class": "A", "status": "completed" },
+    { "rank": 2, "playerId": "huang-shu-zhen", "playerName": "黃淑珍 / Huang Shu Zhen", "nationality": "Taiwan", "count": 65, "class": "A", "status": "completed" },
+    { "rank": 3, "playerId": "yanagawa-ayako", "playerName": "柳川絢子 / Yanagawa Ayako", "nationality": "Japan", "count": 32, "class": "C", "status": "completed" },
+    { "rank": 4, "playerId": "sudo-maki", "playerName": "須藤 麻希 / Sudo Maki", "nationality": "Japan", "count": 21, "class": "C", "status": "completed" },
+    { "rank": 4, "playerId": "miyamori-nana", "playerName": "宮森 七菜 / Miyamori Nana", "nationality": "Japan", "count": 21, "class": "C", "status": "completed" }
+  ]
+}

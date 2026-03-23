@@ -1,0 +1,30 @@
+{
+  "categoryId": "2db",
+  "name": "2ディアボロ(ベアリング)部門",
+  "nameEn": "2 Diabolo (Bearing) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / Torii Hiromiki", "nationality": "Japan", "scores": { "difficulty": 42.5, "stability": 14.0, "novelty": 28.0, "composition": 8.3, "execution-deduction": 1.8, "special-deduction": 0.0 }, "totalScore": 91.0, "status": "completed" },
+    { "rank": 2, "playerId": "sunahara-hiroto", "playerName": "砂原 啓人 / Sunahara Hiroto", "nationality": "Japan", "scores": { "difficulty": 40.0, "stability": 12.8, "novelty": 26.5, "composition": 7.5, "execution-deduction": 0.5, "special-deduction": 0.0 }, "totalScore": 86.3, "status": "completed" },
+    { "rank": 3, "playerId": "watanabe-hayato", "playerName": "渡邊 隼人 / Watanabe Hayato", "nationality": "Japan", "scores": { "difficulty": 39.3, "stability": 13.0, "novelty": 26.0, "composition": 8.0, "execution-deduction": 2.6, "special-deduction": 0.0 }, "totalScore": 83.7, "status": "completed" },
+    { "rank": 4, "playerId": "abe-hiroki", "playerName": "安部 弘紀 / Abe Hiroki", "nationality": "Japan", "scores": { "difficulty": 40.8, "stability": 11.8, "novelty": 27.0, "composition": 7.5, "execution-deduction": 4.3, "special-deduction": 3.0 }, "totalScore": 79.8, "status": "completed" },
+    { "rank": 5, "playerId": "harada-shutaro", "playerName": "原田 柊太朗 / Harada Shutaro", "nationality": "Japan", "scores": { "difficulty": 37.0, "stability": 11.5, "novelty": 25.3, "composition": 6.8, "execution-deduction": 1.9, "special-deduction": 0.0 }, "totalScore": 78.7, "status": "completed" },
+    { "rank": 6, "playerId": "sato-shohei", "playerName": "佐藤 翔平 / Sato Shohei", "nationality": "Japan", "scores": { "difficulty": 37.0, "stability": 11.0, "novelty": 25.0, "composition": 7.0, "execution-deduction": 3.0, "special-deduction": 0.0 }, "totalScore": 77.0, "status": "completed" },
+    { "rank": 7, "playerId": "ong-hock-eng", "playerName": "王福恩 / Ong Hock Eng", "nationality": "Malaysia", "scores": { "difficulty": 37.0, "stability": 11.5, "novelty": 24.5, "composition": 6.8, "execution-deduction": 3.4, "special-deduction": 0.0 }, "totalScore": 76.4, "status": "completed" },
+    { "rank": 8, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / CHAO YU-SUNG", "nationality": "Taiwan", "scores": { "difficulty": 38.8, "stability": 10.8, "novelty": 26.8, "composition": 6.8, "execution-deduction": 7.1, "special-deduction": 0.0 }, "totalScore": 76.1, "status": "completed" },
+    { "rank": 9, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / Tsai Chun-Hui", "nationality": "Taiwan", "scores": { "difficulty": 34.3, "stability": 12.3, "novelty": 22.3, "composition": 7.8, "execution-deduction": 2.1, "special-deduction": 0.0 }, "totalScore": 74.6, "status": "completed" },
+    { "rank": 10, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / Kamei Hiroki", "nationality": "Japan", "scores": { "difficulty": 36.0, "stability": 11.0, "novelty": 24.0, "composition": 7.0, "execution-deduction": 5.5, "special-deduction": 0.0 }, "totalScore": 72.5, "status": "completed" },
+    { "rank": 11, "playerId": "mitsuyasu-yusuke", "playerName": "光安祐介 / Mitsuyasu Yusuke", "nationality": "Japan", "scores": { "difficulty": 34.5, "stability": 12.0, "novelty": 22.0, "composition": 7.3, "execution-deduction": 5.3, "special-deduction": 0.0 }, "totalScore": 70.5, "status": "completed" },
+    { "rank": 12, "playerId": "hsu-yu-hao", "playerName": "許育豪 / HSU YU-HAO", "nationality": "Taiwan", "scores": { "difficulty": 35.5, "stability": 10.0, "novelty": 23.0, "composition": 6.5, "execution-deduction": 9.6, "special-deduction": 0.0 }, "totalScore": 65.4, "status": "completed" },
+    { "rank": 13, "playerId": "miyata-daiki", "playerName": "宮田 大輝 / Miyata Daiki", "nationality": "Japan", "scores": { "difficulty": 31.8, "stability": 8.8, "novelty": 20.5, "composition": 5.8, "execution-deduction": 8.5, "special-deduction": 0.0 }, "totalScore": 58.4, "status": "completed" }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "categoryId": "mh",
+  "name": "高校生男子個人総合部門",
+  "nameEn": "High School Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "maeda-ryosuke", "playerName": "前田 凌佑 / Maeda Ryosuke", "nationality": "Japan", "scores": { "difficulty": 26.2, "variety": 12.4, "stability": 12.0, "novelty": 8.4, "composition": 12.4, "base-score": 10.68, "execution-deduction": 3.7, "special-deduction": 0.0 }, "totalScore": 82.7, "status": "completed" },
+    { "rank": 2, "playerId": "yamazaki-soshi", "playerName": "山崎 創史 / Yamazaki Soshi", "nationality": "Japan", "scores": { "difficulty": 25.4, "variety": 11.4, "stability": 11.2, "novelty": 8.0, "composition": 12.0, "base-score": 10.29, "execution-deduction": 4.2, "special-deduction": 0.0 }, "totalScore": 77.4, "status": "completed" },
+    { "rank": 3, "playerId": "xu-jian-cheng", "playerName": "許健誠 / Xu Jian Cheng", "nationality": "Taiwan", "scores": { "difficulty": 21.2, "variety": 8.8, "stability": 12.6, "novelty": 8.6, "composition": 11.6, "base-score": 15, "execution-deduction": 2.1, "special-deduction": 0.0 }, "totalScore": 76.1, "status": "completed" },
+    { "rank": 4, "playerId": "tokimori-eiji", "playerName": "時盛瑛史 / Tokimori Eiji", "nationality": "Japan", "scores": { "difficulty": 24.0, "variety": 11.0, "stability": 11.0, "novelty": 8.0, "composition": 10.8, "base-score": 11.44, "execution-deduction": 4.6, "special-deduction": 0.0 }, "totalScore": 76.0, "status": "completed" },
+    { "rank": 5, "playerId": "watanuki-shunsuke", "playerName": "綿貫 峻介 / Watanuki Shunsuke", "nationality": "Japan", "scores": { "difficulty": 25.2, "variety": 8.8, "stability": 11.2, "novelty": 7.2, "composition": 11.4, "base-score": 15, "execution-deduction": 4.9, "special-deduction": 0.0 }, "totalScore": 73.3, "status": "completed" },
+    { "rank": 6, "playerId": "tsao-ming-jun", "playerName": "曹名君 / Tsao Ming Jun", "nationality": "Taiwan", "scores": { "difficulty": 26.5, "variety": 12.0, "stability": 10.6, "novelty": 8.2, "composition": 10.0, "base-score": 15, "execution-deduction": 10.5, "special-deduction": 0.0 }, "totalScore": 73.2, "status": "completed" },
+    { "rank": 7, "playerId": "ruan-yun-ze", "playerName": "阮云澤 / Ruan Yun Ze", "nationality": "Taiwan", "scores": { "difficulty": 23.2, "variety": 11.6, "stability": 10.0, "novelty": 7.2, "composition": 8.8, "base-score": 15, "execution-deduction": 5.3, "special-deduction": 0.0 }, "totalScore": 71.9, "status": "completed" },
+    { "rank": 8, "playerId": "ye-li-ming", "playerName": "葉力銘 / Ye Li Ming", "nationality": "Taiwan", "scores": { "difficulty": 24.2, "variety": 12.0, "stability": 10.6, "novelty": 8.0, "composition": 9.4, "base-score": 15, "execution-deduction": 10.2, "special-deduction": 0.0 }, "totalScore": 71.0, "status": "completed" },
+    { "rank": 9, "playerId": "pan-shih-huang", "playerName": "潘仕桓 / Pan Shih Huang", "nationality": "Taiwan", "scores": { "difficulty": 23.2, "variety": 10.4, "stability": 9.8, "novelty": 7.0, "composition": 10.8, "base-score": 15, "execution-deduction": 5.8, "special-deduction": 0.0 }, "totalScore": 69.6, "status": "completed" },
+    { "rank": 10, "playerId": "shirouzu-haruki", "playerName": "白水開 / Shirouzu Haruki", "nationality": "Japan", "scores": { "difficulty": 21.2, "variety": 9.4, "stability": 10.2, "novelty": 6.0, "composition": 8.0, "base-score": 15, "execution-deduction": 5.7, "special-deduction": 0.0 }, "totalScore": 64.9, "status": "completed" },
+    { "rank": 11, "playerId": "kao-jui-cheng", "playerName": "高睿呈 / Kao Jui Cheng", "nationality": "Taiwan", "scores": { "difficulty": 24.2, "variety": 10.4, "stability": 8.8, "novelty": 6.4, "composition": 8.2, "base-score": 15, "execution-deduction": 12.4, "special-deduction": 0.0 }, "totalScore": 61.8, "status": "completed" },
+    { "rank": 12, "playerId": "zhang-zhen-lin", "playerName": "張震林 / Zhang Zhen Lin", "nationality": "Taiwan", "scores": { "difficulty": 17.8, "variety": 8.2, "stability": 9.0, "novelty": 5.8, "composition": 7.8, "base-score": 15, "execution-deduction": 7.7, "special-deduction": 0.0 }, "totalScore": 58.9, "status": "completed" },
+    { "rank": 13, "playerId": "nagao-yuto", "playerName": "永尾 祐人 / Nagao Yuto", "nationality": "Japan", "scores": { "difficulty": 17.0, "variety": 8.4, "stability": 7.4, "novelty": 6.2, "composition": 10.0, "base-score": 15, "execution-deduction": 11.7, "special-deduction": 0.0 }, "totalScore": 50.3, "status": "completed" },
+    { "rank": 14, "playerId": "hosokawa-kyouya", "playerName": "細川 享弥 / Hosokawa Kyoya", "nationality": "Japan", "scores": { "difficulty": 17.4, "variety": 8.6, "stability": 7.8, "novelty": 5.6, "composition": 8.0, "base-score": 15, "execution-deduction": 13.5, "special-deduction": 0.0 }, "totalScore": 49.1, "status": "completed" },
+    { "rank": 15, "playerId": "abe-kooma", "playerName": "阿部鼓真 / Abe Koma", "nationality": "Japan", "scores": { "difficulty": 16.6, "variety": 8.2, "stability": 7.0, "novelty": 5.4, "composition": 8.2, "base-score": 15, "execution-deduction": 12.6, "special-deduction": 0.0 }, "totalScore": 47.4, "status": "completed" },
+    { "rank": 16, "playerId": "higuchi-ryuzaburo", "playerName": "樋口 隆三郎 / Higuchi Ryuzaburo", "nationality": "Japan", "scores": { "difficulty": 17.0, "variety": 7.2, "stability": 7.4, "novelty": 6.0, "composition": 7.6, "base-score": 10, "execution-deduction": 10.9, "special-deduction": 0.0 }, "totalScore": 44.3, "status": "completed" }
+  ]
+}

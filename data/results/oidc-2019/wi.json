@@ -1,0 +1,22 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / Tsai Chun-Hui", "nationality": "Taiwan", "scores": { "difficulty": 25.2, "variety": 11.6, "stability": 8.2, "novelty": 7.4, "composition": 20.8, "base-score": 15.0, "execution-deduction": 3.4, "special-deduction": 0.0 }, "totalScore": 84.8, "status": "completed" },
+    { "rank": 2, "playerId": "chen-xin-yu", "playerName": "陳新羽 / Chen Xin-Yu", "nationality": "Taiwan", "scores": { "difficulty": 19.4, "variety": 9.0, "stability": 7.4, "novelty": 6.0, "composition": 19.8, "base-score": 15.0, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 74.1, "status": "completed" },
+    { "rank": 3, "playerId": "chen-guan-hua", "playerName": "陳冠樺 / Chen Guan Hua", "nationality": "Taiwan", "scores": { "difficulty": 20.6, "variety": 9.6, "stability": 6.4, "novelty": 5.8, "composition": 20.4, "base-score": 15.0, "execution-deduction": 5.7, "special-deduction": 0.0 }, "totalScore": 72.1, "status": "completed" }
+  ]
+}

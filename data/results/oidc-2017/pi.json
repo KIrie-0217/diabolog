@@ -1,0 +1,21 @@
+{
+  "categoryId": "pi",
+  "name": "ペア部門",
+  "nameEn": "Pair Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tochikubo-tetsuya+tochikubo-ayaka", "playerName": "栃窪哲也/栃窪 綾華 / Tochikubo Tetsuya/Tochikubo Ayaka", "nationality": "Japan", "scores": { "difficulty": 34.2, "synchronization": 27.4, "composition": 27.0, "execution-deduction": 1.6, "special-deduction": 0.0 }, "totalScore": 87.0, "status": "completed" },
+    { "rank": 2, "playerId": "tsao-he-li+chen-yi-cheng", "playerName": "曹和立/陳奕丞 / Tsao He li/Chen Yi Cheng", "nationality": "Taiwan", "scores": { "difficulty": 37.2, "synchronization": 25.4, "composition": 26.0, "execution-deduction": 3.2, "special-deduction": 0.0 }, "totalScore": 85.4, "status": "completed" },
+    { "rank": 3, "playerId": "huang-shih-wei+ruan-yun-ze", "playerName": "黃士瑋/阮云澤 / Huang Shi Wei/Ruan Yun Ze", "nationality": "Taiwan", "scores": { "difficulty": 34.0, "synchronization": 23.0, "composition": 24.8, "execution-deduction": 4.2, "special-deduction": 0.0 }, "totalScore": 77.6, "status": "completed" },
+    { "rank": 4, "playerId": "jiang-shu-hui+lin-qiao-han", "playerName": "江淑惠/林巧涵 / Jiang Shu Hui/Lin Qiao Han", "nationality": "Taiwan", "scores": { "difficulty": 27.8, "synchronization": 24.0, "composition": 24.0, "execution-deduction": 3.4, "special-deduction": 0.0 }, "totalScore": 72.4, "status": "completed" },
+    { "rank": 5, "playerId": "chao-yu-sung+juan-tzu-yu", "playerName": "趙昱淞/阮梓瑜 / Chao Yu-Sung/Juan Tzu-Yu", "nationality": "Taiwan", "scores": { "difficulty": 31.2, "synchronization": 22.2, "composition": 24.2, "execution-deduction": 6.2, "special-deduction": 0.0 }, "totalScore": 71.4, "status": "completed" }
+  ]
+}
