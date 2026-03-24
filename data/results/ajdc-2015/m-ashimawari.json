@@ -12,7 +12,7 @@
     { "rank": 3, "playerId": "torii-ken", "playerName": "トリイケン", "count": 125, "class": "E", "status": "completed" },
     { "rank": 4, "playerId": "kamei-hiroki", "playerName": "カメイヒロキ", "count": 117, "class": "C", "status": "completed" },
     { "rank": 4, "playerId": "yamamoto-masaaki", "playerName": "ヤマモトマサアキ", "count": 117, "class": "D", "status": "completed" },
-    { "rank": 6, "playerId": "yamasaki-kouta", "playerName": "ヤマザキコウタ", "count": 111, "class": "C", "status": "completed" },
+    { "rank": 6, "playerId": "yamasaki-kouta", "playerName": "ヤマサキコウタ", "count": 111, "class": "C", "status": "completed" },
     { "rank": 7, "playerId": "yoshii-norihiro", "playerName": "ヨシイノリヒロ", "count": 108, "class": "B", "status": "completed" },
     { "rank": 8, "playerId": "kudo-masahiro", "playerName": "クドウマサヒロ", "count": 106, "class": "C", "status": "completed" },
     { "rank": 9, "playerId": "kurasawa-eiji", "playerName": "クラサワエイジ", "count": 89, "class": "D", "status": "completed" },
