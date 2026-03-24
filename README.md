@@ -39,6 +39,13 @@ public/data/                   自動生成（UI が参照）
 
 ## 掲載情報の削除について
 
-本サイトに掲載されているご自身の情報の削除を希望される場合は、GitHub Issue または以下の連絡先までご連絡ください。速やかに対応いたします。
+本サイトに掲載されているご自身の情報の削除を希望される場合は、お問い合わせフォームよりご連絡ください。速やかに対応いたします。
 
+- お問い合わせフォーム: https://forms.gle/qoyL5nHw3aim4iae7
 - GitHub Issues: https://github.com/KIrie-0217/diabolog/issues
+
+## License
+
+本リポジトリのソースコード（`src/`、`scripts/` 等）は [MIT License](./LICENSE) の下で公開されています。
+
+`data/`、`player-mappings.json` に含まれる大会結果データは、各大会主催者が公式に公開している結果に基づいており、MIT License の対象外です。著作権は各大会主催者に帰属します。
