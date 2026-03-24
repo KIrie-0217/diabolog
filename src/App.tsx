@@ -7,6 +7,7 @@ import {
   Burger,
   Stack,
   ActionIcon,
+  Text,
   useMantineColorScheme,
 } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
@@ -75,6 +76,13 @@ export function App() {
       <AppShell.Main>
         <Container size="lg">
           <Outlet />
+          <Group justify="center" gap="md" mt="xl" mb="xs">
+            <Anchor component={Link} to="/about" size="xs" c="dimmed">About</Anchor>
+            <Anchor component={Link} to="/privacy" size="xs" c="dimmed">プライバシーポリシー</Anchor>
+            <Anchor component={Link} to="/terms" size="xs" c="dimmed">利用規約</Anchor>
+            <Anchor href="https://forms.gle/qoyL5nHw3aim4iae7" target="_blank" size="xs" c="dimmed">お問い合わせ</Anchor>
+          </Group>
+          <Text ta="center" size="xs" c="dimmed" mb="md">© 2025 Diabolife</Text>
         </Container>
       </AppShell.Main>
     </AppShell>

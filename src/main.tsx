@@ -10,6 +10,9 @@ import { Competitions } from "./pages/Competitions";
 import { Competition } from "./pages/Competition";
 import { Players } from "./pages/Players";
 import { Player } from "./pages/Player";
+import { About } from "./pages/About";
+import { Privacy } from "./pages/Privacy";
+import { Terms } from "./pages/Terms";
 
 const theme = createTheme({
   defaultRadius: "md",
@@ -28,6 +31,9 @@ createRoot(document.getElementById("root")!).render(
             <Route path="competitions/:id" element={<Competition />} />
             <Route path="players" element={<Players />} />
             <Route path="players/:id" element={<Player />} />
+            <Route path="about" element={<About />} />
+            <Route path="privacy" element={<Privacy />} />
+            <Route path="terms" element={<Terms />} />
           </Route>
         </Routes>
       </HashRouter>
