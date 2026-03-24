@@ -3,7 +3,6 @@ import {
   Group,
   Anchor,
   Container,
-  Title,
   Burger,
   Stack,
   ActionIcon,
@@ -38,7 +37,15 @@ export function App() {
         <Container size="lg" h="100%">
           <Group h="100%" justify="space-between">
             <Anchor component={Link} to="/" underline="never">
-              <Title order={4}>Diabolife</Title>
+              <Group gap={8} align="center">
+                <img
+                  src={`${import.meta.env.BASE_URL}favicon.svg`}
+                  alt=""
+                  height={32}
+                  style={{ filter: colorScheme === "dark" ? "invert(1)" : undefined }}
+                />
+                <Text fw={700} size="lg" style={{ letterSpacing: "0.1em" }}>Diabolife</Text>
+              </Group>
             </Anchor>
             <Group gap="md" visibleFrom="sm">
               <Anchor component={Link} to="/competitions">

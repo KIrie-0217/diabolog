@@ -1,12 +1,21 @@
-import { Title, Text, Stack, Card, ActionIcon, Group } from "@mantine/core";
+import { Title, Text, Stack, Card, ActionIcon, Group, useMantineColorScheme } from "@mantine/core";
 import { IconArrowRight } from "@tabler/icons-react";
 import { Link } from "react-router-dom";
 
 export function Home() {
+  const { colorScheme } = useMantineColorScheme();
   return (
     <Stack gap="xl" mt="xl">
-      <Stack gap="xs" ta="center">
-        <Title order={1}>Diabolife</Title>
+      <Stack gap="xs" align="center">
+        <Group gap={12} align="center">
+          <img
+            src={`${import.meta.env.BASE_URL}favicon.svg`}
+            alt=""
+            height={56}
+            style={{ filter: colorScheme === "dark" ? "invert(1)" : undefined }}
+          />
+          <Title order={1} style={{ letterSpacing: "0.1em" }}>Diabolife</Title>
+        </Group>
         <Text size="lg" c="dimmed">
           競技ディアボロの情報集約サイト
         </Text>
