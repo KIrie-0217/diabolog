@@ -39,12 +39,11 @@ export function App() {
             <Anchor component={Link} to="/" underline="never">
               <Group gap={8} align="center">
                 <img
-                  src={`${import.meta.env.BASE_URL}favicon.svg`}
+                  src={`${import.meta.env.BASE_URL}${colorScheme === "dark" ? "favicon-dark.svg" : "favicon-blue.svg"}`}
                   alt=""
                   height={32}
-                  style={{ filter: colorScheme === "dark" ? "invert(1)" : undefined }}
                 />
-                <Text fw={700} size="lg" style={{ letterSpacing: "0.1em" }}>Diabolife</Text>
+                <Text fw={700} size="lg" c={colorScheme === "dark" ? "white" : "blue"} style={{ letterSpacing: "0.1em" }}>Diabolife</Text>
               </Group>
             </Anchor>
             <Group gap="md" visibleFrom="sm">

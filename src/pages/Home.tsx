@@ -9,12 +9,11 @@ export function Home() {
       <Stack gap="xs" align="center">
         <Group gap={12} align="center">
           <img
-            src={`${import.meta.env.BASE_URL}favicon.svg`}
+            src={`${import.meta.env.BASE_URL}${colorScheme === "dark" ? "favicon-dark.svg" : "favicon-blue.svg"}`}
             alt=""
             height={56}
-            style={{ filter: colorScheme === "dark" ? "invert(1)" : undefined }}
           />
-          <Title order={1} style={{ letterSpacing: "0.1em" }}>Diabolife</Title>
+          <Title order={1} c={colorScheme === "dark" ? undefined : "blue"} style={{ letterSpacing: "0.1em" }}>Diabolife</Title>
         </Group>
         <Text size="lg" c="dimmed">
           競技ディアボロの情報集約サイト
