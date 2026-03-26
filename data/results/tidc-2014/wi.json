@@ -1,0 +1,63 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1, "playerId": "lin-yu-yin", "playerName": "林于茵 / LIN YU YIN", "nationality": "Taiwan",
+      "scores": { "difficulty": 27.20, "variety": 7.80, "stability": 7.40, "novelty": 7.60, "composition": 20.00, "base-score": 15, "execution-deduction": 3.44, "special-deduction": 0.00 },
+      "totalScore": 81.56, "status": "completed"
+    },
+    {
+      "rank": 2, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / TSAI JUN HUI", "nationality": "Taiwan",
+      "scores": { "difficulty": 25.40, "variety": 7.40, "stability": 7.60, "novelty": 7.20, "composition": 19.80, "base-score": 15, "execution-deduction": 3.76, "special-deduction": 0.00 },
+      "totalScore": 78.64, "status": "completed"
+    },
+    {
+      "rank": 3, "playerId": "lin-jia-ying", "playerName": "林嘉盈 / LIN JIA YING", "nationality": "Taiwan",
+      "scores": { "difficulty": 23.20, "variety": 7.00, "stability": 7.40, "novelty": 6.60, "composition": 22.40, "base-score": 15, "execution-deduction": 4.00, "special-deduction": 0.00 },
+      "totalScore": 77.60, "status": "completed"
+    },
+    {
+      "rank": 4, "playerId": "suda-erika", "playerName": "須田恵梨華 / SUDA ERIKA", "nationality": "Japan",
+      "scores": { "difficulty": 22.20, "variety": 6.60, "stability": 7.40, "novelty": 7.00, "composition": 21.00, "base-score": 15, "execution-deduction": 2.48, "special-deduction": 0.00 },
+      "totalScore": 76.72, "status": "completed"
+    },
+    {
+      "rank": 5, "playerId": "wu-tz-shiuan", "playerName": "吳姿璿 / WU TZ SHIUAN", "nationality": "Taiwan",
+      "scores": { "difficulty": 23.40, "variety": 7.00, "stability": 7.00, "novelty": 6.60, "composition": 18.60, "base-score": 15, "execution-deduction": 2.96, "special-deduction": 0.00 },
+      "totalScore": 74.64, "status": "completed"
+    },
+    {
+      "rank": 6, "playerId": "tseng-yu-shan", "playerName": "曾于珊 / CHEN YU SHAN", "nationality": "Taiwan",
+      "scores": { "difficulty": 21.60, "variety": 7.00, "stability": 7.00, "novelty": 5.80, "composition": 21.20, "base-score": 15, "execution-deduction": 5.04, "special-deduction": 0.00 },
+      "totalScore": 72.56, "status": "completed"
+    },
+    {
+      "rank": 7, "playerId": "takahashi-mirei", "playerName": "高橋 美玲 / TAKAHASHI MIREI", "nationality": "Japan",
+      "scores": { "difficulty": 20.20, "variety": 5.40, "stability": 5.60, "novelty": 6.00, "composition": 18.60, "base-score": 15, "execution-deduction": 3.84, "special-deduction": 0.00 },
+      "totalScore": 66.96, "status": "completed"
+    },
+    {
+      "rank": 8, "playerId": "koseki-megumi", "playerName": "古関萌 / KOSEKI MEGUMI", "nationality": "Japan",
+      "scores": { "difficulty": 18.60, "variety": 5.20, "stability": 4.80, "novelty": 5.60, "composition": 17.40, "base-score": 15, "execution-deduction": 5.28, "special-deduction": 0.00 },
+      "totalScore": 61.32, "status": "completed"
+    },
+    {
+      "rank": null, "playerId": "wu-yi-ting", "playerName": "吳依庭 / WU YI TING", "nationality": "Taiwan",
+      "status": "dns"
+    }
+  ]
+}

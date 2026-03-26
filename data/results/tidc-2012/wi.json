@@ -1,0 +1,20 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "deduction", "name": "減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "ye-zi-lin", "playerName": "葉子琳 / YE ZI LIN", "nationality": "Taiwan", "scores": { "difficulty": 37.7, "stability": 18.9, "novelty": 17.4, "composition": 18.7, "deduction": 3.8 }, "totalScore": 88.9, "status": "completed" },
+    { "rank": 2, "playerId": "watanabe-yukari", "playerName": "渡邊友加里 / WATANABE YUKARI", "nationality": "Japan", "scores": { "difficulty": 35.3, "stability": 18.0, "novelty": 17.3, "composition": 17.5, "deduction": 5.1 }, "totalScore": 83.0, "status": "completed" },
+    { "rank": 3, "playerId": "ikehata-yuri", "playerName": "池端友理 / IKEHATA YURI", "nationality": "Japan", "scores": { "difficulty": 28.8, "stability": 15.0, "novelty": 12.6, "composition": 16.5, "deduction": 3.1 }, "totalScore": 69.8, "status": "completed" },
+    { "rank": 4, "playerId": "tanaka-rei", "playerName": "田中玲衣 / TANAKA REI", "nationality": "Japan", "scores": { "difficulty": 31.2, "stability": 15.1, "novelty": 14.3, "composition": 16.1, "deduction": 8.2 }, "totalScore": 68.5, "status": "completed" }
+  ]
+}

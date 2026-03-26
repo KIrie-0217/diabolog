@@ -1,0 +1,190 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "wu-chi-ming",
+      "playerName": "吳啟銘 / WU QI MING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 28.6, "variety": 8.8, "stability": 9.0, "novelty": 9.0, "composition": 17.8, "base-score": 15, "execution-deduction": 2.24, "special-deduction": 0.0 },
+      "totalScore": 85.96,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "chao-yu-sung",
+      "playerName": "趙昱淞 / CHAO YU SUNG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 28.2, "variety": 8.0, "stability": 8.0, "novelty": 8.6, "composition": 17.2, "base-score": 20, "execution-deduction": 4.08, "special-deduction": 0.0 },
+      "totalScore": 85.92,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "watanabe-hayato",
+      "playerName": "渡邊隼人 / WATANABE HAYATO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 26.0, "variety": 7.8, "stability": 8.6, "novelty": 8.8, "composition": 16.4, "base-score": 20, "execution-deduction": 2.32, "special-deduction": 0.0 },
+      "totalScore": 85.28,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chen-si-yuen",
+      "playerName": "曽思源 / CHEN SI YUEN",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 24.0, "variety": 7.4, "stability": 8.6, "novelty": 6.8, "composition": 15.0, "base-score": 20, "execution-deduction": 0.0, "special-deduction": 0.0 },
+      "totalScore": 81.8,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kudo-masahiro",
+      "playerName": "工藤 正景 / KUDO MASAHIRO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 23.8, "variety": 7.6, "stability": 8.0, "novelty": 6.6, "composition": 17.2, "base-score": 20, "execution-deduction": 1.6, "special-deduction": 0.0 },
+      "totalScore": 81.6,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "takamori-hirofumi",
+      "playerName": "高森 啓史 / TAKAMORI HIROFUMI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 26.2, "variety": 8.0, "stability": 7.8, "novelty": 8.0, "composition": 14.6, "base-score": 20, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 80.6,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "hee-ken-soon",
+      "playerName": "許景順 / HEE KEN SOON",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 22.8, "variety": 6.8, "stability": 7.4, "novelty": 7.0, "composition": 13.6, "base-score": 20, "execution-deduction": 1.2, "special-deduction": 0.0 },
+      "totalScore": 76.4,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "urawa-arata",
+      "playerName": "浦和 新 / URAWA ARATA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 23.6, "variety": 7.4, "stability": 7.2, "novelty": 8.2, "composition": 16.2, "base-score": 20, "execution-deduction": 6.32, "special-deduction": 0.0 },
+      "totalScore": 76.28,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "phan-guo-li",
+      "playerName": "潘国立 / PHAN GUO LI",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 23.4, "variety": 6.8, "stability": 7.0, "novelty": 7.4, "composition": 13.6, "base-score": 20, "execution-deduction": 2.4, "special-deduction": 0.0 },
+      "totalScore": 75.8,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "zhao-zhi-han",
+      "playerName": "趙志翰 / ZHAO ZHI HAN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 25.2, "variety": 7.4, "stability": 7.4, "novelty": 9.4, "composition": 18.6, "base-score": 15, "execution-deduction": 7.52, "special-deduction": 2.0 },
+      "totalScore": 73.48,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "chen-han-yan",
+      "playerName": "沈翰彥 / CHEN HAN YAN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 21.8, "variety": 7.2, "stability": 7.2, "novelty": 6.2, "composition": 15.8, "base-score": 20, "execution-deduction": 5.28, "special-deduction": 0.0 },
+      "totalScore": 72.92,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "isobe-takumi",
+      "playerName": "磯部 拓海 / ISOBE TAKUMI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 23.0, "variety": 7.6, "stability": 5.8, "novelty": 8.0, "composition": 15.0, "base-score": 20, "execution-deduction": 6.48, "special-deduction": 0.0 },
+      "totalScore": 72.92,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "yamada-jun",
+      "playerName": "山田 純 / YAMADA JUN",
+      "nationality": "Japan",
+      "scores": { "difficulty": 22.4, "variety": 7.0, "stability": 6.8, "novelty": 7.0, "composition": 14.6, "base-score": 20, "execution-deduction": 5.36, "special-deduction": 0.0 },
+      "totalScore": 72.44,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "matsubara-shohei",
+      "playerName": "松原 尚平 / MATSUBARA SYOHEI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 21.8, "variety": 7.0, "stability": 6.2, "novelty": 6.2, "composition": 13.4, "base-score": 20, "execution-deduction": 3.36, "special-deduction": 0.0 },
+      "totalScore": 71.24,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "kamei-hiroki",
+      "playerName": "亀井大輝 / KAMEI HIROKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 22.2, "variety": 7.6, "stability": 7.0, "novelty": 7.8, "composition": 14.8, "base-score": 15, "execution-deduction": 5.44, "special-deduction": 0.0 },
+      "totalScore": 68.96,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "wu-hao-zhong",
+      "playerName": "吳顯中 / WU HAO ZHONG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 21.4, "variety": 7.0, "stability": 6.2, "novelty": 7.2, "composition": 14.0, "base-score": 20, "execution-deduction": 7.6, "special-deduction": 0.0 },
+      "totalScore": 68.2,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "tada-kazuki",
+      "playerName": "田多 加津輝 / TADA KAZUKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 19.6, "variety": 6.8, "stability": 5.4, "novelty": 7.0, "composition": 13.4, "base-score": 20, "execution-deduction": 8.56, "special-deduction": 0.0 },
+      "totalScore": 63.64,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "tomita-hikaru",
+      "playerName": "冨田 輝 / TOMITA HIKARU",
+      "nationality": "Japan",
+      "scores": { "difficulty": 19.4, "variety": 6.4, "stability": 5.8, "novelty": 5.8, "composition": 12.0, "base-score": 20, "execution-deduction": 7.92, "special-deduction": 0.0 },
+      "totalScore": 61.48,
+      "status": "completed"
+    },
+    {
+      "rank": 19,
+      "playerId": "muraoka-takumi",
+      "playerName": "村岡巧 / MURAOKA TAKUMI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 18.2, "variety": 6.2, "stability": 5.6, "novelty": 5.6, "composition": 12.8, "base-score": 20, "execution-deduction": 9.12, "special-deduction": 0.0 },
+      "totalScore": 59.28,
+      "status": "completed"
+    }
+  ]
+}

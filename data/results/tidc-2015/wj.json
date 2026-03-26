@@ -1,0 +1,100 @@
+{
+  "categoryId": "wj",
+  "name": "女子個人総合ジュニア部門",
+  "nameEn": "Women's Junior Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "wu-pei-lian",
+      "playerName": "吳珮蓮 / WU PEI LIAN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 26.0, "variety": 16.4, "stability": 12.8, "novelty": 8.0, "composition": 8.6, "base-score": 15, "execution-deduction": 2.72, "special-deduction": 0.0 },
+      "totalScore": 84.08,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "chen-ying-tong",
+      "playerName": "陳映彤 / CHEN YING TONG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 26.0, "variety": 16.6, "stability": 12.8, "novelty": 7.2, "composition": 7.6, "base-score": 15, "execution-deduction": 2.8, "special-deduction": 0.0 },
+      "totalScore": 82.4,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "liu-zi-rong",
+      "playerName": "劉子榕 / LIU ZI RONG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 25.6, "variety": 16.4, "stability": 11.8, "novelty": 8.0, "composition": 7.6, "base-score": 15, "execution-deduction": 4.72, "special-deduction": 0.0 },
+      "totalScore": 79.68,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "xu-jia-qi",
+      "playerName": "許家齊 / XU JIA QI",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 23.8, "variety": 16.2, "stability": 11.8, "novelty": 7.4, "composition": 7.4, "base-score": 15, "execution-deduction": 2.48, "special-deduction": 0.0 },
+      "totalScore": 79.12,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "zhang-long-zhen",
+      "playerName": "張瓏真 / ZHANG LONG ZHEN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 22.8, "variety": 15.2, "stability": 11.2, "novelty": 6.6, "composition": 7.0, "base-score": 15, "execution-deduction": 2.4, "special-deduction": 0.0 },
+      "totalScore": 75.4,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "shao-wei-jie",
+      "playerName": "邵維詰 / SHAO WEI JIE",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 22.4, "variety": 15.4, "stability": 11.0, "novelty": 6.8, "composition": 7.0, "base-score": 15, "execution-deduction": 5.04, "special-deduction": 0.0 },
+      "totalScore": 72.56,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "wu-zi-ying",
+      "playerName": "吳姿瑩 / WU ZI YING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 22.6, "variety": 15.8, "stability": 10.2, "novelty": 6.8, "composition": 7.0, "base-score": 15, "execution-deduction": 6.08, "special-deduction": 0.0 },
+      "totalScore": 71.32,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "zhao-yi-en",
+      "playerName": "趙翊恩 / ZHAO YI EN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 20.0, "variety": 14.2, "stability": 10.2, "novelty": 6.2, "composition": 7.4, "base-score": 15, "execution-deduction": 2.56, "special-deduction": 0.0 },
+      "totalScore": 70.44,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "zhao-yi-shan",
+      "playerName": "趙怡善 / ZHAO YI SHAN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 21.8, "variety": 14.8, "stability": 10.6, "novelty": 6.6, "composition": 7.4, "base-score": 15, "execution-deduction": 5.76, "special-deduction": 0.0 },
+      "totalScore": 70.44,
+      "status": "completed"
+    }
+  ]
+}

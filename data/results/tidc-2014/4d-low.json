@@ -1,0 +1,13 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "wang-tzu-yun", "playerName": "王子昀 / WANG ZI YUN", "nationality": "Taiwan", "count": 118, "status": "completed" },
+    { "rank": 2, "playerId": "zhang-jun-huang", "playerName": "張駿煌 / ZHANG JUN HUANG", "nationality": "Taiwan", "count": 62, "status": "completed" },
+    { "rank": 3, "playerId": "huang-jing-da", "playerName": "黃景達 / HUANG JING DA", "nationality": "Taiwan", "count": 1, "status": "completed" }
+  ]
+}

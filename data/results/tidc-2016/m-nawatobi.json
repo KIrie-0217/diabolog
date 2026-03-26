@@ -1,0 +1,101 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "count": 82,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "isobe-takumi",
+      "playerName": "磯部 拓海 / Isobe Takumi",
+      "nationality": "Japan",
+      "count": 64,
+      "class": "D",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "huang-shih-rong",
+      "playerName": "黃士融 / Huang ShihRong",
+      "nationality": "Taiwan",
+      "count": 56,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "saito-tetsunori",
+      "playerName": "齋藤 哲範 / Saito Thetsunori",
+      "nationality": "Japan",
+      "count": 55,
+      "class": "D",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tsai-shao-jie",
+      "playerName": "蔡劭傑 / Tsai ShaoJie",
+      "nationality": "Taiwan",
+      "count": 55,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "mitsuyasu-yusuke",
+      "playerName": "光安祐介 / Mitsuyasu Yusuke",
+      "nationality": "Japan",
+      "count": 52,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "zheng-kang-ping",
+      "playerName": "鄭康平 / Cheng Kang Ping",
+      "nationality": "Taiwan",
+      "count": 44,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "makino-sena",
+      "playerName": "牧野 瀬南 / Makino Sena",
+      "nationality": "Japan",
+      "count": 34,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "agou-tensei",
+      "playerName": "吾郷 天星 / Agou Tensei",
+      "nationality": "Japan",
+      "count": 31,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "ujiie-michito",
+      "playerName": "氏家 道登 / Ujiie Michito",
+      "nationality": "Japan",
+      "count": 19,
+      "class": "C",
+      "status": "completed"
+    }
+  ]
+}

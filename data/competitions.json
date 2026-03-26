@@ -2098,5 +2098,585 @@
       }
     ],
     "infoUrl": "https://diabolo.jp/OIDC/wp-content/uploads/2018/06/OIDC2017_archive.pdf"
+  },
+  {
+    "id": "tidc-2016",
+    "name": "Tokyo International Diabolo Competition 2016",
+    "shortName": "TIDC 2016",
+    "startDate": "2016-08-12",
+    "endDate": "2016-08-16",
+    "venue": "江戸川橋体育館",
+    "location": "東京",
+    "resultUrl": "http://diabolo.jp/TIDC/pdf/TIDC2016_result.pdf",
+    "infoUrl": "http://diabolo.jp/TIDC/jp/archive.html",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "浦和 新"
+      },
+      {
+        "type": "special",
+        "playerName": "infinity"
+      },
+      {
+        "type": "special",
+        "playerName": "千葉大学 possum"
+      },
+      {
+        "type": "special",
+        "playerName": "三重大学ジャグリングサークル「ジャグリアーノ!」"
+      },
+      {
+        "type": "special",
+        "playerName": "興有鈴犀"
+      },
+      {
+        "type": "special",
+        "playerName": "飛鈴聯隊"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "pi",
+        "name": "ペア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平軸(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平軸(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      }
+    ]
+  },
+  {
+    "id": "tidc-2015",
+    "name": "Tokyo International Diabolo Competition 2015",
+    "shortName": "TIDC 2015",
+    "startDate": "2015-08-07",
+    "endDate": "2015-08-11",
+    "venue": "江戸川橋体育館",
+    "location": "東京",
+    "resultUrl": "http://diabolo.jp/TIDC/pdf/TIDC2015_result.pdf",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "楊沁堯"
+      },
+      {
+        "type": "special",
+        "awardName": "バトル部門 第一位",
+        "playerName": "吳啟銘"
+      },
+      {
+        "type": "special",
+        "awardName": "バトル部門 第二位",
+        "playerName": "趙昱淞"
+      },
+      {
+        "type": "special",
+        "awardName": "バトル部門 第三位",
+        "playerName": "楊沁堯"
+      },
+      {
+        "type": "special",
+        "playerName": "CAPT"
+      },
+      {
+        "type": "special",
+        "playerName": "PYD TEAM"
+      },
+      {
+        "type": "special",
+        "playerName": "楠梓國中"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mhs",
+        "name": "高校生男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "pi",
+        "name": "ペア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平(固定)軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平(ベアリング)軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2da",
+        "name": "2ディアボロ(固定軸)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2db",
+        "name": "2ディアボロ(ベアリング軸)部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      }
+    ],
+    "infoUrl": "http://diabolo.jp/TIDC/jp/archive.html"
+  },
+  {
+    "id": "tidc-2014",
+    "name": "Tokyo International Diabolo Competition 2014",
+    "shortName": "TIDC 2014",
+    "startDate": "2014-08-12",
+    "endDate": "2014-08-15",
+    "venue": "江戸川橋体育館、BumB東京スポーツ文化館",
+    "location": "東京",
+    "resultUrl": "http://diabolo.jp/TIDC/pdf/TIDC2014_result.pdf",
+    "infoUrl": "http://diabolo.jp/TIDC/jp/archive.html",
+    "awards": [
+      {
+        "type": "best-trick",
+        "playerName": "吳啟銘"
+      },
+      {
+        "type": "best-trick",
+        "playerName": "王子昀"
+      },
+      {
+        "type": "best-trick",
+        "playerName": "諏訪 康貴"
+      },
+      {
+        "type": "special",
+        "playerName": "吳興扯鈴隊"
+      },
+      {
+        "type": "special",
+        "playerName": "鬥鈴藝術集"
+      },
+      {
+        "type": "special",
+        "playerName": "虎劇團"
+      },
+      {
+        "type": "special",
+        "playerName": "飛鈴表演藝術團"
+      },
+      {
+        "type": "special",
+        "playerName": "早稲田大学ジャグリングサークル~infinity~"
+      },
+      {
+        "type": "special",
+        "playerName": "マラバリスタ"
+      },
+      {
+        "type": "special",
+        "playerName": "とっちーず"
+      },
+      {
+        "type": "special",
+        "playerName": "戴邦祐"
+      },
+      {
+        "type": "special",
+        "playerName": "吳啟銘"
+      },
+      {
+        "type": "special",
+        "playerName": "高野 勝"
+      }
+    ],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "wj",
+        "name": "女子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dha",
+        "name": "男子1ディアボロ水平(固定)軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m1dhb",
+        "name": "男子1ディアボロ水平(ベアリング)軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2d",
+        "name": "2ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "m-nawatobi",
+        "name": "男子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-nawatobi",
+        "name": "女子1ディアボロ縄跳び部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      }
+    ]
+  },
+  {
+    "id": "tidc-2013",
+    "name": "Tokyo International Diabolo Competition 2013",
+    "shortName": "TIDC 2013",
+    "startDate": "2013-08-15",
+    "endDate": "2013-08-17",
+    "venue": "江戸川橋体育館、品川区総合体育館競技場",
+    "location": "東京",
+    "resultUrl": "http://diabolo.jp/TIDC/pdf/TIDC2013_result.pdf",
+    "infoUrl": "http://diabolo.jp/TIDC/jp/archive.html",
+    "awards": [],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "mj",
+        "name": "男子個人総合ジュニア部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "m1dh",
+        "name": "男子1ディアボロ水平軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "男子1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "w1d",
+        "name": "女子1ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2d",
+        "name": "2ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "m-ashimawari",
+        "name": "男子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "w-ashimawari",
+        "name": "女子1ディアボロ足回り部門",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass",
+        "name": "2ディアボロペアパス部門",
+        "class": "challenge"
+      }
+    ]
+  },
+  {
+    "id": "tidc-2012",
+    "name": "Tokyo International Diabolo Competition 2012",
+    "shortName": "TIDC 2012",
+    "startDate": "2012-08-17",
+    "endDate": "2012-08-18",
+    "venue": "江戸川橋体育館",
+    "location": "東京",
+    "resultUrl": "http://diabolo.jp/TIDC/pdf/TIDC2012_result.pdf",
+    "infoUrl": "http://diabolo.jp/TIDC/jp/archive.html",
+    "awards": [],
+    "categories": [
+      {
+        "id": "mi",
+        "name": "男子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "wi",
+        "name": "女子個人総合部門",
+        "class": "overall"
+      },
+      {
+        "id": "t",
+        "name": "団体部門",
+        "class": "overall"
+      },
+      {
+        "id": "1dh",
+        "name": "1ディアボロ水平軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1dv",
+        "name": "1ディアボロ垂直軸部門",
+        "class": "specialist"
+      },
+      {
+        "id": "2d",
+        "name": "2ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "3d",
+        "name": "3ディアボロ部門",
+        "class": "specialist"
+      },
+      {
+        "id": "1d-ashimawari-q",
+        "name": "1ディアボロ足の周り部門予選",
+        "class": "challenge"
+      },
+      {
+        "id": "1d-ashimawari-f",
+        "name": "1ディアボロ足の周り部門決勝",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass-q",
+        "name": "2ディアボロペアパス部門予選",
+        "class": "challenge"
+      },
+      {
+        "id": "p-pass-f",
+        "name": "2ディアボロペアパス部門決勝",
+        "class": "challenge"
+      },
+      {
+        "id": "4d-low",
+        "name": "4ディアボロロウ部門",
+        "class": "challenge"
+      }
+    ]
   }
 ]

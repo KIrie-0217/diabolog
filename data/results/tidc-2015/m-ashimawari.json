@@ -1,0 +1,33 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1 Diabolo Leg Orbits Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / TORII HIROMIKI", "nationality": "Japan", "count": 163, "status": "completed" },
+    { "rank": 2, "playerId": "zhao-zhi-han", "playerName": "趙志翰 / ZHAO ZHI HAN", "nationality": "Taiwan", "count": 154, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / KAMEI HIROKI", "nationality": "Japan", "count": 144, "class": "C", "status": "completed" },
+    { "rank": 4, "playerId": "makino-sena", "playerName": "牧野瀬南 / MAKINO SENA", "nationality": "Japan", "count": 136, "class": "A", "status": "completed" },
+    { "rank": 5, "playerId": "torii-ken", "playerName": "鳥居 健 / TORII KEN", "nationality": "Japan", "count": 128, "class": "E", "status": "completed" },
+    { "rank": 6, "playerId": "agou-tensei", "playerName": "吾郷 天星 / AGOU TENSEI", "nationality": "Japan", "count": 114, "class": "A", "status": "completed" },
+    { "rank": 7, "playerId": "shinoki-yuya", "playerName": "篠木 勇治 / SHINOKI YUYA", "nationality": "Japan", "count": 108, "class": "B", "status": "completed" },
+    { "rank": 8, "playerId": "huang-zhong-yi", "playerName": "黃中邑 / HUANG ZHONG YI", "nationality": "Taiwan", "count": 107, "class": "B", "status": "completed" },
+    { "rank": 9, "playerId": "kawamura-takashi", "playerName": "川村隆史 / KAWAMURA TAKASHI", "nationality": "Japan", "count": 103, "class": "C", "status": "completed" },
+    { "rank": 10, "playerId": "mochizuki-yuusaku", "playerName": "望月勇作 / MOCHIZUKI YUSAKU", "nationality": "Japan", "count": 98, "class": "D", "status": "completed" },
+    { "rank": 11, "playerId": "matsunami-yuuki", "playerName": "松並 裕樹 / MATSUNAMI YUUKI", "nationality": "Japan", "count": 93, "class": "C", "status": "completed" },
+    { "rank": 12, "playerId": "yamada-jun", "playerName": "山田純 / YAMADA JUN", "nationality": "Japan", "count": 90, "class": "C", "status": "completed" },
+    { "rank": 13, "playerId": "zhao-zhi-jia", "playerName": "趙志家 / ZHAO ZHI JIA", "nationality": "Taiwan", "count": 89, "class": "A", "status": "completed" },
+    { "rank": 13, "playerId": "matsumura-takaaki", "playerName": "松村 高朗 / MATSUMURA TAKAAKI", "nationality": "Japan", "count": 89, "class": "C", "status": "completed" },
+    { "rank": 15, "playerId": "deng-yu-xiang", "playerName": "鄧宇翔 / DENG YU XIANG", "nationality": "Taiwan", "count": 86, "class": "B", "status": "completed" },
+    { "rank": 16, "playerId": "yoshida-reo", "playerName": "吉田 怜央 / YOSHIDA REO", "nationality": "Japan", "count": 75, "class": "A", "status": "completed" },
+    { "rank": 16, "playerId": "hayashi-naoki", "playerName": "林直樹 / HAYASHI NAOKI", "nationality": "Japan", "count": 75, "class": "C", "status": "completed" },
+    { "rank": 18, "playerId": "kuroki-shun", "playerName": "黒木駿 / KUROKI SHUN", "nationality": "Japan", "count": 74, "class": "C", "status": "completed" },
+    { "rank": 19, "playerId": "ishimizu-taiki", "playerName": "石水 泰樹 / ISHIMIZU TAIKI", "nationality": "Japan", "count": 72, "class": "B", "status": "completed" },
+    { "rank": 20, "playerId": "kojima-makoto", "playerName": "小島 真琴 / KOJIMA MAKOTO", "nationality": "Japan", "count": 64, "class": "C", "status": "completed" },
+    { "rank": 21, "playerId": "nakamura-makoto", "playerName": "中村誠 / NAKAMURA MAKOTO", "nationality": "Japan", "count": 58, "class": "D", "status": "completed" },
+    { "rank": 22, "playerId": "yaguchi-jun", "playerName": "矢口純 / YAGUCHI JUN", "nationality": "Japan", "count": 27, "class": "C", "status": "completed" }
+  ]
+}

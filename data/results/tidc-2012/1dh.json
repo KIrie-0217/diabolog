@@ -1,0 +1,32 @@
+{
+  "categoryId": "1dh",
+  "name": "1ディアボロ水平軸部門",
+  "nameEn": "1 Diabolo Horizontal Axle Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "deduction", "name": "減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "abe-hiroki", "playerName": "安部弘紀 / ABE HIROKI", "nationality": "Japan", "scores": { "difficulty": 53.5, "stability": 17.2, "novelty": 18.2, "deduction": 3.0 }, "totalScore": 85.9, "status": "completed" },
+    { "rank": 2, "playerId": "lu-yu-cheng", "playerName": "盧昱成 / LU YU CHENG", "nationality": "Taiwan", "scores": { "difficulty": 52.3, "stability": 17.1, "novelty": 17.3, "deduction": 1.5 }, "totalScore": 85.2, "status": "completed" },
+    { "rank": 3, "playerId": "ye-zi-lin", "playerName": "葉子琳 / YE ZI LIN", "nationality": "Taiwan", "scores": { "difficulty": 49.6, "stability": 18.8, "novelty": 16.3, "deduction": 0.0 }, "totalScore": 84.7, "status": "completed" },
+    { "rank": 4, "playerId": "yang-qin-yao", "playerName": "楊沁堯 / YANG QIN YAO", "nationality": "Taiwan", "scores": { "difficulty": 51.8, "stability": 17.5, "novelty": 16.6, "deduction": 1.3 }, "totalScore": 84.6, "status": "completed" },
+    { "rank": 5, "playerId": "alex-ang", "playerName": "洪国皓 / ALEX ANG", "nationality": "Malaysia", "scores": { "difficulty": 53.2, "stability": 16.3, "novelty": 18.0, "deduction": 4.2 }, "totalScore": 83.3, "status": "completed" },
+    { "rank": 6, "playerId": "lim-fang-yu", "playerName": "林防佑 / LIM FANG YU", "nationality": "Malaysia", "scores": { "difficulty": 51.0, "stability": 17.0, "novelty": 15.9, "deduction": 2.2 }, "totalScore": 81.7, "status": "completed" },
+    { "rank": 7, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / KAMEI HIROKI", "nationality": "Japan", "scores": { "difficulty": 49.9, "stability": 15.9, "novelty": 17.3, "deduction": 2.0 }, "totalScore": 81.1, "status": "completed" },
+    { "rank": 8, "playerId": "yamamoto-masaaki", "playerName": "山本公章 / YAMAMOTO MASAAKI", "nationality": "Japan", "scores": { "difficulty": 50.3, "stability": 15.2, "novelty": 15.9, "deduction": 4.1 }, "totalScore": 77.3, "status": "completed" },
+    { "rank": 9, "playerId": "watanabe-hideya", "playerName": "渡辺英也 / WATANABE HIDEYA", "nationality": "Japan", "scores": { "difficulty": 49.3, "stability": 14.5, "novelty": 15.4, "deduction": 3.2 }, "totalScore": 76.0, "status": "completed" },
+    { "rank": 10, "playerId": "isobe-takumi", "playerName": "磯部拓海 / ISOBE TAKUMI", "nationality": "Japan", "scores": { "difficulty": 50.0, "stability": 14.1, "novelty": 16.6, "deduction": 5.7 }, "totalScore": 75.0, "status": "completed" },
+    { "rank": 11, "playerId": "nakamura-toshiaki", "playerName": "中村俊秋 / NAKAMURA TOSHIAKI", "nationality": "Japan", "scores": { "difficulty": 46.8, "stability": 15.4, "novelty": 15.9, "deduction": 3.6 }, "totalScore": 74.5, "status": "completed" },
+    { "rank": 12, "playerId": "hino-fumitaka", "playerName": "日野文剛 / HINO FUMITAKA", "nationality": "Japan", "scores": { "difficulty": 46.7, "stability": 15.7, "novelty": 14.9, "deduction": 2.9 }, "totalScore": 74.4, "status": "completed" },
+    { "rank": 13, "playerId": "tada-kazuki", "playerName": "田多加津輝 / TADA KAZUKI", "nationality": "Japan", "scores": { "difficulty": 49.0, "stability": 13.3, "novelty": 15.9, "deduction": 4.9 }, "totalScore": 73.3, "status": "completed" },
+    { "rank": 14, "playerId": "sekiya-masahiro", "playerName": "関矢昌宏 / SEKIYA MASAHIRO", "nationality": "Japan", "scores": { "difficulty": 45.8, "stability": 16.2, "novelty": 13.3, "deduction": 2.3 }, "totalScore": 73.0, "status": "completed" },
+    { "rank": 15, "playerId": "oh-shosho", "playerName": "王昌翔 / OH SHOSHO", "nationality": "Japan", "scores": { "difficulty": 45.0, "stability": 15.4, "novelty": 13.8, "deduction": 2.7 }, "totalScore": 71.5, "status": "completed" },
+    { "rank": 16, "playerId": "suwa-koki", "playerName": "諏訪康貴 / SUWA KOUKI", "nationality": "Japan", "scores": { "difficulty": 45.0, "stability": 13.8, "novelty": 16.4, "deduction": 3.8 }, "totalScore": 71.4, "status": "completed" },
+    { "rank": 17, "playerId": "kiso-takahiro", "playerName": "木曽貴大 / KISO TAKAHIRO", "nationality": "Japan", "scores": { "difficulty": 45.6, "stability": 15.8, "novelty": 14.7, "deduction": 4.8 }, "totalScore": 71.3, "status": "completed" }
+  ]
+}

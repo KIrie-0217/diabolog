@@ -1,0 +1,43 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:who-theatre",
+      "playerName": "Hu Ju Tuan (W.H.O. Theater)",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 29.6, "synchronization": 26.2, "composition": 25.2, "execution-deduction": 1.0, "special-deduction": 0.0 },
+      "totalScore": 80.0,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "team:shan-ling-bao-bao",
+      "playerName": "Shan Ling Bao Bao Lian Dui",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 28.8, "synchronization": 25.0, "composition": 23.4, "execution-deduction": 7.8, "special-deduction": 0.0 },
+      "totalScore": 69.4,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "team:four-nationalities",
+      "playerName": "Four Nationalities",
+      "nationality": "Mixed",
+      "scores": { "difficulty": 24.8, "synchronization": 20.2, "composition": 20.6, "execution-deduction": 11.2, "special-deduction": 0.0 },
+      "totalScore": 54.4,
+      "status": "completed"
+    }
+  ]
+}

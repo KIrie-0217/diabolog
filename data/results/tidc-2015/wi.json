@@ -1,0 +1,64 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chen-yi-ting",
+      "playerName": "陳儀庭 / CHEN YI TING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 25.0, "variety": 8.2, "stability": 9.2, "novelty": 6.8, "composition": 18.6, "base-score": 15, "execution-deduction": 0.4, "special-deduction": 0.0 },
+      "totalScore": 82.4,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "suda-erika",
+      "playerName": "須田 恵梨香 / SUDA ERIKA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 23.8, "variety": 7.8, "stability": 7.8, "novelty": 6.8, "composition": 18.6, "base-score": 15, "execution-deduction": 2.72, "special-deduction": 0.0 },
+      "totalScore": 77.08,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "liao-man-jun",
+      "playerName": "廖曼君 / LIAO MAN JUN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 20.0, "variety": 6.0, "stability": 8.2, "novelty": 5.8, "composition": 20.0, "base-score": 15, "execution-deduction": 0.0, "special-deduction": 0.0 },
+      "totalScore": 75.0,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "lu-jia-ling",
+      "playerName": "呂佳玲 / LU JIA LING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 19.8, "variety": 5.8, "stability": 6.6, "novelty": 5.8, "composition": 16.8, "base-score": 15, "execution-deduction": 3.44, "special-deduction": 0.0 },
+      "totalScore": 66.36,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "higuchi-yoko",
+      "playerName": "樋口 瑛子 / HIGUCHI YOKO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 20.4, "variety": 6.0, "stability": 6.0, "novelty": 5.4, "composition": 16.6, "base-score": 10, "execution-deduction": 4.32, "special-deduction": 0.0 },
+      "totalScore": 60.08,
+      "status": "completed"
+    }
+  ]
+}

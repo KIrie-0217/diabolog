@@ -1,0 +1,25 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "nameEn": "3diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "wu-qi-ming", "playerName": "吳啟銘 / WU QI MING", "nationality": "Taiwan", "scores": { "difficulty": 43.25, "stability": 12.75, "novelty": 27.25, "composition": 8.50, "execution-deduction": 1.25, "special-deduction": 0.00 }, "totalScore": 90.50, "status": "completed" },
+    { "rank": 2, "playerId": "zhang-jun-huang", "playerName": "張駿煌 / ZHANG JUN HUANG", "nationality": "Taiwan", "scores": { "difficulty": 40.75, "stability": 12.00, "novelty": 24.00, "composition": 8.00, "execution-deduction": 1.38, "special-deduction": 0.00 }, "totalScore": 83.38, "status": "completed" },
+    { "rank": 3, "playerId": "chen-han-yan", "playerName": "沈翰彥 / CHEN HAN YAN", "nationality": "Taiwan", "scores": { "difficulty": 39.00, "stability": 12.50, "novelty": 24.00, "composition": 8.00, "execution-deduction": 0.88, "special-deduction": 0.00 }, "totalScore": 82.63, "status": "completed" },
+    { "rank": 4, "playerId": "wang-tzu-yun", "playerName": "王子昀 / WANG ZI YUN", "nationality": "Taiwan", "scores": { "difficulty": 41.00, "stability": 11.75, "novelty": 23.75, "composition": 7.25, "execution-deduction": 2.75, "special-deduction": 0.00 }, "totalScore": 81.00, "status": "completed" },
+    { "rank": 5, "playerId": "tanaka-shun", "playerName": "田中俊 / TANAKA SYUN", "nationality": "Japan", "scores": { "difficulty": 37.50, "stability": 12.25, "novelty": 22.50, "composition": 7.25, "execution-deduction": 1.50, "special-deduction": 0.00 }, "totalScore": 78.00, "status": "completed" },
+    { "rank": 6, "playerId": "wu-liang-hui", "playerName": "吳亮輝 / WU LIANG HUI", "nationality": "Taiwan", "scores": { "difficulty": 39.00, "stability": 10.50, "novelty": 23.50, "composition": 7.50, "execution-deduction": 3.50, "special-deduction": 0.00 }, "totalScore": 77.00, "status": "completed" },
+    { "rank": 7, "playerId": "guo-heng-yi", "playerName": "郭恆毅 / GUO HENG YI", "nationality": "Taiwan", "scores": { "difficulty": 37.25, "stability": 10.00, "novelty": 22.75, "composition": 7.00, "execution-deduction": 4.63, "special-deduction": 3.00 }, "totalScore": 69.38, "status": "completed" },
+    { "rank": null, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / TSAI JUN HUI", "nationality": "Taiwan", "status": "dns" }
+  ]
+}

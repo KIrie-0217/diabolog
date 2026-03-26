@@ -1,0 +1,19 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "nameEn": "Women's 1diabolo Leg Wrap Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / TSAI JUN HUI", "nationality": "Taiwan", "count": 122, "class": "B", "status": "completed" },
+    { "rank": 2, "playerId": "wu-tz-shiuan", "playerName": "吳姿璿 / WU TZ SHIUAN", "nationality": "Taiwan", "count": 117, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "yang-hsin-yi", "playerName": "楊心怡 / YANG HSIN YI", "nationality": "Taiwan", "count": 100, "class": "D", "status": "completed" },
+    { "rank": 4, "playerId": "liu-zi-rong", "playerName": "劉子榕 / LIU ZI RONG", "nationality": "Taiwan", "count": 87, "class": "A", "status": "completed" },
+    { "rank": 5, "playerId": "suzuki-haruna", "playerName": "鈴木春奈 / SUZUKI HARUNA", "nationality": "Japan", "count": 84, "class": "C", "status": "completed" },
+    { "rank": 6, "playerId": "koseki-megumi", "playerName": "古関萌 / KOSEKI MEGUMI", "nationality": "Japan", "count": 67, "class": "B", "status": "completed" },
+    { "rank": 7, "playerId": "akamatsu-chihiro", "playerName": "赤松 ちひろ / AKAMATSU CHIHIRO", "nationality": "Japan", "count": 49, "class": "C", "status": "completed" },
+    { "rank": 8, "playerId": "ode-sae", "playerName": "大出彩恵 / OODE SAE", "nationality": "Japan", "count": 41, "class": "B", "status": "completed" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4 Diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "yang-qin-yao", "playerName": "楊沁堯 / YANG QIN YAO", "nationality": "Taiwan", "count": 292, "status": "completed" },
+    { "rank": 2, "playerId": "chao-yu-sung", "playerName": "趙昱淞 / CHAO YU SUNG", "nationality": "Taiwan", "count": 228, "status": "completed" },
+    { "rank": 3, "playerId": "wang-tzu-yun", "playerName": "王子昀 / WANG ZI YUN", "nationality": "Taiwan", "count": 158, "status": "completed" },
+    { "rank": 4, "playerId": "lu-yu-cheng", "playerName": "盧昱成 / LU YU CHENG", "nationality": "Taiwan", "count": 61, "status": "completed" },
+    { "rank": 5, "playerId": "urawa-arata", "playerName": "浦和新 / URAWA ARATA", "nationality": "Japan", "count": 4, "status": "completed" },
+    { "rank": 6, "playerId": "deng-yu-xiang", "playerName": "鄧宇翔 / DENG YU XIANG", "nationality": "Taiwan", "count": 3, "status": "completed" },
+    { "rank": 7, "playerId": "mochizuki-yuusaku", "playerName": "望月 勇作 / MOCHIZUKI YUSAKU", "nationality": "Japan", "count": 0, "status": "completed" }
+  ]
+}

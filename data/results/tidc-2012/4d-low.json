@@ -1,0 +1,14 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4 Diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "yang-qin-yao", "playerName": "楊沁堯 / YANG QIN YAO", "nationality": "Taiwan", "count": 50, "note": "大会新記録", "status": "completed" },
+    { "rank": 2, "playerId": "lin-yan-xiang", "playerName": "林晏詳 / LIN YAN XIANG", "nationality": "Taiwan", "count": 12, "status": "completed" },
+    { "rank": 3, "playerId": "lu-yu-cheng", "playerName": "盧昱成 / LU YU CHENG", "nationality": "Taiwan", "count": 12, "status": "completed" },
+    { "rank": 4, "playerId": "chen-wai-liang", "playerName": "曾伟亮 / CHEN WAI LIANG", "nationality": "Malaysia", "count": 11, "status": "completed" }
+  ]
+}

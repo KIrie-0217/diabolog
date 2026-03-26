@@ -1,0 +1,28 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1diabolo Leg Wrap Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / TORII HIROMIKI", "nationality": "Japan", "count": 151, "class": "A", "status": "completed" },
+    { "rank": 2, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / KAMEI HIROKI", "nationality": "Japan", "count": 145, "class": "C", "status": "completed" },
+    { "rank": 3, "playerId": "lu-ji-xian", "playerName": "魯紀賢 / LU JI XIAN", "nationality": "Taiwan", "count": 141, "class": "D", "status": "completed" },
+    { "rank": 4, "playerId": "yoshioka-takehiro", "playerName": "吉岡 岳洋 / YOSHIOKA TAKEHIRO", "nationality": "Japan", "count": 137, "class": "B", "status": "completed" },
+    { "rank": 5, "playerId": "honda-hikaru", "playerName": "本田光 / HINDA HIKARU", "nationality": "Japan", "count": 136, "class": "C", "status": "completed" },
+    { "rank": 6, "playerId": "kudo-masahiro", "playerName": "工藤 正景 / KUDO MASAHIRO", "nationality": "Japan", "count": 129, "class": "C", "status": "completed" },
+    { "rank": 7, "playerId": "ke-ming-hong", "playerName": "柯茗鋐 / KE MING HONG", "nationality": "Taiwan", "count": 128, "class": "A", "status": "completed" },
+    { "rank": 8, "playerId": "kuo-po-ting", "playerName": "郭伯廷 / GUO BO TING", "nationality": "Taiwan", "count": 126, "class": "B", "status": "completed" },
+    { "rank": 9, "playerId": "kobayashi-masato", "playerName": "小林雅斗 / KOBAYASI MASATO", "nationality": "Japan", "count": 120, "class": "B", "status": "completed" },
+    { "rank": 10, "playerId": "kuroki-shun", "playerName": "黒木駿 / KUROKI SYUN", "nationality": "Japan", "count": 104, "class": "C", "status": "completed" },
+    { "rank": 11, "playerId": "torii-ken", "playerName": "鳥居 健 / TORII KEN", "nationality": "Japan", "count": 95, "class": "E", "status": "completed" },
+    { "rank": 12, "playerId": "makino-sena", "playerName": "牧野 瀬南 / MAKINO SENA", "nationality": "Japan", "count": 87, "class": "A", "status": "completed" },
+    { "rank": 13, "playerId": "chang-tzu-wei", "playerName": "張子威 / CHANG TZU WEI", "nationality": "Taiwan", "count": 83, "class": "D", "status": "completed" },
+    { "rank": 14, "playerId": "obata-ryoya", "playerName": "小幡 亮哉 / OBATA RYOYA", "nationality": "Japan", "count": 75, "class": "B", "status": "completed" },
+    { "rank": 15, "playerId": "suzuki-takayuki", "playerName": "鈴木 貴之 / SUZUKI TAKAYUKI", "nationality": "Japan", "count": 74, "class": "C", "status": "completed" },
+    { "rank": 16, "playerId": "lin-hsing-yu", "playerName": "林興昱 / LIN HSING YU", "nationality": "Taiwan", "count": 57, "class": "D", "status": "completed" },
+    { "rank": 17, "playerId": "ogino-ryota", "playerName": "荻野 諒大 / OGINO RYOTA", "nationality": "Japan", "count": 33, "class": "B", "status": "completed" }
+  ]
+}

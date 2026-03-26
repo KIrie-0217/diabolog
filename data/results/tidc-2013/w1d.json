@@ -1,0 +1,25 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "nameEn": "Women's 1 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "yun-ru-chen", "playerName": "YUN RU CHEN", "nationality": "Taiwan", "scores": { "difficulty": 41.5, "stability": 13.625, "novelty": 24.5, "composition": 9.25, "execution-deduction": 0.0, "special-deduction": 0.0 }, "totalScore": 88.875, "status": "completed" },
+    { "rank": 2, "playerId": "chan-chun-hui", "playerName": "CHUN HUI CHAN", "nationality": "Taiwan", "scores": { "difficulty": 40.25, "stability": 12.375, "novelty": 23.25, "composition": 8.625, "execution-deduction": 2.875, "special-deduction": 0.0 }, "totalScore": 81.625, "status": "completed" },
+    { "rank": 3, "playerId": "suda-erika", "playerName": "ERIKA SUDA", "nationality": "Japan", "scores": { "difficulty": 38.5, "stability": 12.25, "novelty": 23.25, "composition": 8.5, "execution-deduction": 2.875, "special-deduction": 0.0 }, "totalScore": 79.625, "status": "completed" },
+    { "rank": 4, "playerId": "yanagawa-ayako", "playerName": "AYAKO YANAGAWA", "nationality": "Japan", "scores": { "difficulty": 36.75, "stability": 11.875, "novelty": 23.0, "composition": 8.0, "execution-deduction": 1.25, "special-deduction": 0.0 }, "totalScore": 78.375, "status": "completed" },
+    { "rank": 5, "playerId": "watanabe-yukari", "playerName": "YUKARI WATANABE", "nationality": "Japan", "scores": { "difficulty": 34.5, "stability": 10.375, "novelty": 19.25, "composition": 8.25, "execution-deduction": 2.0, "special-deduction": 0.0 }, "totalScore": 70.375, "status": "completed" },
+    { "rank": 6, "playerId": "wu-tz-shiuan", "playerName": "TZU SHIUAN WU", "nationality": "Taiwan", "scores": { "difficulty": 33.5, "stability": 10.5, "novelty": 19.5, "composition": 7.5, "execution-deduction": 3.25, "special-deduction": 0.0 }, "totalScore": 67.75, "status": "completed" },
+    { "rank": 7, "playerId": "he-hsin-pin", "playerName": "HSIN PIN HE", "nationality": "Taiwan", "scores": { "difficulty": 34.25, "stability": 9.875, "novelty": 18.75, "composition": 7.25, "execution-deduction": 3.25, "special-deduction": 0.0 }, "totalScore": 66.875, "status": "completed" },
+    { "rank": 8, "playerId": "fujiwara-kae", "playerName": "KAE FUJIWARA", "nationality": "Japan", "scores": { "difficulty": 30.25, "stability": 8.75, "novelty": 18.0, "composition": 6.75, "execution-deduction": 2.75, "special-deduction": 0.0 }, "totalScore": 61.0, "status": "completed" }
+  ]
+}

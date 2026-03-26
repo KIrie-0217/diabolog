@@ -1,0 +1,116 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "nameEn": "3 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yang-qin-yao",
+      "playerName": "楊沁堯 / YANG QIN YAO",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 41.75, "stability": 12.5, "novelty": 27.0, "composition": 7.25, "execution-deduction": 2.25, "special-deduction": 0.0 },
+      "totalScore": 86.25,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "watanabe-hayato",
+      "playerName": "渡邊 隼人 / WATANABE HAYATO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 38.75, "stability": 12.0, "novelty": 24.25, "composition": 7.25, "execution-deduction": 1.0, "special-deduction": 0.0 },
+      "totalScore": 81.25,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "lu-yu-cheng",
+      "playerName": "盧昱成 / LU YU CHENG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 39.0, "stability": 10.5, "novelty": 25.25, "composition": 6.75, "execution-deduction": 3.0, "special-deduction": 0.0 },
+      "totalScore": 78.5,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "wang-tzu-yun",
+      "playerName": "王子昀 / WANG ZI YUN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 39.75, "stability": 11.5, "novelty": 23.0, "composition": 6.25, "execution-deduction": 2.13, "special-deduction": 0.0 },
+      "totalScore": 78.38,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "chen-si-yuen",
+      "playerName": "曾思源 / CHEN SI YUEN",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 39.0, "stability": 11.5, "novelty": 23.0, "composition": 7.25, "execution-deduction": 3.13, "special-deduction": 0.0 },
+      "totalScore": 77.63,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "wu-chi-ming",
+      "playerName": "吳啟銘 / WU QI MING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 36.5, "stability": 10.25, "novelty": 23.75, "composition": 7.0, "execution-deduction": 2.75, "special-deduction": 0.0 },
+      "totalScore": 74.75,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "chen-tsan-chih",
+      "playerName": "陳贊之 / CHEN TSAN CHIH",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 34.75, "stability": 11.5, "novelty": 22.0, "composition": 6.5, "execution-deduction": 1.38, "special-deduction": 0.0 },
+      "totalScore": 73.38,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "urawa-arata",
+      "playerName": "浦和 新 / URAWA ARATA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.0, "stability": 10.5, "novelty": 19.25, "composition": 8.0, "execution-deduction": 3.0, "special-deduction": 0.0 },
+      "totalScore": 70.75,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "deng-yu-xiang",
+      "playerName": "鄧宇翔 / DENG YU XIANG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 34.75, "stability": 10.5, "novelty": 20.5, "composition": 6.5, "execution-deduction": 2.5, "special-deduction": 0.0 },
+      "totalScore": 69.75,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / ISHIMIZU TAIKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 34.75, "stability": 10.0, "novelty": 20.5, "composition": 6.25, "execution-deduction": 2.63, "special-deduction": 0.0 },
+      "totalScore": 68.88,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "guo-heng-yi",
+      "playerName": "郭恆毅 / GUO HENG YI",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 33.5, "stability": 8.25, "novelty": 22.5, "composition": 5.75, "execution-deduction": 4.88, "special-deduction": 0.0 },
+      "totalScore": 65.13,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "nameEn": "Women's 1diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yamashita-rie",
+      "playerName": "山下 理恵 / Yamashita Rie",
+      "nationality": "Japan",
+      "count": 22,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "maruyama-ryoko",
+      "playerName": "丸山 量子 / Maruyama Ryoko",
+      "nationality": "Japan",
+      "count": 15,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "ishitsuka-aya",
+      "playerName": "石塚綾 / Ishitsuka Aya",
+      "nationality": "Japan",
+      "count": 6,
+      "class": "C",
+      "status": "completed"
+    }
+  ]
+}

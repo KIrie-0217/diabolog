@@ -1,0 +1,29 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1 Diabolo Leg Orbits Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "kamei-hiroki", "playerName": "HIROKI KAMEI", "nationality": "Japan", "count": 142, "note": "TR, JR", "status": "completed" },
+    { "rank": 2, "playerId": "torii-hiromiki", "playerName": "HIROMIKI TORII", "nationality": "Japan", "count": 133, "status": "completed" },
+    { "rank": 3, "playerId": "honda-hikaru", "playerName": "HIKARU HONDA", "nationality": "Japan", "count": 131, "status": "completed" },
+    { "rank": 4, "playerId": "torii-ken", "playerName": "KEN TORII", "nationality": "Japan", "count": 121, "status": "completed" },
+    { "rank": 5, "playerId": "torii-takemi", "playerName": "TAKEMI TORII", "nationality": "Japan", "count": 120, "status": "completed" },
+    { "rank": 6, "playerId": "kurasawa-eiji", "playerName": "EIJI KURASAWA", "nationality": "Japan", "count": 110, "status": "completed" },
+    { "rank": 7, "playerId": "isobe-takumi", "playerName": "TAKUMI ISOBE", "nationality": "Japan", "count": 109, "status": "completed" },
+    { "rank": 8, "playerId": "yamamoto-masaaki", "playerName": "MASAAKI YAMAMOTO", "nationality": "Japan", "count": 108, "status": "completed" },
+    { "rank": 9, "playerId": "yamasaki-kouta", "playerName": "KOHTA YAMASAKI", "nationality": "Japan", "count": 106, "status": "completed" },
+    { "rank": 10, "playerId": "watanabe-hayato", "playerName": "HAYATO WATANABE", "nationality": "Japan", "count": 95, "status": "completed" },
+    { "rank": 11, "playerId": "suwa-koki", "playerName": "KOHKI SUWA", "nationality": "Japan", "count": 88, "status": "completed" },
+    { "rank": 12, "playerId": "yamazaki-shuhei", "playerName": "SHUHEI YAMAZAKI", "nationality": "Japan", "count": 83, "status": "completed" },
+    { "rank": 13, "playerId": "hiraiwa-kazuya", "playerName": "KAZUYA HIRAIWA", "nationality": "Japan", "count": 77, "status": "completed" },
+    { "rank": 14, "playerId": "ujiie-michito", "playerName": "MICHITO UJIIE", "nationality": "Japan", "count": 70, "status": "completed" },
+    { "rank": 15, "playerId": "asakura-yo", "playerName": "YOU ASAKURA", "nationality": "Japan", "count": 67, "status": "completed" },
+    { "rank": 16, "playerId": "kurose-tatsuhiro", "playerName": "TATSUHIRO KUROSE", "nationality": "Japan", "count": 65, "status": "completed" },
+    { "rank": 17, "playerId": "suzuki-takayuki", "playerName": "TAKAYUKI SUZUKI", "nationality": "Japan", "count": 64, "status": "completed" },
+    { "rank": 18, "playerId": "yoshii-norihiro", "playerName": "NORIHIRO YOSHII", "nationality": "Japan", "count": 63, "status": "completed" },
+    { "rank": 19, "playerId": "sekiya-masahiro", "playerName": "MASAHIRO SEKIYA", "nationality": "Japan", "count": 58, "status": "completed" }
+  ]
+}

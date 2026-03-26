@@ -1,0 +1,125 @@
+{
+  "categoryId": "2da",
+  "name": "2ディアボロ(固定軸)部門",
+  "nameEn": "2 Diabolo (Fixed Axle) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chen-si-yuen",
+      "playerName": "曾思源 / CHEN SI YUEN",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 42.0, "stability": 14.5, "novelty": 26.75, "composition": 8.25, "execution-deduction": 0.0, "special-deduction": 0.0 },
+      "totalScore": 91.5,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kamiya-gaku",
+      "playerName": "神谷岳 / KAMIYA GAKU",
+      "nationality": "Japan",
+      "scores": { "difficulty": 38.25, "stability": 13.25, "novelty": 26.0, "composition": 8.0, "execution-deduction": 1.13, "special-deduction": 0.0 },
+      "totalScore": 84.38,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "wang-tzu-yun",
+      "playerName": "王子昀 / WANG ZI YUN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 40.25, "stability": 13.75, "novelty": 24.25, "composition": 6.75, "execution-deduction": 0.88, "special-deduction": 0.0 },
+      "totalScore": 84.13,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chao-yu-sung",
+      "playerName": "趙昱淞 / CHAO YU SUNG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 40.0, "stability": 12.0, "novelty": 26.25, "composition": 7.0, "execution-deduction": 4.88, "special-deduction": 0.0 },
+      "totalScore": 80.38,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "hee-ken-soon",
+      "playerName": "許景順 / HEE KEN SOON",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 38.25, "stability": 12.75, "novelty": 25.25, "composition": 6.75, "execution-deduction": 2.88, "special-deduction": 0.0 },
+      "totalScore": 80.13,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "urawa-arata",
+      "playerName": "浦和 新 / URAWA ARATA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.0, "stability": 13.5, "novelty": 23.25, "composition": 7.75, "execution-deduction": 1.5, "special-deduction": 0.0 },
+      "totalScore": 79.0,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "tada-kazuki",
+      "playerName": "田多 加津輝 / TADA KAZUKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 37.0, "stability": 12.75, "novelty": 24.0, "composition": 6.75, "execution-deduction": 2.75, "special-deduction": 0.0 },
+      "totalScore": 77.75,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "tanaka-tomoyasu",
+      "playerName": "田中 友康 / TANAKA TOMOYASU",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.0, "stability": 12.5, "novelty": 23.75, "composition": 7.25, "execution-deduction": 2.63, "special-deduction": 0.0 },
+      "totalScore": 76.88,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "matsubara-shohei",
+      "playerName": "松原 尚平 / MATSUBARA SHOHEI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 34.25, "stability": 11.75, "novelty": 21.25, "composition": 6.5, "execution-deduction": 2.75, "special-deduction": 0.0 },
+      "totalScore": 71.0,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "phan-guo-li",
+      "playerName": "潘国立 / PHAN GUO LI",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 34.75, "stability": 10.75, "novelty": 22.0, "composition": 6.0, "execution-deduction": 5.5, "special-deduction": 0.0 },
+      "totalScore": 68.0,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "akiba-yosuke",
+      "playerName": "秋場 遥輔 / AKIBA YOSUKE",
+      "nationality": "Japan",
+      "scores": { "difficulty": 33.75, "stability": 10.75, "novelty": 22.5, "composition": 6.25, "execution-deduction": 5.38, "special-deduction": 0.0 },
+      "totalScore": 67.88,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "nohara-hiroki",
+      "playerName": "野原 大幹 / NOHARA HIROKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 33.0, "stability": 9.75, "novelty": 20.5, "composition": 5.75, "execution-deduction": 7.25, "special-deduction": 0.0 },
+      "totalScore": 61.75,
+      "status": "completed"
+    }
+  ]
+}

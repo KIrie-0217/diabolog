@@ -1,0 +1,22 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2 Diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki+torii-takemi", "playerName": "鳥居 大幹/鳥居岳史 / TORII HIROMIKI/TORII TAKEMI", "nationality": "Japan", "count": 78, "status": "completed" },
+    { "rank": 2, "playerId": "zhao-zhi-han+chen-yi-ting", "playerName": "趙志翰/陳儀庭 / ZHAO ZHI HAN/CHEN YI TING", "nationality": "Taiwan", "count": 76, "status": "completed" },
+    { "rank": 3, "playerId": "suwa-koki+takamori-hirofumi", "playerName": "諏訪 康貴/高森 啓史 / SUWA KOKI/TAKAMORI HIROFUMI", "nationality": "Japan", "count": 53, "status": "completed" },
+    { "rank": 4, "playerId": "yang-ren-zhi+chang-tzu-wei", "playerName": "楊仁志/張子威 / YANG REN ZHI/ZHANG ZI WEI", "nationality": "Taiwan", "count": 46, "status": "completed" },
+    { "rank": 5, "playerId": "ooya-yukinaga+mochizuki-yuusaku", "playerName": "大屋 幸長/望月勇作 / OYA YUKINAGA/MOCHIZUKI YUSAKU", "nationality": "Japan", "count": 28, "status": "completed" },
+    { "rank": 6, "playerId": "kawamura-takashi+akiba-yosuke", "playerName": "川村隆史/秋場 遥輔 / KAWAMURA TAKASHI/AKIBA YOSUKE", "nationality": "Japan", "count": 25, "status": "completed" },
+    { "rank": 7, "playerId": "saito-tetsunori+matsumura-takaaki", "playerName": "齋藤 哲範/松村 高朗 / SAITO TETSUNORI/MATSUMURA TAKAAKI", "nationality": "Japan", "count": 20, "status": "completed" },
+    { "rank": 8, "playerId": "wang-tzu-yun+deng-yu-xiang", "playerName": "王子昀/鄧宇翔 / WANG ZI YUN/DENG YU XIANG", "nationality": "Taiwan", "count": 14, "status": "completed" },
+    { "rank": 8, "playerId": "lai-ying-xu+lin-hsing-yu", "playerName": "賴瀅旭/林興昱 / LAI YING XU/LIN XING YU", "nationality": "Taiwan", "count": 14, "status": "completed" },
+    { "rank": 10, "playerId": "yamashita-rie+ito-mayu", "playerName": "山下 理恵/伊藤 真由 / YAMASHITA RIE/ITO MAYU", "nationality": "Japan", "count": 10, "status": "completed" },
+    { "rank": 11, "playerId": "ode-sae+sakai-chisa", "playerName": "大出彩恵/酒井千紗 / ODE SAE/SAKAI CHISA", "nationality": "Japan", "count": 3, "status": "completed" },
+    { "rank": 12, "playerId": "ogino-ryota+maruyama-ryoko", "playerName": "荻野 涼太/丸山 量子 / OGINO RYOTA/MARUYAMA RYOKO", "nationality": "Japan", "count": 2, "status": "completed" }
+  ]
+}

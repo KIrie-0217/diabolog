@@ -1,0 +1,206 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kamei-hiroki",
+      "playerName": "HIROKI KAMEI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 25.2, "variety": 7.8, "stability": 8.6, "novelty": 8.9, "composition": 17.1, "base-score": 20, "execution-deduction": 0.16, "special-deduction": 0.0 },
+      "totalScore": 87.44,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "watanabe-hayato",
+      "playerName": "HAYATO WATANABE",
+      "nationality": "Japan",
+      "scores": { "difficulty": 25.4, "variety": 7.5, "stability": 9.2, "novelty": 8.9, "composition": 17.8, "base-score": 20, "execution-deduction": 1.76, "special-deduction": 0.0 },
+      "totalScore": 87.04,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "yang-ren-zhi",
+      "playerName": "REN ZHI YANG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 24.5, "variety": 7.7, "stability": 9.2, "novelty": 8.1, "composition": 18.2, "base-score": 20, "execution-deduction": 1.12, "special-deduction": 0.0 },
+      "totalScore": 86.58,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tanaka-tomoyasu",
+      "playerName": "TOMOYASU TANAKA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 23.2, "variety": 8.1, "stability": 8.4, "novelty": 7.9, "composition": 16.7, "base-score": 20, "execution-deduction": 1.2, "special-deduction": 0.0 },
+      "totalScore": 83.1,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "fukagawa-akira",
+      "playerName": "AKIRA FUKAGAWA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 23.6, "variety": 7.0, "stability": 8.5, "novelty": 7.5, "composition": 18.9, "base-score": 20, "execution-deduction": 2.48, "special-deduction": 0.0 },
+      "totalScore": 83.02,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kubo-yuichiro",
+      "playerName": "YUICHIRO KUBO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 23.7, "variety": 8.0, "stability": 8.5, "novelty": 7.8, "composition": 16.8, "base-score": 20, "execution-deduction": 2.72, "special-deduction": 0.0 },
+      "totalScore": 82.08,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "mochizuki-yuusaku",
+      "playerName": "YUSAKU MOCHIZUKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 22.1, "variety": 8.0, "stability": 8.3, "novelty": 7.8, "composition": 18.8, "base-score": 20, "execution-deduction": 2.88, "special-deduction": 3.0 },
+      "totalScore": 79.12,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "huang-ho-ying",
+      "playerName": "HO YIN HUANG",
+      "nationality": "Hong Kong",
+      "scores": { "difficulty": 23.1, "variety": 8.6, "stability": 7.9, "novelty": 7.7, "composition": 16.4, "base-score": 20, "execution-deduction": 4.64, "special-deduction": 0.0 },
+      "totalScore": 79.06,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "kurasawa-eiji",
+      "playerName": "EIJI KURASAWA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 22.4, "variety": 7.3, "stability": 7.6, "novelty": 7.8, "composition": 16.7, "base-score": 20, "execution-deduction": 3.28, "special-deduction": 0.0 },
+      "totalScore": 78.52,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "aoki-naoya",
+      "playerName": "NAOYA AOKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 21.1, "variety": 6.7, "stability": 7.6, "novelty": 7.5, "composition": 17.6, "base-score": 20, "execution-deduction": 2.64, "special-deduction": 0.0 },
+      "totalScore": 77.86,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "abe-hiroki",
+      "playerName": "HIROKI ABE",
+      "nationality": "Japan",
+      "scores": { "difficulty": 24.4, "variety": 7.3, "stability": 7.5, "novelty": 8.5, "composition": 16.7, "base-score": 20, "execution-deduction": 0.0, "special-deduction": 8.88 },
+      "totalScore": 75.52,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "kamiya-gaku",
+      "playerName": "GAKU KAMIYA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 22.9, "variety": 7.4, "stability": 7.0, "novelty": 7.1, "composition": 14.4, "base-score": 20, "execution-deduction": 5.52, "special-deduction": 0.0 },
+      "totalScore": 73.28,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "yamamoto-masaaki",
+      "playerName": "MASAAKI YAMAMOTO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 21.6, "variety": 7.2, "stability": 7.0, "novelty": 7.5, "composition": 16.1, "base-score": 20, "execution-deduction": 6.72, "special-deduction": 0.0 },
+      "totalScore": 72.68,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "chang-tzu-wei",
+      "playerName": "ZI WEI CHANG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 21.1, "variety": 6.3, "stability": 7.6, "novelty": 9.2, "composition": 17.0, "base-score": 15, "execution-deduction": 4.4, "special-deduction": 0.0 },
+      "totalScore": 71.8,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "tanaka-shun",
+      "playerName": "SHUN TANAKA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 23.5, "variety": 6.8, "stability": 6.9, "novelty": 6.6, "composition": 13.8, "base-score": 20, "execution-deduction": 6.96, "special-deduction": 0.0 },
+      "totalScore": 70.64,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "hisanari-kizuku",
+      "playerName": "KIZUKU HISANARI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 21.5, "variety": 6.7, "stability": 6.5, "novelty": 6.8, "composition": 14.6, "base-score": 20, "execution-deduction": 5.68, "special-deduction": 0.0 },
+      "totalScore": 70.42,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "muraoka-takumi",
+      "playerName": "TAKUMI MURAOKA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 20.9, "variety": 7.0, "stability": 6.2, "novelty": 6.7, "composition": 14.7, "base-score": 20, "execution-deduction": 0.0, "special-deduction": 6.0 },
+      "totalScore": 69.5,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "watanabe-tsubasa",
+      "playerName": "TUBASA WATANABE",
+      "nationality": "Japan",
+      "scores": { "difficulty": 20.4, "variety": 6.0, "stability": 8.3, "novelty": 8.0, "composition": 18.4, "base-score": 10, "execution-deduction": 1.6, "special-deduction": 0.0 },
+      "totalScore": 69.5,
+      "status": "completed"
+    },
+    {
+      "rank": 19,
+      "playerId": "matsuda-keita",
+      "playerName": "KEITA MATSUDA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 21.3, "variety": 7.1, "stability": 6.2, "novelty": 6.4, "composition": 13.1, "base-score": 20, "execution-deduction": 7.68, "special-deduction": 0.0 },
+      "totalScore": 66.42,
+      "status": "completed"
+    },
+    {
+      "rank": 20,
+      "playerId": "lin-hsing-yu",
+      "playerName": "XING YU LIN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 17.8, "variety": 5.3, "stability": 6.8, "novelty": 7.7, "composition": 16.1, "base-score": 10, "execution-deduction": 0.0, "special-deduction": 3.76 },
+      "totalScore": 59.94,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "fujita-kenta",
+      "playerName": "KENTA FUJITA",
+      "nationality": "Japan",
+      "status": "dns"
+    }
+  ]
+}

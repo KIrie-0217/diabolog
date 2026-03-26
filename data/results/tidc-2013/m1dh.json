@@ -1,0 +1,137 @@
+{
+  "categoryId": "m1dh",
+  "name": "男子1ディアボロ水平軸部門",
+  "nameEn": "Men's 1 Diabolo Horizontal Axle Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1, "playerId": "yang-ren-zhi", "playerName": "REN ZHI YANG", "nationality": "Taiwan",
+      "scores": { "difficulty": 39.875, "stability": 13.625, "novelty": 26.75, "composition": 8.75, "execution-deduction": 0.5, "special-deduction": 0.0 },
+      "totalScore": 88.5, "status": "completed"
+    },
+    {
+      "rank": 2, "playerId": "tanaka-tomoyasu", "playerName": "TOMOYASU TANAKA", "nationality": "Japan",
+      "scores": { "difficulty": 36.75, "stability": 13.375, "novelty": 26.875, "composition": 9.25, "execution-deduction": 0.75, "special-deduction": 0.0 },
+      "totalScore": 85.5, "status": "completed"
+    },
+    {
+      "rank": 3, "playerId": "chang-tzu-wei", "playerName": "ZI WEI ZHANG", "nationality": "Taiwan",
+      "scores": { "difficulty": 36.625, "stability": 13.5, "novelty": 27.125, "composition": 8.875, "execution-deduction": 1.375, "special-deduction": 0.0 },
+      "totalScore": 84.75, "status": "completed"
+    },
+    {
+      "rank": 4, "playerId": "kamei-hiroki", "playerName": "HIROKI KAMEI", "nationality": "Japan",
+      "scores": { "difficulty": 36.75, "stability": 12.375, "novelty": 27.375, "composition": 8.875, "execution-deduction": 1.0, "special-deduction": 0.0 },
+      "totalScore": 84.375, "status": "completed"
+    },
+    {
+      "rank": 5, "playerId": "abe-hiroki", "playerName": "HIROKI ABE", "nationality": "Japan",
+      "scores": { "difficulty": 37.875, "stability": 11.625, "novelty": 26.375, "composition": 8.375, "execution-deduction": 4.25, "special-deduction": 0.0 },
+      "totalScore": 80.0, "status": "completed"
+    },
+    {
+      "rank": 6, "playerId": "watanabe-tsubasa", "playerName": "TSUBASA WATANABE", "nationality": "Japan",
+      "scores": { "difficulty": 32.5, "stability": 13.0, "novelty": 24.125, "composition": 9.25, "execution-deduction": 1.5, "special-deduction": 0.0 },
+      "totalScore": 77.375, "status": "completed"
+    },
+    {
+      "rank": 7, "playerId": "yamamoto-masaaki", "playerName": "MASAAKI YAMAMOTO", "nationality": "Japan",
+      "scores": { "difficulty": 35.75, "stability": 11.25, "novelty": 25.375, "composition": 7.875, "execution-deduction": 3.0, "special-deduction": 0.0 },
+      "totalScore": 77.25, "status": "completed"
+    },
+    {
+      "rank": 8, "playerId": "ooya-yukinaga", "playerName": "YUKINAGA OOYA", "nationality": "Japan",
+      "scores": { "difficulty": 33.875, "stability": 11.125, "novelty": 24.25, "composition": 7.25, "execution-deduction": 2.125, "special-deduction": 0.0 },
+      "totalScore": 74.375, "status": "completed"
+    },
+    {
+      "rank": 9, "playerId": "alex-ang", "playerName": "ALEX ANG", "nationality": "Malaysia",
+      "scores": { "difficulty": 38.875, "stability": 11.25, "novelty": 25.625, "composition": 7.875, "execution-deduction": 4.625, "special-deduction": 5.0 },
+      "totalScore": 74.0, "status": "completed"
+    },
+    {
+      "rank": 10, "playerId": "hino-fumitaka", "playerName": "FUMITAKA HINO", "nationality": "Japan",
+      "scores": { "difficulty": 33.75, "stability": 11.75, "novelty": 23.5, "composition": 7.25, "execution-deduction": 2.625, "special-deduction": 0.0 },
+      "totalScore": 73.625, "status": "completed"
+    },
+    {
+      "rank": 11, "playerId": "nishio-fumiya", "playerName": "FUMIYA NISHIO", "nationality": "Japan",
+      "scores": { "difficulty": 31.875, "stability": 10.0, "novelty": 25.125, "composition": 7.5, "execution-deduction": 1.0, "special-deduction": 0.0 },
+      "totalScore": 73.5, "status": "completed"
+    },
+    {
+      "rank": 12, "playerId": "shimizu-kouta", "playerName": "KOHTA SHIMIZU", "nationality": "Japan",
+      "scores": { "difficulty": 37.0, "stability": 8.125, "novelty": 25.0, "composition": 6.75, "execution-deduction": 4.125, "special-deduction": 0.0 },
+      "totalScore": 72.75, "status": "completed"
+    },
+    {
+      "rank": 13, "playerId": "kudo-masahiro", "playerName": "MASAHIRO KUDO", "nationality": "Japan",
+      "scores": { "difficulty": 34.375, "stability": 10.0, "novelty": 23.625, "composition": 7.375, "execution-deduction": 3.0, "special-deduction": 0.0 },
+      "totalScore": 72.375, "status": "completed"
+    },
+    {
+      "rank": 14, "playerId": "yamasaki-kouta", "playerName": "KOHTA YAMASAKI", "nationality": "Japan",
+      "scores": { "difficulty": 31.375, "stability": 9.375, "novelty": 23.25, "composition": 6.875, "execution-deduction": 0.875, "special-deduction": 0.0 },
+      "totalScore": 70.0, "status": "completed"
+    },
+    {
+      "rank": 15, "playerId": "kurasawa-eiji", "playerName": "EIJI KURASAWA", "nationality": "Japan",
+      "scores": { "difficulty": 32.875, "stability": 10.25, "novelty": 23.75, "composition": 8.25, "execution-deduction": 5.375, "special-deduction": 0.0 },
+      "totalScore": 69.75, "status": "completed"
+    },
+    {
+      "rank": 16, "playerId": "tomita-hikaru", "playerName": "HIKARU TOMITA", "nationality": "Japan",
+      "scores": { "difficulty": 33.375, "stability": 9.5, "novelty": 23.25, "composition": 7.25, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 69.375, "status": "completed"
+    },
+    {
+      "rank": 17, "playerId": "aoki-naoya", "playerName": "NAOYA AOKI", "nationality": "Japan",
+      "scores": { "difficulty": 31.375, "stability": 9.75, "novelty": 22.25, "composition": 8.125, "execution-deduction": 5.25, "special-deduction": 0.0 },
+      "totalScore": 66.25, "status": "completed"
+    },
+    {
+      "rank": 18, "playerId": "akiba-yosuke", "playerName": "YOSUKE AKIBA", "nationality": "Japan",
+      "scores": { "difficulty": 34.0, "stability": 8.25, "novelty": 23.25, "composition": 6.75, "execution-deduction": 6.25, "special-deduction": 0.0 },
+      "totalScore": 66.0, "status": "completed"
+    },
+    {
+      "rank": 19, "playerId": "suwa-koki", "playerName": "KOKI SUWA", "nationality": "Japan",
+      "scores": { "difficulty": 33.625, "stability": 7.75, "novelty": 24.0, "composition": 6.5, "execution-deduction": 6.375, "special-deduction": 0.0 },
+      "totalScore": 65.5, "status": "completed"
+    },
+    {
+      "rank": 20, "playerId": "huang-ho-ying", "playerName": "HO YIN HUANG", "nationality": "Hong Kong",
+      "scores": { "difficulty": 32.375, "stability": 9.125, "novelty": 22.375, "composition": 7.0, "execution-deduction": 5.5, "special-deduction": 0.0 },
+      "totalScore": 65.375, "status": "completed"
+    },
+    {
+      "rank": 21, "playerId": "ujiie-michito", "playerName": "MICHITO UJIIE", "nationality": "Japan",
+      "scores": { "difficulty": 31.875, "stability": 9.625, "novelty": 21.625, "composition": 7.75, "execution-deduction": 5.875, "special-deduction": 0.0 },
+      "totalScore": 65.0, "status": "completed"
+    },
+    {
+      "rank": 22, "playerId": "nakamura-yuta", "playerName": "YUTA NAKAMURA", "nationality": "Japan",
+      "scores": { "difficulty": 29.5, "stability": 9.5, "novelty": 21.5, "composition": 6.75, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 63.25, "status": "completed"
+    },
+    {
+      "rank": 23, "playerId": "suzuki-takayuki", "playerName": "TAKAYUKI SUZUKI", "nationality": "Japan",
+      "scores": { "difficulty": 28.25, "stability": 9.25, "novelty": 18.25, "composition": 6.625, "execution-deduction": 3.625, "special-deduction": 0.0 },
+      "totalScore": 58.75, "status": "completed"
+    },
+    {
+      "rank": 24, "playerId": "yoshii-norihiro", "playerName": "NORIHIRO YOSHII", "nationality": "Japan",
+      "scores": { "difficulty": 26.75, "stability": 8.5, "novelty": 17.0, "composition": 6.125, "execution-deduction": 3.375, "special-deduction": 0.0 },
+      "totalScore": 55.0, "status": "completed"
+    }
+  ]
+}

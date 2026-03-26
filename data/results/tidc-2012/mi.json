@@ -1,0 +1,24 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "deduction", "name": "減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "lu-yu-cheng", "playerName": "盧昱成 / LU YU CHENG", "nationality": "Taiwan", "scores": { "difficulty": 37.1, "stability": 17.6, "novelty": 18.2, "composition": 16.5, "deduction": 3.1 }, "totalScore": 86.3, "status": "completed" },
+    { "rank": 2, "playerId": "kubo-yuichiro", "playerName": "久保悠一郎 / KUBO YUICHIRO", "nationality": "Japan", "scores": { "difficulty": 34.6, "stability": 18.0, "novelty": 17.8, "composition": 17.5, "deduction": 3.8 }, "totalScore": 84.1, "status": "completed" },
+    { "rank": 3, "playerId": "chen-wai-liang", "playerName": "曾伟亮 / CHEN WAI LIANG", "nationality": "Malaysia", "scores": { "difficulty": 34.3, "stability": 18.2, "novelty": 17.3, "composition": 17.0, "deduction": 2.8 }, "totalScore": 84.0, "status": "completed" },
+    { "rank": 4, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / KAMEI HIROKI", "nationality": "Japan", "scores": { "difficulty": 32.6, "stability": 17.8, "novelty": 18.8, "composition": 16.3, "deduction": 3.7 }, "totalScore": 81.8, "status": "completed" },
+    { "rank": 5, "playerId": "quah-weng-zhen", "playerName": "柯永胜 / QUAH WENG ZHEN", "nationality": "Malaysia", "scores": { "difficulty": 36.1, "stability": 16.4, "novelty": 17.7, "composition": 16.1, "deduction": 6.3 }, "totalScore": 80.0, "status": "completed" },
+    { "rank": 6, "playerId": "lok-ken-yu", "playerName": "骆健友 / LOK KEN YU", "nationality": "Malaysia", "scores": { "difficulty": 35.3, "stability": 16.5, "novelty": 17.6, "composition": 17.0, "deduction": 8.7 }, "totalScore": 77.7, "status": "completed" },
+    { "rank": 7, "playerId": "chiang-chouk-wei", "playerName": "张祚伟 / CHIANG CHOUK WEI", "nationality": "Malaysia", "scores": { "difficulty": 33.2, "stability": 16.4, "novelty": 17.5, "composition": 16.3, "deduction": 8.2 }, "totalScore": 75.2, "status": "completed" },
+    { "rank": 8, "playerId": "yang-qin-yao", "playerName": "楊沁堯 / YANG QIN YAO", "nationality": "Taiwan", "scores": { "difficulty": 34.8, "stability": 16.0, "novelty": 17.0, "composition": 16.4, "deduction": 9.8 }, "totalScore": 74.4, "status": "completed" }
+  ]
+}

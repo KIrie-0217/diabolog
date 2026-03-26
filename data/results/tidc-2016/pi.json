@@ -1,0 +1,52 @@
+{
+  "categoryId": "pi",
+  "name": "ペア部門",
+  "nameEn": "Pair Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kudo-masahiro+obata-ryoya",
+      "playerName": "工藤正景/小幡 亮哉 / Kudo Masahiro/Obata Ryoya",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.0, "synchronization": 26.6, "composition": 27.0, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 85.6,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "huang-shih-rong+zheng-kang-ping-tidc2016",
+      "playerName": "黃士融/鄭康平 / Huang ShihRong/Cheng Kang Ping",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 35.0, "synchronization": 25.6, "composition": 24.4, "execution-deduction": 1.6, "special-deduction": 0.0 },
+      "totalScore": 83.4,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "gao-ming-xiu+su-hung-mei",
+      "playerName": "高鳴袖/蘇鴻美 / Kao MingSiou/Su HungMei",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 29.2, "synchronization": 25.8, "composition": 25.6, "execution-deduction": 3.2, "special-deduction": 0.0 },
+      "totalScore": 77.4,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "lin-yu-jie+lin-pei-i",
+      "playerName": "林于婕/林貝宜 / Lin YuJie/Lin BeiYi",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 32.6, "synchronization": 23.2, "composition": 22.2, "execution-deduction": 4.2, "special-deduction": 0.0 },
+      "totalScore": 73.8,
+      "status": "completed"
+    }
+  ]
+}

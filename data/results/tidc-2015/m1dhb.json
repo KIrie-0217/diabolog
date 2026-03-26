@@ -1,0 +1,152 @@
+{
+  "categoryId": "m1dhb",
+  "name": "男子1ディアボロ水平(ベアリング)軸部門",
+  "nameEn": "Men's 1 Diabolo Horizontal Axle (Bearing) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "watanabe-hayato",
+      "playerName": "渡邊 隼人 / WATANABE HAYATO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 39.0, "stability": 13.25, "novelty": 26.75, "composition": 8.25, "execution-deduction": 0.0, "special-deduction": 0.0 },
+      "totalScore": 87.25,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "tanaka-tomoyasu",
+      "playerName": "田中 友康 / TANAKA TOMOYASU",
+      "nationality": "Japan",
+      "scores": { "difficulty": 38.75, "stability": 13.0, "novelty": 26.5, "composition": 8.25, "execution-deduction": 0.25, "special-deduction": 0.0 },
+      "totalScore": 86.25,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "isobe-takumi",
+      "playerName": "磯部 拓海 / ISOBE TAKUMI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 39.25, "stability": 11.25, "novelty": 27.0, "composition": 7.5, "execution-deduction": 0.13, "special-deduction": 0.0 },
+      "totalScore": 84.88,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "takamori-hirofumi",
+      "playerName": "高森 啓史 / TAKAMORI HIROFUMI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 38.0, "stability": 12.5, "novelty": 24.25, "composition": 8.0, "execution-deduction": 0.63, "special-deduction": 0.0 },
+      "totalScore": 82.13,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "yang-ren-zhi",
+      "playerName": "楊仁志 / YANG REN ZHI",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 37.5, "stability": 12.25, "novelty": 24.25, "composition": 9.0, "execution-deduction": 1.0, "special-deduction": 0.0 },
+      "totalScore": 82.0,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "suwa-koki",
+      "playerName": "諏訪 康貴 / SUWA KOKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 36.25, "stability": 11.75, "novelty": 23.25, "composition": 7.75, "execution-deduction": 0.5, "special-deduction": 0.0 },
+      "totalScore": 78.5,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "wu-wei-xin",
+      "playerName": "呉惟新 / WU WEI XIN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 35.5, "stability": 11.25, "novelty": 22.5, "composition": 7.5, "execution-deduction": 0.75, "special-deduction": 0.0 },
+      "totalScore": 76.0,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "yamamoto-masaaki",
+      "playerName": "山本 公章 / YAMAMOTO MASAAKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 37.0, "stability": 10.75, "novelty": 23.0, "composition": 7.75, "execution-deduction": 3.13, "special-deduction": 0.0 },
+      "totalScore": 75.38,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "chang-tzu-wei",
+      "playerName": "張子威 / ZHANG ZI WEI",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 35.5, "stability": 10.25, "novelty": 22.75, "composition": 7.25, "execution-deduction": 1.0, "special-deduction": 0.0 },
+      "totalScore": 74.75,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "ooya-yukinaga",
+      "playerName": "大屋 幸長 / OYA YUKINAGA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 33.25, "stability": 11.0, "novelty": 22.0, "composition": 7.0, "execution-deduction": 1.38, "special-deduction": 0.0 },
+      "totalScore": 71.88,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "wang-tzu-yun",
+      "playerName": "王子昀 / WANG ZI YUN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 35.0, "stability": 10.0, "novelty": 20.5, "composition": 6.5, "execution-deduction": 2.63, "special-deduction": 0.0 },
+      "totalScore": 69.38,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "kosaki-jun",
+      "playerName": "小崎潤 / KOSAKI JUN",
+      "nationality": "Japan",
+      "scores": { "difficulty": 32.75, "stability": 8.5, "novelty": 21.0, "composition": 6.75, "execution-deduction": 0.75, "special-deduction": 0.0 },
+      "totalScore": 68.25,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "chen-yi-fan",
+      "playerName": "陳一帆 / CHEN YI FAN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 33.5, "stability": 9.25, "novelty": 20.5, "composition": 7.0, "execution-deduction": 2.88, "special-deduction": 0.0 },
+      "totalScore": 67.38,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "wu-hao-zhong",
+      "playerName": "吳顥中 / WU HAO ZHONG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 33.75, "stability": 9.25, "novelty": 21.0, "composition": 6.5, "execution-deduction": 5.0, "special-deduction": 0.0 },
+      "totalScore": 65.5,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "urawa-arata",
+      "playerName": "浦和 新 / URAWA ARATA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 32.75, "stability": 7.5, "novelty": 21.0, "composition": 7.25, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 64.5,
+      "status": "completed"
+    }
+  ]
+}

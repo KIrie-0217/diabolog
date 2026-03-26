@@ -1,0 +1,21 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "isobe-takumi", "playerName": "磯部拓海 / ISOBE TAKUMI", "nationality": "Japan", "count": 69, "class": "C", "status": "completed" },
+    { "rank": 2, "playerId": "lu-ji-xian", "playerName": "魯紀賢 / LU JI XIAN", "nationality": "Taiwan", "count": 59, "class": "D", "status": "completed" },
+    { "rank": 2, "playerId": "wu-liang-hui", "playerName": "吳亮輝 / WU LIANG HUI", "nationality": "Taiwan", "count": 59, "class": "A", "status": "completed" },
+    { "rank": 4, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / TORII HIROMIKI", "nationality": "Japan", "count": 50, "class": "A", "status": "completed" },
+    { "rank": 5, "playerId": "kuo-po-ting", "playerName": "郭伯廷 / GUO BO TING", "nationality": "Taiwan", "count": 42, "class": "B", "status": "completed" },
+    { "rank": 6, "playerId": "guo-heng-yi", "playerName": "郭恆毅 / GUO HENG YI", "nationality": "Taiwan", "count": 31, "class": "B", "status": "completed" },
+    { "rank": 7, "playerId": "yamazaki-kazuki", "playerName": "山崎知希 / YAMAZAKI KAZUKI", "nationality": "Japan", "count": 24, "class": "C", "status": "completed" },
+    { "rank": 8, "playerId": "torii-ken", "playerName": "鳥居 健 / TORII KEN", "nationality": "Japan", "count": 21, "class": "E", "status": "completed" },
+    { "rank": 9, "playerId": "yamada-jun", "playerName": "山田純 / YAMADA JUN", "nationality": "Japan", "count": 11, "class": "C", "status": "completed" },
+    { "rank": 10, "playerId": "hayashi-kenjiro", "playerName": "林謙二朗 / HAYASHI KENJIRO", "nationality": "Japan", "count": 7, "class": "C", "status": "completed" }
+  ]
+}

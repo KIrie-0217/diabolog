@@ -1,0 +1,23 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "nameEn": "3 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tanaka-shun", "playerName": "SHUN TANAKA", "nationality": "Japan", "scores": { "difficulty": 36.75, "stability": 13.25, "novelty": 19.25, "composition": 7.5, "execution-deduction": 0.0, "special-deduction": 0.0 }, "totalScore": 76.75, "status": "completed" },
+    { "rank": 2, "playerId": "yun-ru-chen", "playerName": "YUN RU CHEN", "nationality": "Taiwan", "scores": { "difficulty": 35.0, "stability": 13.0, "novelty": 20.25, "composition": 8.0, "execution-deduction": 0.25, "special-deduction": 0.0 }, "totalScore": 76.0, "status": "completed" },
+    { "rank": 3, "playerId": "kamiya-gaku", "playerName": "GAKU KAMIYA", "nationality": "Japan", "scores": { "difficulty": 37.625, "stability": 11.375, "novelty": 21.25, "composition": 6.875, "execution-deduction": 1.625, "special-deduction": 0.0 }, "totalScore": 75.5, "status": "completed" },
+    { "rank": 4, "playerId": "huang-ho-ying", "playerName": "HO YIN HUANG", "nationality": "Hong Kong", "scores": { "difficulty": 33.875, "stability": 9.75, "novelty": 18.375, "composition": 6.375, "execution-deduction": 2.25, "special-deduction": 0.0 }, "totalScore": 66.125, "status": "completed" },
+    { "rank": 5, "playerId": "matsuda-keita", "playerName": "KEITA MATSUDA", "nationality": "Japan", "scores": { "difficulty": 30.0, "stability": 8.75, "novelty": 17.0, "composition": 5.5, "execution-deduction": 3.5, "special-deduction": 0.0 }, "totalScore": 57.75, "status": "completed" },
+    { "rank": 6, "playerId": "tsai-chun-hui", "playerName": "CHUN HUI TSAI", "nationality": "Taiwan", "scores": { "difficulty": 27.375, "stability": 8.75, "novelty": 15.75, "composition": 5.875, "execution-deduction": 2.875, "special-deduction": 0.0 }, "totalScore": 54.875, "status": "completed" }
+  ]
+}

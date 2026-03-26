@@ -1,0 +1,23 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2 Diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "yang-ren-zhi+chang-tzu-wei", "playerName": "REN ZHI YANG/ZHI WEI CHANG", "nationality": "Taiwan", "count": 87, "note": "TR", "status": "completed" },
+    { "rank": 2, "playerId": "he-hsin-pin+wu-tz-shiuan", "playerName": "HSIN PIN HE/TZU SHIUAN WU", "nationality": "Taiwan", "count": 71, "note": "TR", "status": "completed" },
+    { "rank": 3, "playerId": "torii-takemi+torii-hiromiki", "playerName": "TAKEMI TORII/HIROMIKI TORII", "nationality": "Japan", "count": 58, "note": "JR", "status": "completed" },
+    { "rank": 4, "playerId": "takamori-hirofumi+suwa-koki", "playerName": "HIROFUMI TAKAMORI/KOKI SUWA", "nationality": "Japan", "count": 53, "status": "completed" },
+    { "rank": 5, "playerId": "nonaka-aoi+tsai-chun-hui", "playerName": "AOI NONAKA/CHUN HUI TSAI", "nationality": "Mixed", "count": 35, "status": "completed" },
+    { "rank": 6, "playerId": "todoroki-shinsuke+kajiyama-haruto", "playerName": "SHINSUKE TODOROKI/HARUTO KAJIYAMA", "nationality": "Japan", "count": 32, "status": "completed" },
+    { "rank": 6, "playerId": "nakamura-makoto+kurasawa-eiji", "playerName": "MAKOTO NAKAMURA/EIJI KURASAWA", "nationality": "Japan", "count": 32, "status": "completed" },
+    { "rank": 8, "playerId": "takyuu-akiko+tanaka-rei", "playerName": "AKIKO TAKYU/REI TANAKA", "nationality": "Japan", "count": 31, "status": "completed" },
+    { "rank": 9, "playerId": "suzuki-takayuki+yamada-jun", "playerName": "TAKAYUKI SUZUKI/JUN YAMADA", "nationality": "Japan", "count": 22, "status": "completed" },
+    { "rank": 10, "playerId": "alex-ang+huang-ho-ying", "playerName": "ALEX ANG/HO YIN HUANG", "nationality": "Mixed", "count": 19, "status": "completed" },
+    { "rank": 11, "playerId": "yun-ru-chen+lin-hsing-yu", "playerName": "YUN RU CHENG/XING YU LIN", "nationality": "Taiwan", "count": 18, "status": "completed" },
+    { "rank": 12, "playerId": "watanabe-yukari+ujiie-michito", "playerName": "YUKARI WATANABE/MICHITO UJIIE", "nationality": "Japan", "count": 16, "status": "completed" },
+    { "rank": 13, "playerId": "kurose-tatsuhiro+watabe-yoshiki", "playerName": "TATSUHIRO KUROSE/YOSHIKI WATABE", "nationality": "Japan", "count": 11, "status": "completed" }
+  ]
+}

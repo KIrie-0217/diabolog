@@ -1,0 +1,21 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "deduction", "name": "減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "team:soul-d", "playerName": "SOUL D", "nationality": "Malaysia", "scores": { "difficulty": 35.9, "stability": 17.5, "novelty": 17.4, "composition": 17.7, "deduction": 3.8 }, "totalScore": 84.7, "status": "completed" },
+    { "rank": 2, "playerId": "team:123", "playerName": "123", "nationality": "Japan", "scores": { "difficulty": 36.8, "stability": 16.6, "novelty": 18.2, "composition": 17.2, "deduction": 8.5 }, "totalScore": 80.3, "status": "completed" },
+    { "rank": 3, "playerId": "team:tpec", "playerName": "TPEC", "nationality": "Taiwan", "scores": { "difficulty": 36.0, "stability": 16.8, "novelty": 17.1, "composition": 15.9, "deduction": 7.0 }, "totalScore": 78.8, "status": "completed" },
+    { "rank": 4, "playerId": "team:my-diabolo", "playerName": "MY DIABOLO", "nationality": "Malaysia", "scores": { "difficulty": 32.6, "stability": 16.0, "novelty": 15.2, "composition": 13.7, "deduction": 4.6 }, "totalScore": 72.9, "status": "completed" },
+    { "rank": 5, "playerId": "team:malabaristas", "playerName": "マラバリスタ / MARABALISTAS", "nationality": "Japan", "scores": { "difficulty": 29.8, "stability": 12.0, "novelty": 17.0, "composition": 15.2, "deduction": 9.4 }, "totalScore": 64.6, "status": "completed" }
+  ]
+}

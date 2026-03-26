@@ -1,0 +1,82 @@
+{
+  "categoryId": "m-ashimawari",
+  "name": "男子1ディアボロ足回り部門",
+  "nameEn": "Men's 1diabolo Leg Wrap Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "count": 178,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "agou-tensei",
+      "playerName": "吾郷 天星 / Agou Tensei",
+      "nationality": "Japan",
+      "count": 162,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "torii-ken",
+      "playerName": "鳥居 健 / Torii Ken",
+      "nationality": "Japan",
+      "count": 146,
+      "class": "E",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "makino-sena",
+      "playerName": "牧野瀬南 / Makino Sena",
+      "nationality": "Japan",
+      "count": 131,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "tsai-shao-jie",
+      "playerName": "蔡劭傑 / Tsai ShaoJie",
+      "nationality": "Taiwan",
+      "count": 124,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "yoshida-reo",
+      "playerName": "吉田怜央 / Yoshida Reo",
+      "nationality": "Japan",
+      "count": 78,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "zheng-ren-hong",
+      "playerName": "鄭任宏 / Zheng RenHong",
+      "nationality": "Taiwan",
+      "count": 16,
+      "class": "E",
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "huang-tian-tai",
+      "playerName": "黃天泰 / Huang Tian Tai",
+      "nationality": "Taiwan",
+      "count": 10,
+      "class": "E",
+      "status": "completed"
+    }
+  ]
+}

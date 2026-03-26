@@ -1,0 +1,22 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "nameEn": "Women's 1 Diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "zhao-yi-en", "playerName": "趙翊恩 / ZHAO YI EN", "nationality": "Taiwan", "count": 47, "class": "A", "status": "completed" },
+    { "rank": 2, "playerId": "liu-zi-rong", "playerName": "劉子榕 / LIU ZI RONG", "nationality": "Taiwan", "count": 30, "class": "B", "status": "completed" },
+    { "rank": 2, "playerId": "osawa-aika", "playerName": "大澤愛歌 / OSAWA AIKA", "nationality": "Japan", "count": 30, "class": "C", "status": "completed" },
+    { "rank": 2, "playerId": "zhao-yi-shan", "playerName": "趙怡善 / ZHAO YI SHAN", "nationality": "Taiwan", "count": 30, "class": "B", "status": "completed" },
+    { "rank": 5, "playerId": "sudo-maki", "playerName": "須藤麻希 / SUDO MAKI", "nationality": "Japan", "count": 29, "class": "C", "status": "completed" },
+    { "rank": 6, "playerId": "yamashita-rie", "playerName": "山下 理恵 / YAMASHITA RIE", "nationality": "Japan", "count": 25, "class": "C", "status": "completed" },
+    { "rank": 7, "playerId": "zhang-long-zhen", "playerName": "張瓏真 / ZHANG LONG ZHEN", "nationality": "Taiwan", "count": 23, "class": "B", "status": "completed" },
+    { "rank": 8, "playerId": "ishitsuka-aya", "playerName": "石塚綾 / ISHITSUKA AYA", "nationality": "Japan", "count": 12, "class": "C", "status": "completed" },
+    { "rank": 9, "playerId": "ito-mayu", "playerName": "伊藤真由 / ITO MAYU", "nationality": "Japan", "count": 11, "class": "C", "status": "completed" },
+    { "rank": 10, "playerId": "nouchi-manaka", "playerName": "野内 愛加 / NOUCHI MANAKA", "nationality": "Japan", "count": 9, "class": "C", "status": "completed" },
+    { "rank": 11, "playerId": "yanagawa-ayako", "playerName": "柳川絢子 / YANAGAWA AYAKO", "nationality": "Japan", "count": 5, "class": "C", "status": "completed" }
+  ]
+}

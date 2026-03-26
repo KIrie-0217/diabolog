@@ -1,0 +1,105 @@
+{
+  "categoryId": "m1dha",
+  "name": "男子1ディアボロ水平軸(固定)部門",
+  "nameEn": "Men's 1diabolo Horizontal Axis (Fixed) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "dai-bang-you",
+      "playerName": "戴邦祐 / Dai BangYou",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 41.8, "stability": 12.8, "novelty": 27.5, "composition": 7.8, "execution-deduction": 4.0, "special-deduction": 0.0 },
+      "totalScore": 85.9,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "tsai-shao-jie",
+      "playerName": "蔡劭傑 / Tsai ShaoJie",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 41.0, "stability": 13.5, "novelty": 25.5, "composition": 7.5, "execution-deduction": 3.0, "special-deduction": 0.0 },
+      "totalScore": 84.5,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "alex-ang",
+      "playerName": "ALEX ANG / ALEX ANG",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 40.5, "stability": 12.8, "novelty": 25.8, "composition": 7.8, "execution-deduction": 2.8, "special-deduction": 0.0 },
+      "totalScore": 84.1,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "akiba-yosuke",
+      "playerName": "秋場 遥輔 / Akiba Yosuke",
+      "nationality": "Japan",
+      "scores": { "difficulty": 40.5, "stability": 12.0, "novelty": 26.3, "composition": 7.8, "execution-deduction": 2.8, "special-deduction": 0.0 },
+      "totalScore": 83.8,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kanehira-shinichi",
+      "playerName": "兼平 慎一 / Kanehira Shinichi",
+      "nationality": "Japan",
+      "scores": { "difficulty": 39.5, "stability": 12.0, "novelty": 25.5, "composition": 7.3, "execution-deduction": 2.5, "special-deduction": 0.0 },
+      "totalScore": 81.8,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kubota-taiga",
+      "playerName": "久保田 大雅 / Kubota Taiga",
+      "nationality": "Japan",
+      "scores": { "difficulty": 37.3, "stability": 11.0, "novelty": 23.0, "composition": 6.3, "execution-deduction": 2.6, "special-deduction": 0.0 },
+      "totalScore": 75.0,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "watanabe-hideya",
+      "playerName": "渡邉英也 / Watanabe Hideya",
+      "nationality": "Japan",
+      "scores": { "difficulty": 37.5, "stability": 10.5, "novelty": 23.8, "composition": 6.3, "execution-deduction": 7.1, "special-deduction": 0.0 },
+      "totalScore": 71.0,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "omagari-shintaro",
+      "playerName": "尾曲 紳太郎 / Omagari Shintaro",
+      "nationality": "Japan",
+      "scores": { "difficulty": 32.8, "stability": 9.0, "novelty": 23.8, "composition": 6.3, "execution-deduction": 5.3, "special-deduction": 0.0 },
+      "totalScore": 66.6,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "tomita-hikaru",
+      "playerName": "冨田 輝 / Tomita Hikaru",
+      "nationality": "Japan",
+      "scores": { "difficulty": 30.8, "stability": 8.5, "novelty": 21.0, "composition": 5.8, "execution-deduction": 8.3, "special-deduction": 0.0 },
+      "totalScore": 57.8,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "suwa-koki",
+      "playerName": "諏訪 康貴 / Suwa Koki",
+      "nationality": "Japan",
+      "status": "dns"
+    }
+  ]
+}

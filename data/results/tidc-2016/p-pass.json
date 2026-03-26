@@ -1,0 +1,91 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "torii-hiromiki+torii-takemi-tidc2016",
+      "playerName": "鳥居 大幹/鳥居 岳史 / Torii Hiromiki/Troii Takemi",
+      "nationality": "Japan",
+      "count": 88,
+      "note": "TIDC record",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "nonaka-aoi+urawa-arata-tidc2016",
+      "playerName": "野中 葵/浦和 新 / Nonaka Aoi/Urawa Arata",
+      "nationality": "Japan",
+      "count": 53,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "huang-shih-wei+huang-shih-rong-tidc2016",
+      "playerName": "黃士瑋/黃士融 / Huang ShihWei/Huang ShihRong",
+      "nationality": "Taiwan",
+      "count": 52,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "suzuki-takayuki+kamiya-gaku-tidc2016",
+      "playerName": "鈴木 貴之/神谷岳 / Suzuki Takayuki/Kamiya Gaku",
+      "nationality": "Japan",
+      "count": 25,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "wu-hao-zhong+wang-pei-ru",
+      "playerName": "吳顯中/王沛如 / Wu HaoZhong/Wang PeiRu",
+      "nationality": "Taiwan",
+      "count": 13,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "makino-sena+makino-shinichi-tidc2016",
+      "playerName": "牧野 瀬南/牧野 真一 / Makino Sena/Makino Shinichi",
+      "nationality": "Japan",
+      "count": 13,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "sudo-maki+higuchi-yoko",
+      "playerName": "須藤 麻希/樋口 瑛子 / Sudo Maki/Higuchi Yoko",
+      "nationality": "Japan",
+      "count": 10,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "agou-tensei+yoshida-reo",
+      "playerName": "吾郷 天星/吉田 怜央 / Ago Tensei/Yoshida Reo",
+      "nationality": "Japan",
+      "count": 9,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "ujiie-michito+nakamura-makoto-tidc2016",
+      "playerName": "氏家 道登/中村誠 / Ujiie Michito/Nakamura Makoto",
+      "nationality": "Japan",
+      "count": 2,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "makimoto-kosuke+fuse-koichiro",
+      "playerName": "牧本光輔/布施孝一郎 / Makimoto Kosuke/Fuse Koichiro",
+      "nationality": "Japan",
+      "count": 2,
+      "status": "completed"
+    }
+  ]
+}

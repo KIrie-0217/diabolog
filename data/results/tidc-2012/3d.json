@@ -1,0 +1,21 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "nameEn": "3 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "deduction", "name": "減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "lok-ken-yu", "playerName": "骆健友 / LOK KEN YU", "nationality": "Malaysia", "scores": { "difficulty": 55.8, "stability": 17.4, "novelty": 17.3, "deduction": 2.8 }, "totalScore": 87.7, "status": "completed" },
+    { "rank": 2, "playerId": "lu-yu-cheng", "playerName": "盧昱成 / LU YU CHENG", "nationality": "Taiwan", "scores": { "difficulty": 54.6, "stability": 16.5, "novelty": 17.7, "deduction": 2.4 }, "totalScore": 86.4, "status": "completed" },
+    { "rank": 3, "playerId": "yang-qin-yao", "playerName": "楊沁堯 / YANG QIN YAO", "nationality": "Taiwan", "scores": { "difficulty": 55.4, "stability": 17.5, "novelty": 17.8, "deduction": 4.4 }, "totalScore": 86.3, "status": "completed" },
+    { "rank": 4, "playerId": "quah-weng-zhen", "playerName": "柯永胜 / QUAH WENG ZHEN", "nationality": "Malaysia", "scores": { "difficulty": 53.8, "stability": 16.8, "novelty": 16.0, "deduction": 3.5 }, "totalScore": 83.1, "status": "completed" },
+    { "rank": 5, "playerId": "nagasaka-takuto", "playerName": "長坂卓都 / NAGASAKA TAKUTO", "nationality": "Japan", "scores": { "difficulty": 53.6, "stability": 16.4, "novelty": 17.1, "deduction": 7.0 }, "totalScore": 80.1, "status": "completed" },
+    { "rank": 6, "playerId": "chen-wai-liang", "playerName": "曾伟亮 / CHEN WAI LIANG", "nationality": "Malaysia", "scores": { "difficulty": 51.2, "stability": 16.5, "novelty": 15.0, "deduction": 5.5 }, "totalScore": 77.2, "status": "completed" }
+  ]
+}

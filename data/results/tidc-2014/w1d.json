@@ -1,0 +1,28 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "nameEn": "Women's 1diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "lin-yu-xu", "playerName": "林于絮 / LIN YU JIE", "nationality": "Taiwan", "scores": { "difficulty": 42.25, "stability": 13.75, "novelty": 26.00, "composition": 8.00, "execution-deduction": 0.40, "special-deduction": 0.00 }, "totalScore": 89.60, "status": "completed" },
+    { "rank": 2, "playerId": "lin-yu-yin", "playerName": "林于茵 / LIN YU YIN", "nationality": "Taiwan", "scores": { "difficulty": 42.00, "stability": 12.75, "novelty": 26.00, "composition": 7.75, "execution-deduction": 1.90, "special-deduction": 0.00 }, "totalScore": 86.60, "status": "completed" },
+    { "rank": 3, "playerId": "tsai-chun-hui", "playerName": "蔡君慧 / TSAI JUN HUI", "nationality": "Taiwan", "scores": { "difficulty": 39.75, "stability": 12.25, "novelty": 25.00, "composition": 7.75, "execution-deduction": 2.20, "special-deduction": 0.00 }, "totalScore": 82.55, "status": "completed" },
+    { "rank": 4, "playerId": "liu-zi-rong", "playerName": "劉子榕 / LIU ZI RONG", "nationality": "Taiwan", "scores": { "difficulty": 37.50, "stability": 12.50, "novelty": 23.25, "composition": 7.75, "execution-deduction": 0.40, "special-deduction": 0.00 }, "totalScore": 80.60, "status": "completed" },
+    { "rank": 5, "playerId": "suda-erika", "playerName": "須田 恵梨華 / SUDA ERIKA", "nationality": "Japan", "scores": { "difficulty": 38.25, "stability": 12.25, "novelty": 23.25, "composition": 8.00, "execution-deduction": 1.20, "special-deduction": 0.00 }, "totalScore": 80.55, "status": "completed" },
+    { "rank": 6, "playerId": "wu-tz-shiuan", "playerName": "吳姿璿 / WU TZ SHIUAN", "nationality": "Taiwan", "scores": { "difficulty": 36.00, "stability": 10.75, "novelty": 22.00, "composition": 7.25, "execution-deduction": 2.10, "special-deduction": 0.00 }, "totalScore": 73.90, "status": "completed" },
+    { "rank": 7, "playerId": "yanagawa-ayako", "playerName": "柳川絢子 / YANAGAWA AYAKO", "nationality": "Japan", "scores": { "difficulty": 33.00, "stability": 11.50, "novelty": 21.50, "composition": 8.00, "execution-deduction": 2.60, "special-deduction": 0.00 }, "totalScore": 71.40, "status": "completed" },
+    { "rank": 8, "playerId": "oosawa-aika", "playerName": "大澤愛歌 / OSAWA AIKA", "nationality": "Japan", "scores": { "difficulty": 29.75, "stability": 8.50, "novelty": 19.00, "composition": 7.00, "execution-deduction": 3.70, "special-deduction": 0.00 }, "totalScore": 60.55, "status": "completed" },
+    { "rank": 9, "playerId": "koseki-megumi", "playerName": "古関萌 / KOSEKI MEGUMI", "nationality": "Japan", "scores": { "difficulty": 30.25, "stability": 8.75, "novelty": 19.25, "composition": 5.75, "execution-deduction": 4.60, "special-deduction": 0.00 }, "totalScore": 59.40, "status": "completed" },
+    { "rank": 10, "playerId": "sato-chie", "playerName": "佐藤 千恵 / SATO CHIE", "nationality": "Japan", "scores": { "difficulty": 28.25, "stability": 8.75, "novelty": 17.75, "composition": 6.75, "execution-deduction": 3.00, "special-deduction": 0.00 }, "totalScore": 58.50, "status": "completed" },
+    { "rank": null, "playerId": "wu-yi-ting", "playerName": "吳依庭 / WU YI TING", "nationality": "Taiwan", "status": "dns" }
+  ]
+}

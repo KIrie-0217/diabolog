@@ -1,0 +1,64 @@
+{
+  "categoryId": "mhs",
+  "name": "高校生男子個人総合部門",
+  "nameEn": "Men's High School Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "wang-sheng-min",
+      "playerName": "王聖閔 / WANG SHENG MIN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 25.2, "variety": 11.8, "stability": 12.4, "novelty": 7.8, "composition": 11.8, "base-score": 15, "execution-deduction": 2.64, "special-deduction": 0.0 },
+      "totalScore": 81.36,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / ISHIMIZU TAIKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 26.0, "variety": 11.2, "stability": 10.8, "novelty": 9.0, "composition": 10.4, "base-score": 15, "execution-deduction": 6.48, "special-deduction": 0.0 },
+      "totalScore": 75.92,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "wu-wei-xin",
+      "playerName": "呉惟新 / WU WEI XIN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 23.4, "variety": 10.8, "stability": 11.8, "novelty": 7.8, "composition": 11.8, "base-score": 15, "execution-deduction": 5.52, "special-deduction": 0.0 },
+      "totalScore": 75.08,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "guo-heng-yi",
+      "playerName": "郭恆毅 / GUO HENG YI",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 23.8, "variety": 11.6, "stability": 11.0, "novelty": 8.0, "composition": 11.4, "base-score": 15, "execution-deduction": 8.72, "special-deduction": 0.0 },
+      "totalScore": 72.08,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "chung-hsin-wei",
+      "playerName": "鍾信維 / CHUNG HSIN WEI",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 20.8, "variety": 9.8, "stability": 10.0, "novelty": 6.4, "composition": 9.6, "base-score": 15, "execution-deduction": 4.56, "special-deduction": 0.0 },
+      "totalScore": 67.04,
+      "status": "completed"
+    }
+  ]
+}

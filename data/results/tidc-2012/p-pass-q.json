@@ -1,0 +1,16 @@
+{
+  "categoryId": "p-pass-q",
+  "name": "2ディアボロペアパス部門予選",
+  "nameEn": "2 Diabolo Pair Pass Division Qualifying",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "alvin-yong+quah-weng-zhen", "playerName": "杨钦晧/柯永胜", "nationality": "Malaysia", "count": 54, "status": "completed" },
+    { "rank": 2, "playerId": "lin-yan-xiang+tsai-miao-tzu", "playerName": "林晏詳/蔡妙慈", "nationality": "Taiwan", "count": 50, "status": "completed" },
+    { "rank": 3, "playerId": "chiang-chouk-wei+lim-fang-yu", "playerName": "张祚伟/林昉佑", "nationality": "Malaysia", "count": 47, "status": "completed" },
+    { "rank": 4, "playerId": "nonaka-aoi+urawa-arata", "playerName": "野中葵/浦和新", "nationality": "Japan", "count": 46, "note": "日本新記録", "status": "completed" },
+    { "rank": 5, "playerId": "chen-zi-yu+chen-wai-liang", "playerName": "陈子煜/曾伟亮", "nationality": "Malaysia", "count": 45, "status": "completed" },
+    { "rank": 6, "playerId": "kamei-hiroki+suzuki-takayuki", "playerName": "亀井大輝/鈴木貴之", "nationality": "Japan", "count": 40, "status": "completed" }
+  ]
+}

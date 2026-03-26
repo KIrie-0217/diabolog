@@ -1,0 +1,99 @@
+{
+  "categoryId": "mj",
+  "name": "男子個人総合ジュニア部門",
+  "nameEn": "Men's Individual Junior Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1, "playerId": "zhang-jun-huang", "playerName": "張駿煌 / ZHANG JUN HUANG", "nationality": "Taiwan",
+      "scores": { "difficulty": 28.20, "variety": 18.40, "stability": 13.00, "novelty": 8.20, "composition": 8.00, "base-score": 15, "execution-deduction": 2.64, "special-deduction": 0.00 },
+      "totalScore": 88.16, "status": "completed"
+    },
+    {
+      "rank": 2, "playerId": "torii-takemi", "playerName": "鳥居 岳史 / TORII TAKEMI", "nationality": "Japan",
+      "scores": { "difficulty": 25.80, "variety": 16.60, "stability": 12.00, "novelty": 8.60, "composition": 7.20, "base-score": 15, "execution-deduction": 2.72, "special-deduction": 0.00 },
+      "totalScore": 82.48, "status": "completed"
+    },
+    {
+      "rank": 3, "playerId": "wang-tzu-yun", "playerName": "王子昀 / WANG ZI YUN", "nationality": "Taiwan",
+      "scores": { "difficulty": 27.60, "variety": 17.80, "stability": 10.80, "novelty": 8.20, "composition": 7.40, "base-score": 15, "execution-deduction": 6.08, "special-deduction": 1.00 },
+      "totalScore": 79.72, "status": "completed"
+    },
+    {
+      "rank": 4, "playerId": "wu-liang-hui", "playerName": "吳亮輝 / WU LIANG HUI", "nationality": "Taiwan",
+      "scores": { "difficulty": 23.80, "variety": 16.00, "stability": 12.60, "novelty": 7.20, "composition": 7.20, "base-score": 15, "execution-deduction": 2.24, "special-deduction": 0.00 },
+      "totalScore": 79.56, "status": "completed"
+    },
+    {
+      "rank": 5, "playerId": "guo-heng-yi", "playerName": "郭恆毅 / GUO HENG YI", "nationality": "Taiwan",
+      "scores": { "difficulty": 25.60, "variety": 16.60, "stability": 11.40, "novelty": 8.00, "composition": 8.00, "base-score": 15, "execution-deduction": 5.36, "special-deduction": 0.00 },
+      "totalScore": 79.24, "status": "completed"
+    },
+    {
+      "rank": 6, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / TORII HIROMIKI", "nationality": "Japan",
+      "scores": { "difficulty": 23.60, "variety": 15.80, "stability": 11.80, "novelty": 8.00, "composition": 7.20, "base-score": 15, "execution-deduction": 3.12, "special-deduction": 0.00 },
+      "totalScore": 78.28, "status": "completed"
+    },
+    {
+      "rank": 7, "playerId": "wu-wei-xin", "playerName": "吳惟新 / WU WEI XIN", "nationality": "Taiwan",
+      "scores": { "difficulty": 23.40, "variety": 16.00, "stability": 11.60, "novelty": 7.80, "composition": 8.60, "base-score": 15, "execution-deduction": 4.40, "special-deduction": 0.00 },
+      "totalScore": 78.00, "status": "completed"
+    },
+    {
+      "rank": 8, "playerId": "nohara-hiroki", "playerName": "野原 大幹 / NOHARA HIROKI", "nationality": "Japan",
+      "scores": { "difficulty": 23.40, "variety": 15.80, "stability": 11.20, "novelty": 7.20, "composition": 7.20, "base-score": 15, "execution-deduction": 3.60, "special-deduction": 0.00 },
+      "totalScore": 76.20, "status": "completed"
+    },
+    {
+      "rank": 9, "playerId": "ke-ming-hong", "playerName": "柯茗鋐 / KE MING HONG", "nationality": "Taiwan",
+      "scores": { "difficulty": 20.40, "variety": 14.40, "stability": 11.60, "novelty": 6.00, "composition": 7.00, "base-score": 15, "execution-deduction": 2.16, "special-deduction": 0.00 },
+      "totalScore": 72.24, "status": "completed"
+    },
+    {
+      "rank": 10, "playerId": "liu-zheng-wu", "playerName": "劉政吾 / LIU ZHENG WU", "nationality": "Taiwan",
+      "scores": { "difficulty": 20.00, "variety": 14.40, "stability": 10.80, "novelty": 6.20, "composition": 6.80, "base-score": 15, "execution-deduction": 4.08, "special-deduction": 0.00 },
+      "totalScore": 69.12, "status": "completed"
+    },
+    {
+      "rank": 11, "playerId": "zhou-jun-han", "playerName": "周君翰 / ZHOU JUN HAN", "nationality": "Taiwan",
+      "scores": { "difficulty": 20.00, "variety": 14.80, "stability": 10.60, "novelty": 6.20, "composition": 6.80, "base-score": 15, "execution-deduction": 4.40, "special-deduction": 0.00 },
+      "totalScore": 69.00, "status": "completed"
+    },
+    {
+      "rank": 12, "playerId": "chen-yi-an", "playerName": "陳奕安 / CHEN YI AN", "nationality": "Taiwan",
+      "scores": { "difficulty": 19.60, "variety": 14.20, "stability": 10.60, "novelty": 6.00, "composition": 6.80, "base-score": 15, "execution-deduction": 3.84, "special-deduction": 0.00 },
+      "totalScore": 68.36, "status": "completed"
+    },
+    {
+      "rank": 13, "playerId": "chen-guan-ming", "playerName": "陳冠銘 / CHEN GUAN MING", "nationality": "Taiwan",
+      "scores": { "difficulty": 19.00, "variety": 13.80, "stability": 11.00, "novelty": 5.80, "composition": 6.40, "base-score": 15, "execution-deduction": 3.20, "special-deduction": 0.00 },
+      "totalScore": 67.80, "status": "completed"
+    },
+    {
+      "rank": 14, "playerId": "yang-shun-xiang", "playerName": "楊舜翔 / YANG SHUN XIANG", "nationality": "Taiwan",
+      "scores": { "difficulty": 18.40, "variety": 14.00, "stability": 9.60, "novelty": 6.00, "composition": 6.20, "base-score": 15, "execution-deduction": 5.76, "special-deduction": 0.00 },
+      "totalScore": 63.44, "status": "completed"
+    },
+    {
+      "rank": 15, "playerId": "tsuchida-munechika", "playerName": "土田 宗睦 / TSUCHIDA MUNECHIKA", "nationality": "Japan",
+      "scores": { "difficulty": 17.80, "variety": 13.00, "stability": 8.20, "novelty": 6.20, "composition": 5.60, "base-score": 15, "execution-deduction": 9.92, "special-deduction": 0.00 },
+      "totalScore": 55.88, "status": "completed"
+    },
+    {
+      "rank": 16, "playerId": "hosokoshi-hideaki", "playerName": "細越 英彰 / HOSOKOSHI HIDEAKI", "nationality": "Japan",
+      "scores": { "difficulty": 17.40, "variety": 12.60, "stability": 7.80, "novelty": 5.60, "composition": 5.20, "base-score": 15, "execution-deduction": 9.76, "special-deduction": 0.00 },
+      "totalScore": 53.84, "status": "completed"
+    }
+  ]
+}

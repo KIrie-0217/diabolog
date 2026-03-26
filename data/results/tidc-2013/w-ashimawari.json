@@ -1,0 +1,20 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "nameEn": "Women's 1 Diabolo Leg Orbits Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "he-hsin-pin", "playerName": "HSIN PIN HE", "nationality": "Taiwan", "count": 146, "status": "completed" },
+    { "rank": 2, "playerId": "yun-ru-chen", "playerName": "YUN RU CHEN", "nationality": "Taiwan", "count": 134, "status": "completed" },
+    { "rank": 3, "playerId": "wu-tz-shiuan", "playerName": "TZU SHIUAN WU", "nationality": "Taiwan", "count": 125, "status": "completed" },
+    { "rank": 4, "playerId": "tsai-chun-hui", "playerName": "CHUN HUI TSAI", "nationality": "Taiwan", "count": 122, "status": "completed" },
+    { "rank": 5, "playerId": "yanagawa-ayako", "playerName": "AYAKO YANAGAWA", "nationality": "Japan", "count": 105, "note": "JR", "status": "completed" },
+    { "rank": 6, "playerId": "suda-erika", "playerName": "ERIKA SUDA", "nationality": "Japan", "count": 96, "status": "completed" },
+    { "rank": 7, "playerId": "koseki-megumi", "playerName": "MEGUMI KOSEKI", "nationality": "Japan", "count": 72, "status": "completed" },
+    { "rank": 8, "playerId": "fujiwara-kae", "playerName": "KAE FUJIWARA", "nationality": "Japan", "count": 68, "status": "completed" },
+    { "rank": 9, "playerId": "watanabe-yukari", "playerName": "YUKARI WATANABE", "nationality": "Japan", "count": 64, "status": "completed" },
+    { "rank": 10, "playerId": "hirohama-kayano", "playerName": "KAYANO HIROHAMA", "nationality": "Japan", "count": 59, "status": "completed" }
+  ]
+}

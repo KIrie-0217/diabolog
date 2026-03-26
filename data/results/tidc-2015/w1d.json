@@ -1,0 +1,107 @@
+{
+  "categoryId": "w1d",
+  "name": "女子1ディアボロ部門",
+  "nameEn": "Women's 1 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "liu-zi-rong",
+      "playerName": "劉子榕 / LIU ZI RONG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 37.5, "stability": 12.25, "novelty": 24.25, "composition": 8.0, "execution-deduction": 1.25, "special-deduction": 0.0 },
+      "totalScore": 80.75,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "chen-yi-ting",
+      "playerName": "陳儀庭 / CHEN YI TING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 33.5, "stability": 13.0, "novelty": 21.0, "composition": 8.0, "execution-deduction": 2.0, "special-deduction": 0.0 },
+      "totalScore": 73.5,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "yanagawa-ayako",
+      "playerName": "柳川絢子 / YANAGAWA AYAKO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 34.5, "stability": 10.75, "novelty": 23.75, "composition": 7.5, "execution-deduction": 3.0, "special-deduction": 0.0 },
+      "totalScore": 73.5,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "zhang-long-zhen",
+      "playerName": "張瓏真 / ZHANG LONG ZHEN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 31.5, "stability": 12.5, "novelty": 21.25, "composition": 7.5, "execution-deduction": 0.25, "special-deduction": 0.0 },
+      "totalScore": 72.5,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "cai-yi-wen",
+      "playerName": "蔡依雯 / CAI YI WEN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 32.75, "stability": 11.75, "novelty": 21.25, "composition": 8.0, "execution-deduction": 2.88, "special-deduction": 0.0 },
+      "totalScore": 70.88,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "lu-jia-ling",
+      "playerName": "呂佳玲 / LU JIA LING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 30.75, "stability": 11.5, "novelty": 20.25, "composition": 7.5, "execution-deduction": 0.63, "special-deduction": 0.0 },
+      "totalScore": 69.38,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "sudo-maki",
+      "playerName": "須藤 麻希 / SUDO MAKI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 31.0, "stability": 10.25, "novelty": 21.5, "composition": 7.5, "execution-deduction": 1.88, "special-deduction": 0.0 },
+      "totalScore": 68.38,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "zhao-yi-shan",
+      "playerName": "趙怡善 / ZHAO YI SHAN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 30.0, "stability": 11.0, "novelty": 19.5, "composition": 7.75, "execution-deduction": 1.88, "special-deduction": 0.0 },
+      "totalScore": 66.38,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "liao-man-jun",
+      "playerName": "廖曼君 / LIAO MAN JUN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 29.25, "stability": 11.25, "novelty": 20.25, "composition": 7.0, "execution-deduction": 2.75, "special-deduction": 2.0 },
+      "totalScore": 63.0,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "ode-sae",
+      "playerName": "大出彩恵 / ODE SAE",
+      "nationality": "Japan",
+      "scores": { "difficulty": 25.75, "stability": 9.0, "novelty": 18.0, "composition": 6.25, "execution-deduction": 4.63, "special-deduction": 0.0 },
+      "totalScore": 54.38,
+      "status": "completed"
+    }
+  ]
+}

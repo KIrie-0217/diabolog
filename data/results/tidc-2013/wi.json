@@ -1,0 +1,91 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tsai-chun-hui",
+      "playerName": "CHUN HUI TSAI",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 27.5, "variety": 9.1, "stability": 8.6, "novelty": 8.3, "composition": 21.8, "base-score": 15, "execution-deduction": 0.64, "special-deduction": 0.0 },
+      "totalScore": 89.66,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "yun-ru-chen",
+      "playerName": "YUN RU CHEN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 27.3, "variety": 9.0, "stability": 9.2, "novelty": 7.8, "composition": 20.6, "base-score": 15, "execution-deduction": 2.32, "special-deduction": 0.0 },
+      "totalScore": 86.58,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "tanaka-rei",
+      "playerName": "REI TANAKA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 25.0, "variety": 7.8, "stability": 8.7, "novelty": 6.9, "composition": 22.2, "base-score": 15, "execution-deduction": 0.8, "special-deduction": 0.0 },
+      "totalScore": 84.8,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "suda-erika",
+      "playerName": "ERIKA SUDA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 24.5, "variety": 8.0, "stability": 7.5, "novelty": 7.3, "composition": 20.5, "base-score": 15, "execution-deduction": 3.2, "special-deduction": 0.0 },
+      "totalScore": 79.6,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "wu-tz-shiuan",
+      "playerName": "TZU SHIUAN WU",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 23.0, "variety": 7.3, "stability": 6.4, "novelty": 6.8, "composition": 16.8, "base-score": 15, "execution-deduction": 4.24, "special-deduction": 0.0 },
+      "totalScore": 71.06,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "takyuu-akiko",
+      "playerName": "AKIKO TAKYUU",
+      "nationality": "Japan",
+      "scores": { "difficulty": 22.8, "variety": 6.9, "stability": 6.7, "novelty": 6.0, "composition": 18.8, "base-score": 15, "execution-deduction": 5.28, "special-deduction": 0.0 },
+      "totalScore": 70.92,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "watanabe-yukari",
+      "playerName": "YUKARI WATANABE",
+      "nationality": "Japan",
+      "scores": { "difficulty": 22.0, "variety": 6.8, "stability": 6.6, "novelty": 6.3, "composition": 17.4, "base-score": 15, "execution-deduction": 4.64, "special-deduction": 0.0 },
+      "totalScore": 69.46,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "he-hsin-pin",
+      "playerName": "HSIN PIN HE",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 19.4, "variety": 6.2, "stability": 5.5, "novelty": 5.6, "composition": 16.9, "base-score": 15, "execution-deduction": 5.6, "special-deduction": 0.0 },
+      "totalScore": 63.0,
+      "status": "completed"
+    }
+  ]
+}

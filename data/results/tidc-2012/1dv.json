@@ -1,0 +1,23 @@
+{
+  "categoryId": "1dv",
+  "name": "1ディアボロ垂直軸部門",
+  "nameEn": "1 Diabolo Vertical Axle Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "deduction", "name": "減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "kobayashi-norifumi", "playerName": "小林典史 / KOBAYASHI NORIFUMI", "nationality": "Japan", "scores": { "difficulty": 57.3, "stability": 17.9, "novelty": 18.8, "deduction": 2.5 }, "totalScore": 91.5, "status": "completed" },
+    { "rank": 2, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / KAMEI HIROKI", "nationality": "Japan", "scores": { "difficulty": 55.4, "stability": 17.7, "novelty": 18.7, "deduction": 2.1 }, "totalScore": 89.7, "status": "completed" },
+    { "rank": 3, "playerId": "saito-hiroki", "playerName": "齊藤弘樹 / SAITO HIROKI", "nationality": "Japan", "scores": { "difficulty": 56.1, "stability": 16.3, "novelty": 18.0, "deduction": 3.7 }, "totalScore": 86.7, "status": "completed" },
+    { "rank": 4, "playerId": "lim-fang-yu", "playerName": "林防佑 / LIM FANG YU", "nationality": "Malaysia", "scores": { "difficulty": 53.8, "stability": 17.2, "novelty": 16.4, "deduction": 1.5 }, "totalScore": 85.9, "status": "completed" },
+    { "rank": 5, "playerId": "alvin-yong", "playerName": "杨钦晧 / ALVIN YONG KIN HOE", "nationality": "Malaysia", "scores": { "difficulty": 54.5, "stability": 16.6, "novelty": 17.5, "deduction": 3.5 }, "totalScore": 85.1, "status": "completed" },
+    { "rank": 6, "playerId": "chiang-chouk-wei", "playerName": "张祚伟 / CHIANG CHOUK WEI", "nationality": "Malaysia", "scores": { "difficulty": 54.2, "stability": 16.2, "novelty": 16.4, "deduction": 3.1 }, "totalScore": 83.7, "status": "completed" },
+    { "rank": 7, "playerId": "takano-sho", "playerName": "高野勝 / TAKANO SHO", "nationality": "Japan", "scores": { "difficulty": 52.6, "stability": 14.2, "novelty": 16.6, "deduction": 3.6 }, "totalScore": 79.8, "status": "completed" },
+    { "rank": 8, "playerId": "hino-fumitaka", "playerName": "日野文剛 / HINO FUMITAKA", "nationality": "Japan", "scores": { "difficulty": 50.4, "stability": 16.5, "novelty": 14.8, "deduction": 3.5 }, "totalScore": 78.2, "status": "completed" }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:nan-zi-guo-zhong",
+      "playerName": "楠梓國中 / NAN ZI GUO ZHONG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 35.4, "synchronization": 27.6, "composition": 26.6, "execution-deduction": 1.4, "special-deduction": 0.0 },
+      "totalScore": 88.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "team:hu-ju-tuan",
+      "playerName": "虎劇團 / HU JU TUAN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 33.6, "synchronization": 26.0, "composition": 26.6, "execution-deduction": 2.6, "special-deduction": 0.0 },
+      "totalScore": 83.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "team:pyd-team",
+      "playerName": "PYD TEAM / PYD TEAM",
+      "nationality": "Malaysia",
+      "scores": { "difficulty": 29.6, "synchronization": 22.2, "composition": 21.6, "execution-deduction": 4.6, "special-deduction": 0.0 },
+      "totalScore": 68.8,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "team:risoukai",
+      "playerName": "りそうかい / RISOUKAI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 27.0, "synchronization": 22.0, "composition": 25.2, "execution-deduction": 6.0, "special-deduction": 0.0 },
+      "totalScore": 68.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "team:nasi-goreng",
+      "playerName": "ナシゴレン / NASI GORENG",
+      "nationality": "Japan",
+      "scores": { "difficulty": 21.0, "synchronization": 17.8, "composition": 19.0, "execution-deduction": 7.6, "special-deduction": 0.0 },
+      "totalScore": 50.2,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "team:shan-ling",
+      "playerName": "閃鈴 / SHAN LING",
+      "nationality": "Taiwan",
+      "status": "dns"
+    }
+  ]
+}

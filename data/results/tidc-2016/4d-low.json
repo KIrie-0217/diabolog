@@ -1,0 +1,98 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tsai-shao-jie",
+      "playerName": "蔡劭傑 / Tsai ShaoJie",
+      "nationality": "Taiwan",
+      "count": 58,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "huang-shih-wei",
+      "playerName": "黃士瑋 / Huang ShihWei",
+      "nationality": "Taiwan",
+      "count": 343,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "lin-yu-yin",
+      "playerName": "林干茵 / Lin Yuln",
+      "nationality": "Taiwan",
+      "count": 103,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "torii-takemi",
+      "playerName": "鳥居岳史 / Torii Takemi",
+      "nationality": "Japan",
+      "count": 15,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "zheng-kang-ping",
+      "playerName": "鄭康平 / Cheng Kang Ping",
+      "nationality": "Taiwan",
+      "count": 10,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lin-pei-i",
+      "playerName": "林貝宜 / Lin BeiYi",
+      "nationality": "Taiwan",
+      "count": 10,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "count": 4,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "huang-shih-rong",
+      "playerName": "黃士融 / Huang ShihRong",
+      "nationality": "Taiwan",
+      "count": 1,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "wu-hao-zhong",
+      "playerName": "吳顯中 / Wu HaoZhong",
+      "nationality": "Taiwan",
+      "count": 0,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "dai-bang-you",
+      "playerName": "戴邦祐 / Dai Bang You",
+      "nationality": "Taiwan",
+      "count": 0,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "watanabe-hayato",
+      "playerName": "渡邉 隼人 / Watanabe Hayato",
+      "nationality": "Japan",
+      "count": 0,
+      "status": "completed"
+    }
+  ]
+}

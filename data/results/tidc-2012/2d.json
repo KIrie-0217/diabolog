@@ -1,0 +1,27 @@
+{
+  "categoryId": "2d",
+  "name": "2ディアボロ部門",
+  "nameEn": "2 Diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "deduction", "name": "減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "nagasaka-takuto", "playerName": "長坂卓都 / NAGASAKA TAKUTO", "nationality": "Japan", "scores": { "difficulty": 56.5, "stability": 18.5, "novelty": 18.5, "deduction": 0.1 }, "totalScore": 93.4, "status": "completed" },
+    { "rank": 2, "playerId": "watanabe-hayato", "playerName": "渡邊隼人 / WATANABE HAYATO", "nationality": "Japan", "scores": { "difficulty": 56.2, "stability": 18.6, "novelty": 18.5, "deduction": 0.0 }, "totalScore": 93.3, "status": "completed" },
+    { "rank": 3, "playerId": "abe-hiroki", "playerName": "安部弘紀 / ABE HIROKI", "nationality": "Japan", "scores": { "difficulty": 56.4, "stability": 18.8, "novelty": 18.4, "deduction": 1.6 }, "totalScore": 92.0, "status": "completed" },
+    { "rank": 4, "playerId": "kamei-hiroki", "playerName": "亀井大輝 / KAMEI HIROKI", "nationality": "Japan", "scores": { "difficulty": 54.0, "stability": 17.7, "novelty": 18.9, "deduction": 0.6 }, "totalScore": 90.0, "status": "completed" },
+    { "rank": 5, "playerId": "quah-weng-zhen", "playerName": "柯永胜 / QUAH WENG ZHEN", "nationality": "Malaysia", "scores": { "difficulty": 55.5, "stability": 18.2, "novelty": 17.7, "deduction": 3.0 }, "totalScore": 88.4, "status": "completed" },
+    { "rank": 6, "playerId": "lu-yu-cheng", "playerName": "盧昱成 / LU YU CHENG", "nationality": "Taiwan", "scores": { "difficulty": 53.6, "stability": 17.8, "novelty": 16.9, "deduction": 0.2 }, "totalScore": 88.1, "status": "completed" },
+    { "rank": 7, "playerId": "lok-ken-yu", "playerName": "骆健友 / LOK KEN YU", "nationality": "Malaysia", "scores": { "difficulty": 53.8, "stability": 18.4, "novelty": 16.7, "deduction": 1.5 }, "totalScore": 87.4, "status": "completed" },
+    { "rank": 8, "playerId": "nonaka-aoi", "playerName": "野中葵 / NONAKA AOI", "nationality": "Japan", "scores": { "difficulty": 54.5, "stability": 18.2, "novelty": 17.6, "deduction": 3.2 }, "totalScore": 87.1, "status": "completed" },
+    { "rank": 9, "playerId": "tada-kazuki", "playerName": "田多加津輝 / TADA KAZUKI", "nationality": "Japan", "scores": { "difficulty": 54.4, "stability": 17.5, "novelty": 17.5, "deduction": 5.0 }, "totalScore": 84.4, "status": "completed" },
+    { "rank": 10, "playerId": "tanaka-shun", "playerName": "田中俊 / TANAKA SHUN", "nationality": "Japan", "scores": { "difficulty": 50.3, "stability": 17.8, "novelty": 15.8, "deduction": 0.0 }, "totalScore": 83.9, "status": "completed" },
+    { "rank": 11, "playerId": "kamiya-gaku", "playerName": "神谷岳 / KAMIYA GAKU", "nationality": "Japan", "scores": { "difficulty": 50.0, "stability": 16.4, "novelty": 16.9, "deduction": 1.7 }, "totalScore": 81.6, "status": "completed" },
+    { "rank": 12, "playerId": "hino-fumitaka", "playerName": "日野文剛 / HINO FUMITAKA", "nationality": "Japan", "scores": { "difficulty": 53.3, "stability": 16.4, "novelty": 16.5, "deduction": 5.1 }, "totalScore": 81.1, "status": "completed" }
+  ]
+}

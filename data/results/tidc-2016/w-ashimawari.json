@@ -1,0 +1,56 @@
+{
+  "categoryId": "w-ashimawari",
+  "name": "女子1ディアボロ足回り部門",
+  "nameEn": "Women's 1diabolo Leg Wrap Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "lin-pei-i",
+      "playerName": "林貝宜 / Lin BeiYi",
+      "nationality": "Taiwan",
+      "count": 127,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "lin-yu-yin",
+      "playerName": "林于茵 / Lin Yuln",
+      "nationality": "Taiwan",
+      "count": 101,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "zheng-kang-yi",
+      "playerName": "鄭康怡 / Cheng Kang Yi",
+      "nationality": "Taiwan",
+      "count": 75,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "ishitsuka-aya",
+      "playerName": "石塚綾 / Ishitsuka Aya",
+      "nationality": "Japan",
+      "count": 64,
+      "class": "C",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "zhuang-shu-juan",
+      "playerName": "莊淑娟 / Zhuang ShuJuan",
+      "nationality": "Taiwan",
+      "count": 47,
+      "class": "E",
+      "status": "completed"
+    }
+  ]
+}

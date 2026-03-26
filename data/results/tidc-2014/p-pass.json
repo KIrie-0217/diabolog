@@ -1,0 +1,23 @@
+{
+  "categoryId": "p-pass",
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2diabolo Pair Pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "yang-hsin-yi+chang-tzu-wei", "playerName": "楊心怡/張子威 / YANG HSIN YI/CHANG TZU WEI", "nationality": "Taiwan", "count": 82, "status": "completed" },
+    { "rank": 2, "playerId": "torii-hiromiki+torii-takemi-tidc2014", "playerName": "鳥居 大幹/鳥居 岳史 / TORII HIROMIKI/TORII TAKEMI", "nationality": "Japan", "count": 65, "status": "completed" },
+    { "rank": 3, "playerId": "lu-ji-xian+wang-tzu-yun", "playerName": "魯紀賢/王子昀 / LU JI XAIN/WANG JI YUAN", "nationality": "Taiwan", "count": 57, "status": "completed" },
+    { "rank": 4, "playerId": "chen-han-yan+kuo-po-ting", "playerName": "沈翰彥/郭伯廷 / CHEN HAN YAN/GUO BO TING", "nationality": "Taiwan", "count": 51, "status": "completed" },
+    { "rank": 5, "playerId": "takamori-hirofumi+suwa-koki-tidc2014", "playerName": "高森 啓史/諏訪 康貴 / TAKAMORI HIROFUMI/SUWA KOKI", "nationality": "Japan", "count": 46, "status": "completed" },
+    { "rank": 6, "playerId": "suzuki-jin+take-kohei", "playerName": "鈴木仁/武倖平 / SUZUKI JIN/TAKE KOHEI", "nationality": "Japan", "count": 25, "status": "completed" },
+    { "rank": 7, "playerId": "koseki-megumi+hiraiwa-kazuya-tidc2014", "playerName": "古関萌/平岩 和也 / KOSEKI MEGUMI/HIRAIWA KAZUYA", "nationality": "Japan", "count": 21, "status": "completed" },
+    { "rank": 8, "playerId": "todoroki-shinsuke+yamazaki-kazuki-tidc2014", "playerName": "轟真佑/山崎知希 / TODOROKI SHINSUKE/YAMAZAKI KAZUKI", "nationality": "Japan", "count": 19, "status": "completed" },
+    { "rank": 9, "playerId": "tsai-chun-hui+alex-ang", "playerName": "蔡君慧/洪国皓 / TSAI JUN HUI/HANG GUO HAN", "nationality": "Mixed", "count": 18, "status": "completed" },
+    { "rank": 10, "playerId": "wu-tz-shiuan+ujiie-michito", "playerName": "吳姿璿/氏家 道登 / WU TZ SHIUAN/UJIIE MICHITO", "nationality": "Mixed", "count": 9, "status": "completed" },
+    { "rank": 11, "playerId": "tsunetou-kana+matsumoto-takashi", "playerName": "常藤 加菜/松本 崇志 / TSUNETO KANA/MATSUMOTO TAKASHI", "nationality": "Japan", "count": 6, "status": "completed" },
+    { "rank": 12, "playerId": "taki-kentaro+yamamoto-syohei", "playerName": "滝 健太郎/山本 将平 / TAKI KENTARO/YAMAMOTO SYOHEI", "nationality": "Japan", "count": 3, "status": "completed" },
+    { "rank": 13, "playerId": "akamatsu-chihiro+ogino-ryota", "playerName": "赤松 ちひろ/荻野 諒大 / AKAMATSU CHIHIRO/OGINO RYOTA", "nationality": "Japan", "count": 2, "status": "completed" }
+  ]
+}

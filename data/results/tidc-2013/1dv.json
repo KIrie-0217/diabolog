@@ -1,0 +1,36 @@
+{
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "nameEn": "Men's 1 Diabolo Vertical Axle Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "kamei-hiroki", "playerName": "HIROKI KAMEI", "nationality": "Japan", "scores": { "difficulty": 42.5, "stability": 13.5, "novelty": 28.0, "composition": 8.75, "execution-deduction": 2.625, "special-deduction": 0.0 }, "totalScore": 90.125, "status": "completed" },
+    { "rank": 2, "playerId": "yagi-yuuya", "playerName": "YUUYA YAGI", "nationality": "Japan", "scores": { "difficulty": 39.875, "stability": 13.25, "novelty": 26.25, "composition": 8.25, "execution-deduction": 0.5, "special-deduction": 0.0 }, "totalScore": 87.125, "status": "completed" },
+    { "rank": 3, "playerId": "torii-takemi", "playerName": "TAKEMI TORII", "nationality": "Japan", "scores": { "difficulty": 38.625, "stability": 13.25, "novelty": 25.0, "composition": 9.0, "execution-deduction": 0.875, "special-deduction": 0.0 }, "totalScore": 85.0, "status": "completed" },
+    { "rank": 4, "playerId": "takano-sho", "playerName": "SYO TAKANO", "nationality": "Japan", "scores": { "difficulty": 40.625, "stability": 11.75, "novelty": 26.0, "composition": 8.5, "execution-deduction": 3.875, "special-deduction": 0.0 }, "totalScore": 83.0, "status": "completed" },
+    { "rank": 5, "playerId": "kudo-masahiro", "playerName": "MASAHIRO KUDO", "nationality": "Japan", "scores": { "difficulty": 38.5, "stability": 12.25, "novelty": 25.0, "composition": 7.75, "execution-deduction": 2.625, "special-deduction": 0.0 }, "totalScore": 80.875, "status": "completed" },
+    { "rank": 6, "playerId": "suzuki-takayuki", "playerName": "TAKAYUKI SUZUKI", "nationality": "Japan", "scores": { "difficulty": 36.5, "stability": 12.0, "novelty": 24.75, "composition": 7.25, "execution-deduction": 1.75, "special-deduction": 0.0 }, "totalScore": 78.75, "status": "completed" },
+    { "rank": 7, "playerId": "torii-hiromiki", "playerName": "HIROMIKI TORII", "nationality": "Japan", "scores": { "difficulty": 37.25, "stability": 12.5, "novelty": 23.5, "composition": 7.5, "execution-deduction": 1.875, "special-deduction": 1.0 }, "totalScore": 77.875, "status": "completed" },
+    { "rank": 8, "playerId": "takamori-hirofumi", "playerName": "HIROFUMI TAKAMORI", "nationality": "Japan", "scores": { "difficulty": 37.5, "stability": 11.0, "novelty": 25.75, "composition": 7.25, "execution-deduction": 5.5, "special-deduction": 0.0 }, "totalScore": 76.0, "status": "completed" },
+    { "rank": 9, "playerId": "uda-kento", "playerName": "KENTO UDA", "nationality": "Japan", "scores": { "difficulty": 36.625, "stability": 11.0, "novelty": 23.5, "composition": 7.75, "execution-deduction": 3.625, "special-deduction": 0.0 }, "totalScore": 75.25, "status": "completed" },
+    { "rank": 10, "playerId": "iwakawa-kai", "playerName": "KAI IWAKAWA", "nationality": "Japan", "scores": { "difficulty": 33.25, "stability": 12.0, "novelty": 23.5, "composition": 7.75, "execution-deduction": 1.75, "special-deduction": 0.0 }, "totalScore": 74.75, "status": "completed" },
+    { "rank": 11, "playerId": "kosaki-jun", "playerName": "JUN KOSAKI", "nationality": "Japan", "scores": { "difficulty": 35.625, "stability": 11.0, "novelty": 24.5, "composition": 7.0, "execution-deduction": 4.25, "special-deduction": 0.0 }, "totalScore": 73.875, "status": "completed" },
+    { "rank": 12, "playerId": "aoki-naoya", "playerName": "NAOYA AOKI", "nationality": "Japan", "scores": { "difficulty": 34.75, "stability": 11.0, "novelty": 24.5, "composition": 7.75, "execution-deduction": 4.25, "special-deduction": 0.0 }, "totalScore": 73.75, "status": "completed" },
+    { "rank": 13, "playerId": "muraoka-takumi", "playerName": "TAKUMI MURAOKA", "nationality": "Japan", "scores": { "difficulty": 36.625, "stability": 10.5, "novelty": 25.5, "composition": 7.25, "execution-deduction": 7.25, "special-deduction": 0.0 }, "totalScore": 72.625, "status": "completed" },
+    { "rank": 14, "playerId": "lin-hsing-yu", "playerName": "XING YU LIN", "nationality": "Taiwan", "scores": { "difficulty": 30.25, "stability": 10.0, "novelty": 21.5, "composition": 7.5, "execution-deduction": 2.125, "special-deduction": 0.0 }, "totalScore": 67.125, "status": "completed" },
+    { "rank": 15, "playerId": "nagamine-tomohiro", "playerName": "TOMOHIRO NAGAMINE", "nationality": "Japan", "scores": { "difficulty": 31.5, "stability": 10.0, "novelty": 19.5, "composition": 7.0, "execution-deduction": 2.5, "special-deduction": 0.0 }, "totalScore": 65.5, "status": "completed" },
+    { "rank": 16, "playerId": "taki-kentaro", "playerName": "KENTARO TAKI", "nationality": "Japan", "scores": { "difficulty": 31.75, "stability": 10.0, "novelty": 21.0, "composition": 6.5, "execution-deduction": 4.75, "special-deduction": 0.0 }, "totalScore": 64.5, "status": "completed" },
+    { "rank": 17, "playerId": "yamada-jun", "playerName": "JUN YAMADA", "nationality": "Japan", "scores": { "difficulty": 30.625, "stability": 9.5, "novelty": 18.25, "composition": 6.5, "execution-deduction": 2.625, "special-deduction": 0.0 }, "totalScore": 62.25, "status": "completed" },
+    { "rank": null, "playerId": "machigashira-tomoki", "playerName": "TOMOKI MACHIGASHIRA", "nationality": "Japan", "status": "dns" },
+    { "rank": null, "playerId": "kobayashi-norifumi", "playerName": "NORIFUMI KOBAYASHI", "nationality": "Japan", "status": "dns" }
+  ]
+}

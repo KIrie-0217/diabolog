@@ -1,0 +1,18 @@
+{
+  "categoryId": "1d-ashimawari-f",
+  "name": "1ディアボロ足の周り部門決勝",
+  "nameEn": "1 Diabolo Leg Orbits Division Final",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "ye-zi-lin", "playerName": "葉子琳 / YE ZI LIN", "nationality": "Taiwan", "count": 150, "status": "completed" },
+    { "rank": 2, "playerId": "nonaka-aoi", "playerName": "野中葵 / NONAKA AOI", "nationality": "Japan", "count": 137, "note": "日本新記録", "status": "completed" },
+    { "rank": 3, "playerId": "lu-yu-cheng", "playerName": "盧昱成 / LU YU CHENG", "nationality": "Taiwan", "count": 130, "status": "completed" },
+    { "rank": 4, "playerId": "yang-qin-yao", "playerName": "楊沁堯 / YANG QIN YAO", "nationality": "Taiwan", "count": 123, "status": "completed" },
+    { "rank": 5, "playerId": "lin-yan-xiang", "playerName": "林晏詳 / LIN YAN XIANG", "nationality": "Taiwan", "count": 113, "status": "completed" },
+    { "rank": 6, "playerId": "chen-zi-yu", "playerName": "陈子煜 / CHEN ZI YU", "nationality": "Malaysia", "count": 112, "status": "completed" },
+    { "rank": 7, "playerId": "lok-ken-yu", "playerName": "骆健友 / LOK KEN YU", "nationality": "Malaysia", "count": 110, "status": "completed" },
+    { "rank": 8, "playerId": "isobe-takumi", "playerName": "磯部拓海 / ISOBE TAKUMI", "nationality": "Japan", "count": 98, "status": "completed" }
+  ]
+}

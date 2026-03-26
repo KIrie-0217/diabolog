@@ -1,0 +1,97 @@
+{
+  "categoryId": "m1dha",
+  "name": "男子1ディアボロ水平(固定)軸部門",
+  "nameEn": "Men's 1diabolo Horizontal Axis (Fixed) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1, "playerId": "zhang-jun-huang", "playerName": "張駿煌 / ZHANG JUN HUANG", "nationality": "Taiwan",
+      "scores": { "difficulty": 39.20, "stability": 11.50, "novelty": 24.25, "composition": 8.00, "execution-deduction": 2.25, "special-deduction": 0.00 },
+      "totalScore": 80.70, "status": "completed"
+    },
+    {
+      "rank": 2, "playerId": "alex-ang", "playerName": "洪国皓 / ALEX ANG", "nationality": "Malaysia",
+      "scores": { "difficulty": 39.00, "stability": 9.75, "novelty": 25.50, "composition": 7.00, "execution-deduction": 4.88, "special-deduction": 0.00 },
+      "totalScore": 76.38, "status": "completed"
+    },
+    {
+      "rank": 3, "playerId": "chen-han-yan", "playerName": "沈翰彥 / CHEN HAN YAN", "nationality": "Taiwan",
+      "scores": { "difficulty": 36.80, "stability": 10.50, "novelty": 23.00, "composition": 7.75, "execution-deduction": 2.00, "special-deduction": 0.00 },
+      "totalScore": 76.05, "status": "completed"
+    },
+    {
+      "rank": 4, "playerId": "tanaka-shun", "playerName": "田中俊 / TANAKA SYUN", "nationality": "Japan",
+      "scores": { "difficulty": 34.20, "stability": 12.25, "novelty": 21.00, "composition": 8.00, "execution-deduction": 0.63, "special-deduction": 0.00 },
+      "totalScore": 74.83, "status": "completed"
+    },
+    {
+      "rank": 5, "playerId": "kuo-po-ting", "playerName": "郭伯廷 / GUO BO TING", "nationality": "Taiwan",
+      "scores": { "difficulty": 35.60, "stability": 10.00, "novelty": 24.00, "composition": 8.00, "execution-deduction": 3.13, "special-deduction": 0.00 },
+      "totalScore": 74.48, "status": "completed"
+    },
+    {
+      "rank": 6, "playerId": "kudo-masahiro", "playerName": "工藤 正景 / KUDO MASAHIRO", "nationality": "Japan",
+      "scores": { "difficulty": 35.20, "stability": 10.50, "novelty": 23.25, "composition": 7.75, "execution-deduction": 2.75, "special-deduction": 0.00 },
+      "totalScore": 73.95, "status": "completed"
+    },
+    {
+      "rank": 7, "playerId": "akiba-yosuke", "playerName": "秋場 遥輔 / AKIBA YOSUKE", "nationality": "Japan",
+      "scores": { "difficulty": 37.80, "stability": 9.00, "novelty": 22.00, "composition": 7.25, "execution-deduction": 3.00, "special-deduction": 0.00 },
+      "totalScore": 73.05, "status": "completed"
+    },
+    {
+      "rank": 8, "playerId": "kanehira-shinichi", "playerName": "兼平 慎一 / KANEHIRA SHINICHI", "nationality": "Japan",
+      "scores": { "difficulty": 35.80, "stability": 9.25, "novelty": 24.00, "composition": 7.25, "execution-deduction": 3.25, "special-deduction": 0.00 },
+      "totalScore": 73.05, "status": "completed"
+    },
+    {
+      "rank": 9, "playerId": "watanabe-hideya", "playerName": "渡辺英也 / WATANABE HIDEYA", "nationality": "Japan",
+      "scores": { "difficulty": 38.40, "stability": 8.75, "novelty": 23.00, "composition": 7.25, "execution-deduction": 4.38, "special-deduction": 0.00 },
+      "totalScore": 73.03, "status": "completed"
+    },
+    {
+      "rank": 10, "playerId": "dai-bang-you", "playerName": "戴邦祐 / DAI BANG YOU", "nationality": "Taiwan",
+      "scores": { "difficulty": 37.80, "stability": 9.25, "novelty": 24.75, "composition": 7.00, "execution-deduction": 5.88, "special-deduction": 0.00 },
+      "totalScore": 72.93, "status": "completed"
+    },
+    {
+      "rank": 11, "playerId": "torii-takemi", "playerName": "鳥居 岳史 / TORII TAKEMI", "nationality": "Japan",
+      "scores": { "difficulty": 36.20, "stability": 10.00, "novelty": 22.75, "composition": 7.00, "execution-deduction": 3.25, "special-deduction": 0.00 },
+      "totalScore": 72.70, "status": "completed"
+    },
+    {
+      "rank": 12, "playerId": "ooya-yukinaga", "playerName": "大屋 幸長 / OOYA YUKINAGA", "nationality": "Japan",
+      "scores": { "difficulty": 34.60, "stability": 9.50, "novelty": 23.00, "composition": 7.25, "execution-deduction": 3.50, "special-deduction": 0.00 },
+      "totalScore": 70.85, "status": "completed"
+    },
+    {
+      "rank": 13, "playerId": "wang-tzu-yun", "playerName": "王子昀 / WANG ZI YUN", "nationality": "Taiwan",
+      "scores": { "difficulty": 37.40, "stability": 9.25, "novelty": 23.75, "composition": 6.75, "execution-deduction": 6.38, "special-deduction": 0.00 },
+      "totalScore": 70.78, "status": "completed"
+    },
+    {
+      "rank": 14, "playerId": "takeuchi-tomoya", "playerName": "竹内 智哉 / TAKEUCHI TOMOYA", "nationality": "Japan",
+      "scores": { "difficulty": 33.80, "stability": 8.75, "novelty": 22.75, "composition": 6.75, "execution-deduction": 3.38, "special-deduction": 0.00 },
+      "totalScore": 68.68, "status": "completed"
+    },
+    {
+      "rank": 15, "playerId": "azami-daichi", "playerName": "浅見拓一知 / AZAMI DAICHI", "nationality": "Japan",
+      "scores": { "difficulty": 30.00, "stability": 9.00, "novelty": 19.50, "composition": 6.50, "execution-deduction": 3.13, "special-deduction": 0.00 },
+      "totalScore": 61.88, "status": "completed"
+    },
+    {
+      "rank": 16, "playerId": "lu-ji-xian", "playerName": "魯紀賢 / LU JI XIAN", "nationality": "Taiwan",
+      "scores": { "difficulty": 29.80, "stability": 8.00, "novelty": 20.25, "composition": 5.75, "execution-deduction": 5.50, "special-deduction": 6.00 },
+      "totalScore": 52.30, "status": "completed"
+    }
+  ]
+}

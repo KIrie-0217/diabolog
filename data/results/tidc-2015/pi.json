@@ -1,0 +1,75 @@
+{
+  "categoryId": "pi",
+  "name": "ペア部門",
+  "nameEn": "Pair Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yang-qin-yao+lu-yu-cheng",
+      "playerName": "楊沁堯/盧昱成 / YANG QIN YAO/LU YU CHENG",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 36.8, "synchronization": 27.8, "composition": 28.2, "execution-deduction": 1.76, "special-deduction": 5.0 },
+      "totalScore": 86.04,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "wu-pei-lian+liu-zhu-ying",
+      "playerName": "吳珮蓮/劉珠瓔 / WU PEI LIAN/LIU ZHU YING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 32.0, "synchronization": 24.0, "composition": 23.0, "execution-deduction": 3.76, "special-deduction": 0.0 },
+      "totalScore": 75.24,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "chen-ying-tong+wu-zi-ying",
+      "playerName": "陳映彤/吳姿瑩 / CHEN YING TONG/WU ZI YING",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 30.4, "synchronization": 24.0, "composition": 21.8, "execution-deduction": 3.2, "special-deduction": 0.0 },
+      "totalScore": 73.0,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tseng-zi-xuan+wang-sheng-min",
+      "playerName": "曾子軒/王聖閔 / CHEN ZI XUAN/WANG SHENG MIN",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 29.8, "synchronization": 22.2, "composition": 20.6, "execution-deduction": 3.84, "special-deduction": 0.0 },
+      "totalScore": 68.76,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "wang-wei-xin+lin-heng-wei",
+      "playerName": "王維新/林亨瑋 / WANG WEI XIN/LIN HENG WEI",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 27.0, "synchronization": 18.6, "composition": 19.4, "execution-deduction": 9.76, "special-deduction": 0.0 },
+      "totalScore": 55.24,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "chen-si-yuen+hee-ken-soon",
+      "playerName": "曾思源/許景順 / CHEN SI YUEN/HEE KEN SOON",
+      "nationality": "Malaysia",
+      "status": "dns"
+    },
+    {
+      "rank": null,
+      "playerId": "wang-tzu-yun+deng-yu-xiang",
+      "playerName": "王子昀/鄧宇翔 / WANG ZI YUN/DENG YU XIANG",
+      "nationality": "Taiwan",
+      "status": "dns"
+    }
+  ]
+}

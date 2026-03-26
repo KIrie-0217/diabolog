@@ -1,0 +1,26 @@
+{
+  "categoryId": "m-nawatobi",
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1 Diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "torii-hiromiki", "playerName": "鳥居 大幹 / TORII HIROMIKI", "nationality": "Japan", "count": 82, "status": "completed" },
+    { "rank": 2, "playerId": "mochizuki-yuusaku", "playerName": "望月勇作 / MOCHIZUKI YUSAKU", "nationality": "Japan", "count": 65, "class": "D", "status": "completed" },
+    { "rank": 3, "playerId": "zhao-zhi-han", "playerName": "趙志翰 / ZHAO ZHI HAN", "nationality": "Taiwan", "count": 56, "class": "C", "status": "completed" },
+    { "rank": 4, "playerId": "guo-heng-yi", "playerName": "郭恆毅 / GUO HENG YI", "nationality": "Taiwan", "count": 52, "class": "B", "status": "completed" },
+    { "rank": 5, "playerId": "wang-tzu-yun", "playerName": "王子昀 / WANG ZI YUN", "nationality": "Taiwan", "count": 49, "class": "B", "status": "completed" },
+    { "rank": 6, "playerId": "nohara-hiroki", "playerName": "野原 大幹 / NOHARA HIROKI", "nationality": "Japan", "count": 42, "class": "B", "status": "completed" },
+    { "rank": 6, "playerId": "wu-chi-ming", "playerName": "吳啟銘 / WU QI MING", "nationality": "Taiwan", "count": 42, "class": "C", "status": "completed" },
+    { "rank": 8, "playerId": "huang-zhong-yi", "playerName": "黃中邑 / HUANG ZHONG YI", "nationality": "Taiwan", "count": 37, "class": "B", "status": "completed" },
+    { "rank": 9, "playerId": "mitsuyasu-yusuke", "playerName": "光安祐介 / MITSUYASU YUSUKE", "nationality": "Japan", "count": 36, "class": "C", "status": "completed" },
+    { "rank": 10, "playerId": "isobe-takumi", "playerName": "磯部 拓海 / ISOBE TAKUMI", "nationality": "Japan", "count": 33, "class": "C", "status": "completed" },
+    { "rank": 11, "playerId": "kawamura-takashi", "playerName": "川村隆史 / KAWAMURA TAKASHI", "nationality": "Japan", "count": 27, "class": "C", "status": "completed" },
+    { "rank": 12, "playerId": "takeuchi-ken", "playerName": "武内健 / TAKEUCHI KEN", "nationality": "Japan", "count": 25, "class": "B", "status": "completed" },
+    { "rank": 13, "playerId": "agou-tensei", "playerName": "吾郷 天星 / AGOU TENSEI", "nationality": "Japan", "count": 23, "class": "A", "status": "completed" },
+    { "rank": 13, "playerId": "torii-ken", "playerName": "鳥居 健 / TORII KEN", "nationality": "Japan", "count": 23, "class": "E", "status": "completed" },
+    { "rank": 15, "playerId": "nakamura-makoto", "playerName": "中村誠 / NAKAMURA MAKOTO", "nationality": "Japan", "count": 0, "class": "D", "status": "completed" }
+  ]
+}

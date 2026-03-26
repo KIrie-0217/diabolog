@@ -1,0 +1,62 @@
+{
+  "categoryId": "3d",
+  "name": "3ディアボロ部門",
+  "nameEn": "3diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "huang-shih-wei",
+      "playerName": "黃士瑋 / Huang ShihWei",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 43.0, "stability": 11.8, "novelty": 25.8, "composition": 7.0, "execution-deduction": 2.5, "special-deduction": 0.0 },
+      "totalScore": 85.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "torii-hiromiki",
+      "playerName": "鳥居 大幹 / Torii Hiromiki",
+      "nationality": "Japan",
+      "scores": { "difficulty": 39.3, "stability": 13.5, "novelty": 25.0, "composition": 7.0, "execution-deduction": 0.1, "special-deduction": 0.0 },
+      "totalScore": 84.7,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "tsai-shao-jie",
+      "playerName": "蔡劭傑 / Tsai ShaoJie",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 41.5, "stability": 10.8, "novelty": 25.0, "composition": 7.3, "execution-deduction": 4.3, "special-deduction": 0.0 },
+      "totalScore": 80.3,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tanaka-shun",
+      "playerName": "田中俊 / Tanaka Shun",
+      "nationality": "Japan",
+      "scores": { "difficulty": 38.3, "stability": 12.0, "novelty": 22.3, "composition": 6.8, "execution-deduction": 1.6, "special-deduction": 0.0 },
+      "totalScore": 77.8,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kudo-masahiro",
+      "playerName": "工藤 正景 / Kudo Masahiro",
+      "nationality": "Japan",
+      "scores": { "difficulty": 38.0, "stability": 11.3, "novelty": 22.3, "composition": 8.0, "execution-deduction": 2.4, "special-deduction": 0.0 },
+      "totalScore": 77.2,
+      "status": "completed"
+    }
+  ]
+}

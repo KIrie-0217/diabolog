@@ -1,0 +1,23 @@
+{
+  "categoryId": "1d-ashimawari-q",
+  "name": "1ディアボロ足の周り部門予選",
+  "nameEn": "1 Diabolo Leg Orbits Division Qualifying",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "ye-zi-lin", "playerName": "葉子琳 / YE ZI LIN", "nationality": "Taiwan", "count": 160, "note": "大会新記録", "status": "completed" },
+    { "rank": 2, "playerId": "lu-yu-cheng", "playerName": "盧昱成 / LU YU CHENG", "nationality": "Taiwan", "count": 127, "status": "completed" },
+    { "rank": 3, "playerId": "yang-qin-yao", "playerName": "楊沁堯 / YANG QIN YAO", "nationality": "Taiwan", "count": 121, "status": "completed" },
+    { "rank": 4, "playerId": "isobe-takumi", "playerName": "磯部拓海 / ISOBE TAKUMI", "nationality": "Japan", "count": 117, "status": "completed" },
+    { "rank": 5, "playerId": "lin-yan-xiang", "playerName": "林晏詳 / LIN YAN XIANG", "nationality": "Taiwan", "count": 115, "status": "completed" },
+    { "rank": 6, "playerId": "nonaka-aoi", "playerName": "野中葵 / NONAKA AOI", "nationality": "Japan", "count": 111, "status": "completed" },
+    { "rank": 7, "playerId": "chen-zi-yu", "playerName": "陈子煜 / CHEN ZI YU", "nationality": "Malaysia", "count": 108, "status": "completed" },
+    { "rank": 8, "playerId": "lok-ken-yu", "playerName": "骆健友 / LOK KEN YU", "nationality": "Malaysia", "count": 103, "status": "completed" },
+    { "rank": 9, "playerId": "ohara-yuto", "playerName": "大原佑斗 / OHARA YUTO", "nationality": "Japan", "count": 101, "status": "completed" },
+    { "rank": 10, "playerId": "chiang-chouk-wei", "playerName": "张祚伟 / CHIANG CHOUK WEI", "nationality": "Malaysia", "count": 100, "status": "completed" },
+    { "rank": 11, "playerId": "saito-tetsunori", "playerName": "齋藤哲範 / SAITO TETSUNORI", "nationality": "Japan", "count": 97, "status": "completed" },
+    { "rank": 12, "playerId": "lim-fang-yu", "playerName": "林防佑 / LIM FANG YU", "nationality": "Malaysia", "count": 95, "status": "completed" },
+    { "rank": 13, "playerId": "chen-wai-liang", "playerName": "曾伟亮 / CHEN WAI LIANG", "nationality": "Malaysia", "count": 94, "status": "completed" }
+  ]
+}

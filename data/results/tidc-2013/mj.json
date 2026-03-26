@@ -1,0 +1,82 @@
+{
+  "categoryId": "mj",
+  "name": "男子個人総合ジュニア部門",
+  "nameEn": "Men's Junior Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "hino-fumitaka",
+      "playerName": "FUMITAKA HINO",
+      "nationality": "Japan",
+      "scores": { "difficulty": 29.057, "variety": 18.1, "stability": 13.5, "novelty": 8.5, "composition": 7.9, "base-score": 15, "execution-deduction": 5.28, "special-deduction": 0.0 },
+      "totalScore": 86.777,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "torii-hiromiki",
+      "playerName": "HIROMIKI TORII",
+      "nationality": "Japan",
+      "scores": { "difficulty": 26.314, "variety": 16.2, "stability": 13.2, "novelty": 8.2, "composition": 7.9, "base-score": 15, "execution-deduction": 1.12, "special-deduction": 0.0 },
+      "totalScore": 85.694,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "torii-takemi",
+      "playerName": "TAKEMI TORII",
+      "nationality": "Japan",
+      "scores": { "difficulty": 25.114, "variety": 16.6, "stability": 12.2, "novelty": 7.6, "composition": 7.4, "base-score": 15, "execution-deduction": 4.48, "special-deduction": 0.0 },
+      "totalScore": 79.434,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "ishikawa-ryoma",
+      "playerName": "RYOMA ISHIKAWA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 21.6, "variety": 13.1, "stability": 9.9, "novelty": 6.8, "composition": 7.9, "base-score": 15, "execution-deduction": 5.12, "special-deduction": 0.0 },
+      "totalScore": 69.18,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "mitani-ryoto",
+      "playerName": "RYOTO MITANI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 24.257, "variety": 14.7, "stability": 8.7, "novelty": 7.2, "composition": 5.7, "base-score": 15, "execution-deduction": 8.08, "special-deduction": 3.0 },
+      "totalScore": 64.477,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kujiraoka-yuto",
+      "playerName": "YUTO KUJIRAOKA",
+      "nationality": "Japan",
+      "scores": { "difficulty": 20.229, "variety": 11.8, "stability": 8.0, "novelty": 7.5, "composition": 4.9, "base-score": 15, "execution-deduction": 10.16, "special-deduction": 0.0 },
+      "totalScore": 57.269,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "murakami-sougo",
+      "playerName": "SOUGO MURAKAMI",
+      "nationality": "Japan",
+      "scores": { "difficulty": 19.629, "variety": 11.8, "stability": 8.2, "novelty": 6.4, "composition": 4.8, "base-score": 10, "execution-deduction": 8.72, "special-deduction": 3.0 },
+      "totalScore": 49.109,
+      "status": "completed"
+    }
+  ]
+}

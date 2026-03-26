@@ -1,0 +1,54 @@
+{
+  "categoryId": "t",
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "synchronization", "name": "同調性", "type": "add" },
+    { "id": "composition", "name": "演技構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:feeling-diabolo",
+      "playerName": "飛鈴聯隊 / Feeling Diabolo Joint Team",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 34.4, "synchronization": 25.6, "composition": 25.6, "execution-deduction": 3.4, "special-deduction": 3.0 },
+      "totalScore": 79.2,
+      "note": "場外1回",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "team:xing-you-ling-xi-tidc2016",
+      "playerName": "興有鈴犀 / Xing You Ling Xi",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 31.2, "synchronization": 23.2, "composition": 22.8, "execution-deduction": 2.4, "special-deduction": 0.0 },
+      "totalScore": 74.8,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "team:dai-bang-you-friends",
+      "playerName": "戴邦祐と愉快な仲間たち / Dai Bang You and good friends",
+      "nationality": "Taiwan",
+      "scores": { "difficulty": 22.4, "synchronization": 15.6, "composition": 21.2, "execution-deduction": 3.4, "special-deduction": 12.0 },
+      "totalScore": 43.8,
+      "note": "場外4回",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "team:pot-au-feu",
+      "playerName": "ポトフ / pot-au-feu",
+      "nationality": "Mixed",
+      "scores": { "difficulty": 19.2, "synchronization": 13.8, "composition": 17.4, "execution-deduction": 8.2, "special-deduction": 0.0 },
+      "totalScore": 42.2,
+      "status": "completed"
+    }
+  ]
+}
