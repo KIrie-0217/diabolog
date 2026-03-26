@@ -26,7 +26,6 @@ for (const file of readdirSync(new URL("results/", dataDir))) {
   for (const cat of data.categories) {
     for (const r of cat.results) {
       if (r.status === "dns" || r.status === "dsq") continue;
-      if (r.playerId.startsWith("team:")) continue;
 
       const entry = {
         competitionId: data.competitionId,

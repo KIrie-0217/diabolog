@@ -10,6 +10,7 @@ import {
   Loader,
   SimpleGrid,
   Pagination,
+  SegmentedControl,
 } from "@mantine/core";
 import { IconSearch } from "@tabler/icons-react";
 import { Link } from "react-router-dom";
@@ -32,6 +33,7 @@ export function Players() {
   const [loading, setLoading] = useState(true);
   const [search, setSearch] = useState("");
   const [nationalities, setNationalities] = useState<string[]>([]);
+  const [playerType, setPlayerType] = useState<string>("individual");
   const [page, setPage] = useState(1);
   const isMobile = window.innerWidth < 768;
   const perPage = isMobile ? 5 : 15;
@@ -50,6 +52,9 @@ export function Players() {
   const allNationalities = [...new Set(players.map((p) => p.nationality).filter(Boolean))] as string[];
 
   const filtered = players.filter((p) => {
+    const isTeam = p.id.startsWith("team:");
+    if (playerType === "individual" && isTeam) return false;
+    if (playerType === "team" && !isTeam) return false;
     if (search && !p.name.toLowerCase().includes(search.toLowerCase()) && !(p.aliases ?? []).some(a => a.toLowerCase().includes(search.toLowerCase()))) return false;
     if (nationalities.length > 0 && !nationalities.includes(p.nationality ?? "")) return false;
     return true;
@@ -57,7 +62,18 @@ export function Players() {
 
   return (
     <Stack gap="md" mt="md">
-      <Title order={2}>Players</Title>
+      <Group justify="space-between" align="center">
+        <Title order={2}>Players</Title>
+        <SegmentedControl
+          size="xs"
+          value={playerType}
+          onChange={(v) => { setPlayerType(v); setPage(1); }}
+          data={[
+            { label: "Individual", value: "individual" },
+            { label: "Team", value: "team" },
+          ]}
+        />
+      </Group>
 
       <TextInput
         placeholder="Search by name..."

@@ -53,7 +53,8 @@ export function Player() {
   const [player, setPlayer] = useState<PlayerData | null>(null);
   const [compNames, setCompNames] = useState<Record<string, string>>({});
   const [loading, setLoading] = useState(true);
-  const [viewMode, setViewMode] = useState<string>("competition");
+  const isTeam = id?.startsWith("team:");
+  const [viewMode, setViewMode] = useState<string>(isTeam ? "category" : "competition");
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
@@ -195,15 +196,17 @@ export function Player() {
 
       <Group justify="space-between" align="center">
         <Title order={3}>Results</Title>
-        <SegmentedControl
-          size="xs"
-          value={viewMode}
-          onChange={setViewMode}
-          data={[
-            { label: "By Competition", value: "competition" },
-            { label: "By Category", value: "category" },
-          ]}
-        />
+        {!isTeam && (
+          <SegmentedControl
+            size="xs"
+            value={viewMode}
+            onChange={setViewMode}
+            data={[
+              { label: "By Competition", value: "competition" },
+              { label: "By Category", value: "category" },
+            ]}
+          />
+        )}
       </Group>
 
       {viewMode === "competition" ? (
