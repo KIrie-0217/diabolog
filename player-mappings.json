@@ -43,7 +43,8 @@
     "canonicalName": "沼田 結音 / Yuine Numata",
     "aliases": [
       "沼田 結音 / Yuine Numata",
-      "ヌマタ ユイネ"
+      "ヌマタ ユイネ",
+      "ヌマタユイネ"
     ],
     "nationality": "Japan"
   },
@@ -930,7 +931,8 @@
   "tateishi-tsubasa": {
     "canonicalName": "立石翼 / Tsubasa Tateishi",
     "aliases": [
-      "立石翼 / Tsubasa Tateishi"
+      "立石翼 / Tsubasa Tateishi",
+      "タテイシ ツバサ"
     ],
     "nationality": "Japan"
   },
@@ -979,7 +981,8 @@
   "fukuouji-riu": {
     "canonicalName": "福王寺璃海 / Riu Fukuouji",
     "aliases": [
-      "福王寺璃海 / Riu Fukuouji"
+      "福王寺璃海 / Riu Fukuouji",
+      "フクオウジ リウ"
     ],
     "nationality": "Japan"
   },
@@ -6844,5 +6847,90 @@
     "aliases": [
       "陈子煜/曾伟亮"
     ]
+  },
+  "hatano-kengo": {
+    "canonicalName": "ハタノケンゴ",
+    "nationality": "Japan",
+    "aliases": ["ハタノケンゴ"]
+  },
+  "iwanade-yuto": {
+    "canonicalName": "イワナデユウト",
+    "nationality": "Japan",
+    "aliases": ["イワナデユウト"]
+  },
+  "omori-nozomi": {
+    "canonicalName": "オオモリ ノゾミ",
+    "nationality": "Japan",
+    "aliases": ["オオモリ ノゾミ"]
+  },
+  "watanabe-tomoki": {
+    "canonicalName": "ワタナベトモキ",
+    "nationality": "Japan",
+    "aliases": ["ワタナベトモキ"]
+  },
+  "naruse-ko": {
+    "canonicalName": "ナルセコウ",
+    "nationality": "Japan",
+    "aliases": ["ナルセコウ"]
+  },
+  "kurogi-kyotaro": {
+    "canonicalName": "クロギ キョウタロウ",
+    "nationality": "Japan",
+    "aliases": ["クロギ キョウタロウ"]
+  },
+  "kawasaki-yamato": {
+    "canonicalName": "カワサキ ヤマト",
+    "nationality": "Japan",
+    "aliases": ["カワサキ ヤマト"]
+  },
+  "hojo-yoshimasa": {
+    "canonicalName": "ホウジョウ ヨシマサ",
+    "nationality": "Japan",
+    "aliases": ["ホウジョウ ヨシマサ"]
+  },
+  "fujita-masaya": {
+    "canonicalName": "フジタ マサヤ",
+    "nationality": "Japan",
+    "aliases": ["フジタ マサヤ"]
+  },
+  "kondo-shuto": {
+    "canonicalName": "コンドウ シュウト",
+    "nationality": "Japan",
+    "aliases": ["コンドウ シュウト"]
+  },
+  "hashimoto-tatsuro": {
+    "canonicalName": "ハシモト タツロウ",
+    "nationality": "Japan",
+    "aliases": ["ハシモト タツロウ"]
+  },
+  "michida-yoshikazu": {
+    "canonicalName": "ミチダ ヨシカズ",
+    "nationality": "Japan",
+    "aliases": ["ミチダ ヨシカズ"]
+  },
+  "ninomiya-arata": {
+    "canonicalName": "ニノミヤ アラタ",
+    "nationality": "Japan",
+    "aliases": ["ニノミヤ アラタ"]
+  },
+  "okada-touya": {
+    "canonicalName": "オカダトウヤ",
+    "nationality": "Japan",
+    "aliases": ["オカダトウヤ"]
+  },
+  "shimizu-riku": {
+    "canonicalName": "シミズ リク",
+    "nationality": "Japan",
+    "aliases": ["シミズ リク"]
+  },
+  "kitahara-aiko": {
+    "canonicalName": "キタハラ アイコ",
+    "nationality": "Japan",
+    "aliases": ["キタハラ アイコ"]
+  },
+  "matsukubo-kai": {
+    "canonicalName": "マツクボ カイ",
+    "nationality": "Japan",
+    "aliases": ["マツクボ カイ"]
   }
 }

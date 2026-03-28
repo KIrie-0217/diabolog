@@ -1,0 +1,28 @@
+{
+  "categoryId": "1dv",
+  "name": "男子1ディアボロ垂直軸部門",
+  "nameEn": "Men's 1diabolo Vertical Axis Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tsuda-manato", "playerName": "ツダ マナト", "scores": { "difficulty": 41.8, "stability": 13.5, "novelty": 28.0, "composition": 8.0, "execution-deduction": 1.9, "special-deduction": 0 }, "totalScore": 89.4, "status": "completed" },
+    { "rank": 2, "playerId": "hashimoto-tatsuro", "playerName": "ハシモト タツロウ", "scores": { "difficulty": 38.5, "stability": 12.5, "novelty": 26.5, "composition": 7.3, "execution-deduction": 2.5, "special-deduction": 0 }, "totalScore": 82.3, "status": "completed" },
+    { "rank": 3, "playerId": "sensui-saki", "playerName": "センスイ サキ", "scores": { "difficulty": 37.3, "stability": 12.8, "novelty": 25.3, "composition": 8.3, "execution-deduction": 2.6, "special-deduction": 0 }, "totalScore": 81.1, "status": "completed" },
+    { "rank": 4, "playerId": "takano-sho", "playerName": "タカノショウ", "scores": { "difficulty": 37.3, "stability": 12.3, "novelty": 25.5, "composition": 7.3, "execution-deduction": 6.1, "special-deduction": 0 }, "totalScore": 76.3, "status": "completed" },
+    { "rank": 5, "playerId": "michida-yoshikazu", "playerName": "ミチダ ヨシカズ", "scores": { "difficulty": 32.3, "stability": 11.8, "novelty": 22.3, "composition": 7.0, "execution-deduction": 4.0, "special-deduction": 0 }, "totalScore": 69.4, "status": "completed" },
+    { "rank": 6, "playerId": "ninomiya-arata", "playerName": "ニノミヤ アラタ", "scores": { "difficulty": 34.0, "stability": 10.8, "novelty": 21.3, "composition": 6.3, "execution-deduction": 5.5, "special-deduction": 0 }, "totalScore": 66.9, "status": "completed" },
+    { "rank": 7, "playerId": "urayama-masatsugu", "playerName": "ウラヤマ マサツグ", "scores": { "difficulty": 30.0, "stability": 9.3, "novelty": 18.8, "composition": 6.5, "execution-deduction": 2.9, "special-deduction": 0 }, "totalScore": 61.7, "status": "completed" },
+    { "rank": 8, "playerId": "okada-touya", "playerName": "オカダトウヤ", "scores": { "difficulty": 29.8, "stability": 9.5, "novelty": 22.0, "composition": 6.3, "execution-deduction": 6.5, "special-deduction": 0 }, "totalScore": 61.1, "status": "completed" },
+    { "rank": 9, "playerId": "shibata-koki", "playerName": "シバタコウキ", "scores": { "difficulty": 30.8, "stability": 9.5, "novelty": 20.3, "composition": 6.5, "execution-deduction": 6.3, "special-deduction": 0 }, "totalScore": 60.8, "status": "completed" },
+    { "rank": 10, "playerId": "fukuouji-riu", "playerName": "フクオウジ リウ", "scores": { "difficulty": 30.8, "stability": 9.5, "novelty": 19.8, "composition": 6.0, "execution-deduction": 5.4, "special-deduction": 0 }, "totalScore": 60.7, "status": "completed" },
+    { "rank": 11, "playerId": "shimizu-riku", "playerName": "シミズ リク", "scores": { "difficulty": 27.8, "stability": 9.3, "novelty": 19.3, "composition": 5.8, "execution-deduction": 8.5, "special-deduction": 0 }, "totalScore": 53.7, "status": "completed" }
+  ]
+}

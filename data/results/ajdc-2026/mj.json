@@ -1,0 +1,24 @@
+{
+  "categoryId": "mj",
+  "name": "男子個人総合ジュニア部門",
+  "nameEn": "Men's Individual Junior Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "hatano-kengo", "playerName": "ハタノケンゴ", "scores": { "difficulty": 26.5, "variety": 16.0, "stability": 11.5, "novelty": 7.8, "composition": 6.3, "base-score": 15, "execution-deduction": 5.4, "special-deduction": 0 }, "totalScore": 77.7, "status": "completed" },
+    { "rank": 2, "playerId": "machida-tomoki", "playerName": "マチダトモキ", "scores": { "difficulty": 22.5, "variety": 15.8, "stability": 10.8, "novelty": 6.8, "composition": 8.0, "base-score": 15, "execution-deduction": 4.1, "special-deduction": 0 }, "totalScore": 74.8, "status": "completed" },
+    { "rank": 3, "playerId": "iwanade-yuto", "playerName": "イワナデユウト", "scores": { "difficulty": 22.5, "variety": 13.5, "stability": 12.3, "novelty": 7.3, "composition": 7.3, "base-score": 10, "execution-deduction": 4.3, "special-deduction": 0 }, "totalScore": 68.6, "status": "completed" },
+    { "rank": 4, "playerId": "ogata-ryusei", "playerName": "オガタ リュウセイ", "scores": { "difficulty": 18.8, "variety": 12.5, "stability": 8.3, "novelty": 5.0, "composition": 4.5, "base-score": 15, "execution-deduction": 4.3, "special-deduction": 0 }, "totalScore": 59.8, "status": "completed" },
+    { "rank": 5, "playerId": "ogata-taisei", "playerName": "オガタ タイセイ", "scores": { "difficulty": 17.0, "variety": 11.8, "stability": 8.5, "novelty": 4.5, "composition": 6.3, "base-score": 15, "execution-deduction": 8.4, "special-deduction": 0 }, "totalScore": 54.7, "status": "completed" }
+  ]
+}

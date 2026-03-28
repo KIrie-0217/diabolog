@@ -1,0 +1,24 @@
+{
+  "categoryId": "2da",
+  "name": "2ディアボロ(固定)部門",
+  "nameEn": "2diabolo (Fixed) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "yano-atsushi", "playerName": "ヤノアツシ", "scores": { "difficulty": 36.3, "stability": 10.8, "novelty": 26.0, "composition": 7.0, "execution-deduction": 5.5, "special-deduction": 0 }, "totalScore": 74.6, "status": "completed" },
+    { "rank": 2, "playerId": "irie-koshiro", "playerName": "イリエ コウシロウ", "scores": { "difficulty": 35.0, "stability": 11.3, "novelty": 24.8, "composition": 6.3, "execution-deduction": 4.4, "special-deduction": 0 }, "totalScore": 73.0, "status": "completed" },
+    { "rank": 3, "playerId": "kosaka-ryota", "playerName": "コサカ リョウタ", "scores": { "difficulty": 34.8, "stability": 10.8, "novelty": 23.3, "composition": 7.0, "execution-deduction": 4.3, "special-deduction": 0 }, "totalScore": 71.6, "status": "completed" },
+    { "rank": 4, "playerId": "tomita-hikaru", "playerName": "トミタ ヒカル", "scores": { "difficulty": 30.5, "stability": 12.3, "novelty": 18.0, "composition": 7.8, "execution-deduction": 1.6, "special-deduction": 0 }, "totalScore": 67.0, "status": "completed" },
+    { "rank": 5, "playerId": "kitahara-aiko", "playerName": "キタハラ アイコ", "scores": { "difficulty": 30.5, "stability": 9.5, "novelty": 17.5, "composition": 6.8, "execution-deduction": 1.6, "special-deduction": 0 }, "totalScore": 62.7, "status": "completed" },
+    { "rank": 6, "playerId": "shimizu-shouta", "playerName": "シミズショウタ", "scores": { "difficulty": 29.8, "stability": 9.0, "novelty": 20.8, "composition": 6.3, "execution-deduction": 4.6, "special-deduction": 0 }, "totalScore": 61.3, "status": "completed" },
+    { "rank": 7, "playerId": "tasaki-kosi", "playerName": "タサキコウシ", "scores": { "difficulty": 30.8, "stability": 8.3, "novelty": 21.3, "composition": 6.5, "execution-deduction": 6.0, "special-deduction": 0 }, "totalScore": 60.9, "status": "completed" }
+  ]
+}

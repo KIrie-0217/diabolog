@@ -1,0 +1,11 @@
+{
+  "categoryId": "4d-low",
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4diabolo Low Endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "results": [
+    { "rank": 1, "playerId": "ishimizu-taiki", "playerName": "イシミズ タイキ", "count": 211, "status": "completed" }
+  ]
+}

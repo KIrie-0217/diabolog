@@ -1,0 +1,20 @@
+{
+  "categoryId": "wi",
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "matsuki-rina", "playerName": "マツキリナ", "scores": { "difficulty": 24.5, "variety": 7.3, "stability": 7.3, "novelty": 7.5, "composition": 20.8, "base-score": 15, "execution-deduction": 4.9, "special-deduction": 0 }, "totalScore": 77.5, "status": "completed" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "categoryId": "m1dhb",
+  "name": "男子1ディアボロ水平軸(ベアリング)部門",
+  "nameEn": "Men's 1diabolo Horizontal Axis (Bearing) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "ishimizu-taiki", "playerName": "イシミズ タイキ", "scores": { "difficulty": 38.0, "stability": 13.5, "novelty": 25.5, "composition": 8.5, "execution-deduction": 3.1, "special-deduction": 0 }, "totalScore": 82.4, "status": "completed" },
+    { "rank": 2, "playerId": "endo-mamoru", "playerName": "エンドウ マモル", "scores": { "difficulty": 37.8, "stability": 12.0, "novelty": 26.3, "composition": 7.3, "execution-deduction": 1.9, "special-deduction": 0 }, "totalScore": 81.5, "status": "completed" },
+    { "rank": 3, "playerId": "kawahara-suguru", "playerName": "カワハラスグル", "scores": { "difficulty": 38.3, "stability": 11.3, "novelty": 24.8, "composition": 6.5, "execution-deduction": 2.1, "special-deduction": 0 }, "totalScore": 78.8, "status": "completed" },
+    { "rank": 4, "playerId": "isobe-takumi", "playerName": "イソベ タクミ", "scores": { "difficulty": 33.5, "stability": 13.0, "novelty": 21.8, "composition": 7.5, "execution-deduction": 2.0, "special-deduction": 0 }, "totalScore": 73.8, "status": "completed" },
+    { "rank": 5, "playerId": "fujita-masaya", "playerName": "フジタ マサヤ", "scores": { "difficulty": 31.3, "stability": 9.0, "novelty": 21.3, "composition": 5.8, "execution-deduction": 4.9, "special-deduction": 0 }, "totalScore": 62.5, "status": "completed" },
+    { "rank": 6, "playerId": "kondo-shuto", "playerName": "コンドウ シュウト", "scores": { "difficulty": 30.5, "stability": 8.0, "novelty": 20.3, "composition": 5.3, "execution-deduction": 5.4, "special-deduction": 0 }, "totalScore": 58.7, "status": "completed" },
+    { "rank": null, "playerId": "hashimoto-tatsuro", "playerName": "ハシモト タツロウ", "status": "dns" }
+  ]
+}

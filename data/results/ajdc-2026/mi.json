@@ -1,0 +1,26 @@
+{
+  "categoryId": "mi",
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    { "id": "difficulty", "name": "難易度", "type": "add" },
+    { "id": "variety", "name": "多彩性", "type": "add" },
+    { "id": "stability", "name": "安定度", "type": "add" },
+    { "id": "novelty", "name": "新奇性", "type": "add" },
+    { "id": "composition", "name": "構成", "type": "add" },
+    { "id": "base-score", "name": "基礎点", "type": "add" },
+    { "id": "execution-deduction", "name": "実施減点", "type": "deduct" },
+    { "id": "special-deduction", "name": "特別減点", "type": "deduct" }
+  ],
+  "results": [
+    { "rank": 1, "playerId": "tanioka-kaketo", "playerName": "タニオカ カケト", "scores": { "difficulty": 28.3, "variety": 8.3, "stability": 8.0, "novelty": 7.0, "composition": 16.3, "base-score": 20, "execution-deduction": 3.6, "special-deduction": 0 }, "totalScore": 84.3, "status": "completed" },
+    { "rank": 2, "playerId": "ishimizu-taiki", "playerName": "イシミズ タイキ", "scores": { "difficulty": 25.5, "variety": 8.0, "stability": 8.0, "novelty": 7.0, "composition": 18.0, "base-score": 20, "execution-deduction": 3.7, "special-deduction": 0 }, "totalScore": 82.8, "status": "completed" },
+    { "rank": 3, "playerId": "morikoshi-daito", "playerName": "モリコシダイト", "scores": { "difficulty": 26.0, "variety": 7.5, "stability": 7.8, "novelty": 8.0, "composition": 16.0, "base-score": 20, "execution-deduction": 2.6, "special-deduction": 0 }, "totalScore": 82.7, "status": "completed" },
+    { "rank": 4, "playerId": "tsuda-manato", "playerName": "ツダ マナト", "scores": { "difficulty": 24.3, "variety": 7.3, "stability": 7.0, "novelty": 7.8, "composition": 16.5, "base-score": 20, "execution-deduction": 5.7, "special-deduction": 0 }, "totalScore": 77.2, "status": "completed" },
+    { "rank": 5, "playerId": "sunahara-hiroto", "playerName": "スナハラヒロト", "scores": { "difficulty": 23.3, "variety": 6.3, "stability": 6.8, "novelty": 8.5, "composition": 13.8, "base-score": 20, "execution-deduction": 9.0, "special-deduction": 0 }, "totalScore": 69.7, "status": "completed" },
+    { "rank": 6, "playerId": "tasaki-kosi", "playerName": "タサキコウシ", "scores": { "difficulty": 18.5, "variety": 6.3, "stability": 5.5, "novelty": 6.5, "composition": 13.3, "base-score": 20, "execution-deduction": 7.0, "special-deduction": 0 }, "totalScore": 63.1, "status": "completed" },
+    { "rank": 7, "playerId": "inaba-wataru", "playerName": "イナバ ワタル", "scores": { "difficulty": 18.5, "variety": 6.0, "stability": 5.8, "novelty": 6.3, "composition": 11.3, "base-score": 20, "execution-deduction": 5.5, "special-deduction": 0 }, "totalScore": 62.4, "status": "completed" }
+  ]
+}

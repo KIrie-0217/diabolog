@@ -1,0 +1,12 @@
+{
+  "categoryId": "w-nawatobi",
+  "name": "女子1ディアボロ縄跳び部門",
+  "nameEn": "Women's 1diabolo Jump Rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true,
+  "results": [
+    { "rank": 1, "playerId": "numata-yuine", "playerName": "ヌマタユイネ", "count": 65, "class": "A", "note": "クラスA新記録、日本新記録", "status": "completed" }
+  ]
+}
