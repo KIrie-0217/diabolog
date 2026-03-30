@@ -53,6 +53,9 @@ export function App() {
               <Anchor component={Link} to="/players">
                 Players
               </Anchor>
+              <Anchor component={Link} to="/rankings">
+                Rankings
+              </Anchor>
               <ActionIcon variant="subtle" onClick={toggleColorScheme} size="lg">
                 {colorScheme === "dark" ? <IconSun size={18} /> : <IconMoon size={18} />}
               </ActionIcon>
@@ -73,6 +76,7 @@ export function App() {
             Competitions
           </Anchor>
           <Anchor onClick={() => handleNav("/players")}>Players</Anchor>
+          <Anchor onClick={() => handleNav("/rankings")}>Rankings</Anchor>
           <ActionIcon variant="subtle" onClick={toggleColorScheme} size="lg">
             {colorScheme === "dark" ? <IconSun size={18} /> : <IconMoon size={18} />}
           </ActionIcon>

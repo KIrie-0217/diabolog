@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build-data": "node scripts/build-results.mjs && cp data/competitions.json public/data/competitions.json && node scripts/generate-players.mjs",
+    "build-data": "node scripts/build-results.mjs && cp data/competitions.json public/data/competitions.json && node scripts/generate-players.mjs && node scripts/generate-rankings.mjs",
     "predev": "npm run build-data",
     "dev": "vite",
     "prebuild": "npm run build-data",
