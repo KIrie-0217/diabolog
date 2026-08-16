@@ -1,0 +1,303 @@
+{
+  "categoryId": "wj",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "fu-yun-chieh",
+      "playerName": "傅筠捷 / FU,YUN CHIEH",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 27,
+        "variety": 17.3,
+        "stability": 13.5,
+        "novelty": 7.5,
+        "composition": 8.3,
+        "base-score": 15,
+        "execution-deduction": 1.2,
+        "special-deduction": 0
+      },
+      "totalScore": 87.4,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "wu-chieh-yu",
+      "playerName": "吳嫕妤 / WU,CHIEH-YU",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 22.5,
+        "variety": 14,
+        "stability": 12.8,
+        "novelty": 6.3,
+        "composition": 7,
+        "base-score": 15,
+        "execution-deduction": 0,
+        "special-deduction": 0
+      },
+      "totalScore": 77.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hsu-i-wei",
+      "playerName": "徐以薇 / HSU,I-WEI",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 23.3,
+        "variety": 15.3,
+        "stability": 12.3,
+        "novelty": 6.3,
+        "composition": 6.3,
+        "base-score": 15,
+        "execution-deduction": 1.4,
+        "special-deduction": 0
+      },
+      "totalScore": 77.1,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "dai-yi-jin",
+      "playerName": "戴宜津 / DAI,YI-JIN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 22,
+        "variety": 14.5,
+        "stability": 12,
+        "novelty": 6,
+        "composition": 6.8,
+        "base-score": 15,
+        "execution-deduction": 1.4,
+        "special-deduction": 0
+      },
+      "totalScore": 74.9,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "tee-zhi-xin",
+      "playerName": "鄭芷烜 / Tee Zhi Xin",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 22,
+        "variety": 15,
+        "stability": 11.3,
+        "novelty": 7,
+        "composition": 6.3,
+        "base-score": 15,
+        "execution-deduction": 3.3,
+        "special-deduction": 0
+      },
+      "totalScore": 73.3,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "chen-si-zhu",
+      "playerName": "陳思筑 / Chen, si-zhu",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 22.8,
+        "variety": 14.5,
+        "stability": 11.5,
+        "novelty": 6.3,
+        "composition": 6.8,
+        "base-score": 15,
+        "execution-deduction": 3.6,
+        "special-deduction": 0
+      },
+      "totalScore": 73.3,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "tseng-chih-ning",
+      "playerName": "曾郅甯 / TSENG, CHIH-NING",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 22,
+        "variety": 15,
+        "stability": 11.5,
+        "novelty": 6.5,
+        "composition": 6.8,
+        "base-score": 15,
+        "execution-deduction": 5.4,
+        "special-deduction": 0
+      },
+      "totalScore": 71.4,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "tan-huey-xuan-brenda",
+      "playerName": "陈慧渲 / Tan Huey Xuan Brenda",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 23.5,
+        "variety": 15.5,
+        "stability": 10.3,
+        "novelty": 6.8,
+        "composition": 6.3,
+        "base-score": 15,
+        "execution-deduction": 6.4,
+        "special-deduction": 0
+      },
+      "totalScore": 71,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "you-jing-han",
+      "playerName": "游淨涵 / YOU,JING-HAN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 19.3,
+        "variety": 13.5,
+        "stability": 11.5,
+        "novelty": 5.8,
+        "composition": 6.5,
+        "base-score": 15,
+        "execution-deduction": 4.2,
+        "special-deduction": 0
+      },
+      "totalScore": 67.4,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "chiu-yi-hsin",
+      "playerName": "邱奕心 / CHIU YI-HSIN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 22.5,
+        "variety": 14.8,
+        "stability": 9.8,
+        "novelty": 6.8,
+        "composition": 6,
+        "base-score": 15,
+        "execution-deduction": 8.9,
+        "special-deduction": 0
+      },
+      "totalScore": 66,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "numata-yuine",
+      "playerName": "沼田 結音 / Yuine Numata",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 19.8,
+        "variety": 14.5,
+        "stability": 10,
+        "novelty": 7.3,
+        "composition": 6,
+        "base-score": 15,
+        "execution-deduction": 6.7,
+        "special-deduction": 0
+      },
+      "totalScore": 65.9,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "lien-yu-ting",
+      "playerName": "連又亭 / LIEN,YU-TING",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 17,
+        "variety": 11.8,
+        "stability": 10.8,
+        "novelty": 4.8,
+        "composition": 5.8,
+        "base-score": 15,
+        "execution-deduction": 0.1,
+        "special-deduction": 0
+      },
+      "totalScore": 65.1,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "chao-wei-hsia",
+      "playerName": "趙唯夏 / CHAO WEI HSIA",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 20,
+        "variety": 13.3,
+        "stability": 9.8,
+        "novelty": 6.3,
+        "composition": 7,
+        "base-score": 15,
+        "execution-deduction": 7.3,
+        "special-deduction": 0
+      },
+      "totalScore": 64.1,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "ngo-ee-von",
+      "playerName": "吴宇涵 / Ngo Ee Von",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 20.3,
+        "variety": 12.3,
+        "stability": 9.3,
+        "novelty": 5.3,
+        "composition": 5.8,
+        "base-score": 15,
+        "execution-deduction": 5.3,
+        "special-deduction": 0
+      },
+      "totalScore": 62.7,
+      "status": "completed"
+    }
+  ],
+  "name": "女子個人総合ジュニア部門",
+  "nameEn": "Women's Junior Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

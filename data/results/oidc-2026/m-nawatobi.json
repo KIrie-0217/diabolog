@@ -1,0 +1,74 @@
+{
+  "categoryId": "m-nawatobi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "tsai-chen-yu",
+      "playerName": "蔡宸裕 / TSAI,CHEN-YU",
+      "nationality": "Taiwan",
+      "count": 100,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "hsieh-cheng-kai",
+      "playerName": "謝丞凱 / HSIEH,CHENG KAI",
+      "nationality": "Taiwan",
+      "count": 97,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kuo-yu-cheng",
+      "playerName": "郭祐呈 / KUO YU-CHENG",
+      "nationality": "Taiwan",
+      "count": 71,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "hsiung-shi-tang",
+      "playerName": "熊士棠 / Hsiung Shi Tang",
+      "nationality": "Taiwan",
+      "count": 58,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "chuang-yi-han",
+      "playerName": "莊易翰 / CHUANG,YI-HAN",
+      "nationality": "Taiwan",
+      "count": 53,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "hsiung-shi-chi",
+      "playerName": "熊士棋 / Hsiung Shi Chi",
+      "nationality": "Taiwan",
+      "count": 37,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "zhang-zhen-lin",
+      "playerName": "張震林 / Zhang Zhen Lin",
+      "nationality": "Taiwan",
+      "count": 26,
+      "class": "D",
+      "status": "completed"
+    }
+  ],
+  "name": "男子1ディアボロ縄跳び部門",
+  "nameEn": "Men's 1diabolo jump rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

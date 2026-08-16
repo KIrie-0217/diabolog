@@ -1,0 +1,141 @@
+{
+  "categoryId": "pi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "hung-ling-yin+hung-ling-chien",
+      "playerName": "洪苓茵/洪苓茜 / HUNG,LING YIN/HUNG,LING CHIEN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 38.3,
+        "synchronization": 26.5,
+        "composition": 26,
+        "execution-deduction": 3,
+        "special-deduction": 0
+      },
+      "totalScore": 87.8,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "wang-yu-chun+chen-po-yu",
+      "playerName": "王宥鋮/陳柏瑜 / WANG YU-CHUN/CHEN PO-YU",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 36,
+        "synchronization": 25.8,
+        "composition": 25.5,
+        "execution-deduction": 1.3,
+        "special-deduction": 0
+      },
+      "totalScore": 86,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hsu-ying-hsuan+peng-yen-yu",
+      "playerName": "許穎璇/彭彥嬈 / HSU,YING-HSUAN/PENG,YEN-YU",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 33,
+        "synchronization": 23.8,
+        "composition": 23.8,
+        "execution-deduction": 1.3,
+        "special-deduction": 0
+      },
+      "totalScore": 79.3,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chao-yu-sung+chang-yu-chun",
+      "playerName": "趙昱洲/張宇琿 / CHAO,YU-SUNG/CHANG,YU-CHUN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 28.8,
+        "synchronization": 22,
+        "composition": 22.3,
+        "execution-deduction": 3.5,
+        "special-deduction": 0
+      },
+      "totalScore": 69.6,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "ooi-wei-zhe+quah-wei-jun",
+      "playerName": "黄伟哲/柯伟钧 / Ooi Wei Zhe/Quah Wei Jun",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 29,
+        "synchronization": 21.3,
+        "composition": 21,
+        "execution-deduction": 4.8,
+        "special-deduction": 0
+      },
+      "totalScore": 66.5,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "liu-jing-sheng+daniel-chua",
+      "playerName": "刘劲飏/蔡仁杰 / Liu Jing Sheng/Daniel Chua Ren Jie",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 29.8,
+        "synchronization": 20.5,
+        "composition": 20,
+        "execution-deduction": 4.5,
+        "special-deduction": 0
+      },
+      "totalScore": 65.8,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "you-jing-han+lien-yu-ting",
+      "playerName": "游淨涵/連又亭 / YOU,JING-HAN/LIEN,YU-TING",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 25.8,
+        "synchronization": 19.3,
+        "composition": 20,
+        "execution-deduction": 3.8,
+        "special-deduction": 0
+      },
+      "totalScore": 61.3,
+      "status": "completed"
+    }
+  ],
+  "name": "ペア部門",
+  "nameEn": "Pair Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "synchronization",
+      "name": "同調性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

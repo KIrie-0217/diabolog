@@ -1,0 +1,96 @@
+{
+  "categoryId": "t",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "team:taiwan-ling-yang",
+      "playerName": "臺灣鈴漾",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 34.3,
+        "synchronization": 24,
+        "composition": 22,
+        "execution-deduction": 3.5,
+        "special-deduction": 0
+      },
+      "totalScore": 76.8,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "team:adc-flare",
+      "playerName": "ADC FLARE",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 32,
+        "synchronization": 23.3,
+        "composition": 22,
+        "execution-deduction": 3.8,
+        "special-deduction": 0
+      },
+      "totalScore": 73.5,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "team:who-theatre",
+      "playerName": "WHO Theatre",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 29.5,
+        "synchronization": 22.3,
+        "composition": 22,
+        "execution-deduction": 2.3,
+        "special-deduction": 0
+      },
+      "totalScore": 71.5,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "team:penang-diabolo-association",
+      "playerName": "檳城州扯鈴協會 / Penang Diabolo Association",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 29.5,
+        "synchronization": 22.8,
+        "composition": 22,
+        "execution-deduction": 3.3,
+        "special-deduction": 0
+      },
+      "totalScore": 71,
+      "status": "completed"
+    }
+  ],
+  "name": "団体部門",
+  "nameEn": "Team Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "synchronization",
+      "name": "同調性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

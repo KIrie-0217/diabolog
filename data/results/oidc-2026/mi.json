@@ -1,0 +1,536 @@
+{
+  "categoryId": "mi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "hung-chia-shen",
+      "playerName": "洪珈紳 / HUNG-CHIA-SHEN",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 23.5,
+        "variety": 6.8,
+        "stability": 8,
+        "novelty": 7,
+        "composition": 16.5,
+        "base-score": 20,
+        "execution-deduction": 0.5,
+        "special-deduction": 0
+      },
+      "totalScore": 81.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "li-sheng-tse",
+      "playerName": "李聖澤 / LI,SHENG TSE",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 23.3,
+        "variety": 7.3,
+        "stability": 7.5,
+        "novelty": 7.3,
+        "composition": 15,
+        "base-score": 20,
+        "execution-deduction": 1.9,
+        "special-deduction": 0
+      },
+      "totalScore": 78.5,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kuo-chien-heng",
+      "playerName": "郭建亨 / KUO,CHIEN HENG",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 21.8,
+        "variety": 6.8,
+        "stability": 6.8,
+        "novelty": 6.5,
+        "composition": 14,
+        "base-score": 20,
+        "execution-deduction": 1.2,
+        "special-deduction": 0
+      },
+      "totalScore": 74.7,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "hsieh-cheng-kai",
+      "playerName": "謝丞凱 / HSIEH,CHENG KAI",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 20,
+        "variety": 6.3,
+        "stability": 6.8,
+        "novelty": 6.8,
+        "composition": 13.8,
+        "base-score": 20,
+        "execution-deduction": 2,
+        "special-deduction": 0
+      },
+      "totalScore": 71.7,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lien-jia-jiun",
+      "playerName": "連家駿 / LIEN,JIA-JIUN",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 20.8,
+        "variety": 6.5,
+        "stability": 6.3,
+        "novelty": 6.5,
+        "composition": 14.3,
+        "base-score": 20,
+        "execution-deduction": 4.9,
+        "special-deduction": 0
+      },
+      "totalScore": 69.5,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "fu-sheng-chun",
+      "playerName": "傅聖鋮 / FU,SHENG CHUN",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 19.8,
+        "variety": 5.8,
+        "stability": 6.5,
+        "novelty": 6.3,
+        "composition": 13.3,
+        "base-score": 20,
+        "execution-deduction": 2.9,
+        "special-deduction": 0
+      },
+      "totalScore": 68.8,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "wang-yu-chun",
+      "playerName": "王宥鋮 / WANG YU-CHUN",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 18.3,
+        "variety": 5.8,
+        "stability": 5.8,
+        "novelty": 7,
+        "composition": 14.3,
+        "base-score": 20,
+        "execution-deduction": 4.7,
+        "special-deduction": 0
+      },
+      "totalScore": 66.5,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "zhang-tristan",
+      "playerName": "張天傑 / Tristan Zhang",
+      "nationality": "USA",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 17.3,
+        "variety": 5.3,
+        "stability": 4.8,
+        "novelty": 6,
+        "composition": 12.8,
+        "base-score": 20,
+        "execution-deduction": 10,
+        "special-deduction": 0
+      },
+      "totalScore": 56.2,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "chuang-pei-hao",
+      "playerName": "莊沛澔 / Chuang Pei Hao",
+      "nationality": "Taiwan",
+      "ageGroup": "junior",
+      "scores": {
+        "difficulty": 15.5,
+        "variety": 4.5,
+        "stability": 4.8,
+        "novelty": 5,
+        "composition": 11.5,
+        "base-score": 20,
+        "execution-deduction": 6.2,
+        "special-deduction": 0
+      },
+      "totalScore": 55.1,
+      "status": "completed"
+    },
+    {
+      "rank": 1,
+      "playerId": "liu-yao-xi",
+      "playerName": "劉曜熙 / Liu Yao Xi",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 24.5,
+        "variety": 8,
+        "stability": 8.8,
+        "novelty": 7.8,
+        "composition": 17,
+        "base-score": 20,
+        "execution-deduction": 1.4,
+        "special-deduction": 0
+      },
+      "totalScore": 84.7,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "cho-tzu-hung",
+      "playerName": "曹子宏 / TSAO TZU HUNG",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 26.3,
+        "variety": 7.3,
+        "stability": 8,
+        "novelty": 7.5,
+        "composition": 15.3,
+        "base-score": 20,
+        "execution-deduction": 1.7,
+        "special-deduction": 0
+      },
+      "totalScore": 82.7,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "zheng-kang-ping",
+      "playerName": "鄭康平 / CHENG KANG PING",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 23,
+        "variety": 7.5,
+        "stability": 7.3,
+        "novelty": 7.8,
+        "composition": 14.3,
+        "base-score": 20,
+        "execution-deduction": 4.5,
+        "special-deduction": 0
+      },
+      "totalScore": 75.4,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chen-shuo-chen",
+      "playerName": "陳辰碩 / Chen Chen Shuo",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 25.3,
+        "variety": 6.8,
+        "stability": 7.3,
+        "novelty": 7.5,
+        "composition": 14,
+        "base-score": 20,
+        "execution-deduction": 5.5,
+        "special-deduction": 0
+      },
+      "totalScore": 75.4,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "sunahara-hiroto",
+      "playerName": "砂原 啓人 / Hiroto Sunahara",
+      "nationality": "Japan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 23.5,
+        "variety": 6.3,
+        "stability": 6.5,
+        "novelty": 9,
+        "composition": 14,
+        "base-score": 20,
+        "execution-deduction": 5.5,
+        "special-deduction": 0
+      },
+      "totalScore": 73.8,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "tsuda-manato",
+      "playerName": "津田 真叶 / Manato Tsuda",
+      "nationality": "Japan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 20.8,
+        "variety": 7.3,
+        "stability": 7.3,
+        "novelty": 7.8,
+        "composition": 14.3,
+        "base-score": 20,
+        "execution-deduction": 4.5,
+        "special-deduction": 0
+      },
+      "totalScore": 73,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "cheng-yung-tsang",
+      "playerName": "鄭湧蒼 / Cheng Yung Tsang",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 21.8,
+        "variety": 7,
+        "stability": 7,
+        "novelty": 7.5,
+        "composition": 14.5,
+        "base-score": 20,
+        "execution-deduction": 5.2,
+        "special-deduction": 0
+      },
+      "totalScore": 72.6,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "ong-hock-eng",
+      "playerName": "王福恩 / Ong Hock Eng",
+      "nationality": "Malaysia",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 19,
+        "variety": 6.5,
+        "stability": 6.5,
+        "novelty": 6,
+        "composition": 13,
+        "base-score": 20,
+        "execution-deduction": 5.2,
+        "special-deduction": 0
+      },
+      "totalScore": 65.8,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "chong-desmond",
+      "playerName": "张承彬 / Desmond chong",
+      "nationality": "Malaysia",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 18.8,
+        "variety": 6.5,
+        "stability": 6.5,
+        "novelty": 6.5,
+        "composition": 13,
+        "base-score": 20,
+        "execution-deduction": 6,
+        "special-deduction": 0
+      },
+      "totalScore": 65.3,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "yang-you-jia",
+      "playerName": "楊祐嘉 / Yang You Jia",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 16.8,
+        "variety": 5.8,
+        "stability": 5.5,
+        "novelty": 5.8,
+        "composition": 13,
+        "base-score": 20,
+        "execution-deduction": 4,
+        "special-deduction": 0
+      },
+      "totalScore": 62.9,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / Taiki Ishimizu",
+      "nationality": "Japan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 18.5,
+        "variety": 6.3,
+        "stability": 6,
+        "novelty": 6.5,
+        "composition": 14.5,
+        "base-score": 20,
+        "execution-deduction": 10.4,
+        "special-deduction": 0
+      },
+      "totalScore": 61.4,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "chao-yu-sung",
+      "playerName": "趙昱洲 / CHAO,YU-SUNG",
+      "nationality": "Taiwan",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 18.8,
+        "variety": 6.5,
+        "stability": 6.5,
+        "novelty": 7,
+        "composition": 13.5,
+        "base-score": 20,
+        "execution-deduction": 12,
+        "special-deduction": 0
+      },
+      "totalScore": 60.3,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "tan-kai-yuan",
+      "playerName": "陈凯元 / Tan Kai Yuan",
+      "nationality": "Malaysia",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 17.3,
+        "variety": 6.3,
+        "stability": 5,
+        "novelty": 5.8,
+        "composition": 12.3,
+        "base-score": 20,
+        "execution-deduction": 6.6,
+        "special-deduction": 0
+      },
+      "totalScore": 60.1,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "graham-lo",
+      "playerName": "羅英九 / Graham Lo",
+      "nationality": "USA",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 15.3,
+        "variety": 5.5,
+        "stability": 4.8,
+        "novelty": 5.8,
+        "composition": 12.3,
+        "base-score": 20,
+        "execution-deduction": 8.9,
+        "special-deduction": 0
+      },
+      "totalScore": 54.8,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "ong-hock-ooi",
+      "playerName": "王福慧 / Ong Hock Ooi",
+      "nationality": "Malaysia",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 12,
+        "variety": 4.5,
+        "stability": 5.5,
+        "novelty": 3.5,
+        "composition": 12.5,
+        "base-score": 20,
+        "execution-deduction": 3.6,
+        "special-deduction": 0
+      },
+      "totalScore": 54.4,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "soon-james-yu-yang",
+      "playerName": "孫宇揚 / James Soon Yu Yang",
+      "nationality": "Malaysia",
+      "ageGroup": "senior",
+      "scores": {
+        "difficulty": 14.5,
+        "variety": 5,
+        "stability": 4.8,
+        "novelty": 4.5,
+        "composition": 12,
+        "base-score": 20,
+        "execution-deduction": 9.8,
+        "special-deduction": 0
+      },
+      "totalScore": 51,
+      "status": "completed"
+    }
+  ],
+  "name": "男子個人総合部門",
+  "nameEn": "Men's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "ageGroups": [
+    {
+      "id": "junior",
+      "name": "16~18"
+    },
+    {
+      "id": "senior",
+      "name": "19~"
+    }
+  ],
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

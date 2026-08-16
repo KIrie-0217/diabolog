@@ -1,0 +1,233 @@
+{
+  "categoryId": "2db",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "sunahara-hiroto",
+      "playerName": "砂原 啓人 / Hiroto Sunahara",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 42,
+        "stability": 12.3,
+        "novelty": 27,
+        "composition": 7.8,
+        "execution-deduction": 3.5,
+        "special-deduction": 0
+      },
+      "totalScore": 85.6,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "cheng-yung-tsang",
+      "playerName": "鄭湧蒼 / Cheng Yung Tsang",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 39,
+        "stability": 12.8,
+        "novelty": 23.5,
+        "composition": 8,
+        "execution-deduction": 1.6,
+        "special-deduction": 0
+      },
+      "totalScore": 81.7,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "lin-chen-hua",
+      "playerName": "林晨華 / LIN CHEN HUA",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 36.8,
+        "stability": 10.8,
+        "novelty": 24.3,
+        "composition": 8.3,
+        "execution-deduction": 3.6,
+        "special-deduction": 0
+      },
+      "totalScore": 76.6,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kao-yu-kai",
+      "playerName": "高裕凱 / Kao Yu Kai",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 35,
+        "stability": 11.3,
+        "novelty": 24.5,
+        "composition": 7.8,
+        "execution-deduction": 3,
+        "special-deduction": 0
+      },
+      "totalScore": 75.6,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "miyata-daiki",
+      "playerName": "宮田 大輝 / Daiki Miyata",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 35,
+        "stability": 10,
+        "novelty": 22.8,
+        "composition": 7.3,
+        "execution-deduction": 2.3,
+        "special-deduction": 0
+      },
+      "totalScore": 72.8,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "ong-hock-eng",
+      "playerName": "王福恩 / Ong Hock Eng",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 32.3,
+        "stability": 12,
+        "novelty": 20,
+        "composition": 6.5,
+        "execution-deduction": 2.1,
+        "special-deduction": 0
+      },
+      "totalScore": 68.7,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "hashiguchi-takumi",
+      "playerName": "橋口 拓実 / Takumi Hashiguchi",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 34,
+        "stability": 10.8,
+        "novelty": 21.5,
+        "composition": 6.8,
+        "execution-deduction": 4.6,
+        "special-deduction": 0
+      },
+      "totalScore": 68.5,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "yonekura-tasuku",
+      "playerName": "米倉 佑 / Tasuku Yonekura",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 31.8,
+        "stability": 10.3,
+        "novelty": 21,
+        "composition": 6.5,
+        "execution-deduction": 1.8,
+        "special-deduction": 0
+      },
+      "totalScore": 67.8,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "liu-jing-sheng",
+      "playerName": "刘劲飏 / Liu Jing Sheng",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 31.8,
+        "stability": 9.8,
+        "novelty": 19.3,
+        "composition": 6.5,
+        "execution-deduction": 5.1,
+        "special-deduction": 0
+      },
+      "totalScore": 62.3,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "lu-chia-lin",
+      "playerName": "呂佳玲 / Lu,Chia-Lin",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 29,
+        "stability": 8.5,
+        "novelty": 18.5,
+        "composition": 7,
+        "execution-deduction": 4.5,
+        "special-deduction": 0
+      },
+      "totalScore": 58.5,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "tan-hock-seng",
+      "playerName": "陈福程 / Tan Hock Seng",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 27.5,
+        "stability": 9.5,
+        "novelty": 16.8,
+        "composition": 6.3,
+        "execution-deduction": 4.3,
+        "special-deduction": 0
+      },
+      "totalScore": 55.8,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "ong-hock-ooi",
+      "playerName": "王福慧 / Ong Hock Ooi",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 25,
+        "stability": 10.8,
+        "novelty": 15,
+        "composition": 6.3,
+        "execution-deduction": 1.8,
+        "special-deduction": 0
+      },
+      "totalScore": 55.3,
+      "status": "completed"
+    }
+  ],
+  "name": "2ディアボロ(ベアリング)部門",
+  "nameEn": "2diabolo (bearing axle) Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

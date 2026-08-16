@@ -1,0 +1,201 @@
+{
+  "categoryId": "w1d",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "hsieh-tzu-ling",
+      "playerName": "解梓翎 / HSIEH,TZU LING",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 41,
+        "stability": 12.5,
+        "novelty": 23.5,
+        "composition": 8,
+        "execution-deduction": 1.5,
+        "special-deduction": 0
+      },
+      "totalScore": 83.5,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "yagi-mio",
+      "playerName": "八木 美桜 / Mio Yagi",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 37.3,
+        "stability": 11.3,
+        "novelty": 22,
+        "composition": 7,
+        "execution-deduction": 2.3,
+        "special-deduction": 0
+      },
+      "totalScore": 75.3,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "tan-huey-xuan-brenda",
+      "playerName": "陈慧渲 / Tan Huey Xuan Brenda",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 38,
+        "stability": 10.5,
+        "novelty": 22,
+        "composition": 6.5,
+        "execution-deduction": 1.9,
+        "special-deduction": 0
+      },
+      "totalScore": 75.1,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chen-si-zhu",
+      "playerName": "陳思筑 / Chen, si-zhu",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 35.3,
+        "stability": 12,
+        "novelty": 20.8,
+        "composition": 7.5,
+        "execution-deduction": 1.3,
+        "special-deduction": 0
+      },
+      "totalScore": 74.3,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "tee-zhi-xin",
+      "playerName": "鄭芷烜 / Tee Zhi Xin",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 34.5,
+        "stability": 10.5,
+        "novelty": 22.3,
+        "composition": 6.8,
+        "execution-deduction": 0.6,
+        "special-deduction": 0
+      },
+      "totalScore": 73.5,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "chiu-yi-hsin",
+      "playerName": "邱奕心 / CHIU YI-HSIN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 36.3,
+        "stability": 9.8,
+        "novelty": 21.8,
+        "composition": 7,
+        "execution-deduction": 3,
+        "special-deduction": 0
+      },
+      "totalScore": 71.9,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "tsou-i-fang",
+      "playerName": "鄒宜芳 / TSOU,I-FANG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 31.5,
+        "stability": 8.5,
+        "novelty": 19.5,
+        "composition": 6.8,
+        "execution-deduction": 5.4,
+        "special-deduction": 0
+      },
+      "totalScore": 60.9,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "lu-chia-lin",
+      "playerName": "呂佳玲 / Lu,Chia-Lin",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 29.3,
+        "stability": 8.5,
+        "novelty": 18.8,
+        "composition": 6.8,
+        "execution-deduction": 4.3,
+        "special-deduction": 0
+      },
+      "totalScore": 59.1,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "ngo-ee-von",
+      "playerName": "吴宇涵 / Ngo Ee Von",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 30,
+        "stability": 7.5,
+        "novelty": 18,
+        "composition": 5.5,
+        "execution-deduction": 5.6,
+        "special-deduction": 0
+      },
+      "totalScore": 55.4,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "teh-cheryl",
+      "playerName": "戴雪柔 / Teh Cheryl",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 29,
+        "stability": 7,
+        "novelty": 18.3,
+        "composition": 6,
+        "execution-deduction": 5.6,
+        "special-deduction": 0
+      },
+      "totalScore": 54.7,
+      "status": "completed"
+    }
+  ],
+  "name": "女子1ディアボロ部門",
+  "nameEn": "Women's 1diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

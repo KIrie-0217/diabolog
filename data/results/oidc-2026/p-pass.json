@@ -1,0 +1,50 @@
+{
+  "categoryId": "p-pass",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "hsu-i-wei+hsu-ying-hsuan",
+      "playerName": "徐以薇/許穎璇 / HSU,I-WEI/HSU,YING-HSUAN",
+      "nationality": "Taiwan",
+      "count": 133,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "ooi-wei-zhe+ngo-ee-von",
+      "playerName": "黄伟哲/吴宇涵 / Ooi Wei Zhe/Ngo Ee Von",
+      "nationality": "Malaysia",
+      "count": 58,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hsiung-shi-chi+hsiung-shi-tang",
+      "playerName": "熊士棋/熊士棠 / Hsiung Shi Chi/Hsiung Shi Tang",
+      "nationality": "Taiwan",
+      "count": 57,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "you-jing-han+lien-yu-ting",
+      "playerName": "游淨涵/連又亭 / YOU,JING-HAN/LIEN,YU-TING",
+      "nationality": "Taiwan",
+      "count": 55,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "tateishi-tsubasa+michida-yoshikazu",
+      "playerName": "立石 翼/道田 義和 / Tsubasa Tateishi/Yoshikazu Michida",
+      "nationality": "Japan",
+      "count": 19,
+      "status": "completed"
+    }
+  ],
+  "name": "2ディアボロペアパス部門",
+  "nameEn": "2diabolo pair pass Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

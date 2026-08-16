@@ -1,0 +1,83 @@
+{
+  "categoryId": "w-ashimawari",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "wu-chieh-yu",
+      "playerName": "吳嫕妤 / WU,CHIEH-YU",
+      "nationality": "Taiwan",
+      "count": 89,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "dai-yi-jin",
+      "playerName": "戴宜津 / DAI,YI-JIN",
+      "nationality": "Taiwan",
+      "count": 76,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "chen-si-zhu",
+      "playerName": "陳思筑 / Chen, si-zhu",
+      "nationality": "Taiwan",
+      "count": 70,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "lin-yan-xin",
+      "playerName": "林姸昕 / Lin-Yan-Xin",
+      "nationality": "Taiwan",
+      "count": 54,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lien-yu-ting",
+      "playerName": "連又亭 / LIEN,YU-TING",
+      "nationality": "Taiwan",
+      "count": 45,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "you-jing-han",
+      "playerName": "游淨涵 / YOU,JING-HAN",
+      "nationality": "Taiwan",
+      "count": 33,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "chuang-yi-chu",
+      "playerName": "莊易筑 / CHUANG,YI-CHU",
+      "nationality": "Taiwan",
+      "count": 31,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "ngo-ee-von",
+      "playerName": "吴宇涵 / Ngo Ee Von",
+      "nationality": "Malaysia",
+      "count": 28,
+      "class": "B",
+      "status": "completed"
+    }
+  ],
+  "name": "女子1ディアボロ足回り部門",
+  "nameEn": "Women's 1diabolo around the leg Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}
