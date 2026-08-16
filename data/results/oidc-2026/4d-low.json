@@ -1,0 +1,50 @@
+{
+  "categoryId": "4d-low",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chen-shuo-chen",
+      "playerName": "陳辰碩 / Chen Chen Shuo",
+      "nationality": "Taiwan",
+      "count": 960,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kuo-yu-liang",
+      "playerName": "郭祐良 / KUO YU-LIANG",
+      "nationality": "Taiwan",
+      "count": 290,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "kao-yang-te",
+      "playerName": "高仰德 / KAO YANG TE",
+      "nationality": "Taiwan",
+      "count": 279,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "ishimizu-taiki",
+      "playerName": "石水 泰樹 / Taiki Ishimizu",
+      "nationality": "Japan",
+      "count": 219,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "lin-chun-yu",
+      "playerName": "林駿宇 / LIN CHUN-YU",
+      "nationality": "Taiwan",
+      "count": 128,
+      "status": "completed"
+    }
+  ],
+  "name": "4ディアボロロウ部門",
+  "nameEn": "4diabolo low endurance Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数"
+}

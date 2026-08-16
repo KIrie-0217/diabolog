@@ -1,0 +1,169 @@
+{
+  "categoryId": "3d",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "watanuki-shunsuke",
+      "playerName": "綿貫 峻介 / Shunsuke Watanuki",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 39.3,
+        "stability": 11.8,
+        "novelty": 26.5,
+        "composition": 7.8,
+        "execution-deduction": 2.6,
+        "special-deduction": 0
+      },
+      "totalScore": 82.8,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "lai-yan-zhang",
+      "playerName": "賴彥璋 / LAI,YAN ZHANG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 37.8,
+        "stability": 11,
+        "novelty": 25.3,
+        "composition": 9,
+        "execution-deduction": 2.6,
+        "special-deduction": 0
+      },
+      "totalScore": 80.5,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "tsuda-manato",
+      "playerName": "津田 真叶 / Manato Tsuda",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 35.3,
+        "stability": 12,
+        "novelty": 23,
+        "composition": 8,
+        "execution-deduction": 0.3,
+        "special-deduction": 0
+      },
+      "totalScore": 78,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "chong-desmond",
+      "playerName": "张承彬 / Desmond chong",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 35,
+        "stability": 9.8,
+        "novelty": 22.3,
+        "composition": 7,
+        "execution-deduction": 1.5,
+        "special-deduction": 0
+      },
+      "totalScore": 72.6,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kuo-yu-liang",
+      "playerName": "郭祐良 / KUO YU-LIANG",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 30.3,
+        "stability": 10.8,
+        "novelty": 20.3,
+        "composition": 7,
+        "execution-deduction": 2.3,
+        "special-deduction": 0
+      },
+      "totalScore": 66.1,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "ong-hock-eng",
+      "playerName": "王福恩 / Ong Hock Eng",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 31.8,
+        "stability": 9.5,
+        "novelty": 21.5,
+        "composition": 7,
+        "execution-deduction": 3.8,
+        "special-deduction": 0
+      },
+      "totalScore": 66,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "wu-chi-ming",
+      "playerName": "吳啟銘 / WUCHIMING",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 27,
+        "stability": 8,
+        "novelty": 23,
+        "composition": 6,
+        "execution-deduction": 3.9,
+        "special-deduction": 0
+      },
+      "totalScore": 60.1,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "tan-khoon-wei",
+      "playerName": "陈昆伟 / Tan Khoon Wei",
+      "nationality": "Malaysia",
+      "scores": {
+        "difficulty": 27,
+        "stability": 7.5,
+        "novelty": 18.8,
+        "composition": 5.5,
+        "execution-deduction": 6.3,
+        "special-deduction": 0
+      },
+      "totalScore": 52.5,
+      "status": "completed"
+    }
+  ],
+  "name": "3ディアボロ部門",
+  "nameEn": "3diabolo Division",
+  "class": "specialist",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}

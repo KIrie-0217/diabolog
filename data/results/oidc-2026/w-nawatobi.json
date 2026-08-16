@@ -1,0 +1,101 @@
+{
+  "categoryId": "w-nawatobi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "fu-yun-chieh",
+      "playerName": "傅筠捷 / FU,YUN CHIEH",
+      "nationality": "Taiwan",
+      "count": 228,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "peng-yen-yu",
+      "playerName": "彭彥嬈 / PENG,YEN-YU",
+      "nationality": "Taiwan",
+      "count": 200,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "chiu-yi-hsin",
+      "playerName": "邱奕心 / CHIU YI-HSIN",
+      "nationality": "Taiwan",
+      "count": 168,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kanamori-yukiko",
+      "playerName": "金森 有紀子 / Yukiko Kanamori",
+      "nationality": "Japan",
+      "count": 136,
+      "class": "E",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "chao-wei-hsia",
+      "playerName": "趙唯夏 / CHAO WEI HSIA",
+      "nationality": "Taiwan",
+      "count": 133,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "numata-yuine",
+      "playerName": "沼田 結音 / Yuine Numata",
+      "nationality": "Japan",
+      "count": 133,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "you-jing-han",
+      "playerName": "游淨涵 / YOU,JING-HAN",
+      "nationality": "Taiwan",
+      "count": 121,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "chuang-yi-chu",
+      "playerName": "莊易筑 / CHUANG,YI-CHU",
+      "nationality": "Taiwan",
+      "count": 119,
+      "class": "A",
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "lien-yu-ting",
+      "playerName": "連又亭 / LIEN,YU-TING",
+      "nationality": "Taiwan",
+      "count": 107,
+      "class": "B",
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "lin-yan-xin",
+      "playerName": "林姸昕 / Lin-Yan-Xin",
+      "nationality": "Taiwan",
+      "count": 96,
+      "class": "B",
+      "status": "completed"
+    }
+  ],
+  "name": "女子1ディアボロ縄跳び部門",
+  "nameEn": "Women's 1diabolo jump rope Division",
+  "class": "challenge",
+  "scoringType": "endurance",
+  "enduranceUnit": "回数",
+  "hasClass": true
+}

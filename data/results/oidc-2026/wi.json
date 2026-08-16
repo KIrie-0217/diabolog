@@ -1,0 +1,177 @@
+{
+  "categoryId": "wi",
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "hsieh-tzu-ling",
+      "playerName": "解梓翎 / HSIEH,TZU LING",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 28,
+        "variety": 8.8,
+        "stability": 8.3,
+        "novelty": 8.3,
+        "composition": 20.5,
+        "base-score": 15,
+        "execution-deduction": 1.2,
+        "special-deduction": 0
+      },
+      "totalScore": 87.7,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "hung-ling-chien",
+      "playerName": "洪苓茜 / HUNG,LING CHIEN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 25.5,
+        "variety": 8.3,
+        "stability": 8.3,
+        "novelty": 8,
+        "composition": 20.5,
+        "base-score": 15,
+        "execution-deduction": 2,
+        "special-deduction": 0
+      },
+      "totalScore": 83.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hung-ling-yin",
+      "playerName": "洪苓茵 / HUNG,LING YIN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 24.3,
+        "variety": 7.8,
+        "stability": 7.3,
+        "novelty": 8,
+        "composition": 20,
+        "base-score": 15,
+        "execution-deduction": 1.7,
+        "special-deduction": 0
+      },
+      "totalScore": 80.7,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "du-man-jhen",
+      "playerName": "杜曼琎 / DU,MAN-JHEN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 22.5,
+        "variety": 6.5,
+        "stability": 7.5,
+        "novelty": 6,
+        "composition": 17.8,
+        "base-score": 15,
+        "execution-deduction": 1.4,
+        "special-deduction": 0
+      },
+      "totalScore": 73.9,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kuo-chu-chun",
+      "playerName": "郭筑鋮 / KUO,CHU CHUN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 21.5,
+        "variety": 6.8,
+        "stability": 6.8,
+        "novelty": 6.8,
+        "composition": 18,
+        "base-score": 15,
+        "execution-deduction": 2.3,
+        "special-deduction": 0
+      },
+      "totalScore": 72.6,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "hsiao-hui-chun",
+      "playerName": "蕭慧君 / HSIAO,HUI CHUN",
+      "nationality": "Taiwan",
+      "scores": {
+        "difficulty": 21.5,
+        "variety": 6.3,
+        "stability": 6.3,
+        "novelty": 6,
+        "composition": 17.3,
+        "base-score": 15,
+        "execution-deduction": 3.6,
+        "special-deduction": 0
+      },
+      "totalScore": 68.8,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "matsuki-rina",
+      "playerName": "松木 梨南 / Rina Matsuki",
+      "nationality": "Japan",
+      "scores": {
+        "difficulty": 19.8,
+        "variety": 6,
+        "stability": 5.3,
+        "novelty": 6.8,
+        "composition": 17.8,
+        "base-score": 15,
+        "execution-deduction": 6.3,
+        "special-deduction": 0
+      },
+      "totalScore": 64.4,
+      "status": "completed"
+    }
+  ],
+  "name": "女子個人総合部門",
+  "nameEn": "Women's Individual Division",
+  "class": "overall",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度",
+      "type": "add"
+    },
+    {
+      "id": "variety",
+      "name": "多彩性",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "安定度",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "構成",
+      "type": "add"
+    },
+    {
+      "id": "base-score",
+      "name": "基礎点",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    },
+    {
+      "id": "special-deduction",
+      "name": "特別減点",
+      "type": "deduct"
+    }
+  ]
+}
