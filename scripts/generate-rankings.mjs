@@ -60,7 +60,7 @@ for (const catId of categoryIds) {
 
 // byClass
 const byClass = {};
-for (const cls of ["overall", "specialist", "challenge"]) {
+for (const cls of ["overall", "specialist", "challenge", "others"]) {
   const key = `class:${cls}`;
   const entries = Object.entries(medalCounts)
     .filter(([, m]) => m[key])

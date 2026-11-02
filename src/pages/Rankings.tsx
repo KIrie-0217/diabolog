@@ -206,10 +206,12 @@ export function Rankings() {
                 { value: "class:overall", label: "Individual" },
                 { value: "class:specialist", label: "Specialist" },
                 { value: "class:challenge", label: "Challenge" },
+                { value: "class:others", label: "Others" },
               ]},
               { group: "By Category - Individual", items: validCats.filter((id) => catMap[id]?.class === "overall").map((id) => ({ value: `cat:${id}`, label: catMap[id]?.name ?? id })) },
               { group: "By Category - Specialist", items: validCats.filter((id) => catMap[id]?.class === "specialist").map((id) => ({ value: `cat:${id}`, label: catMap[id]?.name ?? id })) },
               { group: "By Category - Challenge", items: validCats.filter((id) => catMap[id]?.class === "challenge").map((id) => ({ value: `cat:${id}`, label: catMap[id]?.name ?? id })) },
+              { group: "By Category - Others", items: validCats.filter((id) => catMap[id]?.class === "others").map((id) => ({ value: `cat:${id}`, label: catMap[id]?.name ?? id })) },
             ]}
             searchable
           />

@@ -84,6 +84,7 @@ function JudgeTable({ cat }: { cat: Category }) {
   const groups = cat.ageGroups;
 
   const noHighlight = new Set(["base-score", "special-deduction"]);
+  const hasNote = cat.results.some((r) => r.note);
 
   const getBestScores = (results: Result[]) => {
     const best: Record<string, number> = {};
@@ -121,6 +122,7 @@ function JudgeTable({ cat }: { cat: Category }) {
                   </Table.Th>
                 ))}
                 <Table.Th ta="right" visibleFrom="sm">Total</Table.Th>
+                {hasNote && <Table.Th>Note</Table.Th>}
               </Table.Tr>
             </Table.Thead>
             <Table.Tbody>
@@ -166,6 +168,11 @@ function JudgeTable({ cat }: { cat: Category }) {
                       </Table.Td>
                     </>
                   )}
+                  {hasNote && (
+                    <Table.Td>
+                      <Text size="xs" c="dimmed" style={{ whiteSpace: "nowrap" }}>{r.note}</Text>
+                    </Table.Td>
+                  )}
                 </Table.Tr>
               ))}
             </Table.Tbody>
@@ -203,6 +210,7 @@ function JudgeTable({ cat }: { cat: Category }) {
                       {fn(completed.map((r) => r.totalScore!).filter((v) => v != null))}
                     </Text>
                   </Table.Td>
+                  {hasNote && <Table.Td />}
                 </Table.Tr>
               );
               return (
@@ -310,8 +318,8 @@ export function Competition() {
   if (loading) return <Loader />;
   if (!meta || !data) return <Text>大会が見つかりません</Text>;
 
-  const classes = ["overall", "specialist", "challenge"] as const;
-  const classLabel = { overall: "Overall", specialist: "Specialist", challenge: "Challenge" };
+  const classes = ["overall", "specialist", "challenge", "others"] as const;
+  const classLabel = { overall: "Overall", specialist: "Specialist", challenge: "Challenge", others: "Others" };
 
   const selectData = classes.flatMap((cls) => {
     const cats = data.categories.filter((c) => c.class === cls);

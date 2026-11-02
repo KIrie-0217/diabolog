@@ -282,7 +282,7 @@ export function Player() {
       ))
       ) : (
         [...byCat.entries()].sort((a, b) => {
-          const classOrder: Record<string, number> = { overall: 0, specialist: 1, challenge: 2 };
+          const classOrder: Record<string, number> = { overall: 0, specialist: 1, challenge: 2, others: 3 };
           const d = (classOrder[a[1].cls] ?? 9) - (classOrder[b[1].cls] ?? 9);
           return d !== 0 ? d : a[0].localeCompare(b[0]);
         }).map(([catId, cat]) => (

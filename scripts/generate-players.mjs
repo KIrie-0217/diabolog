@@ -54,7 +54,7 @@ for (const file of readdirSync(new URL("results/", dataDir))) {
 const players = Object.entries(playerResults).map(([id, results]) => {
   const mapping = mappings[id] || {};
   const ranks = results
-    .filter((r) => r.rank != null && r.categoryClass !== "challenge")
+    .filter((r) => r.rank != null && r.categoryClass !== "challenge" && r.categoryClass !== "others")
     .map((r) => r.rank);
   return {
     id,

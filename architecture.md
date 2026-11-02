@@ -260,7 +260,8 @@ public/data/                       # 自動生成（.gitignore）
 ]
 ```
 
-- `class`: `"overall"` | `"specialist"` | `"challenge"` — 大会内のクラス分類
+- `class`: `"overall"` | `"specialist"` | `"challenge"` | `"others"` — 大会内のクラス分類
+  - `others`: 部門構成が他大会と異なる大会（静岡ディアボロコンテスト）の部門。Best Rank / Avg Rank と出場回数ランキングの集計対象外
 - `ageGroups`: 年齢区分がある部門のみ。各年齢区分内で独立して順位がつく
 - `scoringCriteria[].type`: `"add"` は加点項目、`"deduct"` は減点項目
 - `hasClass`: nawatobi/ashimawari のようにクラス A/B 分けがある部門
@@ -398,7 +399,7 @@ public/data/                       # 自動生成（.gitignore）
 - `count`: endurance 部門のみ
 - `class`: クラス分けがある部門のみ（`"A"` / `"B"`）
 - `ageGroup`: 年齢区分がある部門のみ。同部門の `ageGroups[].id` に対応
-- `note`: 記録更新等の備考
+- `note`: 記録更新等の備考。静岡のパフォーマンス部門では審査員ごとの選択項目（例: `ENT / ENT / ENT,CRE`）
 - `nationality`: 国際大会のみ。国内大会（AJDC 等）では省略
 
 ### `data/players.json`（スクリプトで自動生成）

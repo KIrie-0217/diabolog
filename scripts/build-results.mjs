@@ -8,7 +8,7 @@ const outDir = join(root, "public/data/results");
 
 mkdirSync(outDir, { recursive: true });
 
-const classOrder = { overall: 0, specialist: 1, challenge: 2 };
+const classOrder = { overall: 0, specialist: 1, challenge: 2, others: 3 };
 
 for (const comp of readdirSync(srcDir)) {
   const compDir = join(srcDir, comp);

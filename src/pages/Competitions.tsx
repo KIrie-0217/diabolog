@@ -40,6 +40,13 @@ type Competition = {
   categories: { id: string; class: string }[];
 };
 
+const CLASS_BADGES = [
+  { cls: "overall", color: "blue" },
+  { cls: "specialist", color: "teal" },
+  { cls: "challenge", color: "orange" },
+  { cls: "others", color: "grape" },
+];
+
 function formatDateRange(start?: string, end?: string): string | null {
   if (!start) return null;
   const fmt = (d: string) => {
@@ -133,29 +140,14 @@ export function Competitions() {
                     </Group>
 
                     <Group gap="xs">
-                      <Badge variant="light" size="xs">
-                        {
-                          comp.categories.filter((c) => c.class === "overall")
-                            .length
-                        }{" "}
-                        overall
-                      </Badge>
-                      <Badge variant="light" size="xs" color="teal">
-                        {
-                          comp.categories.filter(
-                            (c) => c.class === "specialist"
-                          ).length
-                        }{" "}
-                        specialist
-                      </Badge>
-                      <Badge variant="light" size="xs" color="orange">
-                        {
-                          comp.categories.filter(
-                            (c) => c.class === "challenge"
-                          ).length
-                        }{" "}
-                        challenge
-                      </Badge>
+                      {CLASS_BADGES.map(({ cls, color }) => {
+                        const n = comp.categories.filter((c) => c.class === cls).length;
+                        return n > 0 ? (
+                          <Badge key={cls} variant="light" size="xs" color={color}>
+                            {n} {cls}
+                          </Badge>
+                        ) : null;
+                      })}
                     </Group>
 
                     {comp.awards && comp.awards.length > 0 && (
