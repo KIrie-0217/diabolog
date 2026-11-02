@@ -14,6 +14,7 @@ import { About } from "./pages/About";
 import { Privacy } from "./pages/Privacy";
 import { Terms } from "./pages/Terms";
 import { Rankings } from "./pages/Rankings";
+import { Compare } from "./pages/Compare";
 
 const theme = createTheme({
   defaultRadius: "md",
@@ -33,6 +34,7 @@ createRoot(document.getElementById("root")!).render(
             <Route path="players" element={<Players />} />
             <Route path="players/:id" element={<Player />} />
             <Route path="rankings" element={<Rankings />} />
+            <Route path="compare" element={<Compare />} />
             <Route path="about" element={<About />} />
             <Route path="privacy" element={<Privacy />} />
             <Route path="terms" element={<Terms />} />

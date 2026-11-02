@@ -11,10 +11,11 @@ import {
   Card,
   useMantineColorScheme,
   SegmentedControl,
+  Button,
 } from "@mantine/core";
 import { LineChart } from "@mantine/charts";
 import "@mantine/charts/styles.css";
-import { IconMedal } from "@tabler/icons-react";
+import { IconMedal, IconArrowsDiff } from "@tabler/icons-react";
 import { useParams, Link } from "react-router-dom";
 import { NationFlag } from "../components/NationFlag";
 import { RoundedTableContainer } from "../components/RoundedTable";
@@ -154,12 +155,25 @@ export function Player() {
 
   return (
     <Stack gap="md" mt="md">
-      <div>
-        <Title order={2}>{player.name}</Title>
-        {player.nationality && (
-          <NationFlag nationality={player.nationality} />
+      <Group justify="space-between" align="flex-start">
+        <div>
+          <Title order={2}>{player.name}</Title>
+          {player.nationality && (
+            <NationFlag nationality={player.nationality} />
+          )}
+        </div>
+        {!isTeam && (
+          <Button
+            component={Link}
+            to={`/compare?ids=${encodeURIComponent(player.id)}`}
+            variant="light"
+            size="xs"
+            leftSection={<IconArrowsDiff size={14} />}
+          >
+            Compare
+          </Button>
         )}
-      </div>
+      </Group>
 
       <Group gap="md">
         <Card shadow="xs" padding="sm" radius="md" withBorder>
