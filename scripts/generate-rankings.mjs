@@ -22,6 +22,8 @@ const name = (id) => mappings[id]?.canonicalName || id;
 // --- Medals ---
 // Exclude team (team:*), include pairs as-is
 const medalCounts = {}; // playerId -> { byCategory: { catId: {g,s,b} }, byClass: { cls: {g,s,b} } }
+// Same division recorded under different ids across competitions
+const mergeMedalCategory = { mhi: "mh", mhs: "mh", hmi: "mh", "mi-highschool": "mh" };
 
 for (const { cat } of allCategories) {
   for (const r of cat.results) {
@@ -33,7 +35,7 @@ for (const { cat } of allCategories) {
     if (!medalCounts[pid]) medalCounts[pid] = {};
     const m = medalCounts[pid];
 
-    for (const key of [cat.categoryId, `class:${cat.class}`]) {
+    for (const key of [mergeMedalCategory[cat.categoryId] ?? cat.categoryId, `class:${cat.class}`]) {
       if (!m[key]) m[key] = { gold: 0, silver: 0, bronze: 0 };
       if (r.rank === 1) m[key].gold++;
       else if (r.rank === 2) m[key].silver++;
@@ -49,7 +51,7 @@ function toSorted(entries) {
 }
 
 // byCategory
-const categoryIds = new Set(allCategories.map(({ cat }) => cat.categoryId));
+const categoryIds = new Set(allCategories.map(({ cat }) => mergeMedalCategory[cat.categoryId] ?? cat.categoryId));
 const byCategory = {};
 for (const catId of categoryIds) {
   const entries = Object.entries(medalCounts)
