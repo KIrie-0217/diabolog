@@ -13,6 +13,7 @@ import {
   SimpleGrid,
   ColorSwatch,
   Paper,
+  Skeleton,
   type ComboboxItem,
   type OptionsFilter,
 } from "@mantine/core";
@@ -47,7 +48,7 @@ type PlayerData = {
   results: PlayerResult[];
 };
 
-type Axis = { label: string; categoryIds: string[]; conditional?: boolean };
+type Axis = { label: string; categoryIds: string[] };
 
 const AXES: Axis[] = [
   { label: "個人総合", categoryIds: ["mi", "wi", "mj", "wj", "mh", "mhi", "mhs", "hmi", "mi-highschool"] },
@@ -57,8 +58,7 @@ const AXES: Axis[] = [
   { label: "2DF", categoryIds: ["2da"] },
   { label: "2DB", categoryIds: ["2db"] },
   { label: "3D", categoryIds: ["3d", "3da", "3db"] },
-  // Shown only when 2+ selected players have entered it
-  { label: "女子1D", categoryIds: ["w1d"], conditional: true },
+  { label: "女子1D", categoryIds: ["w1d"] },
 ];
 
 const cssColor = (c: string) => `var(--mantine-color-${c.replace(".", "-")})`;
@@ -115,6 +115,35 @@ function RankCell({ rank }: { rank: number | null }) {
   return <>{rank}</>;
 }
 
+function TableSkeleton() {
+  return (
+    <Stack gap="xs">
+      {Array.from({ length: 5 }, (_, i) => (
+        <Skeleton key={i} h={36} radius="sm" />
+      ))}
+    </Stack>
+  );
+}
+
+function CompareSkeleton() {
+  return (
+    <>
+      <SimpleGrid cols={{ base: 1, md: 2 }} spacing="md">
+        {[0, 1].map((i) => (
+          <Card key={i} shadow="xs" padding="md" radius="md" withBorder>
+            <Skeleton h={16} w={100} mb="sm" />
+            <Group justify="center" h={320}>
+              <Skeleton circle h={240} />
+            </Group>
+          </Card>
+        ))}
+      </SimpleGrid>
+      <Skeleton h={24} w={200} />
+      <TableSkeleton />
+    </>
+  );
+}
+
 export function Compare() {
   const [players, setPlayers] = useState<PlayerData[]>([]);
   const [compNames, setCompNames] = useState<Record<string, string>>({});
@@ -167,9 +196,8 @@ export function Compare() {
   const compLabel = (r: PlayerResult) => compNames[r.competitionId] ?? r.competitionId.toUpperCase();
 
   // ---- Radar data ----
-  const axes = AXES.filter(
-    (a) => !a.conditional || selected.filter((p) => axisStat(p, a).count > 0).length >= 2,
-  );
+  // Only axes where at least one selected player has entered
+  const axes = AXES.filter((a) => selected.some((p) => axisStat(p, a).count > 0));
 
   const rankData: TooltipRow[] = axes.map((axis) => {
     const row: TooltipRow = { axis: axis.label };
@@ -244,32 +272,38 @@ export function Compare() {
     <Stack gap="md" mt="md">
       <Title order={2}>Compare</Title>
 
-      <MultiSelect
-        label="Players"
-        description={`${MAX_PLAYERS}人まで選択できます`}
-        placeholder={selectedIds.length < MAX_PLAYERS ? "Search by name..." : undefined}
-        data={selectData}
-        value={selectedIds}
-        onChange={setSelected}
-        maxValues={MAX_PLAYERS}
-        filter={filterOptions}
-        limit={30}
-        searchable
-        clearable
-        hidePickedOptions
-        nothingFoundMessage="Not found"
-      />
+      <Stack gap={4}>
+        <Group justify="space-between">
+          <Text size="sm" fw={500}>Players</Text>
+          {selectedIds.length > 0 && (
+            <Text size="sm" c={selectedIds.length === MAX_PLAYERS ? "blue" : "dimmed"}>
+              {selectedIds.length}/{MAX_PLAYERS}
+            </Text>
+          )}
+        </Group>
+        <MultiSelect
+          aria-label="Players"
+          placeholder={selectedIds.length < MAX_PLAYERS ? "Search by name..." : undefined}
+          data={selectData}
+          value={selectedIds}
+          onChange={setSelected}
+          maxValues={MAX_PLAYERS}
+          filter={filterOptions}
+          limit={30}
+          searchable
+          clearable
+          hidePickedOptions
+          nothingFoundMessage="Not found"
+        />
+      </Stack>
 
-      {selected.length < 2 ? (
-        <Text c="dimmed">比較する選手を2人以上選択してください。</Text>
+      {selected.length === 0 ? (
+        <CompareSkeleton />
       ) : (
         <>
           <SimpleGrid cols={{ base: 1, md: 2 }} spacing="md">
             <Card shadow="xs" padding="md" radius="md" withBorder>
-              <Text fw={500}>最高順位</Text>
-              <Text size="xs" c="dimmed" mb="sm">
-                外側ほど上位（1位 = 10、{RANK_FLOOR}位以下 = 1、出場なし = 0）
-              </Text>
+              <Text fw={500} mb="sm">Best Rank</Text>
               <RadarChart
                 h={320}
                 data={rankData}
@@ -287,10 +321,7 @@ export function Compare() {
               />
             </Card>
             <Card shadow="xs" padding="md" radius="md" withBorder>
-              <Text fw={500}>出場回数</Text>
-              <Text size="xs" c="dimmed" mb="sm">
-                延べ出場回数（大会 × 部門）
-              </Text>
+              <Text fw={500} mb="sm">Appearances</Text>
               <RadarChart
                 h={320}
                 data={countData}
@@ -310,8 +341,10 @@ export function Compare() {
           </SimpleGrid>
 
           <Title order={3}>Common Categories</Title>
-          {commonRows.length === 0 ? (
-            <Text c="dimmed">共通して出場した部門はありません。</Text>
+          {selected.length < 2 ? (
+            <TableSkeleton />
+          ) : commonRows.length === 0 ? (
+            <Text c="dimmed">No common categories</Text>
           ) : (
             <RoundedTableContainer minWidth={480 + selected.length * 100}>
               <Table highlightOnHover>
