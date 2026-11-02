@@ -17,6 +17,7 @@ import {
   type OptionsFilter,
 } from "@mantine/core";
 import { RadarChart } from "@mantine/charts";
+import { useMediaQuery } from "@mantine/hooks";
 import "@mantine/charts/styles.css";
 import { IconMedal } from "@tabler/icons-react";
 import { Link, useSearchParams } from "react-router-dom";
@@ -59,6 +60,9 @@ const AXES: Axis[] = [
   { label: "3D", categoryIds: ["3d", "3da", "3db"] },
   { label: "女子1D", categoryIds: ["w1d"] },
 ];
+
+// "石水 泰樹 / Taiki Ishimizu" -> "石水"; "マキノセナ" stays as is
+const shortPlayerName = (name: string) => name.split(" / ")[0].trim().split(/\s+/)[0];
 
 const cssColor = (c: string) => `var(--mantine-color-${c.replace(".", "-")})`;
 
@@ -133,7 +137,7 @@ function PlayerLegend({ players }: { players: PlayerData[] }) {
 function PairNote({ r, selectedIds, playerName }: { r: PlayerResult; selectedIds: string[]; playerName: (id: string) => string }) {
   if (!r.pairWith) return null;
   return (
-    <Text size="xs" c="dimmed" lineClamp={1}>
+    <Text fz={{ base: 10, sm: "xs" }} c="dimmed" truncate="end">
       {selectedIds.includes(r.pairWith) ? (
         "ペア"
       ) : (
@@ -145,59 +149,10 @@ function PairNote({ r, selectedIds, playerName }: { r: PlayerResult; selectedIds
   );
 }
 
-function CommonRowCard({
-  row,
-  players,
-  selectedIds,
-  compName,
-  playerName,
-}: {
-  row: Row;
-  players: PlayerData[];
-  selectedIds: string[];
-  compName: string;
-  playerName: (id: string) => string;
-}) {
-  const ranks = [...row.entries.values()].map((r) => r.rank).filter((r): r is number => r != null);
-  const bestRank = ranks.length ? Math.min(...ranks) : null;
-  return (
-    <Card withBorder radius="md" padding="sm">
-      <Group gap={6} wrap="nowrap" justify="space-between" align="flex-start">
-        <div style={{ minWidth: 0 }}>
-          <Anchor component={Link} to={`/competitions/${row.competitionId}?category=${row.categoryId}`} size="sm" fw={500}>
-            {compName} · {row.categoryName}
-          </Anchor>
-          <Text size="xs" c="dimmed">{row.date}</Text>
-        </div>
-        {row.ageGroup && <Badge variant="light" size="xs">{row.ageGroup}</Badge>}
-      </Group>
-      <Stack gap={4} mt="xs">
-        {players.map((p, i) => {
-          const r = row.entries.get(p.id);
-          if (!r) return null;
-          const isBest = r.rank != null && r.rank === bestRank;
-          return (
-            <Group key={p.id} gap={8} wrap="nowrap">
-              <ColorSwatch color={cssColor(PLAYER_COLORS[i])} size={10} />
-              <div style={{ flex: 1, minWidth: 0 }}>
-                <Text size="sm" lineClamp={1}>{p.name}</Text>
-                <PairNote r={r} selectedIds={selectedIds} playerName={playerName} />
-              </div>
-              <Text size="sm" fw={isBest ? 700 : undefined}>
-                <RankCell rank={r.rank} />
-              </Text>
-            </Group>
-          );
-        })}
-      </Stack>
-    </Card>
-  );
-}
-
-function RankCell({ rank }: { rank: number | null }) {
+function RankCell({ rank, size = 22 }: { rank: number | null; size?: number }) {
   if (rank == null) return <>-</>;
   if (medalColor[rank]) {
-    return <IconMedal size={22} color={medalColor[rank]} style={{ display: "inline-block", verticalAlign: "middle" }} />;
+    return <IconMedal size={size} color={medalColor[rank]} style={{ display: "inline-block", verticalAlign: "middle" }} />;
   }
   return <>{rank}</>;
 }
@@ -217,6 +172,8 @@ export function Compare() {
   const [compNames, setCompNames] = useState<Record<string, string>>({});
   const [loading, setLoading] = useState(true);
   const [searchParams, setSearchParams] = useSearchParams();
+  const isMobile = useMediaQuery("(max-width: 48em)") ?? false;
+  const cellSize = isMobile ? "xs" : "sm";
 
   useEffect(() => {
     const base = import.meta.env.BASE_URL;
@@ -404,34 +361,41 @@ export function Compare() {
           {commonRows.length === 0 ? (
             <Text c="dimmed">No common categories</Text>
           ) : (
-            <>
-            <Stack gap="sm" hiddenFrom="sm">
-              {commonRows.map((row) => (
-                <CommonRowCard
-                  key={row.key}
-                  row={row}
-                  players={selected}
-                  selectedIds={selectedIds}
-                  compName={compNames[row.competitionId] ?? row.competitionName}
-                  playerName={(id) => playerMap.get(id)?.name ?? id}
-                />
-              ))}
-            </Stack>
-            <RoundedTableContainer visibleFrom="sm" minWidth={480 + selected.length * 100}>
-              <Table highlightOnHover>
+            <RoundedTableContainer minWidth={isMobile ? 0 : 480 + selected.length * 100}>
+              <Table
+                highlightOnHover
+                horizontalSpacing={isMobile ? 4 : "sm"}
+                fz={cellSize}
+                style={isMobile ? { tableLayout: "fixed" } : undefined}
+              >
                 <Table.Thead>
                   <Table.Tr>
-                    <Table.Th>Competition</Table.Th>
-                    <Table.Th>Category</Table.Th>
-                    <Table.Th ta="center">Entries</Table.Th>
+                    <Table.Th w={isMobile ? 104 : undefined}>Competition</Table.Th>
+                    {!isMobile && <Table.Th>Category</Table.Th>}
+                    <Table.Th ta="center" visibleFrom="sm">Entries</Table.Th>
                     {selected.map((p, i) => (
                       <Table.Th key={p.id} ta="center">
-                        <Group gap={6} justify="center" wrap="nowrap">
-                          <ColorSwatch color={cssColor(PLAYER_COLORS[i])} size={10} />
-                          <Anchor component={Link} to={`/players/${p.id}`} size="sm" lineClamp={1}>
-                            {p.name}
-                          </Anchor>
-                        </Group>
+                        {isMobile ? (
+                          <Stack gap={2} align="center">
+                            <ColorSwatch color={cssColor(PLAYER_COLORS[i])} size={8} />
+                            <Anchor
+                              component={Link}
+                              to={`/players/${p.id}`}
+                              fz={10}
+                              truncate="end"
+                              maw="100%"
+                            >
+                              {shortPlayerName(p.name)}
+                            </Anchor>
+                          </Stack>
+                        ) : (
+                          <Group gap={6} justify="center" wrap="nowrap">
+                            <ColorSwatch color={cssColor(PLAYER_COLORS[i])} size={10} />
+                            <Anchor component={Link} to={`/players/${p.id}`} size="sm" lineClamp={1}>
+                              {p.name}
+                            </Anchor>
+                          </Group>
+                        )}
                       </Table.Th>
                     ))}
                   </Table.Tr>
@@ -443,24 +407,45 @@ export function Compare() {
                     return (
                       <Table.Tr key={row.key}>
                         <Table.Td>
-                          <Anchor component={Link} to={`/competitions/${row.competitionId}`} size="sm">
+                          <Anchor
+                            component={Link}
+                            to={`/competitions/${row.competitionId}`}
+                            size={cellSize}
+                            style={isMobile ? { whiteSpace: "nowrap" } : undefined}
+                          >
                             {compNames[row.competitionId] ?? row.competitionName}
                           </Anchor>
-                          <Text size="xs" c="dimmed">{row.date}</Text>
+                          {isMobile ? (
+                            <Group gap={4} wrap="nowrap">
+                              <Anchor
+                                component={Link}
+                                to={`/competitions/${row.competitionId}?category=${row.categoryId}`}
+                                size="xs"
+                                c="dimmed"
+                                style={{ whiteSpace: "nowrap" }}
+                              >
+                                {row.categoryId.toUpperCase()}
+                              </Anchor>
+                              {row.ageGroup && <Badge variant="light" size="xs">{row.ageGroup}</Badge>}
+                            </Group>
+                          ) : (
+                            <Text size="xs" c="dimmed">{row.date}</Text>
+                          )}
                         </Table.Td>
-                        <Table.Td>
+                        {!isMobile && <Table.Td>
                           <Group gap={4} wrap="nowrap">
                             <Anchor
                               component={Link}
                               to={`/competitions/${row.competitionId}?category=${row.categoryId}`}
-                              size="sm"
+                              size={cellSize}
+                              style={{ whiteSpace: "nowrap" }}
                             >
                               {row.categoryName}
                             </Anchor>
                             {row.ageGroup && <Badge variant="light" size="xs">{row.ageGroup}</Badge>}
                           </Group>
-                        </Table.Td>
-                        <Table.Td ta="center">
+                        </Table.Td>}
+                        <Table.Td ta="center" visibleFrom="sm">
                           <Text size="sm" c="dimmed">{row.entries.size}/{selected.length}</Text>
                         </Table.Td>
                         {selected.map((p) => {
@@ -469,7 +454,7 @@ export function Compare() {
                           const isBest = r.rank != null && r.rank === bestRank;
                           return (
                             <Table.Td key={p.id} ta="center" fw={isBest ? 700 : undefined}>
-                              <RankCell rank={r.rank} />
+                              <RankCell rank={r.rank} size={isMobile ? 18 : 22} />
                               <PairNote r={r} selectedIds={selectedIds} playerName={(id) => playerMap.get(id)?.name ?? id} />
                             </Table.Td>
                           );
@@ -480,7 +465,6 @@ export function Compare() {
                 </Table.Tbody>
               </Table>
             </RoundedTableContainer>
-            </>
           )}
         </>
       )}
