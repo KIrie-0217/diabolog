@@ -16,7 +16,7 @@ import { Link } from "react-router-dom";
 import { RoundedTableContainer } from "../components/RoundedTable";
 
 const medalColor: Record<number, string> = { 1: "#FFD700", 2: "#C0C0C0", 3: "#CD7F32" };
-const MIN_PLAYERS_FOR_CATEGORY = 15;
+const MIN_PLAYERS_FOR_CATEGORY = 6;
 const PAGE_SIZE = 50;
 
 type MedalEntry = { playerId: string; name: string; gold: number; silver: number; bronze: number; total: number };
