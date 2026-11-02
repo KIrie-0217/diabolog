@@ -1,0 +1,223 @@
+{
+  "categoryId": "mb",
+  "name": "男子ビギナー部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "matsumae-nozomi",
+      "playerName": "マツマエ ノゾミ",
+      "scores": {
+        "difficulty": 32.3,
+        "stability": 24.7,
+        "rareness": 8.3,
+        "composition": 15.3,
+        "execution-deduction": 3.6
+      },
+      "totalScore": 77,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "nishi-yamato",
+      "playerName": "ニシ ヤマト",
+      "scores": {
+        "difficulty": 30.7,
+        "stability": 24.7,
+        "rareness": 7.3,
+        "composition": 16,
+        "execution-deduction": 2.4
+      },
+      "totalScore": 76.3,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "minato-ouri",
+      "playerName": "ミナト オウリ",
+      "scores": {
+        "difficulty": 28.3,
+        "stability": 23,
+        "rareness": 7.3,
+        "composition": 16.7,
+        "execution-deduction": 2.2
+      },
+      "totalScore": 73.1,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "maniwa-yuta",
+      "playerName": "マニワ ユウタ",
+      "scores": {
+        "difficulty": 22.3,
+        "stability": 18.7,
+        "rareness": 5.7,
+        "composition": 14.3,
+        "execution-deduction": 1.9
+      },
+      "totalScore": 59.1,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kuniya-mizuki",
+      "playerName": "クニヤ ミズキ",
+      "scores": {
+        "difficulty": 24.3,
+        "stability": 18.7,
+        "rareness": 7,
+        "composition": 9.7,
+        "execution-deduction": 4.4
+      },
+      "totalScore": 55.3,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "naito-eigoro",
+      "playerName": "ナイトウ エイゴロウ",
+      "scores": {
+        "difficulty": 22,
+        "stability": 18.3,
+        "rareness": 5.7,
+        "composition": 12,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 54.5,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "negishi-takato",
+      "playerName": "ネギシ タカト",
+      "scores": {
+        "difficulty": 19,
+        "stability": 17.3,
+        "rareness": 4.7,
+        "composition": 15,
+        "execution-deduction": 3.2
+      },
+      "totalScore": 52.8,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "hoshino-kota",
+      "playerName": "ホシノ コウタ",
+      "scores": {
+        "difficulty": 23.3,
+        "stability": 17.7,
+        "rareness": 6,
+        "composition": 10.3,
+        "execution-deduction": 5.9
+      },
+      "totalScore": 51.4,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "koga-taiga",
+      "playerName": "コガ タイガ",
+      "scores": {
+        "difficulty": 19,
+        "stability": 15.3,
+        "rareness": 4.7,
+        "composition": 13.3,
+        "execution-deduction": 4.3
+      },
+      "totalScore": 48,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "toya-makoto",
+      "playerName": "トヤ マコト",
+      "scores": {
+        "difficulty": 17.3,
+        "stability": 14.3,
+        "rareness": 4.7,
+        "composition": 10.7,
+        "execution-deduction": 5.7
+      },
+      "totalScore": 41.3,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "sekimura-kuta",
+      "playerName": "セキムラ クウタ",
+      "scores": {
+        "difficulty": 15.7,
+        "stability": 12.3,
+        "rareness": 6.7,
+        "composition": 8.7,
+        "execution-deduction": 5.4
+      },
+      "totalScore": 38,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "shiokawa-masataka",
+      "playerName": "シオカワ マサタカ",
+      "scores": {
+        "difficulty": 16.3,
+        "stability": 12.7,
+        "rareness": 5.7,
+        "composition": 9.3,
+        "execution-deduction": 6.1
+      },
+      "totalScore": 37.9,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "hojo-yoshimasa",
+      "playerName": "ホウジョウ ヨシマサ",
+      "scores": {
+        "difficulty": 14.3,
+        "stability": 11.3,
+        "rareness": 4,
+        "composition": 11,
+        "execution-deduction": 6.5
+      },
+      "totalScore": 34.1,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "hasegawa-hironori",
+      "playerName": "ハセガワ ヒロノリ",
+      "status": "dns"
+    }
+  ]
+}

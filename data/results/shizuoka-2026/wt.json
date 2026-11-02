@@ -1,0 +1,147 @@
+{
+  "categoryId": "wt",
+  "name": "女子テクニカル部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(60)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chang-yu-chun",
+      "playerName": "Chang Yu Chun",
+      "scores": {
+        "difficulty": 50,
+        "stability": 17,
+        "novelty": 17,
+        "execution-deduction": 1.8
+      },
+      "totalScore": 82.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "chiu-tzu-chin",
+      "playerName": "Chiu Tzu Chin",
+      "scores": {
+        "difficulty": 40.3,
+        "stability": 15,
+        "novelty": 15,
+        "execution-deduction": 1.5
+      },
+      "totalScore": 68.8,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hattori-mayu",
+      "playerName": "ハットリ マユ",
+      "scores": {
+        "difficulty": 42,
+        "stability": 13.3,
+        "novelty": 16.3,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 68.1,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "matsuki-rina",
+      "playerName": "マツキ リナ",
+      "scores": {
+        "difficulty": 37,
+        "stability": 11.7,
+        "novelty": 13,
+        "execution-deduction": 2.6
+      },
+      "totalScore": 59.1,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kitahara-aiko",
+      "playerName": "キタハラ アイコ",
+      "scores": {
+        "difficulty": 36.3,
+        "stability": 11,
+        "novelty": 14,
+        "execution-deduction": 3.2
+      },
+      "totalScore": 58.1,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "numata-yuine",
+      "playerName": "ヌマタ ユイネ",
+      "scores": {
+        "difficulty": 35,
+        "stability": 12.7,
+        "novelty": 12,
+        "execution-deduction": 2.6
+      },
+      "totalScore": 57.1,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "takahashi-mirei",
+      "playerName": "タカハシ ミレイ",
+      "scores": {
+        "difficulty": 34,
+        "stability": 12,
+        "novelty": 13.7,
+        "execution-deduction": 2.6
+      },
+      "totalScore": 57.1,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "aibara-akari",
+      "playerName": "アイバラ アカリ",
+      "scores": {
+        "difficulty": 28,
+        "stability": 10,
+        "novelty": 12,
+        "execution-deduction": 5.1
+      },
+      "totalScore": 44.9,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "tanaka-asuka",
+      "playerName": "タナカ アスカ",
+      "scores": {
+        "difficulty": 24.7,
+        "stability": 8.3,
+        "novelty": 7.7,
+        "execution-deduction": 5.1
+      },
+      "totalScore": 35.6,
+      "status": "completed"
+    }
+  ]
+}

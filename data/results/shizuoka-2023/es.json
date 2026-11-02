@@ -1,0 +1,91 @@
+{
+  "categoryId": "es",
+  "name": "小学生部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yamamoto-nanase",
+      "playerName": "ヤマモト ナナセ",
+      "scores": {
+        "difficulty": 26,
+        "stability": 24,
+        "rareness": 7.3,
+        "composition": 17,
+        "execution-deduction": 1.2
+      },
+      "totalScore": 73.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "numata-yuine",
+      "playerName": "ヌマタ ユイネ",
+      "scores": {
+        "difficulty": 23.7,
+        "stability": 22.7,
+        "rareness": 6.7,
+        "composition": 14.7,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 65,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "omori-nozomi",
+      "playerName": "オオモリ ノゾミ",
+      "scores": {
+        "difficulty": 13.3,
+        "stability": 16,
+        "rareness": 3,
+        "composition": 12.7,
+        "execution-deduction": 2
+      },
+      "totalScore": 43,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "oomura-marin",
+      "playerName": "オオムラ マリン",
+      "scores": {
+        "difficulty": 15.3,
+        "stability": 14.3,
+        "rareness": 3.7,
+        "composition": 12.3,
+        "execution-deduction": 3.3
+      },
+      "totalScore": 42.3,
+      "status": "completed"
+    }
+  ]
+}

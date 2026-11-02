@@ -1,0 +1,63 @@
+{
+  "categoryId": "wb",
+  "name": "女子ビギナー部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "watanabe-su",
+      "playerName": "ワタナベ スウ",
+      "scores": {
+        "difficulty": 25,
+        "stability": 19.7,
+        "rareness": 6,
+        "composition": 13.3,
+        "execution-deduction": 2.9
+      },
+      "totalScore": 61.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "ikuta-airi",
+      "playerName": "イクタ アイリ",
+      "scores": {
+        "difficulty": 21.7,
+        "stability": 16.3,
+        "rareness": 5.3,
+        "composition": 12.7,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 54.3,
+      "status": "completed"
+    }
+  ]
+}

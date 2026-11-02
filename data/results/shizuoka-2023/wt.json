@@ -1,0 +1,82 @@
+{
+  "categoryId": "wt",
+  "name": "女子テクニカル部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(60)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "wang-laura",
+      "playerName": "LauraWang",
+      "scores": {
+        "difficulty": 54.3,
+        "stability": 17.7,
+        "rareness": 16.3,
+        "execution-deduction": 1.1
+      },
+      "totalScore": 87.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "oishi-mayu",
+      "playerName": "オオイシ マユ",
+      "scores": {
+        "difficulty": 46.3,
+        "stability": 13.7,
+        "rareness": 16.3,
+        "execution-deduction": 3.1
+      },
+      "totalScore": 73.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "lu-chia-lin",
+      "playerName": "LU CHIA-LIN",
+      "scores": {
+        "difficulty": 44,
+        "stability": 14.7,
+        "rareness": 14.7,
+        "execution-deduction": 2.4
+      },
+      "totalScore": 71,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kasahara-marina",
+      "playerName": "カサハラマリナ",
+      "scores": {
+        "difficulty": 41.3,
+        "stability": 12.3,
+        "rareness": 14,
+        "execution-deduction": 3.4
+      },
+      "totalScore": 64.2,
+      "status": "completed"
+    }
+  ]
+}

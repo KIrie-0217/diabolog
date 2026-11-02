@@ -1,0 +1,343 @@
+{
+  "categoryId": "perf",
+  "name": "パフォーマンス部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "ent-art",
+      "name": "ENT or ART(30)",
+      "type": "add"
+    },
+    {
+      "id": "msu",
+      "name": "MSU(20)",
+      "type": "add"
+    },
+    {
+      "id": "st-bd",
+      "name": "ST/BD(20)",
+      "type": "add"
+    },
+    {
+      "id": "difficulty",
+      "name": "難易度(10)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "watanabe-tsubasa",
+      "playerName": "ワタナベ ツバサ",
+      "scores": {
+        "ent-art": 30,
+        "msu": 19.3,
+        "st-bd": 20,
+        "difficulty": 3.5,
+        "stability": 17.5
+      },
+      "totalScore": 90.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "magami-reika",
+      "playerName": "マガミ レイカ",
+      "scores": {
+        "ent-art": 27.7,
+        "msu": 17,
+        "st-bd": 17.3,
+        "difficulty": 6,
+        "stability": 14.5
+      },
+      "totalScore": 82.5,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "komatsu-naoto",
+      "playerName": "コマツ ナオト",
+      "scores": {
+        "ent-art": 26.3,
+        "msu": 17,
+        "st-bd": 17.3,
+        "difficulty": 4,
+        "stability": 12
+      },
+      "totalScore": 76.6,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "ooya-yukinaga",
+      "playerName": "オオヤ ユキナガ",
+      "scores": {
+        "ent-art": 23.7,
+        "msu": 16.7,
+        "st-bd": 14.3,
+        "difficulty": 4.5,
+        "stability": 14
+      },
+      "totalScore": 73.2,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "mori-takaaki",
+      "playerName": "モリ タカアキ",
+      "scores": {
+        "ent-art": 23,
+        "msu": 16.3,
+        "st-bd": 14.3,
+        "difficulty": 4,
+        "stability": 15.5
+      },
+      "totalScore": 73.1,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "mitsuyasu-yusuke",
+      "playerName": "ミツヤス ユウスケ",
+      "scores": {
+        "ent-art": 19.7,
+        "msu": 14,
+        "st-bd": 15,
+        "difficulty": 5,
+        "stability": 16
+      },
+      "totalScore": 69.7,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "hongo-tomoya",
+      "playerName": "ホンゴウ トモヤ",
+      "scores": {
+        "ent-art": 23.3,
+        "msu": 15.7,
+        "st-bd": 14.7,
+        "difficulty": 3.5,
+        "stability": 10.5
+      },
+      "totalScore": 67.7,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "kudo-masahiro",
+      "playerName": "クドウ マサヒロ",
+      "scores": {
+        "ent-art": 19,
+        "msu": 14,
+        "st-bd": 14.3,
+        "difficulty": 5.5,
+        "stability": 13.5
+      },
+      "totalScore": 66.3,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "watanabe-hayato",
+      "playerName": "ワタナベ ハヤト",
+      "scores": {
+        "ent-art": 19.7,
+        "msu": 13.3,
+        "st-bd": 12.7,
+        "difficulty": 6.5,
+        "stability": 14
+      },
+      "totalScore": 66.2,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "obata-ryoya",
+      "playerName": "オバタ リョウヤ",
+      "scores": {
+        "ent-art": 19,
+        "msu": 12,
+        "st-bd": 13.3,
+        "difficulty": 5.5,
+        "stability": 15
+      },
+      "totalScore": 64.8,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "ueda-naoya",
+      "playerName": "ウエダ ナオヤ",
+      "scores": {
+        "ent-art": 19.7,
+        "msu": 10.3,
+        "st-bd": 10.7,
+        "difficulty": 8,
+        "stability": 13.5
+      },
+      "totalScore": 62.2,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "osumi-hiraki",
+      "playerName": "オオスミ ヒラキ",
+      "scores": {
+        "ent-art": 19.7,
+        "msu": 12,
+        "st-bd": 13,
+        "difficulty": 4.5,
+        "stability": 11
+      },
+      "totalScore": 60.2,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "yoshida-shigemi",
+      "playerName": "ヨシダ シゲミ",
+      "scores": {
+        "ent-art": 18.7,
+        "msu": 14.7,
+        "st-bd": 12.7,
+        "difficulty": 3.5,
+        "stability": 10.5
+      },
+      "totalScore": 60.1,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "isobe-takumi",
+      "playerName": "イソベ タクミ",
+      "scores": {
+        "ent-art": 22.7,
+        "msu": 11,
+        "st-bd": 15,
+        "difficulty": 1.5,
+        "stability": 8
+      },
+      "totalScore": 58.2,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "uzutake-rinko",
+      "playerName": "ウズタケ リンコ",
+      "scores": {
+        "ent-art": 20.3,
+        "msu": 14.3,
+        "st-bd": 12.3,
+        "difficulty": 4,
+        "stability": 7
+      },
+      "totalScore": 57.9,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "todoroki-shinsuke",
+      "playerName": "トドロキ シンスケ",
+      "scores": {
+        "ent-art": 21.7,
+        "msu": 12,
+        "st-bd": 11.7,
+        "difficulty": 2,
+        "stability": 8.5
+      },
+      "totalScore": 55.9,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "mizumachi-yuki",
+      "playerName": "ミズマチ ユウキ",
+      "scores": {
+        "ent-art": 16,
+        "msu": 11.7,
+        "st-bd": 11.3,
+        "difficulty": 2.5,
+        "stability": 7.5
+      },
+      "totalScore": 49,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "takahashi-haruto",
+      "playerName": "タカハシ ハルト",
+      "scores": {
+        "ent-art": 16.7,
+        "msu": 9,
+        "st-bd": 8.7,
+        "difficulty": 5.5,
+        "stability": 8.5
+      },
+      "totalScore": 48.4,
+      "status": "completed"
+    },
+    {
+      "rank": 19,
+      "playerId": "muto-taiga",
+      "playerName": "ムトウ タイガ",
+      "scores": {
+        "ent-art": 18.7,
+        "msu": 13.7,
+        "st-bd": 8.7,
+        "difficulty": 1,
+        "stability": 5
+      },
+      "totalScore": 47.1,
+      "status": "completed"
+    },
+    {
+      "rank": 20,
+      "playerId": "yoshii-norihiro",
+      "playerName": "ヨシイ ノリヒロ",
+      "scores": {
+        "ent-art": 11.3,
+        "msu": 8,
+        "st-bd": 8.7,
+        "difficulty": 2.5,
+        "stability": 6.5
+      },
+      "totalScore": 37,
+      "status": "completed"
+    },
+    {
+      "rank": 21,
+      "playerId": "tomita-hikaru",
+      "playerName": "トミタ ヒカル",
+      "scores": {
+        "ent-art": 10,
+        "msu": 7.7,
+        "st-bd": 5.3,
+        "difficulty": 4,
+        "stability": 6
+      },
+      "totalScore": 33,
+      "status": "completed"
+    },
+    {
+      "rank": 22,
+      "playerId": "shishido-sadaaki",
+      "playerName": "シシド サダアキ",
+      "scores": {
+        "ent-art": 7,
+        "msu": 6,
+        "st-bd": 6,
+        "difficulty": 2.5,
+        "stability": 6.5
+      },
+      "totalScore": 28,
+      "status": "completed"
+    }
+  ]
+}

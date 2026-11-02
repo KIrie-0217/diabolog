@@ -1,0 +1,301 @@
+{
+  "categoryId": "mb",
+  "name": "男子ビギナー部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kishi-daito",
+      "playerName": "キシ ダイト",
+      "scores": {
+        "difficulty": 30,
+        "stability": 24.7,
+        "novelty": 7.3,
+        "composition": 13.7,
+        "execution-deduction": 1.3
+      },
+      "totalScore": 74.4,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "ishikura-shota",
+      "playerName": "イシクラ ショウタ",
+      "scores": {
+        "difficulty": 23.7,
+        "stability": 19.7,
+        "novelty": 6.7,
+        "composition": 15.3,
+        "execution-deduction": 3.2
+      },
+      "totalScore": 62.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "sugiyama-raiki",
+      "playerName": "スギヤマ ライキ",
+      "scores": {
+        "difficulty": 28.3,
+        "stability": 19,
+        "novelty": 7,
+        "composition": 12,
+        "execution-deduction": 4.6
+      },
+      "totalScore": 61.7,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "namiue-sho",
+      "playerName": "ナミウエ ショウ",
+      "scores": {
+        "difficulty": 23,
+        "stability": 21.7,
+        "novelty": 5.3,
+        "composition": 12.3,
+        "execution-deduction": 1.9
+      },
+      "totalScore": 60.4,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "tamura-kuya",
+      "playerName": "タムラ クウヤ",
+      "scores": {
+        "difficulty": 27,
+        "stability": 20,
+        "novelty": 6.3,
+        "composition": 11.7,
+        "execution-deduction": 4.9
+      },
+      "totalScore": 60.1,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "murakami-kohei",
+      "playerName": "ムラカミ コウヘイ",
+      "scores": {
+        "difficulty": 23.7,
+        "stability": 19.7,
+        "novelty": 5,
+        "composition": 12.7,
+        "execution-deduction": 4.3
+      },
+      "totalScore": 56.8,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "takashina-sho",
+      "playerName": "タカシナ ショウ",
+      "scores": {
+        "difficulty": 21.7,
+        "stability": 18.3,
+        "novelty": 6.7,
+        "composition": 12.3,
+        "execution-deduction": 5.3
+      },
+      "totalScore": 53.7,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "takasugi-masaki",
+      "playerName": "タカスギ マサキ",
+      "scores": {
+        "difficulty": 24,
+        "stability": 16.7,
+        "novelty": 5.7,
+        "composition": 9.3,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 52.2,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "tanaka-sosuke",
+      "playerName": "タナカ ソウスケ",
+      "scores": {
+        "difficulty": 22.7,
+        "stability": 16.3,
+        "novelty": 5.7,
+        "composition": 11,
+        "execution-deduction": 4.4
+      },
+      "totalScore": 51.3,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "kurogi-kyotaro",
+      "playerName": "クロギ キョウタロウ",
+      "scores": {
+        "difficulty": 23.3,
+        "stability": 16.7,
+        "novelty": 6.7,
+        "composition": 10.7,
+        "execution-deduction": 6.5
+      },
+      "totalScore": 50.9,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "inoue-taisuke",
+      "playerName": "イノウエ タイスケ",
+      "scores": {
+        "difficulty": 22,
+        "stability": 15.7,
+        "novelty": 5.7,
+        "composition": 10,
+        "execution-deduction": 3.7
+      },
+      "totalScore": 49.7,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "kitagawa-shinnosuke",
+      "playerName": "キタガワ シンノスケ",
+      "scores": {
+        "difficulty": 24,
+        "stability": 15,
+        "novelty": 5.7,
+        "composition": 9.7,
+        "execution-deduction": 7.3
+      },
+      "totalScore": 47.1,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "matsumura-ryuto",
+      "playerName": "マツムラ リュウト",
+      "scores": {
+        "difficulty": 18.7,
+        "stability": 15.7,
+        "novelty": 4.7,
+        "composition": 9.7,
+        "execution-deduction": 3.3
+      },
+      "totalScore": 45.5,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "fujikawa-shota",
+      "playerName": "フジカワ ショウタ",
+      "scores": {
+        "difficulty": 19.7,
+        "stability": 14,
+        "novelty": 4.7,
+        "composition": 10,
+        "execution-deduction": 4.6
+      },
+      "totalScore": 43.8,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "takahashi-akihiro",
+      "playerName": "タカハシ アキヒロ",
+      "scores": {
+        "difficulty": 20,
+        "stability": 12.7,
+        "novelty": 5,
+        "composition": 10,
+        "execution-deduction": 5.8
+      },
+      "totalScore": 41.9,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "goto-kenta",
+      "playerName": "ゴトウ ケンタ",
+      "scores": {
+        "difficulty": 19.7,
+        "stability": 13.3,
+        "novelty": 5.3,
+        "composition": 8.3,
+        "execution-deduction": 6.6
+      },
+      "totalScore": 40,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "kojima-kazuki",
+      "playerName": "コジマ カズキ",
+      "scores": {
+        "difficulty": 15,
+        "stability": 12.7,
+        "novelty": 3.7,
+        "composition": 9.3,
+        "execution-deduction": 5.3
+      },
+      "totalScore": 35.4,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "okamoto-yu",
+      "playerName": "オカモト ユウ",
+      "scores": {
+        "difficulty": 13.7,
+        "stability": 11,
+        "novelty": 4.3,
+        "composition": 9,
+        "execution-deduction": 5.6
+      },
+      "totalScore": 32.4,
+      "status": "completed"
+    },
+    {
+      "rank": 19,
+      "playerId": "taki-kaito",
+      "playerName": "タキ カイト",
+      "scores": {
+        "difficulty": 16,
+        "stability": 10.3,
+        "novelty": 3.7,
+        "composition": 7.3,
+        "execution-deduction": 6.8
+      },
+      "totalScore": 30.5,
+      "status": "completed"
+    }
+  ]
+}

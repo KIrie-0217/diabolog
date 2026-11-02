@@ -1,0 +1,433 @@
+{
+  "categoryId": "mt",
+  "name": "男子テクニカル部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(60)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "chen-shuo-chen",
+      "playerName": "Chen Chen Shuo",
+      "scores": {
+        "difficulty": 58,
+        "stability": 19.3,
+        "rareness": 16.7,
+        "execution-deduction": 0.7
+      },
+      "totalScore": 93.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "huang-shih-rong",
+      "playerName": "Huang Shih-Rong",
+      "scores": {
+        "difficulty": 58,
+        "stability": 18.3,
+        "rareness": 18,
+        "execution-deduction": 1.4
+      },
+      "totalScore": 92.9,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "liu-yao-xi",
+      "playerName": "Liu Yao-Xi",
+      "scores": {
+        "difficulty": 54,
+        "stability": 18.3,
+        "rareness": 17,
+        "execution-deduction": 1
+      },
+      "totalScore": 88.3,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "yagami-rintaro",
+      "playerName": "ヤガミ リンタロウ",
+      "scores": {
+        "difficulty": 54.3,
+        "stability": 16.3,
+        "rareness": 19,
+        "execution-deduction": 2.3
+      },
+      "totalScore": 87.3,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kanno-joei",
+      "playerName": "カンノ ジョウエイ",
+      "scores": {
+        "difficulty": 50,
+        "stability": 18.3,
+        "rareness": 17.7,
+        "execution-deduction": 0.7
+      },
+      "totalScore": 85.3,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "ishimizu-taiki",
+      "playerName": "イシミズ タイキ",
+      "scores": {
+        "difficulty": 49,
+        "stability": 17,
+        "rareness": 18,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 82.3,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "takahashi-rensho",
+      "playerName": "タカハシ レンショウ",
+      "scores": {
+        "difficulty": 52.3,
+        "stability": 14.3,
+        "rareness": 17.3,
+        "execution-deduction": 2.5
+      },
+      "totalScore": 81.4,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "sunahara-hiroto",
+      "playerName": "スナハラ ヒロト",
+      "scores": {
+        "difficulty": 49.3,
+        "stability": 14.7,
+        "rareness": 17.3,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 79.6,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "chen-li-ming",
+      "playerName": "Chen Li Ming",
+      "scores": {
+        "difficulty": 49.3,
+        "stability": 15.7,
+        "rareness": 17.3,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 78.8,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "omagari-shintaro",
+      "playerName": "オマガリ シンタロウ",
+      "scores": {
+        "difficulty": 46,
+        "stability": 16.3,
+        "rareness": 18,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 78.6,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "tsuda-manato",
+      "playerName": "ツダ マナト",
+      "scores": {
+        "difficulty": 50,
+        "stability": 15.3,
+        "rareness": 15.7,
+        "execution-deduction": 2.9
+      },
+      "totalScore": 78.1,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "hashimoto-tatsuro",
+      "playerName": "ハシモト タツロウ",
+      "scores": {
+        "difficulty": 47.7,
+        "stability": 15.3,
+        "rareness": 16,
+        "execution-deduction": 1
+      },
+      "totalScore": 78,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "takano-sho",
+      "playerName": "タカノ ショウ",
+      "scores": {
+        "difficulty": 47.7,
+        "stability": 15.3,
+        "rareness": 16,
+        "execution-deduction": 1.6
+      },
+      "totalScore": 77.4,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "inaba-wataru",
+      "playerName": "イナバ ワタル",
+      "scores": {
+        "difficulty": 46,
+        "stability": 15.7,
+        "rareness": 16.7,
+        "execution-deduction": 2
+      },
+      "totalScore": 76.4,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "kubota-taiga",
+      "playerName": "クボタ タイガ",
+      "scores": {
+        "difficulty": 44.7,
+        "stability": 15.7,
+        "rareness": 15.7,
+        "execution-deduction": 1
+      },
+      "totalScore": 75.1,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "cheng-yung-tsang",
+      "playerName": "Cheng Yung Tsang",
+      "scores": {
+        "difficulty": 47,
+        "stability": 15.3,
+        "rareness": 15.3,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 74.8,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "kawahara-suguru",
+      "playerName": "カワハラ スグル",
+      "scores": {
+        "difficulty": 43,
+        "stability": 14.3,
+        "rareness": 16.7,
+        "execution-deduction": 1.4
+      },
+      "totalScore": 72.6,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "suzuki-akito",
+      "playerName": "スズキ アキト",
+      "scores": {
+        "difficulty": 45.3,
+        "stability": 14.7,
+        "rareness": 15,
+        "execution-deduction": 2.5
+      },
+      "totalScore": 72.5,
+      "status": "completed"
+    },
+    {
+      "rank": 19,
+      "playerId": "tasaki-kosi",
+      "playerName": "タサキ コウシ",
+      "scores": {
+        "difficulty": 43.3,
+        "stability": 14,
+        "rareness": 15,
+        "execution-deduction": 1.6
+      },
+      "totalScore": 70.7,
+      "status": "completed"
+    },
+    {
+      "rank": 20,
+      "playerId": "yano-atsushi",
+      "playerName": "ヤノ アツシ",
+      "scores": {
+        "difficulty": 44.7,
+        "stability": 13.3,
+        "rareness": 15.7,
+        "execution-deduction": 3.2
+      },
+      "totalScore": 70.5,
+      "status": "completed"
+    },
+    {
+      "rank": 21,
+      "playerId": "morikoshi-daito",
+      "playerName": "モリコシ ダイト",
+      "scores": {
+        "difficulty": 44.3,
+        "stability": 13.7,
+        "rareness": 13.7,
+        "execution-deduction": 1.4
+      },
+      "totalScore": 70.3,
+      "status": "completed"
+    },
+    {
+      "rank": 22,
+      "playerId": "irie-koshiro",
+      "playerName": "イリエ コウシロウ",
+      "scores": {
+        "difficulty": 43,
+        "stability": 14.3,
+        "rareness": 15.3,
+        "execution-deduction": 2.7
+      },
+      "totalScore": 69.9,
+      "status": "completed"
+    },
+    {
+      "rank": 23,
+      "playerId": "fukuouji-riu",
+      "playerName": "フクオウジ リウ",
+      "scores": {
+        "difficulty": 41,
+        "stability": 14,
+        "rareness": 13.3,
+        "execution-deduction": 0.6
+      },
+      "totalScore": 67.7,
+      "status": "completed"
+    },
+    {
+      "rank": 23,
+      "playerId": "suzuki-kanata",
+      "playerName": "スズキ カナタ",
+      "scores": {
+        "difficulty": 40.7,
+        "stability": 13.3,
+        "rareness": 16.3,
+        "execution-deduction": 2.6
+      },
+      "totalScore": 67.7,
+      "status": "completed"
+    },
+    {
+      "rank": 25,
+      "playerId": "yamazaki-soshi",
+      "playerName": "ヤマザキ ソウシ",
+      "scores": {
+        "difficulty": 43.3,
+        "stability": 13.3,
+        "rareness": 14.3,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 67.4,
+      "status": "completed"
+    },
+    {
+      "rank": 26,
+      "playerId": "endo-mamoru",
+      "playerName": "エンドウ マモル",
+      "scores": {
+        "difficulty": 39.3,
+        "stability": 12.7,
+        "rareness": 15.7,
+        "execution-deduction": 1
+      },
+      "totalScore": 66.7,
+      "status": "completed"
+    },
+    {
+      "rank": 27,
+      "playerId": "hosokawa-kyouya",
+      "playerName": "ホソカワ キョウヤ",
+      "scores": {
+        "difficulty": 38,
+        "stability": 12,
+        "rareness": 13,
+        "execution-deduction": 1.9
+      },
+      "totalScore": 61.1,
+      "status": "completed"
+    },
+    {
+      "rank": 28,
+      "playerId": "yonekura-tasuku",
+      "playerName": "ヨネクラ タスク",
+      "scores": {
+        "difficulty": 36,
+        "stability": 11.7,
+        "rareness": 13.3,
+        "execution-deduction": 2
+      },
+      "totalScore": 59,
+      "status": "completed"
+    },
+    {
+      "rank": 29,
+      "playerId": "kato-takumi",
+      "playerName": "カトウ タクミ",
+      "scores": {
+        "difficulty": 36.3,
+        "stability": 11.7,
+        "rareness": 12.7,
+        "execution-deduction": 2.7
+      },
+      "totalScore": 58,
+      "status": "completed"
+    },
+    {
+      "rank": 30,
+      "playerId": "yoshii-norihiro",
+      "playerName": "ヨシイ ノリヒロ",
+      "scores": {
+        "difficulty": 36.7,
+        "stability": 10.7,
+        "rareness": 13.3,
+        "execution-deduction": 3.7
+      },
+      "totalScore": 57,
+      "status": "completed"
+    },
+    {
+      "rank": 31,
+      "playerId": "ninomiya-arata",
+      "playerName": "ニノミヤ アラタ",
+      "scores": {
+        "difficulty": 36,
+        "stability": 11,
+        "rareness": 11.7,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 55.9,
+      "status": "completed"
+    }
+  ]
+}

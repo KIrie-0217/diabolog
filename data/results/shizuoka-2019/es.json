@@ -1,0 +1,175 @@
+{
+  "categoryId": "es",
+  "name": "小学生部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "makino-sena",
+      "playerName": "マキノ セナ",
+      "scores": {
+        "difficulty": 38,
+        "stability": 27,
+        "rareness": 8,
+        "composition": 17.7,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 89,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "akiyama-yuki",
+      "playerName": "アキヤマ ユウキ",
+      "scores": {
+        "difficulty": 33,
+        "stability": 26,
+        "rareness": 7.7,
+        "composition": 17.3,
+        "execution-deduction": 0.8
+      },
+      "totalScore": 83.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "yoshida-shigemi",
+      "playerName": "ヨシダ シゲミ",
+      "scores": {
+        "difficulty": 28.3,
+        "stability": 21,
+        "rareness": 7,
+        "composition": 15.3,
+        "execution-deduction": 1.8
+      },
+      "totalScore": 69.8,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "yamamoto-seigo",
+      "playerName": "ヤマモト セイゴ",
+      "scores": {
+        "difficulty": 29.3,
+        "stability": 21.3,
+        "rareness": 7,
+        "composition": 14.3,
+        "execution-deduction": 2.2
+      },
+      "totalScore": 69.7,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "masukawa-ran",
+      "playerName": "マスカワ ラン",
+      "scores": {
+        "difficulty": 22.7,
+        "stability": 18,
+        "rareness": 4.7,
+        "composition": 12.7,
+        "execution-deduction": 0.7
+      },
+      "totalScore": 57.4,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "hiramori-chinari",
+      "playerName": "ヒラモリ チナリ",
+      "scores": {
+        "difficulty": 22.7,
+        "stability": 17,
+        "rareness": 5.3,
+        "composition": 13.3,
+        "execution-deduction": 3.7
+      },
+      "totalScore": 54.6,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "hasegawa-yui",
+      "playerName": "ハセガワ ユイ",
+      "scores": {
+        "difficulty": 20,
+        "stability": 20.3,
+        "rareness": 3.7,
+        "composition": 11,
+        "execution-deduction": 1
+      },
+      "totalScore": 54,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "takahashi-rukia",
+      "playerName": "タカハシ ルキア",
+      "scores": {
+        "difficulty": 22.7,
+        "stability": 16,
+        "rareness": 5.3,
+        "composition": 12,
+        "execution-deduction": 3.2
+      },
+      "totalScore": 52.8,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "nonomura-kota",
+      "playerName": "ノノムラ コウタ",
+      "scores": {
+        "difficulty": 20.3,
+        "stability": 15.3,
+        "rareness": 6.3,
+        "composition": 11.7,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 51.9,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "yamamoto-nanase",
+      "playerName": "ヤマモト ナナセ",
+      "scores": {
+        "difficulty": 13,
+        "stability": 14.7,
+        "rareness": 2.3,
+        "composition": 12.3,
+        "execution-deduction": 0.8
+      },
+      "totalScore": 41.5,
+      "status": "completed"
+    }
+  ]
+}

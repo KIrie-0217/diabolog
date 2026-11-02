@@ -1,0 +1,393 @@
+{
+  "categoryId": "mt",
+  "name": "男子テクニカル部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(60)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "liu-yao-xi",
+      "playerName": "Liu Yao Xi",
+      "scores": {
+        "difficulty": 56.7,
+        "stability": 18.3,
+        "novelty": 17,
+        "execution-deduction": 0.1
+      },
+      "totalScore": 91.9,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "chen-shuo-chen",
+      "playerName": "Chen Chen Shuo",
+      "scores": {
+        "difficulty": 58,
+        "stability": 17.3,
+        "novelty": 17.3,
+        "execution-deduction": 0.8
+      },
+      "totalScore": 91.8,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "sunahara-hiroto",
+      "playerName": "スナハラ ヒロト",
+      "scores": {
+        "difficulty": 50,
+        "stability": 15.7,
+        "novelty": 18.3,
+        "execution-deduction": 1.2
+      },
+      "totalScore": 82.8,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tanioka-kaketo",
+      "playerName": "タニオカ カケト",
+      "scores": {
+        "difficulty": 53.3,
+        "stability": 16.3,
+        "novelty": 14.7,
+        "execution-deduction": 1.5
+      },
+      "totalScore": 82.8,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "cho-tzu-hung",
+      "playerName": "Tsao Tzu Hung",
+      "scores": {
+        "difficulty": 48.7,
+        "stability": 13,
+        "novelty": 15.7,
+        "execution-deduction": 3.3
+      },
+      "totalScore": 74.1,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "tsuda-manato",
+      "playerName": "ツダ マナト",
+      "scores": {
+        "difficulty": 45.3,
+        "stability": 14,
+        "novelty": 16.3,
+        "execution-deduction": 2
+      },
+      "totalScore": 73.6,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "chao-yu-sung",
+      "playerName": "Chao Yu Sung",
+      "scores": {
+        "difficulty": 46,
+        "stability": 15,
+        "novelty": 16.7,
+        "execution-deduction": 4.2
+      },
+      "totalScore": 73.5,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "ishimizu-taiki",
+      "playerName": "イシミズ タイキ",
+      "scores": {
+        "difficulty": 46.3,
+        "stability": 13.7,
+        "novelty": 17.3,
+        "execution-deduction": 4.1
+      },
+      "totalScore": 73.2,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "irie-koshiro",
+      "playerName": "イリエ コウシロウ",
+      "scores": {
+        "difficulty": 44.7,
+        "stability": 14.3,
+        "novelty": 16,
+        "execution-deduction": 2.4
+      },
+      "totalScore": 72.6,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "naruse-ko",
+      "playerName": "ナルセ コウ",
+      "scores": {
+        "difficulty": 39.7,
+        "stability": 16,
+        "novelty": 15.3,
+        "execution-deduction": 0.7
+      },
+      "totalScore": 70.3,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "kosaka-ryota",
+      "playerName": "コサカ リョウタ",
+      "scores": {
+        "difficulty": 43,
+        "stability": 13.7,
+        "novelty": 16.3,
+        "execution-deduction": 2.7
+      },
+      "totalScore": 70.3,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "fukuouji-riu",
+      "playerName": "フクオウジ リウ",
+      "scores": {
+        "difficulty": 41.3,
+        "stability": 14.7,
+        "novelty": 14,
+        "execution-deduction": 2
+      },
+      "totalScore": 68,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "fujiwara-yuto",
+      "playerName": "フジワラ ユウト",
+      "scores": {
+        "difficulty": 40.3,
+        "stability": 14.3,
+        "novelty": 14.3,
+        "execution-deduction": 2
+      },
+      "totalScore": 66.9,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "suzuki-kanata",
+      "playerName": "スズキ カナタ",
+      "scores": {
+        "difficulty": 41,
+        "stability": 12,
+        "novelty": 16,
+        "execution-deduction": 3
+      },
+      "totalScore": 66,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "morikoshi-daito",
+      "playerName": "モリコシ ダイト",
+      "scores": {
+        "difficulty": 39.7,
+        "stability": 12.3,
+        "novelty": 15.7,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 64.2,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "shimizu-shouta",
+      "playerName": "シミズ ショウタ",
+      "scores": {
+        "difficulty": 37.3,
+        "stability": 13.3,
+        "novelty": 15,
+        "execution-deduction": 2.6
+      },
+      "totalScore": 63,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "tomita-ryohei",
+      "playerName": "トミタ リョウヘイ",
+      "scores": {
+        "difficulty": 36,
+        "stability": 13.7,
+        "novelty": 14,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 60.9,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "mitsuyasu-yusuke",
+      "playerName": "ミツヤス ユウスケ",
+      "scores": {
+        "difficulty": 36,
+        "stability": 13.3,
+        "novelty": 12.3,
+        "execution-deduction": 1.6
+      },
+      "totalScore": 60,
+      "status": "completed"
+    },
+    {
+      "rank": 19,
+      "playerId": "miyata-daiki",
+      "playerName": "ミヤタ ダイキ",
+      "scores": {
+        "difficulty": 36,
+        "stability": 12,
+        "novelty": 15,
+        "execution-deduction": 3.1
+      },
+      "totalScore": 59.9,
+      "status": "completed"
+    },
+    {
+      "rank": 20,
+      "playerId": "hashimoto-tatsuro",
+      "playerName": "ハシモト タツロウ",
+      "scores": {
+        "difficulty": 36.3,
+        "stability": 12,
+        "novelty": 13,
+        "execution-deduction": 2.5
+      },
+      "totalScore": 58.8,
+      "status": "completed"
+    },
+    {
+      "rank": 21,
+      "playerId": "naruse-kosuke",
+      "playerName": "ナルセ コウスケ",
+      "scores": {
+        "difficulty": 33.3,
+        "stability": 10,
+        "novelty": 11.3,
+        "execution-deduction": 5.1
+      },
+      "totalScore": 49.5,
+      "status": "completed"
+    },
+    {
+      "rank": 22,
+      "playerId": "kanaumi-shoma",
+      "playerName": "カナウミ ショウマ",
+      "scores": {
+        "difficulty": 27,
+        "stability": 11,
+        "novelty": 11.3,
+        "execution-deduction": 2.6
+      },
+      "totalScore": 46.7,
+      "status": "completed"
+    },
+    {
+      "rank": 23,
+      "playerId": "takaki-toyo",
+      "playerName": "タカキ トウヨウ",
+      "scores": {
+        "difficulty": 28.3,
+        "stability": 9.7,
+        "novelty": 12.3,
+        "execution-deduction": 4.5
+      },
+      "totalScore": 45.8,
+      "status": "completed"
+    },
+    {
+      "rank": 24,
+      "playerId": "michida-yoshikazu",
+      "playerName": "ミチダ ヨシカズ",
+      "scores": {
+        "difficulty": 26.7,
+        "stability": 9.3,
+        "novelty": 11.3,
+        "execution-deduction": 5
+      },
+      "totalScore": 42.3,
+      "status": "completed"
+    },
+    {
+      "rank": 25,
+      "playerId": "kawasaki-yamato",
+      "playerName": "カワサキ ヤマト",
+      "scores": {
+        "difficulty": 26.7,
+        "stability": 9,
+        "novelty": 12,
+        "execution-deduction": 5.6
+      },
+      "totalScore": 42.1,
+      "status": "completed"
+    },
+    {
+      "rank": 26,
+      "playerId": "yonekura-tasuku",
+      "playerName": "ヨネクラ タスク",
+      "scores": {
+        "difficulty": 25,
+        "stability": 9,
+        "novelty": 11.3,
+        "execution-deduction": 3.9
+      },
+      "totalScore": 41.4,
+      "status": "completed"
+    },
+    {
+      "rank": 27,
+      "playerId": "takahashi-sosei",
+      "playerName": "タカハシ ソウセイ",
+      "scores": {
+        "difficulty": 20,
+        "stability": 7,
+        "novelty": 11.3,
+        "execution-deduction": 5.2
+      },
+      "totalScore": 33.1,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "shibata-koki",
+      "playerName": "シバタ コウキ",
+      "status": "dns"
+    },
+    {
+      "rank": null,
+      "playerId": "kato-yasuhiro",
+      "playerName": "カトウ ヤスヒロ",
+      "status": "dns"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "categoryId": "perf",
+  "name": "パフォーマンス部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "selected-items",
+      "name": "選択三項目(30)",
+      "type": "add"
+    },
+    {
+      "id": "msu",
+      "name": "MSU(20)",
+      "type": "add"
+    },
+    {
+      "id": "st-bd",
+      "name": "ST/BD(20)",
+      "type": "add"
+    },
+    {
+      "id": "difficulty",
+      "name": "難易度(10)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "wang-tzu-yun",
+      "playerName": "WANG,TZU-YUN",
+      "scores": {
+        "selected-items": 27.3,
+        "msu": 16.7,
+        "st-bd": 16.7,
+        "difficulty": 10,
+        "stability": 19
+      },
+      "totalScore": 89.7,
+      "status": "completed",
+      "note": "ENT / ENT / ENT,CRE"
+    },
+    {
+      "rank": 2,
+      "playerId": "mori-takaaki",
+      "playerName": "モリ タカアキ",
+      "scores": {
+        "selected-items": 25,
+        "msu": 16.3,
+        "st-bd": 17.7,
+        "difficulty": 5.5,
+        "stability": 18
+      },
+      "totalScore": 82.5,
+      "status": "completed",
+      "note": "ART / ART / ART"
+    },
+    {
+      "rank": 3,
+      "playerId": "watanabe-hayato",
+      "playerName": "ワタナベ ハヤト",
+      "scores": {
+        "selected-items": 21.3,
+        "msu": 12.7,
+        "st-bd": 12.3,
+        "difficulty": 8,
+        "stability": 15.5
+      },
+      "totalScore": 69.8,
+      "status": "completed",
+      "note": "CRE / ENT / CRE"
+    },
+    {
+      "rank": 4,
+      "playerId": "kudo-masahiro",
+      "playerName": "クドウ マサヒロ",
+      "scores": {
+        "selected-items": 19.3,
+        "msu": 14.3,
+        "st-bd": 15.3,
+        "difficulty": 3.5,
+        "stability": 16
+      },
+      "totalScore": 68.4,
+      "status": "completed",
+      "note": "ART / ENT / ART"
+    },
+    {
+      "rank": 5,
+      "playerId": "ueda-naoya",
+      "playerName": "ウエダ ナオヤ",
+      "scores": {
+        "selected-items": 17.3,
+        "msu": 11,
+        "st-bd": 12.7,
+        "difficulty": 7.5,
+        "stability": 17
+      },
+      "totalScore": 65.5,
+      "status": "completed",
+      "note": "ENT / ENT / ENT"
+    },
+    {
+      "rank": 6,
+      "playerId": "miyata-daiki",
+      "playerName": "ミヤタ ダイキ",
+      "scores": {
+        "selected-items": 20,
+        "msu": 13.3,
+        "st-bd": 13.7,
+        "difficulty": 4.5,
+        "stability": 12
+      },
+      "totalScore": 63.5,
+      "status": "completed",
+      "note": "ENT / ENT / ENT,ART"
+    },
+    {
+      "rank": 7,
+      "playerId": "wu-dong-ying",
+      "playerName": "WU TONG-YING",
+      "scores": {
+        "selected-items": 19.3,
+        "msu": 11,
+        "st-bd": 10.7,
+        "difficulty": 7.5,
+        "stability": 15
+      },
+      "totalScore": 63.5,
+      "status": "completed",
+      "note": "CRE / CRE / ENT,CRE"
+    },
+    {
+      "rank": 8,
+      "playerId": "wang-laura",
+      "playerName": "Laura Wang",
+      "scores": {
+        "selected-items": 17,
+        "msu": 10,
+        "st-bd": 12.7,
+        "difficulty": 6.5,
+        "stability": 15
+      },
+      "totalScore": 61.2,
+      "status": "completed",
+      "note": "ENT / ENT / ENT"
+    },
+    {
+      "rank": 9,
+      "playerId": "takarada-masahiro",
+      "playerName": "タカラダ マサヒロ",
+      "scores": {
+        "selected-items": 18,
+        "msu": 12.3,
+        "st-bd": 11.3,
+        "difficulty": 4.5,
+        "stability": 12.5
+      },
+      "totalScore": 58.6,
+      "status": "completed",
+      "note": "ENT,CRE / CRE / CRE"
+    },
+    {
+      "rank": 10,
+      "playerId": "osumi-hiraki",
+      "playerName": "オオスミ ヒラキ",
+      "scores": {
+        "selected-items": 14.7,
+        "msu": 12,
+        "st-bd": 12,
+        "difficulty": 6,
+        "stability": 12
+      },
+      "totalScore": 56.7,
+      "status": "completed",
+      "note": "ART / ART / ENT,ART"
+    },
+    {
+      "rank": 11,
+      "playerId": "muto-taiga",
+      "playerName": "ムトウ タイガ",
+      "scores": {
+        "selected-items": 20.3,
+        "msu": 14.3,
+        "st-bd": 13,
+        "difficulty": 3,
+        "stability": 6
+      },
+      "totalScore": 56.6,
+      "status": "completed",
+      "note": "ENT / ENT / ENT"
+    },
+    {
+      "rank": 12,
+      "playerId": "tomita-hikaru",
+      "playerName": "トミタ ヒカル",
+      "scores": {
+        "selected-items": 15,
+        "msu": 10.3,
+        "st-bd": 10.7,
+        "difficulty": 5.5,
+        "stability": 13.5
+      },
+      "totalScore": 55,
+      "status": "completed",
+      "note": "ENT / ENT / ENT,ART"
+    },
+    {
+      "rank": 13,
+      "playerId": "lu-chia-lin",
+      "playerName": "LU CHIA-LIN",
+      "scores": {
+        "selected-items": 15.3,
+        "msu": 11.3,
+        "st-bd": 10.3,
+        "difficulty": 4.5,
+        "stability": 12.5
+      },
+      "totalScore": 53.9,
+      "status": "completed",
+      "note": "ENT / ENT / ENT"
+    },
+    {
+      "rank": 14,
+      "playerId": "ooya-yukinaga",
+      "playerName": "オオヤ ユキナガ",
+      "scores": {
+        "selected-items": 12.7,
+        "msu": 11.7,
+        "st-bd": 9,
+        "difficulty": 5,
+        "stability": 15
+      },
+      "totalScore": 53.4,
+      "status": "completed",
+      "note": "ENT,CRE / CRE / ART"
+    },
+    {
+      "rank": 15,
+      "playerId": "inomata-daishi",
+      "playerName": "イノマタ ダイシ",
+      "scores": {
+        "selected-items": 14.7,
+        "msu": 10.7,
+        "st-bd": 11.3,
+        "difficulty": 3.5,
+        "stability": 12.5
+      },
+      "totalScore": 52.7,
+      "status": "completed",
+      "note": "ART / CRE / ART"
+    },
+    {
+      "rank": 16,
+      "playerId": "team:lop-drop-cinderella",
+      "playerName": "ロップドロップ シンデレラ",
+      "scores": {
+        "selected-items": 19,
+        "msu": 13.7,
+        "st-bd": 10.3,
+        "difficulty": 2,
+        "stability": 7
+      },
+      "totalScore": 52,
+      "status": "completed",
+      "note": "ENT / ENT / ENT"
+    },
+    {
+      "rank": 17,
+      "playerId": "isobe-takumi",
+      "playerName": "イソベ タクミ",
+      "scores": {
+        "selected-items": 15.7,
+        "msu": 10,
+        "st-bd": 9.7,
+        "difficulty": 3.5,
+        "stability": 8.5
+      },
+      "totalScore": 47.4,
+      "status": "completed",
+      "note": "ENT / CRE / ENT,CRE"
+    },
+    {
+      "rank": 18,
+      "playerId": "sakurai-yuto",
+      "playerName": "サクライ ユウト",
+      "scores": {
+        "selected-items": 10.3,
+        "msu": 9.3,
+        "st-bd": 7,
+        "difficulty": 5,
+        "stability": 14.5
+      },
+      "totalScore": 46.1,
+      "status": "completed",
+      "note": "ENT / ENT,ART / ART"
+    },
+    {
+      "rank": 19,
+      "playerId": "nozawa-ryunosuke",
+      "playerName": "ノザワ リュウノスケ",
+      "scores": {
+        "selected-items": 8.3,
+        "msu": 7.3,
+        "st-bd": 6,
+        "difficulty": 4.5,
+        "stability": 9.5
+      },
+      "totalScore": 35.6,
+      "status": "completed",
+      "note": "ENT / ART,CRE / ENT"
+    },
+    {
+      "rank": 20,
+      "playerId": "shishido-sadaaki",
+      "playerName": "シシド サダアキ",
+      "scores": {
+        "selected-items": 8.3,
+        "msu": 6.7,
+        "st-bd": 5.7,
+        "difficulty": 3,
+        "stability": 7.5
+      },
+      "totalScore": 31.2,
+      "status": "completed",
+      "note": "ENT / ENT / ENT"
+    },
+    {
+      "rank": null,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイ ヒロミキ",
+      "status": "dns"
+    }
+  ]
+}

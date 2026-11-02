@@ -1,0 +1,105 @@
+{
+  "categoryId": "wb",
+  "name": "女子ビギナー部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yagi-mio",
+      "playerName": "ヤギ ミオ",
+      "scores": {
+        "difficulty": 29.7,
+        "stability": 21,
+        "rareness": 7.3,
+        "composition": 13.7,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 68.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kitahara-aiko",
+      "playerName": "キタハラ アイコ",
+      "scores": {
+        "difficulty": 26.7,
+        "stability": 17.3,
+        "rareness": 6,
+        "composition": 12.3,
+        "execution-deduction": 6.1
+      },
+      "totalScore": 56.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "oohashi-nanoko",
+      "playerName": "オオハシ ナノコ",
+      "scores": {
+        "difficulty": 23.3,
+        "stability": 18,
+        "rareness": 5.7,
+        "composition": 12,
+        "execution-deduction": 3
+      },
+      "totalScore": 56,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "tashiro-moeka",
+      "playerName": "タシロ モエカ",
+      "scores": {
+        "difficulty": 18.3,
+        "stability": 16.7,
+        "rareness": 5,
+        "composition": 14.7,
+        "execution-deduction": 1.8
+      },
+      "totalScore": 52.9,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "kato-hina",
+      "playerName": "カトウ ヒナ",
+      "scores": {
+        "difficulty": 16.3,
+        "stability": 12.3,
+        "rareness": 4,
+        "composition": 11.3,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 40.4,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "categoryId": "wb",
+  "name": "女子ビギナー部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "mikamoto-junna",
+      "playerName": "ミカモト ジュンナ",
+      "scores": {
+        "difficulty": 16.7,
+        "stability": 22.3,
+        "rareness": 2,
+        "composition": 12.3,
+        "execution-deduction": 0
+      },
+      "totalScore": 53.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kasahara-marina",
+      "playerName": "カサハラ マリナ",
+      "scores": {
+        "difficulty": 22.7,
+        "stability": 17,
+        "rareness": 5,
+        "composition": 10,
+        "execution-deduction": 2.4
+      },
+      "totalScore": 52.3,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "nagasaka-mizuki",
+      "playerName": "ナガサカ ミヅキ",
+      "scores": {
+        "difficulty": 23.7,
+        "stability": 14.3,
+        "rareness": 7.3,
+        "composition": 9.3,
+        "execution-deduction": 3.7
+      },
+      "totalScore": 50.9,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "yoshimura-momoka",
+      "playerName": "ヨシムラ モモカ",
+      "scores": {
+        "difficulty": 23.7,
+        "stability": 14.3,
+        "rareness": 5.3,
+        "composition": 9.3,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 49.8,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "matsuo-mana",
+      "playerName": "マツオ マナ",
+      "scores": {
+        "difficulty": 22.3,
+        "stability": 15.3,
+        "rareness": 6.7,
+        "composition": 7,
+        "execution-deduction": 2.7
+      },
+      "totalScore": 48.6,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "tadokoro-asuka",
+      "playerName": "タドコロ アスカ",
+      "scores": {
+        "difficulty": 23.3,
+        "stability": 13.3,
+        "rareness": 6.7,
+        "composition": 9,
+        "execution-deduction": 4.3
+      },
+      "totalScore": 48,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "categoryId": "wt",
+  "name": "女子テクニカル部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(60)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "pao-ting-hsuan",
+      "playerName": "Pao Ting Hsuan",
+      "scores": {
+        "difficulty": 43,
+        "stability": 15.7,
+        "rareness": 13,
+        "execution-deduction": 1.6
+      },
+      "totalScore": 70.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "wang-luo-hua",
+      "playerName": "Wang Luo Hua",
+      "scores": {
+        "difficulty": 41.7,
+        "stability": 15.3,
+        "rareness": 14.7,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 70,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hattori-mayu",
+      "playerName": "ハットリ マユ",
+      "scores": {
+        "difficulty": 38,
+        "stability": 13.7,
+        "rareness": 16.3,
+        "execution-deduction": 2.6
+      },
+      "totalScore": 65.4,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "takahashi-mirei",
+      "playerName": "タカハシ ミレイ",
+      "scores": {
+        "difficulty": 38.7,
+        "stability": 14.3,
+        "rareness": 13.3,
+        "execution-deduction": 2.2
+      },
+      "totalScore": 64.1,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "yoshimura-momoka",
+      "playerName": "ヨシムラ モモカ",
+      "scores": {
+        "difficulty": 35.3,
+        "stability": 11.3,
+        "rareness": 11.3,
+        "execution-deduction": 4.3
+      },
+      "totalScore": 53.6,
+      "status": "completed"
+    }
+  ]
+}

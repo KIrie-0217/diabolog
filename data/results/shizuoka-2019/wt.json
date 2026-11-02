@@ -1,0 +1,166 @@
+{
+  "categoryId": "wt",
+  "name": "女子テクニカル部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(60)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "higuchi-yoko",
+      "playerName": "ヒグチ ヨウコ",
+      "scores": {
+        "difficulty": 48.3,
+        "stability": 17,
+        "rareness": 17,
+        "execution-deduction": 2.2
+      },
+      "totalScore": 80.1,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "takahashi-mirei",
+      "playerName": "タカハシ ミレイ",
+      "scores": {
+        "difficulty": 45.3,
+        "stability": 16.7,
+        "rareness": 15.7,
+        "execution-deduction": 2.1
+      },
+      "totalScore": 75.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "sudo-maki",
+      "playerName": "スドウ マキ",
+      "scores": {
+        "difficulty": 47,
+        "stability": 15,
+        "rareness": 15.7,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 74.2,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "taniguchi-mizuki",
+      "playerName": "タニグチ ミズキ",
+      "scores": {
+        "difficulty": 46.7,
+        "stability": 14,
+        "rareness": 13.7,
+        "execution-deduction": 2.9
+      },
+      "totalScore": 71.5,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "itani-honoka",
+      "playerName": "イタニ ホノカ",
+      "scores": {
+        "difficulty": 43,
+        "stability": 15.3,
+        "rareness": 15,
+        "execution-deduction": 2.1
+      },
+      "totalScore": 71.2,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "ando-aki",
+      "playerName": "アンドウ アキ",
+      "scores": {
+        "difficulty": 43,
+        "stability": 15,
+        "rareness": 13.3,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 69.6,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "oishi-mayu",
+      "playerName": "オオイシ マユ",
+      "scores": {
+        "difficulty": 38.3,
+        "stability": 13,
+        "rareness": 16,
+        "execution-deduction": 4.5
+      },
+      "totalScore": 62.8,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "maruyama-ryoko",
+      "playerName": "マルヤマ リョウコ",
+      "scores": {
+        "difficulty": 35,
+        "stability": 12,
+        "rareness": 11,
+        "execution-deduction": 2.5
+      },
+      "totalScore": 55.5,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "okuno-mutsumi",
+      "playerName": "オクノ ムツミ",
+      "scores": {
+        "difficulty": 25,
+        "stability": 9.3,
+        "rareness": 7,
+        "execution-deduction": 1.2
+      },
+      "totalScore": 40.1,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "nouchi-manaka",
+      "playerName": "ノウチ マナカ",
+      "scores": {
+        "difficulty": 21.3,
+        "stability": 9,
+        "rareness": 6.3,
+        "execution-deduction": 6
+      },
+      "totalScore": 30.6,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "ode-sae",
+      "playerName": "オオデ サエ",
+      "status": "dns"
+    }
+  ]
+}

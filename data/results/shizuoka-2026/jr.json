@@ -1,0 +1,189 @@
+{
+  "categoryId": "jr",
+  "name": "ジュニア部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "novelty",
+      "name": "新奇性(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "matsukubo-kai",
+      "playerName": "マツクボ カイ",
+      "scores": {
+        "difficulty": 33,
+        "stability": 23,
+        "novelty": 8,
+        "composition": 11.7,
+        "execution-deduction": 4.4
+      },
+      "totalScore": 71.3,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "numata-yuine",
+      "playerName": "ヌマタ ユイネ",
+      "scores": {
+        "difficulty": 26.7,
+        "stability": 23.3,
+        "novelty": 6.3,
+        "composition": 14.7,
+        "execution-deduction": 1.2
+      },
+      "totalScore": 69.8,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "hatano-kengo",
+      "playerName": "ハタノ ケンゴ",
+      "scores": {
+        "difficulty": 32.3,
+        "stability": 21.3,
+        "novelty": 7.7,
+        "composition": 11.7,
+        "execution-deduction": 3.3
+      },
+      "totalScore": 69.7,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "iwanade-yuto",
+      "playerName": "イワナデ ユウト",
+      "scores": {
+        "difficulty": 27.7,
+        "stability": 22,
+        "novelty": 7.7,
+        "composition": 12.3,
+        "execution-deduction": 2.3
+      },
+      "totalScore": 67.4,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "tanaka-shunta",
+      "playerName": "タナカ シュンタ",
+      "scores": {
+        "difficulty": 29.7,
+        "stability": 21,
+        "novelty": 8,
+        "composition": 12,
+        "execution-deduction": 4
+      },
+      "totalScore": 66.7,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "kawabata-yuta",
+      "playerName": "カワバタ ユウタ",
+      "scores": {
+        "difficulty": 28,
+        "stability": 18.3,
+        "novelty": 7,
+        "composition": 11.7,
+        "execution-deduction": 5.2
+      },
+      "totalScore": 59.8,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "sugiyama-shoki",
+      "playerName": "スギヤマ ショウキ",
+      "scores": {
+        "difficulty": 16.7,
+        "stability": 17.7,
+        "novelty": 4.3,
+        "composition": 12,
+        "execution-deduction": 0.9
+      },
+      "totalScore": 49.8,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "ogata-ryusei",
+      "playerName": "オガタ リュウセイ",
+      "scores": {
+        "difficulty": 23.3,
+        "stability": 15.3,
+        "novelty": 5.3,
+        "composition": 11.7,
+        "execution-deduction": 6.5
+      },
+      "totalScore": 49.1,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "takai-daichi",
+      "playerName": "タカイ ダイチ",
+      "scores": {
+        "difficulty": 17.7,
+        "stability": 16.3,
+        "novelty": 4.3,
+        "composition": 12,
+        "execution-deduction": 2.1
+      },
+      "totalScore": 48.2,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "hashimoto-kengo",
+      "playerName": "ハシモト ケンゴ",
+      "scores": {
+        "difficulty": 14,
+        "stability": 16.3,
+        "novelty": 4,
+        "composition": 11.7,
+        "execution-deduction": 0.3
+      },
+      "totalScore": 45.7,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "omori-nozomi",
+      "playerName": "オオモリ ノゾミ",
+      "scores": {
+        "difficulty": 14.7,
+        "stability": 14.7,
+        "novelty": 4.3,
+        "composition": 12.3,
+        "execution-deduction": 3
+      },
+      "totalScore": 43,
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "categoryId": "perf",
+  "name": "パフォーマンス部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "selected-items",
+      "name": "選択三項目(35)",
+      "type": "add"
+    },
+    {
+      "id": "msu",
+      "name": "MSU(20)",
+      "type": "add"
+    },
+    {
+      "id": "st-bd",
+      "name": "ST/BD(25)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(20)",
+      "type": "add"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "mori-takaaki",
+      "playerName": "モリ タカアキ",
+      "scores": {
+        "selected-items": 29,
+        "msu": 16.3,
+        "st-bd": 22.5,
+        "stability": 16.8
+      },
+      "totalScore": 84.6,
+      "status": "completed",
+      "note": "ART / ART / ART / ART"
+    },
+    {
+      "rank": 2,
+      "playerId": "torii-hiromiki",
+      "playerName": "トリイ ヒロミキ",
+      "scores": {
+        "selected-items": 25.3,
+        "msu": 16.5,
+        "st-bd": 20.3,
+        "stability": 17
+      },
+      "totalScore": 79.1,
+      "status": "completed",
+      "note": "ART / ART / ART / CRE"
+    },
+    {
+      "rank": 3,
+      "playerId": "abe-hiroki",
+      "playerName": "アベ ヒロキ",
+      "scores": {
+        "selected-items": 24.3,
+        "msu": 14.3,
+        "st-bd": 16,
+        "stability": 14.3
+      },
+      "totalScore": 68.9,
+      "status": "completed",
+      "note": "ENT / ENT / ENT / ENT"
+    },
+    {
+      "rank": 4,
+      "playerId": "tomita-hikaru",
+      "playerName": "トミタ ヒカル",
+      "scores": {
+        "selected-items": 23.5,
+        "msu": 13.5,
+        "st-bd": 17,
+        "stability": 14.5
+      },
+      "totalScore": 68.5,
+      "status": "completed",
+      "note": "ENT / ENT / ENT / ENT"
+    },
+    {
+      "rank": 5,
+      "playerId": "nagasaka-mizuki",
+      "playerName": "ナガサカ ミヅキ",
+      "scores": {
+        "selected-items": 24.3,
+        "msu": 15.8,
+        "st-bd": 17.3,
+        "stability": 10.8
+      },
+      "totalScore": 68.2,
+      "status": "completed",
+      "note": "ENT / ENT / ENT / ENT"
+    },
+    {
+      "rank": 6,
+      "playerId": "tanaka-tomoyasu",
+      "playerName": "タナカ トモヤス",
+      "scores": {
+        "selected-items": 22.5,
+        "msu": 13,
+        "st-bd": 15.5,
+        "stability": 14.5
+      },
+      "totalScore": 65.5,
+      "status": "completed",
+      "note": "CRE / CRE / CRE / CRE"
+    },
+    {
+      "rank": 7,
+      "playerId": "keruma-tomoki",
+      "playerName": "ケルマ トモキ",
+      "scores": {
+        "selected-items": 22.5,
+        "msu": 14,
+        "st-bd": 17.3,
+        "stability": 11.3
+      },
+      "totalScore": 65.1,
+      "status": "completed",
+      "note": "ENT / ENT / ENT / ENT"
+    },
+    {
+      "rank": 8,
+      "playerId": "isobe-takumi",
+      "playerName": "イソベ タクミ",
+      "scores": {
+        "selected-items": 21.8,
+        "msu": 13.5,
+        "st-bd": 14,
+        "stability": 13.8
+      },
+      "totalScore": 63.1,
+      "status": "completed",
+      "note": "ENT / ENT / ENT / ENT"
+    },
+    {
+      "rank": 9,
+      "playerId": "ooya-yukinaga",
+      "playerName": "オオヤ ユキナガ",
+      "scores": {
+        "selected-items": 19.5,
+        "msu": 13.5,
+        "st-bd": 14.8,
+        "stability": 14.3
+      },
+      "totalScore": 62.1,
+      "status": "completed",
+      "note": "ART / ART / ENT / CRE"
+    },
+    {
+      "rank": 10,
+      "playerId": "osumi-hiraki",
+      "playerName": "オオスミ ヒラキ",
+      "scores": {
+        "selected-items": 19.3,
+        "msu": 12.5,
+        "st-bd": 17.3,
+        "stability": 12.5
+      },
+      "totalScore": 61.6,
+      "status": "completed",
+      "note": "ART / ART / ART / ART"
+    },
+    {
+      "rank": 11,
+      "playerId": "nozawa-ryunosuke",
+      "playerName": "ノザワ リュウノスケ",
+      "scores": {
+        "selected-items": 19.5,
+        "msu": 12.5,
+        "st-bd": 14.8,
+        "stability": 14.3
+      },
+      "totalScore": 61.1,
+      "status": "completed",
+      "note": "ENT / ART / ART / CRE"
+    },
+    {
+      "rank": 12,
+      "playerId": "tsuda-manato",
+      "playerName": "ツダ マナト",
+      "scores": {
+        "selected-items": 22,
+        "msu": 9.5,
+        "st-bd": 11,
+        "stability": 14.5
+      },
+      "totalScore": 57,
+      "status": "completed",
+      "note": "ENT / ENT / CRE / CRE"
+    },
+    {
+      "rank": 13,
+      "playerId": "team:miraijin-to-bonjin",
+      "playerName": "ミライジントボンジン",
+      "scores": {
+        "selected-items": 19.3,
+        "msu": 11.3,
+        "st-bd": 14,
+        "stability": 11.5
+      },
+      "totalScore": 56.1,
+      "status": "completed",
+      "note": "CRE / CRE / CRE / CRE"
+    },
+    {
+      "rank": 14,
+      "playerId": "takarada-masahiro",
+      "playerName": "タカラダ マサヒロ",
+      "scores": {
+        "selected-items": 20,
+        "msu": 12.8,
+        "st-bd": 11.8,
+        "stability": 9.5
+      },
+      "totalScore": 54.1,
+      "status": "completed",
+      "note": "ENT / ENT / ENT / CRE"
+    },
+    {
+      "rank": 15,
+      "playerId": "kanazawa-takehiro",
+      "playerName": "カナザワ タケヒロ",
+      "scores": {
+        "selected-items": 18.8,
+        "msu": 10.8,
+        "st-bd": 12,
+        "stability": 11.3
+      },
+      "totalScore": 52.9,
+      "status": "completed",
+      "note": "CRE / CRE / ENT / CRE"
+    },
+    {
+      "rank": 16,
+      "playerId": "miyata-daiki",
+      "playerName": "ミヤタ ダイキ",
+      "scores": {
+        "selected-items": 15.8,
+        "msu": 11.8,
+        "st-bd": 14,
+        "stability": 11
+      },
+      "totalScore": 52.6,
+      "status": "completed",
+      "note": "ENT / ART / ENT / ART"
+    },
+    {
+      "rank": 17,
+      "playerId": "muto-taiga",
+      "playerName": "ムトウ タイガ",
+      "scores": {
+        "selected-items": 18.8,
+        "msu": 12.3,
+        "st-bd": 12,
+        "stability": 9.3
+      },
+      "totalScore": 52.4,
+      "status": "completed",
+      "note": "CRE / ENT / ENT / CRE"
+    },
+    {
+      "rank": 18,
+      "playerId": "ichikawa-yuuma",
+      "playerName": "イチカワ ユウマ",
+      "scores": {
+        "selected-items": 11.8,
+        "msu": 10.5,
+        "st-bd": 12.3,
+        "stability": 10
+      },
+      "totalScore": 44.6,
+      "status": "completed",
+      "note": "ENT / ART / ENT / ENT"
+    },
+    {
+      "rank": 19,
+      "playerId": "yamaguchi-hiroto",
+      "playerName": "ヤマグチ ヒロト",
+      "scores": {
+        "selected-items": 12.8,
+        "msu": 11.3,
+        "st-bd": 10.3,
+        "stability": 8.8
+      },
+      "totalScore": 43.2,
+      "status": "completed",
+      "note": "ART / ART / ART / ART"
+    },
+    {
+      "rank": null,
+      "playerId": "shimizu-kouta",
+      "playerName": "シミズ コウタ",
+      "status": "dns"
+    }
+  ]
+}

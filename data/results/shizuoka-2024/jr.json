@@ -1,0 +1,111 @@
+{
+  "categoryId": "jr",
+  "name": "ジュニア部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "kuniya-mizuki",
+      "playerName": "クニヤ ミズキ",
+      "scores": {
+        "difficulty": 32.7,
+        "stability": 24,
+        "rareness": 8,
+        "composition": 12,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 73.2,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "hoshino-kota",
+      "playerName": "ホシノ コウタ",
+      "scores": {
+        "difficulty": 32.3,
+        "stability": 22,
+        "rareness": 7.7,
+        "composition": 12,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 71.2,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "takemae-yasuharu",
+      "playerName": "タケマエ ヤスハル",
+      "scores": {
+        "difficulty": 28.3,
+        "stability": 21,
+        "rareness": 7.3,
+        "composition": 11,
+        "execution-deduction": 5.2
+      },
+      "totalScore": 62.4,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "numata-yuine",
+      "playerName": "ヌマタ ユイネ",
+      "scores": {
+        "difficulty": 20,
+        "stability": 19,
+        "rareness": 5.3,
+        "composition": 13.3,
+        "execution-deduction": 3.8
+      },
+      "totalScore": 53.8,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "sugiyama-fusa",
+      "playerName": "スギヤマ フサ",
+      "scores": {
+        "difficulty": 15.3,
+        "stability": 13.3,
+        "rareness": 3.7,
+        "composition": 10.3,
+        "execution-deduction": 5.1
+      },
+      "totalScore": 37.5,
+      "status": "completed"
+    },
+    {
+      "rank": null,
+      "playerId": "yoshida-shigemi",
+      "playerName": "ヨシダ シゲミ",
+      "status": "dns"
+    }
+  ]
+}

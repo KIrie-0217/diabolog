@@ -2840,5 +2840,263 @@
         "class": "challenge"
       }
     ]
+  },
+  {
+    "id": "shizuoka-2019",
+    "name": "静岡ディアボロコンテスト2019",
+    "shortName": "静ディア 2019",
+    "startDate": "2019-01-26",
+    "endDate": "2019-01-27",
+    "venue": "MIRAIEリアンコミュニティホール七間町 / SOUND SHOWER ark 清水",
+    "location": "静岡",
+    "resultUrl": "https://5b49d28e-bfe4-4f6e-b694-f40e4310c478.filesusr.com/ugd/9dbd8e_d2db7e44d3ad499091a06f13e40ae27e.pdf",
+    "infoUrl": "https://shizudiaweb.wixsite.com/2019",
+    "categories": [
+      {
+        "id": "es",
+        "name": "小学生部門",
+        "class": "others"
+      },
+      {
+        "id": "mb",
+        "name": "男子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "wb",
+        "name": "女子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "mt",
+        "name": "男子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "wt",
+        "name": "女子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "perf",
+        "name": "パフォーマンス部門",
+        "class": "others"
+      }
+    ]
+  },
+  {
+    "id": "shizuoka-2020",
+    "name": "静岡ディアボロコンテスト2020",
+    "shortName": "静ディア 2020",
+    "startDate": "2020-01-25",
+    "endDate": "2020-01-26",
+    "venue": "MIRAIEリアンコミュニティホール七間町 / SOUND SHOWER ark 清水",
+    "location": "静岡",
+    "resultUrl": "https://651aa679-445a-4f5c-9e20-b78ec39c2c21.filesusr.com/ugd/9dbd8e_8a664c1b49034bb9b386a6ed64de577b.pdf",
+    "infoUrl": "https://shizudiaweb.wixsite.com/2020",
+    "categories": [
+      {
+        "id": "es",
+        "name": "小学生部門",
+        "class": "others"
+      },
+      {
+        "id": "mb",
+        "name": "男子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "wb",
+        "name": "女子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "mt",
+        "name": "男子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "wt",
+        "name": "女子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "perf",
+        "name": "パフォーマンス部門",
+        "class": "others"
+      }
+    ]
+  },
+  {
+    "id": "shizuoka-2023",
+    "name": "静岡ディアボロコンテスト2023",
+    "shortName": "静ディア 2023",
+    "startDate": "2023-01-14",
+    "endDate": "2023-01-15",
+    "venue": "SOUND SHOWER ark 清水",
+    "location": "静岡",
+    "resultUrl": "https://shizudiaweb.wixsite.com/2023/result",
+    "infoUrl": "https://shizudiaweb.wixsite.com/2023",
+    "categories": [
+      {
+        "id": "es",
+        "name": "小学生部門",
+        "class": "others"
+      },
+      {
+        "id": "mb",
+        "name": "男子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "wb",
+        "name": "女子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "mt",
+        "name": "男子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "wt",
+        "name": "女子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "perf",
+        "name": "パフォーマンス部門",
+        "class": "others"
+      }
+    ]
+  },
+  {
+    "id": "shizuoka-2024",
+    "name": "静岡ディアボロコンテスト2024",
+    "shortName": "静ディア 2024",
+    "startDate": "2024-01-13",
+    "endDate": "2024-01-14",
+    "venue": "MIRAIEリアンコミュニティホール七間町 / SOUND SHOWER ark 清水",
+    "location": "静岡",
+    "resultUrl": "http://shizudia.s322.xrea.com/result/",
+    "infoUrl": "http://shizudia.s322.xrea.com/",
+    "categories": [
+      {
+        "id": "jr",
+        "name": "ジュニア部門",
+        "class": "others"
+      },
+      {
+        "id": "mb",
+        "name": "男子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "wb",
+        "name": "女子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "mt",
+        "name": "男子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "wt",
+        "name": "女子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "perf",
+        "name": "パフォーマンス部門",
+        "class": "others"
+      }
+    ]
+  },
+  {
+    "id": "shizuoka-2025",
+    "name": "静岡ディアボロコンテスト2025",
+    "shortName": "静ディア 2025",
+    "startDate": "2025-01-11",
+    "endDate": "2025-01-12",
+    "venue": "MIRAIEリアンコミュニティホール七間町 / SOUND SHOWER ark 清水",
+    "location": "静岡",
+    "resultUrl": "https://shizudia.cloudfree.jp/2025/result/",
+    "infoUrl": "https://shizudia.cloudfree.jp/2025/",
+    "categories": [
+      {
+        "id": "jr",
+        "name": "ジュニア部門",
+        "class": "others"
+      },
+      {
+        "id": "mb",
+        "name": "男子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "wb",
+        "name": "女子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "mt",
+        "name": "男子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "wt",
+        "name": "女子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "perf",
+        "name": "パフォーマンス部門",
+        "class": "others"
+      }
+    ]
+  },
+  {
+    "id": "shizuoka-2026",
+    "name": "静岡ディアボロコンテスト2026",
+    "shortName": "静ディア 2026",
+    "startDate": "2026-01-17",
+    "endDate": "2026-01-18",
+    "venue": "MIRAIEリアンコミュニティホール七間町 / SOUND SHOWER ark 清水",
+    "location": "静岡",
+    "resultUrl": "https://shizudia.cloudfree.jp/2026/result/",
+    "infoUrl": "https://shizudia.cloudfree.jp/2026/",
+    "categories": [
+      {
+        "id": "jr",
+        "name": "ジュニア部門",
+        "class": "others"
+      },
+      {
+        "id": "mb",
+        "name": "男子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "wb",
+        "name": "女子ビギナー部門",
+        "class": "others"
+      },
+      {
+        "id": "mt",
+        "name": "男子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "wt",
+        "name": "女子テクニカル部門",
+        "class": "others"
+      },
+      {
+        "id": "perf",
+        "name": "パフォーマンス部門",
+        "class": "others"
+      }
+    ]
   }
 ]

@@ -1,0 +1,119 @@
+{
+  "categoryId": "es",
+  "name": "小学生部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "makino-sena",
+      "playerName": "マキノセナ",
+      "scores": {
+        "difficulty": 37,
+        "stability": 26.3,
+        "rareness": 8.7,
+        "composition": 15.3,
+        "execution-deduction": 1.5
+      },
+      "totalScore": 85.8,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "yoshida-shigemi",
+      "playerName": "ヨシダシゲミ",
+      "scores": {
+        "difficulty": 32.7,
+        "stability": 23,
+        "rareness": 7.7,
+        "composition": 15.7,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 75.6,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "akiyama-yuki",
+      "playerName": "アキヤマユウキ",
+      "scores": {
+        "difficulty": 31,
+        "stability": 22.7,
+        "rareness": 7.3,
+        "composition": 13.3,
+        "execution-deduction": 3.7
+      },
+      "totalScore": 70.6,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "takahashi-rukia",
+      "playerName": "タカハシルキア",
+      "scores": {
+        "difficulty": 28.3,
+        "stability": 20.7,
+        "rareness": 6.3,
+        "composition": 16,
+        "execution-deduction": 3.9
+      },
+      "totalScore": 67.4,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "nishimura-miro",
+      "playerName": "ニシムラミロ",
+      "scores": {
+        "difficulty": 23,
+        "stability": 17.7,
+        "rareness": 5.7,
+        "composition": 11.3,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 54.9,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "koike-shoma",
+      "playerName": "コイケショウマ",
+      "scores": {
+        "difficulty": 20,
+        "stability": 15,
+        "rareness": 4,
+        "composition": 10.3,
+        "execution-deduction": 1.7
+      },
+      "totalScore": 47.6,
+      "status": "completed"
+    }
+  ]
+}

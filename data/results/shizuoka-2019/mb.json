@@ -1,0 +1,329 @@
+{
+  "categoryId": "mb",
+  "name": "男子ビギナー部門",
+  "class": "others",
+  "scoringType": "judge",
+  "scoringCriteria": [
+    {
+      "id": "difficulty",
+      "name": "難易度(40)",
+      "type": "add"
+    },
+    {
+      "id": "stability",
+      "name": "操作安定度(30)",
+      "type": "add"
+    },
+    {
+      "id": "rareness",
+      "name": "レアネス(10)",
+      "type": "add"
+    },
+    {
+      "id": "composition",
+      "name": "演技構成(20)",
+      "type": "add"
+    },
+    {
+      "id": "execution-deduction",
+      "name": "実施減点",
+      "type": "deduct"
+    }
+  ],
+  "results": [
+    {
+      "rank": 1,
+      "playerId": "yasunaga-nao",
+      "playerName": "ヤスナガ ナオ",
+      "scores": {
+        "difficulty": 37.3,
+        "stability": 26,
+        "rareness": 8,
+        "composition": 15.3,
+        "execution-deduction": 1.6
+      },
+      "totalScore": 85,
+      "status": "completed"
+    },
+    {
+      "rank": 2,
+      "playerId": "kusachi-banri",
+      "playerName": "クサチ バンリ",
+      "scores": {
+        "difficulty": 36.3,
+        "stability": 24,
+        "rareness": 8.3,
+        "composition": 14.7,
+        "execution-deduction": 1.8
+      },
+      "totalScore": 81.5,
+      "status": "completed"
+    },
+    {
+      "rank": 3,
+      "playerId": "endo-mamoru",
+      "playerName": "エンドウ マモル",
+      "scores": {
+        "difficulty": 34,
+        "stability": 25.3,
+        "rareness": 9.3,
+        "composition": 14.3,
+        "execution-deduction": 2.9
+      },
+      "totalScore": 80,
+      "status": "completed"
+    },
+    {
+      "rank": 4,
+      "playerId": "kawashima-aoto",
+      "playerName": "カワシマ アオト",
+      "scores": {
+        "difficulty": 33.3,
+        "stability": 23,
+        "rareness": 7.7,
+        "composition": 13,
+        "execution-deduction": 2.4
+      },
+      "totalScore": 74.6,
+      "status": "completed"
+    },
+    {
+      "rank": 5,
+      "playerId": "takahashi-issa",
+      "playerName": "タカハシ イッサ",
+      "scores": {
+        "difficulty": 33.7,
+        "stability": 22.3,
+        "rareness": 7.3,
+        "composition": 13.3,
+        "execution-deduction": 3.4
+      },
+      "totalScore": 73.2,
+      "status": "completed"
+    },
+    {
+      "rank": 6,
+      "playerId": "morimoto-kyohei",
+      "playerName": "モリモト キョウヘイ",
+      "scores": {
+        "difficulty": 33.3,
+        "stability": 21,
+        "rareness": 7.7,
+        "composition": 12.7,
+        "execution-deduction": 4
+      },
+      "totalScore": 70.7,
+      "status": "completed"
+    },
+    {
+      "rank": 7,
+      "playerId": "hirai-shota",
+      "playerName": "ヒライ ショウタ",
+      "scores": {
+        "difficulty": 30,
+        "stability": 22.3,
+        "rareness": 7,
+        "composition": 12.3,
+        "execution-deduction": 2.8
+      },
+      "totalScore": 68.8,
+      "status": "completed"
+    },
+    {
+      "rank": 8,
+      "playerId": "suwa-hiroki",
+      "playerName": "スワ ヒロキ",
+      "scores": {
+        "difficulty": 30.3,
+        "stability": 20.7,
+        "rareness": 6.3,
+        "composition": 12,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 65.8,
+      "status": "completed"
+    },
+    {
+      "rank": 9,
+      "playerId": "oohashi-rento",
+      "playerName": "オオハシ レント",
+      "scores": {
+        "difficulty": 27.3,
+        "stability": 18.3,
+        "rareness": 7.3,
+        "composition": 13.7,
+        "execution-deduction": 3.8
+      },
+      "totalScore": 62.8,
+      "status": "completed"
+    },
+    {
+      "rank": 10,
+      "playerId": "inoue-shuta",
+      "playerName": "イノウエ シュウタ",
+      "scores": {
+        "difficulty": 25,
+        "stability": 20,
+        "rareness": 5.7,
+        "composition": 12.3,
+        "execution-deduction": 1.9
+      },
+      "totalScore": 61.1,
+      "status": "completed"
+    },
+    {
+      "rank": 11,
+      "playerId": "kondo-masaki",
+      "playerName": "コンドウ マサキ",
+      "scores": {
+        "difficulty": 31.3,
+        "stability": 16.7,
+        "rareness": 7,
+        "composition": 10.7,
+        "execution-deduction": 5.9
+      },
+      "totalScore": 59.8,
+      "status": "completed"
+    },
+    {
+      "rank": 12,
+      "playerId": "nakagawa-shingo",
+      "playerName": "ナカガワ シンゴ",
+      "scores": {
+        "difficulty": 26.3,
+        "stability": 13.3,
+        "rareness": 5.7,
+        "composition": 9.7,
+        "execution-deduction": 4.6
+      },
+      "totalScore": 50.4,
+      "status": "completed"
+    },
+    {
+      "rank": 13,
+      "playerId": "miyata-daiki",
+      "playerName": "ミヤタ ダイキ",
+      "scores": {
+        "difficulty": 24,
+        "stability": 13,
+        "rareness": 5.3,
+        "composition": 11,
+        "execution-deduction": 3.5
+      },
+      "totalScore": 49.8,
+      "status": "completed"
+    },
+    {
+      "rank": 14,
+      "playerId": "takeuchi-yuki",
+      "playerName": "タケウチ ユウキ",
+      "scores": {
+        "difficulty": 23,
+        "stability": 15,
+        "rareness": 5.7,
+        "composition": 10.3,
+        "execution-deduction": 4.4
+      },
+      "totalScore": 49.6,
+      "status": "completed"
+    },
+    {
+      "rank": 15,
+      "playerId": "uragaki-shono",
+      "playerName": "ウラガキ ショウノ",
+      "scores": {
+        "difficulty": 25.7,
+        "stability": 12.7,
+        "rareness": 5.7,
+        "composition": 10,
+        "execution-deduction": 5.4
+      },
+      "totalScore": 48.7,
+      "status": "completed"
+    },
+    {
+      "rank": 16,
+      "playerId": "tanabe-ryuji",
+      "playerName": "タナベ リュウジ",
+      "scores": {
+        "difficulty": 27.7,
+        "stability": 11.3,
+        "rareness": 6.3,
+        "composition": 10.3,
+        "execution-deduction": 7.1
+      },
+      "totalScore": 48.5,
+      "status": "completed"
+    },
+    {
+      "rank": 17,
+      "playerId": "noguchi-kakeru",
+      "playerName": "ノグチ カケル",
+      "scores": {
+        "difficulty": 23.3,
+        "stability": 10,
+        "rareness": 5.7,
+        "composition": 9.7,
+        "execution-deduction": 5
+      },
+      "totalScore": 43.7,
+      "status": "completed"
+    },
+    {
+      "rank": 18,
+      "playerId": "maeda-hiroki",
+      "playerName": "マエダ ヒロキ",
+      "scores": {
+        "difficulty": 22.7,
+        "stability": 12.7,
+        "rareness": 5.7,
+        "composition": 8.7,
+        "execution-deduction": 6.3
+      },
+      "totalScore": 43.5,
+      "status": "completed"
+    },
+    {
+      "rank": 19,
+      "playerId": "sasaki-masato",
+      "playerName": "ササキ マサト",
+      "scores": {
+        "difficulty": 18,
+        "stability": 12.3,
+        "rareness": 4.3,
+        "composition": 9.7,
+        "execution-deduction": 3.4
+      },
+      "totalScore": 40.9,
+      "status": "completed"
+    },
+    {
+      "rank": 20,
+      "playerId": "niwa-daichi",
+      "playerName": "ニワ ダイチ",
+      "scores": {
+        "difficulty": 18,
+        "stability": 12,
+        "rareness": 4.7,
+        "composition": 9.3,
+        "execution-deduction": 4.4
+      },
+      "totalScore": 39.6,
+      "status": "completed"
+    },
+    {
+      "rank": 21,
+      "playerId": "todokoro-masato",
+      "playerName": "トドコロ マサト",
+      "scores": {
+        "difficulty": 15.3,
+        "stability": 9.3,
+        "rareness": 3.3,
+        "composition": 8.3,
+        "execution-deduction": 4.8
+      },
+      "totalScore": 31.4,
+      "status": "completed"
+    }
+  ]
+}
