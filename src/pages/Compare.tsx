@@ -106,6 +106,94 @@ function RadarTooltip({
   );
 }
 
+type Row = {
+  key: string;
+  competitionId: string;
+  competitionName: string;
+  date: string;
+  categoryId: string;
+  categoryName: string;
+  ageGroup?: string;
+  entries: Map<string, PlayerResult>;
+};
+
+function PlayerLegend({ players }: { players: PlayerData[] }) {
+  return (
+    <Group gap="md" wrap="wrap">
+      {players.map((p, i) => (
+        <Group key={p.id} gap={6} wrap="nowrap">
+          <ColorSwatch color={cssColor(PLAYER_COLORS[i])} size={12} />
+          <Text size="sm">{p.name}</Text>
+        </Group>
+      ))}
+    </Group>
+  );
+}
+
+function PairNote({ r, selectedIds, playerName }: { r: PlayerResult; selectedIds: string[]; playerName: (id: string) => string }) {
+  if (!r.pairWith) return null;
+  return (
+    <Text size="xs" c="dimmed" lineClamp={1}>
+      {selectedIds.includes(r.pairWith) ? (
+        "ペア"
+      ) : (
+        <Anchor component={Link} to={`/players/${r.pairWith}`} size="xs">
+          w/ {playerName(r.pairWith)}
+        </Anchor>
+      )}
+    </Text>
+  );
+}
+
+function CommonRowCard({
+  row,
+  players,
+  selectedIds,
+  compName,
+  playerName,
+}: {
+  row: Row;
+  players: PlayerData[];
+  selectedIds: string[];
+  compName: string;
+  playerName: (id: string) => string;
+}) {
+  const ranks = [...row.entries.values()].map((r) => r.rank).filter((r): r is number => r != null);
+  const bestRank = ranks.length ? Math.min(...ranks) : null;
+  return (
+    <Card withBorder radius="md" padding="sm">
+      <Group gap={6} wrap="nowrap" justify="space-between" align="flex-start">
+        <div style={{ minWidth: 0 }}>
+          <Anchor component={Link} to={`/competitions/${row.competitionId}?category=${row.categoryId}`} size="sm" fw={500}>
+            {compName} · {row.categoryName}
+          </Anchor>
+          <Text size="xs" c="dimmed">{row.date}</Text>
+        </div>
+        {row.ageGroup && <Badge variant="light" size="xs">{row.ageGroup}</Badge>}
+      </Group>
+      <Stack gap={4} mt="xs">
+        {players.map((p, i) => {
+          const r = row.entries.get(p.id);
+          if (!r) return null;
+          const isBest = r.rank != null && r.rank === bestRank;
+          return (
+            <Group key={p.id} gap={8} wrap="nowrap">
+              <ColorSwatch color={cssColor(PLAYER_COLORS[i])} size={10} />
+              <div style={{ flex: 1, minWidth: 0 }}>
+                <Text size="sm" lineClamp={1}>{p.name}</Text>
+                <PairNote r={r} selectedIds={selectedIds} playerName={playerName} />
+              </div>
+              <Text size="sm" fw={isBest ? 700 : undefined}>
+                <RankCell rank={r.rank} />
+              </Text>
+            </Group>
+          );
+        })}
+      </Stack>
+    </Card>
+  );
+}
+
 function RankCell({ rank }: { rank: number | null }) {
   if (rank == null) return <>-</>;
   if (medalColor[rank]) {
@@ -211,16 +299,6 @@ export function Compare() {
   const detailKey = (id: string) => `${id}__detail`;
 
   // ---- Common categories (competition × category × ageGroup) ----
-  type Row = {
-    key: string;
-    competitionId: string;
-    competitionName: string;
-    date: string;
-    categoryId: string;
-    categoryName: string;
-    ageGroup?: string;
-    entries: Map<string, PlayerResult>;
-  };
   const rowMap = new Map<string, Row>();
   for (const p of selected) {
     for (const r of p.results) {
@@ -281,6 +359,8 @@ export function Compare() {
         <EmptyState />
       ) : (
         <>
+          <PlayerLegend players={selected} />
+
           <SimpleGrid cols={{ base: 1, md: 2 }} spacing="md">
             <Card shadow="xs" padding="md" radius="md" withBorder>
               <Text fw={500} mb="sm">Best Rank</Text>
@@ -289,8 +369,8 @@ export function Compare() {
                 data={rankData}
                 dataKey="axis"
                 series={series}
-                withLegend
                 withTooltip
+                radarChartProps={{ outerRadius: "72%" }}
                 withPolarRadiusAxis
                 polarRadiusAxisProps={{ domain: [0, RANK_FLOOR], tick: false, axisLine: false, tickCount: RANK_FLOOR + 1 }}
                 tooltipProps={{
@@ -307,8 +387,8 @@ export function Compare() {
                 data={countData}
                 dataKey="axis"
                 series={series}
-                withLegend
                 withTooltip
+                radarChartProps={{ outerRadius: "72%" }}
                 withPolarRadiusAxis
                 polarRadiusAxisProps={{ domain: [0, maxCount], tick: false, axisLine: false }}
                 tooltipProps={{
@@ -324,7 +404,20 @@ export function Compare() {
           {commonRows.length === 0 ? (
             <Text c="dimmed">No common categories</Text>
           ) : (
-            <RoundedTableContainer minWidth={480 + selected.length * 100}>
+            <>
+            <Stack gap="sm" hiddenFrom="sm">
+              {commonRows.map((row) => (
+                <CommonRowCard
+                  key={row.key}
+                  row={row}
+                  players={selected}
+                  selectedIds={selectedIds}
+                  compName={compNames[row.competitionId] ?? row.competitionName}
+                  playerName={(id) => playerMap.get(id)?.name ?? id}
+                />
+              ))}
+            </Stack>
+            <RoundedTableContainer visibleFrom="sm" minWidth={480 + selected.length * 100}>
               <Table highlightOnHover>
                 <Table.Thead>
                   <Table.Tr>
@@ -374,21 +467,10 @@ export function Compare() {
                           const r = row.entries.get(p.id);
                           if (!r) return <Table.Td key={p.id} ta="center" c="dimmed">-</Table.Td>;
                           const isBest = r.rank != null && r.rank === bestRank;
-                          const pairInSelection = r.pairWith && selectedIds.includes(r.pairWith);
                           return (
                             <Table.Td key={p.id} ta="center" fw={isBest ? 700 : undefined}>
                               <RankCell rank={r.rank} />
-                              {r.pairWith && (
-                                <Text size="xs" c="dimmed" lineClamp={1}>
-                                  {pairInSelection ? (
-                                    "ペア"
-                                  ) : (
-                                    <Anchor component={Link} to={`/players/${r.pairWith}`} size="xs">
-                                      w/ {playerMap.get(r.pairWith)?.name ?? r.pairWith}
-                                    </Anchor>
-                                  )}
-                                </Text>
-                              )}
+                              <PairNote r={r} selectedIds={selectedIds} playerName={(id) => playerMap.get(id)?.name ?? id} />
                             </Table.Td>
                           );
                         })}
@@ -398,6 +480,7 @@ export function Compare() {
                 </Table.Tbody>
               </Table>
             </RoundedTableContainer>
+            </>
           )}
         </>
       )}
