@@ -13,7 +13,6 @@ import {
   SimpleGrid,
   ColorSwatch,
   Paper,
-  Skeleton,
   type ComboboxItem,
   type OptionsFilter,
 } from "@mantine/core";
@@ -115,32 +114,13 @@ function RankCell({ rank }: { rank: number | null }) {
   return <>{rank}</>;
 }
 
-function TableSkeleton() {
+function EmptyState() {
   return (
-    <Stack gap="xs">
-      {Array.from({ length: 5 }, (_, i) => (
-        <Skeleton key={i} h={36} radius="sm" />
-      ))}
-    </Stack>
-  );
-}
-
-function CompareSkeleton() {
-  return (
-    <>
-      <SimpleGrid cols={{ base: 1, md: 2 }} spacing="md">
-        {[0, 1].map((i) => (
-          <Card key={i} shadow="xs" padding="md" radius="md" withBorder>
-            <Skeleton h={16} w={100} mb="sm" />
-            <Group justify="center" h={320}>
-              <Skeleton circle h={240} />
-            </Group>
-          </Card>
-        ))}
-      </SimpleGrid>
-      <Skeleton h={24} w={200} />
-      <TableSkeleton />
-    </>
+    <Card withBorder radius="md" h={480} bg="var(--mantine-color-default-hover)">
+      <Group justify="center" align="center" h="100%">
+        <Text c="dimmed">選手を2人以上選択して下さい</Text>
+      </Group>
+    </Card>
   );
 }
 
@@ -297,8 +277,8 @@ export function Compare() {
         />
       </Stack>
 
-      {selected.length === 0 ? (
-        <CompareSkeleton />
+      {selected.length < 2 ? (
+        <EmptyState />
       ) : (
         <>
           <SimpleGrid cols={{ base: 1, md: 2 }} spacing="md">
@@ -341,9 +321,7 @@ export function Compare() {
           </SimpleGrid>
 
           <Title order={3}>Common Categories</Title>
-          {selected.length < 2 ? (
-            <TableSkeleton />
-          ) : commonRows.length === 0 ? (
+          {commonRows.length === 0 ? (
             <Text c="dimmed">No common categories</Text>
           ) : (
             <RoundedTableContainer minWidth={480 + selected.length * 100}>
