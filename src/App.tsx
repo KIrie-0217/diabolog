@@ -7,15 +7,32 @@ import {
   Stack,
   ActionIcon,
   Text,
+  Tooltip,
   useMantineColorScheme,
 } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
-import { IconSun, IconMoon } from "@tabler/icons-react";
-import { Link, Outlet, useNavigate } from "react-router-dom";
+import {
+  IconSun,
+  IconMoon,
+  IconTrophy,
+  IconUsers,
+  IconPodium,
+  IconChartRadar,
+} from "@tabler/icons-react";
+import { Link, Outlet, useLocation, useNavigate } from "react-router-dom";
+
+const NAV_ITEMS = [
+  { to: "/competitions", label: "Competitions", icon: IconTrophy },
+  { to: "/players", label: "Players", icon: IconUsers },
+  { to: "/rankings", label: "Rankings", icon: IconPodium },
+  { to: "/compare", label: "Compare", icon: IconChartRadar },
+];
 
 export function App() {
   const [opened, { toggle, close }] = useDisclosure(false);
   const navigate = useNavigate();
+  const { pathname } = useLocation();
+  const isActive = (to: string) => pathname === to || pathname.startsWith(`${to}/`);
   const { colorScheme, toggleColorScheme } = useMantineColorScheme();
 
   const handleNav = (to: string) => {
@@ -46,19 +63,20 @@ export function App() {
                 <Text fw={700} size="lg" c={colorScheme === "dark" ? "white" : "blue"} style={{ letterSpacing: "0.1em" }}>Diabolife</Text>
               </Group>
             </Anchor>
-            <Group gap="md" visibleFrom="sm">
-              <Anchor component={Link} to="/competitions">
-                Competitions
-              </Anchor>
-              <Anchor component={Link} to="/players">
-                Players
-              </Anchor>
-              <Anchor component={Link} to="/rankings">
-                Rankings
-              </Anchor>
-              <Anchor component={Link} to="/compare">
-                Compare
-              </Anchor>
+            <Group gap="xs" visibleFrom="sm">
+              {NAV_ITEMS.map(({ to, label, icon: Icon }) => (
+                <Tooltip key={to} label={label} withArrow>
+                  <ActionIcon
+                    component={Link}
+                    to={to}
+                    variant={isActive(to) ? "light" : "subtle"}
+                    size="lg"
+                    aria-label={label}
+                  >
+                    <Icon size={20} />
+                  </ActionIcon>
+                </Tooltip>
+              ))}
               <ActionIcon variant="subtle" onClick={toggleColorScheme} size="lg">
                 {colorScheme === "dark" ? <IconSun size={18} /> : <IconMoon size={18} />}
               </ActionIcon>
@@ -75,12 +93,14 @@ export function App() {
 
       <AppShell.Navbar p="md">
         <Stack gap="sm">
-          <Anchor onClick={() => handleNav("/competitions")}>
-            Competitions
-          </Anchor>
-          <Anchor onClick={() => handleNav("/players")}>Players</Anchor>
-          <Anchor onClick={() => handleNav("/rankings")}>Rankings</Anchor>
-          <Anchor onClick={() => handleNav("/compare")}>Compare</Anchor>
+          {NAV_ITEMS.map(({ to, label, icon: Icon }) => (
+            <Anchor key={to} onClick={() => handleNav(to)} fw={isActive(to) ? 600 : undefined}>
+              <Group gap={8} wrap="nowrap">
+                <Icon size={18} />
+                {label}
+              </Group>
+            </Anchor>
+          ))}
           <ActionIcon variant="subtle" onClick={toggleColorScheme} size="lg">
             {colorScheme === "dark" ? <IconSun size={18} /> : <IconMoon size={18} />}
           </ActionIcon>
