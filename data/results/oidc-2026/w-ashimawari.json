@@ -8,6 +8,7 @@
       "nationality": "Taiwan",
       "count": 228,
       "class": "B",
+      "note": "OIDC record",
       "status": "completed"
     },
     {
@@ -35,6 +36,7 @@
       "nationality": "Japan",
       "count": 136,
       "class": "E",
+      "note": "Japan record",
       "status": "completed"
     },
     {
